@@ -1,0 +1,1348 @@
+
+
+THE ROLE OF DATA IN 
+UNLOCKING THE POTENTIAL 
+OF SOCIAL PRESCRIBING
+frontiereconomics
+02 NOVEMBER 2021
+
+frontiereconomics
+POOR HEALTH CAN HAVE ENVIRONMENTAL ROOTS
+¡Health and wellbeing are influenced by a range of social and environmental factors:
+¡Social prescriptioninvolves linking patients with non-medical community-based 
+sources of support (egsports or social activities). This linkage can involve dedicated 
+link workers as well as referrals by local authorities and other organisations. The NHS 
+Long Term Plan (2019) commits to introducing over ‘1000 new trained social 
+prescribing link workers in primary care networks by 2020/21, rising further so that by 
+2023/24, over 900,000 people will be referred to social prescribing.’
+¡NHS England and NHS Improvement (2021 A) noted that while ‘there is a need for more 
+robust and systematic evidence on the effectiveness of social prescribing, social 
+prescribing schemes may lead to a reduction in the use of NHS services, including GP 
+attendance’. 
+SOCIAL PRESCRIBING COULD REDUCE THE USE OF NHS SERVICES
+2
+CommunitiesHousingResourcesEducation
+Good workSurroundingsTransportFood
+0
+5
+10
+15
+20
+25
+Apr-08
+Feb-09
+Dec-09
+Oct-10
+Aug-11
+Jun-12
+Apr-13
+Feb-14
+Dec-14
+Oct-15
+Aug-16
+Jun-17
+Apr-18
+Feb-19
+Dec-19
+Oct-20
+Medina wait (weeks)
+Median wait time for planned NHS care
+NHS England and NHS Improvement’s RTT Waiting 
+Time Data (2021 B) 
+HEALTH AND CARE SERVICES ARE UNDER PRESSURE
+¡There are pressures on physical and mental 
+health services as a result of an ageing 
+population and COVID-19 related constraints.
+¡Since the start of the pandemic, the number 
+of people waiting for NHS treatment in 
+England has grown by a fifth and is expected 
+to rise much further. 
+
+frontiereconomics
+SOCIAL PRESCRIBING COULD LEAD TO SIGNIFICANT BENEFITS
+3
+¡Policy inputs, monetary 
+funds, data and time.
+¡Referral of service users 
+and development of 
+understanding between 
+the service user and the 
+link worker.
+¡Prescription of specific 
+activities and attendance 
+at the activities by the 
+service user.
+¡Service user wellbeing, 
+¡Reduced NHS demand.
+¡Community cohesion.
+¡Economic productivity.
+1
+INPUTS
+2
+ACTIVITIES
+3
+OUTPUTS
+4
+IMPACTS
+SOCIAL PRESCRIBING COULD REDUCE NON-CLINICAL GP APPOINTMENTS
+¡If GP appointments fall by 2-5% as a result of social prescribing operating at scale, it could lead to a diversion of between 3.2-8 million GP 
+appointments per year. Social prescribing’s actual impact on GP appointment volumes is uncertain and further research is needed.GPs 
+could use the additional capacity to see other patients with pressing clinical needs. Further work is needed to quantify the costs of 
+replacing GP appointments with community provision.
+¡As well as freeing up resources the users could receive more appropriate support provided the quality of community offerings was
+sufficiently high. Delivering a high-quality experience helps to ensure social prescribing is a sustainable alternative to clinical care.
+
+frontiereconomics
+DATA IS FUNDAMENTAL TO SOCIAL PRESCRIBING
+4
+AN UNDERSTANDING OF DEMAND AND SUPPLY IS CRITICAL
+WE HAVE CREATED A UNIQUE COLLECTION OF DEMAND SIDE DATA
+¡We have drawn together data on several topics:
+¡These datasets provide information on the incidence of issues which could drive demand for social prescribing. We have used the combined 
+dataset to create an open and interactive map of potential demand. This can be used to plan local services.
+LEVELS OF SOCIAL PRESCRIBING ACTIVIT Y
+: WHAT IS THE CURRENT PATTERN OF SOCIAL 
+PRESCRIBING REFERRALS?
+INDIRECT DEMAND
+: WHAT FACTORS CORRELATE WITH DEMAND FOR SOCIAL PRESCRIBING? 
+DIRECT DEMAND 
+: WHAT NEEDS COULD SOCIAL PRESCRIBING ADDRESS?
+SUPPLY OF RELEVANT SERVICES
+: WHAT INFORMATION EXISTS ON SERVICES?
+ACTIVIT Y 
+PARTICIPATION 
+PHYSICAL HEALTHMENTAL HEALTHENVIRONMENT
+DEPRIVATION / 
+DEMOGRAPHICS  
+CRIME
+HIGH-QUALIT Y DATA INFRASTRUCTURE IS A NECESSARY BUT NOT SUFFICIENT CONDITION FOR SOCIAL PRESCRIBING TO BE EFFECTIVE
+¡Social prescribing can unlock benefits if enablers are in place. One requirement for social prescribing is data infrastructure, such as standards 
+and stewardship to ensure appropriate information is collected and shared. Other enablers must also be in place. Community providers need 
+support to deal with extra demand and social prescribing needs to operate within an adequately funded mental and physical healthsystem.
+
+frontiereconomics
+FURTHER INVESTMENT IS NEEDED IN DATA INFRASTRUCTURE 
+5
+¡There are currently significant gaps in the data infrastructure for social prescribing. Mostly notably, we have highlighted barriers to the 
+collection and sharing of data related to the supply of relevant activities and longitudinal data on impact. These gaps are caused by a range of 
+‘market failures’:
+The hyper-local nature of service provision creates a coordination problem and can lead to multiple duplicative service directories.
+Community groups and activity providers may not have an obvious route to share information on platforms.
+Some service providers may have little incentive to maintain and share good data on their offerings. 
+Increased focus on social prescribing in recent years means that the data ecosystem is still nascent and trust is still developing.
+¡Taken together, these issues may mean that link workers do not know where to signpost potential users, or rely on incomplete information. 
+This could lead to service users being prescribed activities which are not perfectly tailored to their individual needs, which in turn may reduce 
+the chances of the referral being successful and generating desired impacts. There are initiatives in development or currently underway that 
+will go some way to addressing these challenges. These include Open Referral UK, the Social Prescribing Observatory, OpenActive and 
+prescribing.social.
+¡However, further investment and intervention in this context is needed. We have highlighted possible interventions which could help to fill 
+these gaps including: (1) Improving understanding of stakeholders’ roles in the development of data infrastructure. (2) Providing incentives to 
+make information on offerings open. (3) Developing improved data infrastructure directly (egimproved IT systems and standards) which 
+make it easier to make data open. (4) Requiring organisations to make some data in the public interest open. This investment could in some 
+cases itself also unlock savings (egremoval of duplicated directories of services).
+1
+2
+3
+4
+
+frontiereconomics
+Background
+0102
+0304
+Benefits of social prescribing 
+Role of data infrastructurePolicy implications 
+CONTENTS
+This project is the result of a joint piece of research carried out by Frontier Economics and Mimeon behalf of the Open Data Institute (ODI).
+
+frontiereconomics
+01
+BACKGROUND
+
+frontiereconomics8
+SOCIAL PRESCRIBING CAN ADDRESS ENVIRONMENTAL CAUSES OF ILL HEALTH
+SOCIAL PRESCRIBING IS A KEY COMPONENT OF UNIVERSAL PERSONALISED CARE 
+¡Wellbeing is influenced by environmental factors. Social prescribing can address 
+determinants of health by linking patients with non-medical support. Social 
+prescribing link workers connect people to community support which helps 
+people deal with underlying causes of ill health. Social prescriptions include 
+activities focused on health, physical activity and sport as well as leisure/art. The 
+NHS Long Term Plan (2019) commits to introducing ‘over 1000 new trained social 
+prescribing link workers in primary care networks by 2020/21, rising further so 
+that by 2023/24, over 900,000 people will be referred to social prescribing’. Social 
+prescribing may also involve referrals by local authorities and self-referral.  
+¡Those who could benefit from social prescription include people with complex 
+needs, the socially isolated and those who frequently attend health care settings. 
+Greater signposting and usage of community services could also benefit large 
+numbers of individuals who do not fall into these groups.
+¡NHS England and NHS Improvement (2021 A) noted that while ‘there is a need for 
+more robust and systematic evidence on the effectiveness of social prescribing, 
+social prescribing schemes may lead to a reduction in the use of NHS services, 
+including GP attendance’. More information is needed on these impacts and how 
+they are achieved.
+“
+Social prescribing is a way for local agencies to refer people 
+to a link worker. Link workers give people time, focusing on 
+‘what matters to me’ and connect people to community 
+groups and services for practical and emotional support.
+NHS England and NHS Improvement  
+CommunitiesHousingResourcesEducation
+Good workSurroundingsTransportFood
+SOCIAL DETERMINANTS OF HEALTH
+The Health Foundation
+
+frontiereconomics9
+SOCIAL PRESCRIBING INVOLVES MULTIPLE STAKEHOLDERS
+APPLICATION 
+PROVIDERS
+Develop tools to 
+support linkages 
+across the 
+ecosystem
+LINK WORKERS
+Provide individualised 
+support and prescribe 
+tailored activities to meet 
+needs. Convene 
+community groups
+SERVICE USERS
+Decide which activities to participate in 
+ACTIVIT Y PROVIDERS 
+Provide activities to meet 
+personal needs (arts, group 
+learning, gardening, 
+cookery, and sports)
+MANAGERS
+Responsible for strategic decisions on public health, budget 
+setting and commissioning
+GPs       
+Pharmacies
+Discharge teams
+Job centres
+Social care
+SOCIAL PRESCRIBING CAN OPERATE IN A NUMBER OF WAYS
+¡The formal social prescribing process we have described above is the core focus of this report. However, greater use of community services as 
+an alternative to clinical treatment can also operate in more informal ways such as via greater signposting. This broader type of community 
+referral may be relevant for large numbers of individuals as opposed to those who are most in need of community support. 
+Adapted from Digital Gaps 
+and Porism (2021)
+
+frontiereconomics
+THE HEALTH SYSTEM IS UNDER PRESSURE
+AND PLACED A STRAIN ON THE HEALTH CARE SYSTEM 
+¡Since the start of the pandemic, the number of people waiting for 
+NHS treatment in England has grown by a fifth and is expected to 
+rise much further (IFS, 2021). 
+¡Median wait time for planned NHS care in England rose sharply at 
+the start of the pandemic and remains elevated. 
+¡A significant proportion of patients avoided booking a GP 
+appointment in 2020 due to fear of overburdening the NHS (Ipsos 
+MORI GP Patient Survey, 2021). 
+COVID-19 HAS NEGATIVELY IMPACTED PHYSICAL AND MENTAL HEALTH...
+¡COVID-19 has led to excess deaths and contributed to increases in 
+mortality (ONS, 2021 A). The pandemic has also severely affected 
+mental health (UK Parliament POST, 2021). 
+¡Over a third of British adults’ wellbeing is still being affected by 
+the pandemic (ONS, 2021 B). Young adults, women and those with 
+an existing mental health condition have been particularly hard 
+hit. In late 2020, 25% of adults reported feeling lonely in the 
+previous two weeks (Mental Health Foundation, 2020).
+10
+0
+10
+20
+30
+40
+50
+60
+MarchJuneAugustNovJanMarchJuneAugust
+Proportion of adults (%)
+Percentage of adults that say their well-being is being 
+affected by COVID-19
+ONS (2021 B)
+0
+5
+10
+15
+20
+25
+Apr-08
+Oct-08
+Apr-09
+Oct-09
+Apr-10
+Oct-10
+Apr-11
+Oct-11
+Apr-12
+Oct-12
+Apr-13
+Oct-13
+Apr-14
+Oct-14
+Apr-15
+Oct-15
+Apr-16
+Oct-16
+Apr-17
+Oct-17
+Apr-18
+Oct-18
+Apr-19
+Oct-19
+Apr-20
+Oct-20
+Apr-21
+Medina wait (weeks)
+Median wait time for planned NHS care
+NHS England and NHS Improvement’s RTT Waiting Time Data (2021 B) 
+
+frontiereconomics11
+SOCIAL PRESCRIBING CAN BOOST EFFICIENCY OF HEALTHCARE  SPEND 
+SOCIAL PRESCRIBING HAS THE POTENTIAL TO REDUCE DEMAND FOR CLINICAL PRIMARY CARE
+¡In the future, current pressures on GPs may increase further. If unchecked, this could lead to significant unmet need for clinical primary care. 
+Social prescribing has the potential to help avoid this.  
+BEFORE SOCIAL PRESCRIBING
+Patients’ clinical needs                            Patients’ non-clinical needs
+AFTER SOCIAL PRESCRIBING
+With no social prescribing, 
+GP appointments reflect a 
+mix of clinical and non-
+clinical needs 
+Following rollout of 
+effective social prescribing, 
+non-clinical needs are dealt 
+with via community 
+provision. This can result in 
+lower healthcare costs as 
+service users utilise cheaper 
+services. Also clinical 
+capacity can be freed-up 
+that can be targeted at 
+patients who have a more 
+pressing clinical need
+GP practice
+GP practice
+Community 
+activity
+
+frontiereconomics
+01
+12
+WE EXAMINED SOCIAL PRESCRIBING’S BENEFITS AND THE ROLE OF DATA
+EVIDENCE GATHERING 
+¡Literature review covering 
+social prescribing’s impact 
+on health conditions and 
+healthcare resources as 
+well as implementation of 
+social prescribing systems.
+¡Stakeholder engagement 
+with sector experts.
+BENEFITS MAPPING 
+¡Development of conceptual 
+qualitative framework.
+¡Quantitative modelling of 
+avoided GP appointments.
+REVIEW OF DATA 
+INFRASTRUCTURE
+¡Examination of the role of 
+data infrastructure in social 
+prescribing. 
+¡Collection and processing 
+of demand-side data.
+¡Highlighting barriers to 
+development of effective 
+data infrastructure.
+RECOMMENDATIONS & 
+DRAFTING 
+¡Development of policy 
+recommendations. 
+¡Development of report and 
+supporting materials.
+020304
+WE HAVE EMPLOYED A FOUR STAGE METHODOLOGY DURING THIS PROJECT
+This methodology was implemented jointly by Frontier Economics and Mime on behalf of the ODI.
+
+frontiereconomics
+SECTION 2
+SECTION 3
+SECTION 4
+In Section 2 we examine the benefits that social prescribing has the potential to help realise in the future. 
+This includes both our qualitative theory of change and our quantitative modelling.
+In Section 3we consider the role of effective data infrastructure in facilitating social prescribing. This 
+includes a summary of the demand-side data that we have collected and the interactive map of potential 
+demand that we have created as part of this work. 
+In Section 4we highlight policy implications arising from our work. This includes examples of initiatives 
+currently underway to improve the data landscape in this context and potential policy levers that could 
+further support social prescribing. 
+13
+THIS REPORT SUMMARISES OUR FINDINGS 
+
+frontiereconomics
+02
+BENEFITS OF SOCIAL PRESCRIBING 
+
+frontiereconomics
+Inputs
+Resources that are used
+Activities
+What is carried out with 
+the inputs
+Outputs
+Direct results from the 
+activities
+Impacts
+Ultimate changes that 
+happen because of the 
+outputs
+15
+OUR LOGIC MODEL SHOWS SOCIAL PRESCRIBING’S IMPACTS
+01020304
+WE HAVE DEVELOPED A FRAMEWORK WHICH OUTLINES HOW SOCIAL PRESCRIBING CAN LEAD TO IMPACTS
+¡A logic model is a way of showing the pathway of how an intervention is anticipated to lead to long-term impacts. It gives the theory of 
+change for the intervention –showing the intermediate steps that we expect to see. 
+¡It helps to identify potential barriers and metrics that can be used to monitor outcomes.
+
+frontiereconomics
+LOGIC MODEL (DETAILED VERSION)
+INPUTSACTIVITIESOUTPUTSIMPACTS
+§Funding for employment of link 
+workers. 
+§Funding for the delivery of social 
+prescribingactivities.
+Monetary cost
+§High-quality data on the demand for 
+social prescribing and the supply of 
+relevant services.
+Data infrastructure 
+§Potential service users are referred to 
+link workers from local agencies, 
+including GPs, pharmacies, multi-
+disciplinary teams, hospital discharge 
+teams and emergency services. 
+§As well as link workers, local 
+authority staff also try to identify 
+vulnerable people and point them to 
+community services to address 
+vulnerabilities. Self-referral is also 
+encouraged.
+Referral to link workers
+§Link workers develop holistic 
+understanding of each service user’s 
+health and wellbeing.
+§Service users are provided with a link 
+to non-medical support within their 
+own community. Community services 
+can then influence wider set of 
+personal, behavioural and potentially 
+emotional factors.
+Greater understanding 
+§Link workers refer people to a range of 
+local, non-clinical services.
+§Social prescriptions can involve a 
+range of activities that are typically 
+provided by voluntary/community 
+sector (egarts activities, group 
+learning, gardening, befriending, 
+cookery, and sports). Referrals can 
+also be made to job centres, social care 
+services and housing associations for 
+example. 
+§Service users feel empowered to take 
+greater control of their health and 
+engage with social prescribing 
+schemes.
+§Service users attend activities offered 
+by social prescribing schemes. 
+Activity prescription
+Activity attendance 
+§Social prescribing can improve service 
+users’ wellbeing and reduce loneliness. 
+Those who could benefit most include 
+people with complex needs, the socially 
+isolated and/or long-term conditions.
+§Reductions in healthcare utilisation
+§This can include reductions in GP 
+appointments, A&E attendances, 
+inpatient admissions. This can free up 
+clinical time to deal with patients with 
+pressing clinical needs. 
+Improved wellbeing
+Healthcare utilisation
+§Strategy and policy targets (egNHS 
+Long Term Plan, NHS Universal 
+Personalised Care, DCMS Loneliness 
+Strategy, MHCLG Levelling Up Agenda). 
+Policy inputs
+§Time spent referring service users to 
+link workers. 
+§Time spent by link workers 
+understanding individuals’ needs.
+§Time spent by those running social 
+prescribing activities. 
+Staff/individuals’ time
+§Service users re-enter employment or 
+avoid unemployment which increases 
+tax revenue and reduces welfare spend.
+Economic benefits
+16
+§Social prescribing can increase 
+togetherness within communities.
+Community cohesion
+
+frontiereconomics
+¡Resources that are used to 
+facilitate the successful 
+planning and 
+implementation of social 
+prescribing initiatives. 
+¡This includes policy inputs, 
+monetary funds, data and 
+individuals’ time.
+¡This includes referral of 
+service users to social 
+prescribing professionals 
+and development of 
+understanding between the 
+service user and the link 
+worker.
+¡This includes prescription of 
+specific activities by the link 
+worker and attendance at 
+the activities by the service 
+user.
+¡Intermediate and long-term 
+changes that happen as a 
+result of social prescribing.
+¡These include improved 
+service user health and 
+wellbeing, reduced demand 
+for NHS services, improved 
+community cohesion  and 
+enhanced economic 
+productivity.
+LOGIC MODEL (SUMMARY VERSION)
+1
+INPUTS
+2
+ACTIVITIES
+3
+OUTPUTS
+4
+IMPACTS
+17
+
+frontiereconomics
+IN ADDITION TO THESE ENABLERS, HIGH-QUALIT Y DATA INFRASTRUCTURE IS NEEDED AT EVERY STAGE IN THE SOCIAL 
+PRESCRIBING PROCESS. THIS INCLUDES DATA STANDARDS AND CLEAR STEWARDSHIP TO ENSURE INFORMATION IS 
+COLLECTED AND SHARED. 
+ENABLERS ALLOW SOCIAL PRESCRIBING TO ACHIEVE ITS POTENTIAL 
+18
+ACTIVITIES
+OUTPUTS
+IMPACTS
+SUFFICIENT LONG-LASTING COMMITMENT TO SOCIAL PRESCRIBING BY POLICYMAKERS. SOCIAL PRESCRIBING NEEDS TO OPERATE WITHIN 
+AN ADEQUATELY-FUNDED MENTAL AND PHYSICAL HEALTH SYSTEM.
+WILLINGNESS TO ENGAGE BY CLINICAL STAFF. SOCIAL PRESCRIBING IS ACCEPTED AS A PART OF THE HEALTH AND CARE LANDSCAPE. 
+POTENTIAL SERVICES USERS ENGAGE AND DO NOT REVERT BACK TO TRADITIONAL CLINICAL CARE FOR NON-CLINICAL NEED.. 
+LINK WORKERS ARE GIVEN TRAINING AND RESOURCES TO UNDERSTAND HEALTH DRIVERS. SERVICE USERS ARE GIVEN ONGOING SUPPORT 
+TO ATTEND SERVICES. COMMUNIT Y ACTIVITIES RECEIVE ADEQUATE SUPPORT AND FUNDING. 
+A VOLUME OF APPROPRIATE AND LOCALLY TAILORED  LOCAL ACTIVITIES EXIST WITH SUFFICIENT CAPACIT Y
+SOCIAL PRESCRIBINGSCHEMES ARE GIVEN SUFFICIENT TIME TO MATURE AND GENERATE IMPACTS. SOCIAL PRESCRIBING SERVICES HAVE 
+AN IMPACT ON SERVICE USERS LIVES AND ARE EFFECTIVE IN GENERATINGINTENDED HEALTH IMPROVEMENTS. 
+OUR LOGIC MODEL HIGHLIGHTS HOW SOCIAL PRESCRIBING CAN WORK IN THEORY IF ALL SUPPORTING FACTORS ARE IN PLACE
+INPUTS
+Logic Model stage Enabler 
+
+frontiereconomics
+59%
+4%
+Proportion of family 
+doctors who think that 
+social prescribing can help 
+reduce workload 
+Proportion of GP 
+appointments that might 
+have been dealt with by 
+Social prescribing 
+19
+SOCIAL PRESCRIBING  COULD LEAD TO A REDUCTION IN GP ATTENDANCE
+OUR LOGIC MODEL INCLUDES THREE FINAL 
+IMPACTS
+¡Social prescribing has the potential to 
+increase wellbeing, reduce healthcare 
+utilisation and lead to economic benefits.
+¡Our quantitative modelling work is 
+focused on one potential benefit within 
+the healthcare utilisation category. 
+Specifically, we have quantified the 
+potential savings that could occur if 
+social prescribing leads to fewer non-
+clinical GP appointments.   
+OUR MODELLING EXPLORES AVOIDED GP 
+APPOINTMENTS ANDTHEIR POTENTIAL 
+MONETISED BENEFIT
+IMPACTS
+Improved wellbeing
+Healthcare utilisation
+Economic benefits
+Reduction in 
+non-clinical GP 
+appointments
+SOCIAL PRESCRIBING CAN MEANINGFULLY 
+REDUCE NON-CLINICAL GP APPOINTMENTS
+RCGP (2018)
+NHS Alliance & Primary Care 
+Foundation (2015)
+20%
+Proportion of patients who 
+consult their GP for what 
+is primarily a social 
+problem
+University of Westminster (2017)
+Examine historical data on national 
+volume of GP appointments. 
+Explore how additional GP time 
+could be deployed.
+Model illustrative reduction in 
+volume of appointments in % terms.
+01
+02
+03
+Community cohesion
+
+frontiereconomics
+SCOPE
+SCALE OF SOCIAL 
+PRESCRIBING
+SIZE OF IMPACT 
+We have only quantified one specific aspect of social prescribing’s potential benefit. Our choice was informed 
+by availability of underlying evidence. However, in the future, social prescribing could improve users’ 
+wellbeing, reduce secondary care usage and lead to long-term economic benefits that we have not attempted 
+to measure. Our limited focus will understate potential benefits. We have only modelled primary care 
+appointments which involved engagement with a GP (rather than other practice staff).
+Our modelling looks at the total ‘size of the prize’ in terms of avoidable GP appointments that social 
+prescribing can help unlock, provided social prescribing is rolled out across the country at higher volumes 
+than is currently the case. Achieving these benefits will therefore require substantial investment in enabling 
+factors (egdata infrastructure) and also investment in community and voluntary groups to increase capacity 
+to deliver specific activities. Further work is needed to quantify the costs of replacing GP appointments with 
+community provision.
+We have used available evidence to suggest a range of impact estimates which relate to social prescribing’s 
+possible future effect on non-clinical GP appointments. However, a lack of high-quality, comprehensive, 
+national data means that we cannot at this stage calculate a precise impact estimate. Social prescribing’s 
+actual impact on GP appointment volumes is uncertain and further research is needed.
+OUR MODELLING IS SUBJECT TO CERTAIN CAVEATS
+20
+
+frontiereconomics
+ -
+ 5,000,000
+ 10,000,000
+ 15,000,000
+ 20,000,000
+ 25,000,000
+ 30,000,000
+ 35,000,000
+Jan-19
+Feb-19
+Mar-19Apr-19
+May-19
+Jun-19
+Jul-19
+Aug-19
+Sep-19
+Oct-19
+Nov-19
+Dec-19
+Jan-20
+Feb-20
+Mar-20Apr-20
+May-20
+Jun-20
+Jul-20
+Aug-20
+Sep-20
+Oct-20
+Nov-20
+Dec-20
+Jan-21
+Feb-21
+Mar-21Apr-21
+May-21
+Jun-21
+Number of appointments
+Monthly GP appointments (England)
+Seen by any member of practice staffSeen by GP
+VOLUME OF ENGLISH GP APPOINTMENTS 
+¡In 2019 there were approximately 312 
+million primary care appointments in 
+England. 162 million of these appointments 
+involved consultation with a GP (the 
+remainder involved engagement with other 
+practice staff).
+¡During the first lockdown period (March 
+2020) appointments initially fell sharply. 
+¡Appointments during the first half of 2021 
+(excluding COVID-19 vaccination 
+appointments) are comparable to the first 
+half of 2019.
+21
+OVER 160 MILLION GP APPOINTMENTS OCCUR ANNUALLY IN ENGLAND
+NHS Digital (2021). Appointments in General Practice. 
+First COVID-19 lockdown
+
+frontiereconomics
+SOCIAL PRESCRIBING CAN FREE UP GP APPOINTMENTS
+¡If GP appointments fall by 2-5% as a result of social prescribing operating at scale, it could lead to a diversion of between 3.2-8 million GP 
+appointments per year. 
+¡Social prescribing’s actual impact on GP appointment volumes is uncertain and further research on this topic is needed. GPs could use the 
+additional capacity to see other patients with pressing clinical needs (see next page). Further empirical work is needed to quantify the costs of 
+replacing GP appointments with community provision. 
+¡The impacted patients with non-clinical needs could receive more appropriate support, provided community offerings were sufficiently high-
+quality. Delivering a quality experience helps social prescribing become a sustainable alternative to clinical care.
+POTENTIAL FUTURE VOLUMES 
+¡Pressures on GPs are likely to increase further in the future. Analysis by the BMA (2021) has shown that since 2015, the averagenumber of 
+patients per practice has increased by 24% whilst the number of GPs has been falling. An ageing population may also raise demandfor primary 
+care services over the longer term. 
+22
+SOCIAL PRESCRIBING COULD UNLOCK GP RESOURCES
+
+frontiereconomics
+23
+THERE IS SOME EVIDENCE OF UNMET NEED FOR GP CONSULTATIONS 
+IF SOCIAL PRESCRIBING REDUCES THE VOLUME OF NON-CLINICAL GP APPOINTMENTS, THE RESULTING CAPACIT Y COULD BE TARGETED ELSEWHERE
+¡Evidence from the GP Patient Survey (Ipsos MORI, 2021) shows that in certain areas of the country there may be substantial unmetneed for 
+primary care. Data is available for each clinical commissioning group (CCG) area. We can see considerable variation. In some areas, over 20% of 
+respondents reported a poor experience booking an appointment or avoided booking altogether due to fears of overburdening theNHS.
+¡Social prescribing can help to reduce demand for non-clinical GP appointments and therefore free up clinical time and resource which can be 
+deployed elsewhere. If this extra capacity can be targeted at areas/social groups where unmet need may be most significant, it can help to 
+contribute to quicker clinical diagnoses and ultimately to improvements in patients’ health. This will only be the case if social prescribing is an 
+effective substitute for traditional primary care. Data collection and sharing is therefore essential to assess the quality and effectiveness of 
+social prescribing.
+0. 00 %
+5. 00 %
+10 .0 0%
+15 .0 0%
+20 .0 0%
+25 .0 0%
+% of respondents
+Poor experience booking appointment 
+(by CCG)
+0. 00 %
+5. 00 %
+10 .0 0%
+15 .0 0%
+20 .0 0%
+25 .0 0%
+% of respondents
+Avoided booking appointment due to 
+fear of burden on NHS (by CCG)
+Ipsos MORI GP Patient Survey (2021)Ipsos MORI GP Patient Survey (2021)
+
+frontiereconomics
+03
+ROLE OF DATA INFRASTRUCTURE
+
+frontiereconomics25
+EFFECTIVE DATA INFRASTRUCTURE IS NEEDED AT EACH STAGE 
+INPUTSACTIVITIESOUTPUTSIMPACTS
+§National managers need to 
+be aware of patterns of need 
+across the country. 
+§Link workers need to 
+understand hyper-local 
+issues that social prescribing 
+could help with in each 
+locality. 
+§Clinical staff and other 
+community groups need to 
+be aware of link workers 
+operating in their locality 
+and how best to use referral 
+pathways. 
+§National and regional 
+managers need to 
+understand what type of 
+referrals are happening.
+§Link workers and other 
+frontline workers need to be 
+aware of all local service 
+offerings, their suitability 
+capacity and quality.
+§Activity providers need to be 
+incentivised to share data 
+detailing their offering and 
+keep this updated.
+§Link workers need to have 
+access to anonymised 
+information on actual 
+attendance patterns by 
+service users, user 
+satisfaction and user benefit. 
+§National managers and link 
+workers need to have access 
+to detailed longitudinal data 
+which provides evidence on 
+whether intended health 
+improvements and other 
+benefits have been realised. 
+§In 2019 NHS England and 
+NHS Improvement developed 
+a Common Outcomes 
+Framework for measuring the 
+impact of social prescribing. 
+This will encourage 
+consistent data gathering and 
+reporting of outcomes. 
+IT WILL NOT BE POSSIBLE TO REALISE THE FINAL IMPACTS OF SOCIAL PRESCRIBING WITHOUT EFFECTIVE DATA INFRASTRUCTURE
+
+frontiereconomics
+LEVELS OF SOCIAL PRESCRIBING ACTIVIT Y
+: WHAT IS THE CURRENT PATTERN 
+OF SOCIAL PRESCRIBING REFERRALS?
+¡What is the rate of referrals to social prescribers in localities?
+¡What types of activities are being prescribed?
+¡What is the rate of take-up/satisfaction amongst users?
+INDIRECT DEMAND DATA
+: WHAT FACTORS CORRELATE WITH DEMAND FOR 
+SOCIAL PRESCRIBING IN EACH LOCAL AREA? 
+¡How could we predict likely demand/identify unmet needs (eg
+unreported mental health issues) within small geographic areas? 
+¡To what extent are different types of social prescribing demand 
+linked to deprivation?
+SUPPLY OF RELEVANT SERVICES
+: WHAT INFORMATION EXISTS ON SERVICES / 
+COMMUNIT Y GROUPS WITHIN IN EACH LOCALIT Y?
+¡What is the capacity/level of staff training at each provider?
+¡What specific services are offered by each service provider?
+¡What type of service user do they cater for? 
+DIRECT DEMAND DATA
+: WHAT NEEDS COULD SOCIAL PRESCRIBING ADDRESS 
+IN EACH LOCAL AREA?
+¡How many people could benefit? 
+¡What requirements do different groups have?
+¡What requirements do different localities have (egurban vs. 
+rural)?
+TYPES OF DATA REQUIRED FOR SOCIAL 
+PRESCRIBING TO BE EFFECTIVE
+26
+AN UNDERSTANDING OF DEMAND AND SUPPLY IS CRITICAL
+DEMAND SIDE DATA 
+SUPPLY SIDE DATA 
+
+frontiereconomics
+01
+27
+DEMAND AND SUPPLY DATA WILL BE NEEDED TO CALCULATE IMPACTS
+DIRECT-DEMAND DATA 
+HIGHLIGHTS A SPECIFIC 
+NEED WITHIN A CERTAIN 
+LOCALIT Y
+DATA ON SUPPLY OF 
+SERVICES HIGHLIGHTS 
+RELEVANT ACTIVIT Y AND 
+FACILITATES REFERRALS
+OVER TIME, DEMAND DATA 
+SHOWS A REDUCED NEED 
+FOLLOWING SUCCESSFUL 
+SOCIAL PRESCRIPTION
+020304
+DATA ON LEVELS OF SOCIAL 
+PRESCRIBING ACTIVIT Y 
+SHOWS THE RATE AT WHICH 
+SERVICE USERS ARE 
+ATTENDING SERVICES AND 
+THEIR SATISFACTION 
+IMPACTSOUTPUTSINPUTSACTIVITIES
+
+frontiereconomics
+MANY FACTORS WILL INFLUENCE DEMAND FOR SOCIAL PRESCRIBING
+NUMEROUS LOCAL FACTORS WILL BE RELEVANT
+¡The last decade has seen an increasing emphasis placed on the 
+wider determinants of health. These conditions are influenced 
+by a huge number of factors that will all vary significantly, both 
+between different local areas and within each specific local area.
+¡Social prescribing involves focusing on what matters to a 
+specific individual. This will be related to a range of 
+interconnected factors including mental health, housing or 
+employment. Building up a picture of these factors within 
+granular geographic areas can inform likely patterns of demand.
+NUMEROUS POTENTIALLY RELEVANT DATASETS EXISTS
+¡A wide array of potentially relevant demand-side information 
+sources exist. This includes information published by PHE, Sport 
+England, NHS England and NHS Improvement, ONS, Defra, 
+MHCLG, and DWP.
+¡All of these sources will be updated at different times and will 
+differ in terms of their geographical scope and boundaries used. 
+¡Existing demand-side data may not be used effectively currently 
+as it is not always accessible or available at an appropriate level 
+of granularity.
+28
+DEMAND SIDE DATA 
+KEY 
+TAKEAWAY
+Managers and policymakers in the health system 
+need to build up a detailed understanding of 
+issues that will create demand for social 
+prescribing in different parts of the country.
+KEY 
+TAKEAWAY
+Dedicated resources will need to be invested in 
+order to gather and steward the local area 
+‘demand’ data that can inform social prescribing 
+requirements. 
+
+frontiereconomics
+WE HAVE COLLECTED DEMAND-SIDE DATA FOR SOCIAL PRESCRIBING 
+29
+SPORT / ACTIVIT Y 
+PARTICIPATION 
+PHYSICAL HEALTHMENTAL HEALTH
+DEPRIVATION / 
+DEMOGRAPHICS  
+CRIME
+§Volunteering 
+§Club 
+membership
+§Levels of 
+physical 
+activity
+§Hospital 
+admissions
+§Obesity
+§Life 
+expectancy
+§Smoking 
+prevalence  
+§Life 
+satisfaction 
+§Trust in 
+community
+§Loneliness 
+§Depression/ 
+anxiety 
+§Children in low 
+income families
+§Homelessness
+§Proportion of 
+adults with 
+learning disability 
+in employment
+§Violent crime
+§Children in 
+the youth 
+justice 
+system
+WE HAVE COLLECTED A RANGE OF DEMAND-SIDE DATA FOR SOCIAL PRESCRIBING 
+¡We have drawn together datasets that provide information on the incidence of issues which could drive demand for social prescribing. The 
+data includes demographic data for context. For example, deprivation data is included as it is correlated with negative health outcomes.
+¡The data covers six domains. Example metrics under each domain are provide below:  
+DEMAND-SIDE DATA 
+
+frontiereconomics
+WE HAVE PRODUCED AN INTERACTIVE DEMAND TOOL WITH THIS DATA
+30
+§We have used the combined dataset to create an interactive map 
+of potential demand. Users can select a measure that they are 
+interested in and the data will be mapped across England, 
+showing geographical variation. This tool is intended to 
+demonstrate the value of combining data related to social 
+prescribing in one place, facilitated by existing open data. 
+§For example, in the map on the right, we have illustrated how 
+the tool can highlight geographic variation in loneliness across 
+the country. At this stage the map is a proof-of-concept type 
+tool, facilitated by existing open data, but not yet a finished 
+product. In future, the tool could include more open demand 
+data, more granular data and supply data.
+§The underlying data behind the interactive map is freely 
+available here.In line with the ODI’s mission we want others to 
+investigate this data, highlight specific features which are most 
+helpful and link the information provided to other datasets to 
+facilitate the creation of new insights. This allows others to 
+explore the data in different ways and to combine it with other 
+data to gain additional insight.
+DEMAND-SIDE DATA 
+Variation in reported loneliness (%) across England (2020)
+
+frontiereconomics
+THIS TOOL HAS A NUMBER OF USE CASES
+31
+THIS COLLECTION OF DATA IS UNIQUE AND OFFERS SEVERAL ADVANTAGES 
+¡Comprehensive coverage across the country:the metrics collected cover all of England which means that each locality can be examined individually 
+and compared against other benchmark areas such as local neighbours. 
+¡Broad range of potential factors included: inclusion of metrics from six domains allows for the simultaneous exploration of multiple indicators. Users 
+can identify links between factors such as deprivation, mental health and physical activity. Previously comparing these metrics in a consistent format 
+was a challenge as different data sources adopt different geographical units of analysis. For example, NHS England and NHS Improvement data is often 
+reported at the Clinical Commissioning Group (CCG) or Integrated Care System (ICS) level which does not map to other forms ofdata published at the 
+local authority level. 
+¡Provides solid foundation: in the future, this dataset could be combined with nationwide supply-side data to highlight gaps where demand for social 
+prescribing is high, but the volume of relevant services is low.
+THIS DATABASE CAN SUPPORT SEVERAL USE CASES
+¡Planning services: having this collection of data made available in an accessible format for the first time may allow central government, local 
+authorities, charities and link workers to coordinate better in the planning and deployment of services around the country.
+¡Identification of target areas for intervention. Policymakers can identify where more social prescribing would have most impact.
+¡Predicting future demand: this data can be used to consider potential future needs and identify and highlight interesting patterns, such as localities of 
+possible best practice
+DEMAND-SIDE DATA 
+
+frontiereconomics
+MAPPING THE AVAILABILIT Y OF LOCAL SERVICES IS DIFFICULT
+LOCAL DATA ON AVAILABILIT Y OF SERVICES IS INCONSISTENT 
+¡Generating comprehensive information on supply of activities within a local authority is a major challenge. Local Authorities, health and 
+voluntary sector organisations maintain separate directories of locally available services (there are also multiple other sources of potentially 
+useful supply-side information from charities or learning providers). This leads to duplication of effort and creates issues with 
+interoperability (Snook, 2019). 
+¡Multiple community service directories exist in each local area due to a lack of trust between organisations. This limits data sharing (Digital 
+Gaps and Porism, 2021). Local Authorities are required to run a Family Information Service, which provides information on children and 
+parent services and outlines their local offer, which gives information on the services for young people with special educational needs. Some 
+Local Authorities provide accessible and wide-ranging directories of services, while others are difficult to locate and/or fragmented. 
+¡Information is not always provided on how regularly directories are updated. In some cases these types of databases are created via pilot 
+projects and then there is no budget to maintain the information to a high standard. This in turn undermines trust. 
+¡Link workers may be reluctant to refer potential services users to activities they are not familiar with. Currently a lack ofinformation on 
+attendance/user satisfaction and challenges means that link workers may have to invest time exploring the suitability of a new offering.
+32
+SUPPLY-SIDE DATA 
+KEY 
+TAKEAWAY
+Link workers might not know where to signpost potential users, or may rely on old or incomplete information. This could 
+lead to service users being prescribed activities which are not perfectly tailored to their individual needs, which in turn may 
+reduce the chances of the referral being successful and generating desired impacts. 
+
+frontiereconomics
+RECORDING VOLUMES OF SOCIAL PRESCRIBING IS CHALLENGING 
+DATA ON DELIVERY OF SOCIAL PRESCRIBING HAS ITS OWN CHALLENGES 
+¡Dayson and Leather (2020) found consistency and recording issues with the data collected in GP practices, meaning it could beunsuitable 
+for assessing social prescribing activities. PHE also highlighted issues around data collection (Mason et al. 2019), including patient 
+difficulties with completing questionnaires, and problems with the type of data recorded by GP practices.   
+¡Martin Bell Partnership (2021) reviewed the digital landscape for social prescribing and found that data collection is still predominantly 
+paper-based, supplemented by local and fragmented digital databases. Jani et al. (2020b) highlighted barriers to evidence generation, 
+including little standardisation in data collection, inadequate code lists and variation in recording by clinicians.
+¡Data that is currently collected and published may not always be sufficiently granular to provide nuanced insights. For example,in the 
+future it would be helpful to break down this data on referrals and declines by including the outcome of the social prescribing intervention. 
+33
+SUPPLY-SIDE DATA 
+KEY 
+TAKEAWAY
+The lack of standardisation in data collection and monitoring of attendance makes it difficult to assess the effectiveness of
+social prescribing and/or the quality of specific activities at a large scale.
+
+frontiereconomics
+04
+POLICY IMPLICATIONS 
+
+frontiereconomics
+EFFORTS ARE UNDERWAY TO IMPROVE THE DATA LANDSCAPE
+THERE ARE PROMISING SIGNS THAT THE DATA LANDSCAPE IS IMPROVING 
+¡Investment has been made in recent years to address some of the data infrastructure issues we have highlighted. For example, theProfessional Record Standards Body 
+(2021) is working with a range of stakeholders including link workers, GPs, NHS project managers, counsellors, and service usersto develop a social prescribing standard 
+which will help ensure information from sessions can be shared with care providers to identify people who would benefit from social prescribing and help health services 
+nationally improve social prescribing. Also the NHS Personalised Care Digital Programme (2021) has produced a social support pack to help commissioners considering the 
+purchase of a social prescribing digital case management system and collated a set of accredited suppliers for social prescribing solutions. We have included other specific 
+examples below which are not comprehensive but illustrate some of the types of data improvement efforts that exist in this space. 
+35
+OPEN REFERRAL UK
+¡The Open Referral UK data standard 
+is a consistent way of recording and 
+sharing information about services. 
+¡Open Referral UK defines a standard 
+structure which can help to avoid 
+some of the duplication associated 
+with multiple competing service 
+directories. 
+¡This initiative brings together local 
+councils, voluntary bodies, funders 
+and technologists to publish and use 
+resource directory information more 
+easily.
+SOCIAL PRESCRIBING OBSERVATORY
+¡The Royal College of General 
+Practitioners, Nuffield Department of 
+Primary Care Health Science and the 
+University of Oxford established the 
+Social Prescribing Observatory in 
+collaboration with NHS England and 
+NHS Improvement. 
+¡The Social Prescribing Observatory 
+provides information on social 
+prescribing referrals and declines for 
+each integrated care system. The 
+same group also captures 
+information on actual activities 
+prescribed.
+OPENACTIVE
+¡The ODI and Sport England are 
+working together to improve and 
+open up information about physical 
+activity and sporting opportunities 
+across England. Prior to this work 
+much of the information about 
+activities was inaccessible (stored on 
+old-fashioned websites, or printed 
+material). 
+¡OpenActive provides open data on 
+sports/fitness-related activities 
+across the UK and also includes data 
+standards, tools, and support to help 
+people find and book activities.
+PRESCRIBING.SOCIAL
+¡prescribing.social is a crowd-sourced 
+resource for voluntary/community 
+social enterprise organisations to 
+upload information about their 
+organisation and services. This could 
+allow primary care staff to find 
+information on all the different 
+providers in the same place. 
+¡The directory currently includes 
+publicly available information form 
+the Charity Commission data. VCSE 
+organisations can complete a form to 
+add their offering to the site.
+
+frontiereconomics
+Hyper-local nature of service 
+provision leads to lack of 
+central coordination and 
+creates multiple competing 
+service directories.
+BARRIERS TO 
+EFFECTIVE SUPPLY 
+SIDE DATA 
+INFRASTRUCTURE
+Community groups and activity 
+providers may not have a obvious route 
+to share information on platforms. 
+Information may be recorded on old 
+systems which may not be 
+interoperable.
+Data quality is a key challenge. Some 
+service providers may have little 
+incentive to maintain and share good 
+data on their offerings. Maintaining 
+comprehensive service directories 
+requires sustained funding.
+Increased focus on social 
+prescribing in recent years 
+means that the data ecosystem 
+is still nascent and trust is still 
+developing.
+36
+WHY DOESN’T COMPREHENSIVE SUPPLY-SIDE DATA CURRENTLY EXIST?
+01
+02
+03
+04
+05
+
+frontiereconomics
+04
+Mandating open data 
+in some instances.
+03
+Reducing the cost 
+of making data 
+open through 
+improved data 
+foundations.
+37
+THERE ARE SEVERAL LEVERS THAT COULD BE CONSIDERED
+02
+Providing activity 
+providers and those 
+who maintain 
+directories with 
+additional incentives 
+to make data open.
+01
+Improve 
+understanding of 
+stakeholders’ roles in 
+the development of 
+data infrastructure.
+RECOMMENDATIONS
+
+frontiereconomics38
+THERE ARE SEVERAL LEVERS THAT COULD BE CONSIDERED
+RECOMMENDED POLICY INTERVENTIONS 
+1.Improve understanding of stakeholders’ roles in the development of data infrastructure. Example: Charities, community 
+groups and NHS England and NHS Improvement emphasise the roles of individuals/groups in ensuring information flows 
+effectively and is maintained to a high standard. Previous work has highlighted that specific social prescribing initiatives 
+were not widely promoted, which limited awareness (Digital Gaps and Porism, 2021) . 
+2.Consider whether activity providers and those who compile directories could be provided with a direct incentive to make 
+information on offerings open. In many cases, link workers struggle to find suitable activities (Digital Gaps and Porism, 
+2021). Example: Make local government funding for community groups/information holders contingent on up-to-date 
+information on offerings. 
+3.Develop improved data infrastructure directly (egimproved IT systems and standards) which mean it is easier to make data 
+open. This could make it easy for service providers to directly update information on their own offerings on existing 
+platforms. Example: Provision of support for the development and adoption of open standards. For example Local 
+Authorities and activity providers could be required to adopt the Open Referral UK standard. This would allow multiple 
+portals to ingest information on activity providers’ updated offerings. In other cases, social-prescribing standards 
+compliance could be made a requirement in NHS procurement. Government could also work to identify a clear group of data 
+owners and fund ongoing data stewardship. 
+4.Require organisations to make some data in the public interest open. Example: Local Authorities could be required to make 
+data on their service provision open in an integrated and comprehensive format. 
+
+frontiereconomics
+05
+REFERENCES
+
+frontiereconomics
+REFERENCES (1)
+40
+Augherson, H., Baxter, L. and Facourt, D. (2020) “Social prescribing for individuals with mental health problems: a qualitative study of barriers 
+and enablers experienced by general practitioners”, BMC Family Practice, 21:194, 1-17.
+Benson T., Seers H., Webb N., and McMahon, P. (2021) “Development of social contact and loneliness measures with validation in social 
+prescribing”,  BMJ Open Quality 10:e001306. doi:10.1136/ bmjoq-2020-001306.
+Brown, R. C. H., Mahtani, K., Turk, A. and Tierney, S. (2021) “Social Prescribing in National Health Service Primary Care: WhatAre the Ethical 
+Considerations?”, The Milbank Quarterly, 0:0, 1-19 
+Buck, D. and Ewbank, L. (2020) “What is social prescribing?”, [online] (cited 25th August 2021) available from 
+https://www.kingsfund.org.uk/publications/social-prescribing
+Calderón-Larrañaga, S., Clinch, M., Greenhalgh, T. and Finer, S. (2021a) “Could social prescribing contribute to type 2 diabetes prevention in 
+people at high risk? Protocol for a realist, multilevel, mixed methods review and evaluation”, BMJ Open 11, 1-9. doi:10.1136/bmjopen-2020-
+042303
+Calderón-Larrañaga, S., Milner, Y., Clinch, M., Greenhalgh, T. and Finer, S. (2021b) “Tensions and opportunities in social prescribing. Developing 
+a framework to facilitate its implementation and evaluation in primary care: a realist review”.
+Chatterjee, H., Camic, Paul M., Lockyer, B. and Thomson, L. (2017) “Non-clinical community interventions: a systematised review of social 
+prescribing schemes”,  Arts & Health: An International Journal for Research, Policy and Practice, ISSN 1753-3015. DOI: 
+http://dx.doi.org/10.1080/17533015.2017.1334002
+
+frontiereconomics
+REFERENCES (2)
+41
+Clements-Cortés, A. and Yip, J. (2020) “Social Prescribing for an Aging Population, Activities, Adaptation & Aging”, 44:4, 327-340, DOI: 
+10.1080/01924788.2019.1692467
+Costa, A., Sousa, C. J., Seabra, P. R. C., Virgolino, A., Santos, O., Lopes, J., Henriques, A., Nogueira, Pl, and Alacao, V. (2021) “Effectiveness of 
+Social Prescribing Programs in the Primary Health-Care Context: A Systematic Literature Review” 
+Dayson, C. and Leather, D. (2020) Evaluation of HALE Community Connectors Social Prescribing Service 2018-19, Centre for Regional Economic 
+and Social Research, Sheffield Hallam University, Sheffield.
+Dayton, C., Painter, J. and Bennett, E. (2020) “Social prescribing for patients of secondary mental health services: emotional, psychological and 
+social well-being outcomes” journal of Public Mental health, 19:4, 271-279.
+Digital Gaps and Porism (2021) Enabling Social Prescribing https://coda.io/@digital-playbook/enabling-social-prescribing/research-findings-
+report-120
+Fixsen, A., Seers, H., Polley, M. and Robins, J. (2020) “Applying critical systems thinking to social prescribing: a relationalmodel of stakeholder 
+“buy-in”, BMC Health Services Research, 20:580, 1-13
+Gibson, K., Pollard, T.M. and Moffatt, S. (2021) “Social prescribing and classed inequality: A journey of upward health mobility?”, Social Science 
+and Medicine, 280, 1-8.
+Halder, M. M., Wakefield, J. R. H., Bowe, m., Kellezi, B., Mair, E., McNamara, N., Wilson, I. and Stevenson, C. (2021) “Evaluation and exploration of 
+a social prescribing initiative: Study protocol”,  Journal of Health Psychology, 26:3, 345-356.
+
+frontiereconomics
+REFERENCES (3)
+42
+Hassan, S. M., Gibel, C., Morasae, E. K., Rotheram, C., Matieson, V.,  Ward, D., Reynolds, V., Price, A., Bristow, K., and Kullu, C. (2020) “Social 
+prescribing for people with mental health needs living in disadvantaged communities: the Life Rooms model”, BMC Health Services Research, 
+20:19, 1-9.
+Hazeldine, E., Gowan, G., Wigglesworth, R., Pollard, J., Ashthana, S. and Husk, K. (2021) ”Link worker perspectives of early implementation of 
+social prescribing: A ‘Researcher-in-Residence’ study”, Health and Social Care in the Community, 00, 1-8
+Holding, E., Thompson, J., Foster, A., and Haywood, A. (2020) “Connecting communities: A qualitative investigation of the challenges in 
+delivering a national social prescribing service to reduce loneliness”
+Howarth, M., Griffiths, A., da Silva, A. and Green, R. (2020)“Social prescribing: a ‘natural’ community-based solution”, BritishJournal of 
+Community Nursing, 25:6 294-298.
+Husk, K., Blockley, K., Lovell, R., Bethel, A. , Lang, I., Byng, R. and Garside, R. (2020) “What approaches to social prescribing work, for whom, 
+and in what circumstances? A realist review”, Health and Social Care in the Community, 28, 309-324.
+Institute for Fiscal Studies (2021) Could NHS waiting lists really reach 13 million? https://ifs.org.uk/publications/15557
+Ipsos Mori (2021) GP Patient Survey https://gp-patient.co.uk/
+Jani, A., Liyanage, H., Hoang, U., Moore, L., Ferreira, F., Yonova, I., Tzortziou Brown, V. and , de Lusignan,  S. (2020)  “Use and impact of social 
+prescribing: a mixed-methods feasibility study protocol”,  BMJ Open 10:9, doi: 10.1136/bmjopen-2020-037681.
+
+frontiereconomics
+REFERENCES (4)
+43
+Kigarriff-Foster, A. and O’Cathain, A. (2015) “Exploring the components and impact of social prescribing”, Journal of Public Mental Health, 
+14:3, 127-134.
+Local Digital / Snook (2021) OpenCommunity Discovery: The case for a community-based services data standard 
+https://www.localdigital.gov.uk/wp-content/uploads/2020/03/Report-OpenCommunity-Data-standards.pdf
+Loftus, A. M, McCauley, F. and McCarron, M. O. (2017) “Impact of social prescribing on general practice workload and polypharmacy” Public 
+Health, 148, 96-101
+Malhotra, G. (2021) North East London Guide for new Social Prescribing Link Workers, North East London Health and Care Partnership, London
+Martin Bell Associates/Elemental Software (2021) Social Prescribing and the Digital Landscape, Martin Bell/Elemental, UK.
+Mason, J. , Gatineau, M., Beynon, C., Gledhhill, R., Clark, R., and Baker, A. (2019) Effectiveness of social prescribing: An evidence synthesis, 
+Public Health England, London
+Mental Health Foundation (2021) Loneliness during Coronavirus https://www.mentalhealth.org.uk/coronavirus/loneliness-during-coronavirus
+NHS (2019) Welcome! An induction guide for social prescribing link workers in primary care networks, NHS, UK
+NHS Alliance and the Primary Care Foundation (2015) Making time in General Practice 
+https://www.primarycarefoundation.co.uk/images/PrimaryCareFoundation/Downloading_Reports/PCF_Press_Releases/Making-Time-
+in_General_Practice_FULL_REPORT_28_10_15.pdf
+
+frontiereconomics
+REFERENCES (5)
+44
+NHS Digital (2021) Appointments in General Practice June 2021 https://digital.nhs.uk/data-and-
+information/publications/statistical/appointments-in-general-practice/june-2021
+NHS England and NHS Improvement (2019) Long Term Plan https://www.longtermplan.nhs.uk/
+NHS England and NHS Improvement (2021 A) Social prescribing https://www.england.nhs.uk/personalisedcare/social-prescribing/
+NHS England and NHS Improvement (2021 B) Consultant-led Referral to Treatment Waiting Times Data 2021-22 
+https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/rtt-data-2021-22/
+NHS Personalised Care Digital Programme (2021) Social Prescribing Systems and Services –Support Pack & Buyers Guide
+Nowak, D. A. and Mullgian, K. (2021) “Social prescribing: A call to action”, Canadian Family Physician, 67, 88-91. 
+ONS (2021 A) Has the Coronavirus pandemic caused life expectancy in the UK to fall? https://blog.ons.gov.uk/2021/09/23/has-the-
+coronavirus-pandemic-caused-life-expectancy-in-the-uk-to-fall/
+ONS (2021 B) Coronavirus and the social impacts on Great Britain 
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/coronavirusandthesocialimpacts
+ongreatbritaindata
+Open Data Institute (2021) OpenActive: Getting the Nation Active https://theodi.org/project/getting-the-nation-active/
+
+frontiereconomics
+REFERENCES (6)
+45
+Open Referral UK (2021) https://openreferraluk.org/
+Oxford-Royal College of General Practitioners Clinical Informatics Digital Hub (2021) Social Prescribing Observatory 
+https://orchid.phc.ox.ac.uk/index.php/social-prescribing/
+Pescheney, J. V., Randhawa, G. and Pappas, Y. (2019) “The impact of social prescribing services on service users: a systematic review of the 
+evidence”,  The European Journal of Public Health, 30:4, 664–673
+Pickering, J. and  Smyth, K. (2021) “Social prescribing: a nurse-led pilot project in a general practice setting”, Primary Health Care. doi: 
+10.7748/phc.2021.e1717
+Polley, M., Whitehouse, J., Elnaschie, S. and Fixsen, A. (2019a) What does successful social prescribing look like –mapping meaningful 
+outcomes, University of Westminster, London.
+Polley, M., Seers, H. and Fixsen, A. (2019b). Evaluation Report of the Social Prescribing Demonstrator Site in Shropshire –Final Report, 
+University of Westminster, London.
+Prescribing.Social (2021) https://prescribing.social/
+Professional Record Standards Body (2021) Social prescribing standard update https://theprsb.org/social-prescribing-standard-update/
+Reinhardt, G. Y., Vodovic, D. and Hammerton, C. (2021) “Understanding loneliness: a systematic review of the impact of socialprescribing 
+initiatives on loneliness”,  Perspectives in Public Health, 141:4, 204-213.
+
+frontiereconomics
+REFERENCES (7)
+46
+Rhodes, J. and Bell, S. (2020) ''It sounded a lot simpler on the job description'': A qualitative study exploring the role ofsocial prescribing link 
+workers and their training and support needs”, Health and Social Care in the Community, 00, 1-10.
+Royal College of General Practitioners (2018) RCGP calls on government to facilitate 'social prescribing' for all practices 
+https://www.rcgp.org.uk/about-us/news/2018/may/rcgp-calls-on-government-to-facilitate-social-prescribing-for-all-practices.aspx
+Savage, R. D., Stall, N. M. and Rochon, P. A. (2020) “Looking Before We Leap: Building the Evidence for Social Prescribing for Lonely Older 
+Adults”, journal of the American Geriatrics Society, 68, 429-431.
+Scott, J., Fidler, G., Monk, D., Flynn, D. and Heavey, E. (2021) “Exploring the potential for social prescribing in pre-hospitalemergency and 
+urgent care: A qualitative study”, Health and Social Care in the Community, 29, 654-663.
+The Health Foundation (2021) What geographic inequalities in COVID-19 mortality rates and health can tell us about levelling up 
+https://www.health.org.uk/news-and-comment/charts-and-infographics/what-geographic-inequalities-in-covid-19-mortality-rates-can-tell-us-
+about-levelling-up
+The Health Foundation (2018) An introduction to the social determinants of health https://www.health.org.uk/publications/what-makes-us-
+healthy
+Tierney, S., Mahtani, K. R., Wong, G., Todd, J., Roberts, N. Akinyemi, O., Howes, S. and Turnk, A. (2021) “The role of volunteering in supporting 
+well-being –What might this mean for social prescribing? A best-fit framework synthesis of qualitative research”,  Health and Social Care in the 
+Community, 00,1–22. 
+
+frontiereconomics
+REFERENCES (8)
+47
+UK Parliament POST (2021) Mental health impacts of the COVID-19 pandemic on adults 
+https://researchbriefings.files.parliament.uk/documents/POST-PN-0648/POST-PN-0648.pdf
+University of Kent, Curtis and Burns, (2020) Unit Costs of Health & Social Care 
+https://kar.kent.ac.uk/84818/13/Unit_Costs_of_Health_and_Social_Care_2020%20%281%29.pdf
+University of Westminster (2017) A review of the evidence assessing impact of social prescribing on healthcare demand and cost implications 
+https://westminsterresearch.westminster.ac.uk/download/e18716e6c96cc93153baa8e757f8feb602fe99539fa281433535f89af85fb550/297582
+/review-of-evidence-assessing-impact-of-social-prescribing.pdf
+Vidovic, D., Reinhardt, G. Y. and Hammerton, C. (2021) “Can Social Prescribing Foster Individual and Community Well-Being? A Systematic 
+Review of the Evidence”,  Int. Journal of Environmental  Research in. Public Health, 18, 5276. https://doi.org/10.3390/ ijerph18105276
+Wildman, J. M., Moffatt, S., Penn, L., O’Brien, N., Steer, M. and Hill, C. (2019) “Link workers’ perspectives on factors enabling and preventing 
+client engagement with social prescribing”, Health and Social Care in the Community, 27, 991–998.
+Wood, E., Ohlsen, S., Fenton, S-J., Connell, J. and Weich, S. (2021) “Social prescribing for people with complex needs: a realist evaluation”, BMC 
+Family Practice,2021, 22-53. DOI: https://doi.org/10.1186/s12875-021-01407-x
+Woodall, J., Trigwell, J., Bunyan, A-M., Raine, G., Eaton, V., Davis, J. and Hancock, L. (2018) “Understanding the effectivenessand mechanisms of 
+a social prescribing service: a mixed method analysis”, BMC Health Services Research, 18, 604-615.
+
+Frontier Economics Ltd is a member of the Frontier Economics network, which consists 
+of two separate companies based in Europe (Frontier Economics Ltd) and Australia 
+(Frontier Economics Pty Ltd). Both companies are independently owned, and legal 
+commitments entered into by one company do not impose any obligations on the other 
+company in the network. All views expressed in this document are the views of Frontier 
+Economics Ltd.

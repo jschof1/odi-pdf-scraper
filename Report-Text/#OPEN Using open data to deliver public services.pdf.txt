@@ -1,0 +1,1684 @@
+
+
+
+
+Contents
+About5
+Acknowledgements5
+Executive summary6
+Introduction8
+How we define public services9
+Previous work on open data in public services9
+Approach11
+The public sector, and the policy areas it is responsible for, are complex11
+The nature of data has changed, creating new possibilities12
+Understanding the impacts of releasing open data12
+Visualising public services as ecosystems12
+Patterns of open data use in public service delivery15
+The three patterns of open data for better delivery of public services15
+Note on visualisations17
+Pattern 1: open data for increasing access to public services17
+Example 1a. Transport for London release of transport data18
+Transport for London – in a nutshell19
+How open data supports the delivery of Transport for London’s services:
+benefits to the public sector19
+Transport for London’s story19
+Insights20
+Example 1b. Leeds release of data in relation to bin collection22
+Leeds Bins app – in nutshell22
+How open data can support the delivery of waste management services:
+benefits to the public sector22
+Leeds Bins app’s story22
+Insights23
+Example 1c. Famiio improving access to childcare and family service information25
+Famiio – in a nutshell25
+How open data can support childcare and family services:
+benefits to the public sector25
+Famiio’s story25
+Insights26
+Pattern 2: open data for more efficient delivery chains and planning27
+Example 2a. Local authority publication of spend data28
+Spend Network – in a nutshell29
+How open data supports the delivery of local public services:
+benefits to the public sector29
+Spend Network’s story29
+Insights30
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             2
+
+Example 2b. NHS publication of open data31
+NHS open data – in a nutshell31
+How open data can support the delivery of health services:
+benefits to the public sector31
+NHS open data story31
+Insights31
+Example 2c. Urban Intelligence publishing local planning information33
+Urban Intelligence – in a nutshell33
+How open data can support the delivery of urban planning services:
+benefits to the public sector33
+Urban Intelligence’s story33
+Insights33
+Pattern 3 – Open data for policy development35
+Example 3a. The Department for Work and Pensions development of Churchill36
+Churchill – in a nutshell37
+How open data can support the delivery of DWP services:
+benefits to the public sector37
+DWP Churchill’s story37
+Insights39
+Example 3b. Cabinet Office release of government grants data40
+Government Grants Information System – in a nutshell41
+How open data can support the delivery of grant-funded public services:
+benefits to the public sector41
+Government Grants Information System’s story41
+Insights42
+Insights from examples43
+Organisational collaboration43
+Technology infrastructure, digital skills and literacy43
+Foundational data infrastructure43
+Open standards for data44
+Senior-level championing44
+Peer networks44
+Intermediaries45
+Problem focus45
+Open innovation45
+Recommendations47
+Organisational collaboration47
+Central government recommendation: fund public sector organisations
+to experiment with using open data to support the delivery of public services47
+Technology infrastructure, digital skills and literacy47
+Central government recommendation: train public sector staff how to use
+open data in public sector delivery48
+Data infrastructure48
+Open standards for data48
+Senior-level championing48
+Peer networks48
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             3
+
+Intermediaries48
+Problem focus49
+Next steps50
+Learning materials50
+Stimulus Fund50
+Method51
+About
+This report has been researched and produced by the Open Data Institute, and
+published in February 2018 as part of its project on using open data to deliver public
+services. Its authors were Ed Parkes, Therese Karger-Lerchl, Peter Wells, Jack Hardinges
+and Roza Vasileva. If you want to share feedback by email, develop the thinking in your
+national context, or would like to get in touch, contact the team atrandd@theodi.org.
+To share feedback in the comments, highlight the relevant piece of text and click the
+‘Add a comment’ icon on the right-hand side of the page.
+The report is part of a wider project on new service delivery models, which aims to
+improve understanding of how to implement data-enabled service delivery models in
+government, and how to publish more open data as part of these approaches.
+Acknowledgements
+We would like to thank Emma Doyle, Gary Todd, Ian Makgill, Rikesh Shah, Ryan Dunn,
+Thom Townsend, Tom Forth, Yeonhwa Lee and their teams for the interviews and
+workshops, which were essential for this research and report.
+Pia Waugh, Paul Maltby, Professor Lucy Kimbell, Leigh Dodds, Bill Roberts, Louise
+Downe and Martin Jordan also contributed to discussions that helped to define our
+approach. We ran two workshops at Local Gov Camp 2017 and UKGovCamp 2018 and
+received many helpful contributions from participants.
+This is work in progress. It is likely to be updated as we
+continue our work. Keep an eye out for updates!
+How can it be improved? We welcome suggestions from
+the community in the comments.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             4
+
+Executive summary
+This paper explores how open data can be used in public service
+delivery and its potential for collaboration, joint problem-solving and
+open innovation. It highlights where open data has been released by
+public sector institutions and its effects on delivering public services
+The nature of the public sector is complex, as are the policy areas it is responsible for.
+At the same time, there are new possibilities presented by the changing nature of data.
+This paper encapsulates the ODI’s research into different ways of understanding the
+impacts of releasing open data for public services while capturing the complexity of
+delivering public services.
+We visualised open data within an ecosystem to identify open data opportunities in the
+public sector. By taking this approach, we developed three high-level patterns of open
+data use in public services.
+High-level patterns of open data use:
+●Pattern 1uses open data to increase access to servicesfor
+citizens or organisations
+●Pattern 2uses open data to plan public service deliveryand
+make service delivery chains more efficient; direct beneficiaries
+are commissioners, managers and frontline public service
+workers
+●Pattern 3uses open data to inform policymaking; direct
+beneficiaries are elected representatives, policymakers and
+citizens who want to influence policy
+We identify examples of each pattern and draw insights from their similarities.
+So far, we have developed practical recommendations for a range of actors to support
+greater use of open data to deliver public services.
+Practical recommendations for greater use of open
+data in public services focus on:
+●Organisational collaboration
+●Technology infrastructure, digital skills and literacy
+●Data infrastructure
+●Open standards for data
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             5
+
+●Senior level championing
+●Peer networks
+●Intermediaries
+●Problem focus
+We will develop the methodology behind this report further as part of our wider project
+on new service delivery models, in which we are supporting four local areas in the UK to
+redesign a public serviceusing open data.
+We will use our insights to develop learning materials to support those in the public
+sector to better use open data to deliver public services.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             6
+
+Introduction
+Many public services in the UK are expected to deliver efficiency
+savings along with improved outcomes for citizens. At the same time,
+public service delivery is increasingly interconnected with many
+organisations from the public, private and charitable sectors. To
+ensure effective and efficient delivery, we need to understand these
+links and interdependencies.
+Data is moving from being scarce and difficult to process to being abundant and
+easy to use. There are increasing opportunities to harness its value for economic
+and social benefit. Open data isdata that anyonecan access, use or share.
+It drives innovation by and for government, individuals, businesses, startups
+and communities.
+We can see open data’s potential for transparency, economic growth and
+productivity ininternational open data for accountabilityinitiatives,open data
+1
+startupsandbusinesses improving processes with opendata.
+This paper describes how open data is used to deliver public services and the
+effects it has. We suggest a framework for understanding these impacts and set
+out ways in which others – from the public sector and beyond – can help
+develop this understanding.
+As part of its broader research project, the ODI is supportingfour local areas in
+the UK to redesign a public service using open data:Doncaster Metropolitan
+Borough Council, Kent County Council, North Lanarkshire Council and the
+London Borough of Waltham Forest.We opened an invitationto tender in
+2
+summer 2017 and received 24 applications from consortia in the UK, ranging
+from community policing to public health, arts and culture. The responses
+demonstrated an appetite to innovate with open data in public service delivery.
+By engaging with teams going through service transformation, we hope to test
+some of the insights in this paper and develop our understanding of effective
+service patterns using open data.
+We are also analysing learning resources available to those in the public sector
+who design and deliver public services, to help them use open data to support
+their service.
+2
+ODI (2017), ‘Four UK teams win funding to redesign public services with open data’,
+https://theodi.org/blog/four-uk-teams-win-funding-to-redesign-public-services-with-ope
+n-data
+1
+Open Government Partnership (n.d.), ‘Stories’,
+https://www.opengovpartnership.org/stories?country=0&type=0&theme=1196
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             7
+
+While open data can support a variety of public services around the world, the
+scope of this report is limited to UK examples. This is because our methodology
+requires us to engage closely with those working in the public sector to
+understand the ecosystems they operate in. We will incorporate examples from
+other countries in future work.
+How we define public services
+We developed a working definition of a public service early on. This helped us to
+identify examples to examine in more detail. The definition is:
+“
+A public service helps groups of people to fulfil a need,
+the
+ 
+fulfilment of which is viewed to be in the public
+interest, and which public sector organisations recognise
+the need to provide.
+We settled on this definition for several reasons. We wanted to recognise a
+definition of public service which was as broad as possible, so we could capture
+the wider effects of open data, ie where data collected and published in one part
+of the system was used by another part of the system at another place and time.
+Our current definition focuses on the needs that individuals or groups of people
+have, as suggested by Cassie Robinson,as we didnot want to align our
+3
+definition too closely to the legal responsibilities that public sector organisations
+have. We wanted to recognise that – particularly in relation to services that rely
+on external organisations for their delivery and are not necessarily totally funded
+by government – there would not always be a distinct legal requirement for
+provision to a particular group.
+This definition is evolving and we will refine it further to make it more succinct.
+Previous work on open data in public services
+During our research we identified blog posts, reports and previous analyses on
+the use of open data in public services. There is quite a wide literature on the use
+of data in central and local governmentand the impactsof open data on
+4
+4
+Nesta (2016), ‘Wise Council: insights from the cutting edge of data-driven local
+government’,
+https://www.nesta.org.uk/publications/wise-council-insights-cutting-edge-data-driven-lo
+cal-government
+3
+Cassie Robinson (2017), ‘Putting users first is not the answer to everything’,
+https://medium.com/doteveryone/putting-users-first-is-not-the-answer-to-everything-dd
+05b9f11b5
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             8
+
+economic growth and innovation,but a relatively limited range specifically on
+5
+open data and public services.
+This is a brief summary of those publications specifically relevant to the impacts
+of open data on public service delivery.
+Pia Waugh, who has worked for both the Australian and New Zealand
+governments, has outlined some effects of open data on public services in a
+number of blog posts and presentations, including this summary:
+6
+i) Efficiency
+Proactively publishing data that is commonly asked for in an automated
+way frees up resources.
+ii) Innovation
+Once data is published, so long as it is published well and kept up to
+date, other people and organisations will use the data to create new
+information, analysis and services. This innovation can be adopted by the
+agency, but it also takes the pressure off the agency to deliver all things
+to all people, by enabling others to scratch their own itch.
+ii) Improved services
+By publishing data in a programmatically accessible way, agencies found
+cheaper and  more modular service delivery was possible through
+reusable data sources. Open data is often the first step for agencies on
+the path to more modular and API driven way of doing things (which the
+private sector embraced a decade ago). I believe if we could get
+government data, content and services API enabled by default, we would
+see dramatically cheaper and better services across all governments, with
+the opportunity for a public ecosystem of cross jurisdictional service and
+information delivery to emerge.
+In the UK,the ODI’s work with the Environment Agencyhas captured the
+7
+benefits of releasing open data since the Environment Agency made their
+organisation-wide commitment in 2010.
+The impacts the Environment Agency identified at
+that point were:
+●Helping the Environment Agency to achieve its core objective
+●Saving time and resources
+●Building external relationships and getting the user-voice heard
+●Improving data quality and public perception
+7
+ODI (n.d.), ‘Benefits for EA’,https://theodi.org/ea-going-open-benefits-for-ea
+6
+Pia Waugh (2016), ‘Finding the natural motivation for change’,
+http://pipka.org/2016/02/21/finding-the-natural-motivation-for-change
+5
+ThisGoogle Doccontains links to papers on the economicpotential of open data.
+This
+ 
+is not an exhaustive list but includes reports we considered during this project.
+Pleaseget in touchif we missed any.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             9
+
+●Better understanding and managing risks around data use and
+publication
+●Bringing diverse teams together
+●Working more easily and efficiently with external partners
+●Harnessing the power of the tech industry to make useful
+applications
+Another sector-focused study by GovLab examined the opportunity for open
+data use in the UK’s National Health Service (NHS) in 2014.Along with
+8
+exploring potential impacts of open data on the system, it set out a conceptual
+framework which could be used to help measure the impact of open data in the
+NHS.
+The report set out a logic model for open data in the NHS, described as:
+“The use of certain kinds of inputs and data, by certain kinds of users, for certain
+kinds of activities, will achieve certain outputs and outcomes that indicate
+impact. Specific methodologies will be used to collect and measure indicators,
+helping to assess impact.”
+The report also made recommendations for taking the agenda forward in the
+NHS, including to “develop an open health data ecology map, possibly using
+crowdsourcing, with a dictionary of all open health datasets used along with
+the variety of uses and users.”
+In summary, these previous pieces of work have begun to explore impact areas
+experienced by the public sector in releasing open data. Our work will expand
+on this by identifying particular examples and their shared characteristics so we
+can study in more detail how the release of open data will make public service
+delivery better.
+Approach
+From the ODI’s experience working with partners across multiple sectors –
+national and international, public and private – we have developed an
+understanding of how to build value on top of data.
+Value can be drawn from organisations that steward data (whether collecting,
+maintaining or sharing it), those that build data services, and those that use data
+and data services to make decisions.
+8
+GOVLAB (2014), ‘The open data era in health and social care’,
+http://www.thegovlab.org/static/files/publications/nhs-full-report.pdf
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             10
+
+The public sector, and the policy areas it is responsible for,
+are complex
+To understand how open data could be used in the public sector, we first need
+to understand public service delivery. Modern public services are complex and
+include an ecosystem of actors and organisations with different roles
+and responsibilities.
+There are various groups in the public service delivery system. This is especially
+true now that parts of the public sector are increasingly using organisations like
+outsourced contractors and charities to help deliver services.
+Meanwhile, there are more and different ways of funding these services –
+eg social impact bonds and other forms of social investment – which makes the
+picture of public service delivery complicated. Different parts of government
+have unique powers for tax raising, regulation and distribution of public funds.
+Add democratic oversight at a number of levels, such as central and local
+government, and this picture becomes more complicated still.
+In addition, public sector organisations are themselves facing complex issues.
+Childhood obesity, workforce planning, crime prevention and many other policy
+issues have different origins, and effective interventions are multifaceted and
+need a long-term approach and collaboration.
+To explain the relationships that support government service delivery, our
+approach must allow for complexities and interaction between those involved.
+The nature of data has changed, creating new possibilities
+Data is moving from being scarce and difficult to process to being abundant and
+easy to use. But harnessing its value for economic and social benefit – in ways
+that support innovation and deliver social justice – is hard.
+Data can enable us to innovate, create more efficient and effective services and
+products, and fuel economic growth and productivity. To bring about this future,
+we must make data as open as possible while protecting people’s privacy,
+commercial confidentiality and national security. We need to find the right
+balance for all societies and economies to feel data’s benefits fairly.
+This report is focused on open data. We have to start somewhere. We will
+expand our thinking about opportunities for public service delivery to include
+other ways of sharing data in the future.
+Open data offers a way of creating social and economic value from data in a
+changing environment. Open data is data that anyone can access, use or share.
+Anyone can use it as a resource for innovation. When data is published openly,
+others can use it and create value from it. We currently know less about creating
+value from open data than from historic methods of collecting and selling data.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             11
+
+A good understanding of data ecosystems and the benefits that open data
+creates in them can help to identify how value is created.
+By making data openly available while respecting privacy, the public sector can
+create a resource for external innovation and build ecosystems to help deliver
+public services. Those ecosystems will include public sector organisations,
+businesses, startups, individuals and communities.
+Understanding the impacts of releasing open data
+The ODI has been focusing on understanding the impacts of releasing open data
+for public services, while capturing the complexity of public service delivery.
+To enable the public sector to understand how open data can support public
+service delivery, we have looked for ways to make the mechanisms clearer and
+easier to experiment with.
+Visualising public services as ecosystems
+Because public service delivery is complex and processes are not linear,
+identifying impacts and beneficiaries is not straightforward. Impacts may not be
+easily understood, or may be indirect and take time to materialise. Visualising a
+public service as an ecosystem allows us to identify and be explicit about the
+impacts and who is affected, and helps us to understand the different types of
+value exchanged within networks of data publishers and users. We can then
+explain these impacts more clearly to the public sector and data holders,
+encouraging further release and use of open data.
+Visualisation brings sense to complex systems and issues across business and
+government. Government departments have created visualisations of
+ecosystems to help convey the overarching strategy and vision for an
+organisation.Maps of business processes and datacollection help
+9
+understanding of opportunities in government data collection.
+10
+Visualising and drawing are core approaches inservicedesignand theUK
+Cabinet Office Policy Laband academics such as LucyKimbell have pushed
+their use forward in a government context. Kimbell has provided a number of
+useful approaches to thinking about service design in the public sector and her
+methodologies have inspired the way in which we have conducted research for
+this project.
+11
+11
+Lucy Kimbell (2015), ‘Service Innovation Handbook’,
+https://serviceinnovationhandbook.org
+10
+Michael Rose (2010), ‘The complications of a right to data’,
+https://www.slideshare.net/slideshow/embed_code/key/hqYlWFPoX4yLbf?lipi=urn%3Ali
+%3Apage%3Ad_flagship3_profile_view_base_treasury%3B%2BUJNc%2BWdQT6UkBD
+N9gziRQ%3D%3D
+9
+DWP Digital (2015), DWP’s 2020 Vision,
+https://dwpdigital.blog.gov.uk/2015/03/18/dwp-2020-vision-andrew-besford
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             12
+
+Visualising service innovation ecosystems by showing how people, data, resources,
+firms and institutions are connected together now, or could be in the future.
+12
+In relation to open data specifically, members of the open data community also
+use visualisation of ecosystems.ODI Head of DataInfrastructure Leigh Dodds
+13
+has been experimenting with ecosystem diagrams for open data as a way of
+exploring its effects.
+14
+14
+Lost Boy (2017), ‘Some tips for open data ecosystem mapping’,
+https://blog.ldodds.com/2017/03/13/some-tips-for-open-data-ecosystem-mapping
+13
+See:http://www.jargonautical.com
+12
+A method used in Kimbell, L. (2014).Service InnovationHandbook. Amsterdam: BIS
+Publishers. Illustration: Andrew Boag
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             13
+
+There are a number of academic disciplines that visualise ecosystems and
+networks to bring insight to complex systems. In particular, asoft-systems
+methodologyapproach can be helpful in capturing people’sinvolvement in a
+system. Soft systems methodology is an approach to business-process
+modelling which is useful for general problem-solving and managing change.
+The system was developed to deal with “soft problems” – those where there are
+divergent views and where organisations and people are key parts – with lots of
+similarities with public sector systems. In addition, value network analysisuses
+visualisation to understand complex economic systems.
+In our research, we experimented with a technique from soft-systems
+methodology calledrich picturing. When exploringan issue, we ran workshops
+with public sector groups working with open data, to visualise the relationships
+between organisations, technologies and datasets.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             14
+
+Patterns of open data use in
+public service delivery
+The following examples and analysis are our first attempt to describe
+specific impacts of open data on public service delivery. We are
+seeking input from within government and the broader open data
+community to help us identify and describe these impacts further.
+Those within the public sector are best placed to highlight the impacts of open
+data on public service delivery, and in many ways are the only ones able to
+describe them in detail. In many cases, there is a lack of transparency in the
+operation of public sector organisations. We need a detailed understanding of
+how services operate to begin to understand what effect data – open data in
+particular – has on the system.
+Following our initial research and interviews with experts, we identified examples
+to investigate in detail using our visualisation methodology. Given that we
+needed to engage with those working in the public sector in detail to understand
+the dynamics of public service delivery, we had to confine our analysis to UK
+examples for the time being.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             15
+
+The three patterns of open data for better delivery
+of public services
+We propose that open data can be used in the public sector to help deliver
+services in three ways. We call these “patterns” and have used them to group
+the examples in this work.
+The figure above shows that the patterns occur at different points of public
+service delivery, moving from direct impacts for the user (on the left) towards
+indirect impacts through better delivery and policymaking (on the right).
+High-level patterns of open data use:
+●Pattern 1uses open data to increase access to servicesfor
+citizens or organisations
+●Pattern 2uses open data to plan public service deliveryand
+make service delivery chains more efficient; direct
+beneficiaries
+ 
+are commissioners, managers and frontline
+public
+ 
+service
+ 
+workers
+●Pattern 3uses open data to inform policy-making;direct
+beneficiaries are elected representatives, policy-makers and
+citizens who want to influence policy
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             16
+
+The graphic shows how these patterns vary in terms of direct beneficiaries, and
+that we think they differ in the types of open data currently released and used.
+For instance, in Pattern 1 we find more examples of rapidly changing data being
+used – such as that released by Transport for London (TfL) – than in those
+patterns targeted at civil servants (Pattern 3).
+Impact is not limited to direct beneficiaries. It can extend to many, if not all,
+of those who deliver and receive public services. This report focuses on the
+benefits generated from open data. We recognise that open data can also create
+risks or feedback loops that have negative impacts and that potential outcomes
+should be carefully assessed on a case-by-case basis.
+The following sections look at the dynamics of the patterns in more detail.
+In presenting the ecosystems, we also explain how each was developed.
+This offers insight into how these arrangements came to be, and highlights
+important aspects of how open data supports particular services that are not
+obvious when looking at the ecosystem drawings in a fixed state.
+Note on visualisations
+The ecosystem maps were initially drawn in workshops with those involved in
+delivering the service; we then redrew them and structured them according to
+the types of data, information produced and direct beneficiaries (as in the
+diagram above). Finally an illustrator,Ian Dutnall,designed some of the maps to
+bring out the actors and processes more clearly. Examples below have
+ecosystem maps across these stages attached to them, including
+hand-drawings and designed pictures, to showcase the methodology. Some of
+the ecosystem maps that we present are those we have developed with an
+illustrator, some are the drawings from the workshops and in some instances we
+have not presented ecosystem maps, as further work to understand the
+ecosystem is needed.
+Pattern 1: open data for increasing access to public
+services
+The first is perhaps the most well-rehearsed pattern, since it clearly sets out an
+open data “startup” story – where organisations delivering public services can
+release data and a startup can take it to develop a product or service. These
+examples tend to be of customer-focused and in-person public services.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             17
+
+Example 1a. Transport for London release of transport data
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             18
+
+Transport for London – in a nutshell
+Transport for London (TfL) is a local government body responsible for the
+transport system in Greater London. TfL has the responsibility for London's
+network of principal road routes, for various rail networks including the London
+Underground, London Overground, Docklands Light Railway and TfL Rail, for
+London's trams, buses and taxis, for cycling provision, and for river services.
+How open data supports the delivery of Transport for London’s
+services: benefits to the public sector
+TfL is one of the UK’s leading open data publishers. With over 31 million
+journeys made in London every day,it has long recognisedthe need to make
+15
+travel information readily available to passengers. Publishing open data is a
+central part of TfL's customer information strategy of providing real-time
+information that helps people to use their services – it enables them to provide
+information about service locations, routes and delays to passengers far beyond
+their own online and offline channels.
+Transport for London’s story
+Towards the end of the 2000s, TfL found that developers were scraping
+information about its services from its website. In an attempt to enable others
+to more easily display this information on their own websites and desktops, TfL
+launched embeddable widgets – including maps of its network and live travel
+news – in 2007. While TfL still makes a set of widgets available,the launch
+16
+represented the beginning of a process in which the organisation would publish
+increasing amounts of data for others to access, use and share.
+Between 2007 and 2011, TfL introduced an area for developers on its website
+and openly published real-time transit data via a range of feeds and downloads.
+This helped to satisfy a growing demand for itsdata among developers, who
+17
+used it to develop user-facing journey planners and other applications. The
+anticipated influx of visitors to London during the 2012 Olympic Games was a
+stimulus for the introduction of live bus arrivals data, which led to a number of
+successful bus-only transport applications. Shortly after this came the launch
+of a new unified Application Programming Interface (API) for TfL’s website.
+The development of TfL’s unified API in 2014 and the decision to open it up to
+external users was an important step in the organisation’s open data journey.
+18
+Historically, the data it had published on different transport modes was made
+available in a variety of formats and structures, which made it difficult for
+developers to stitch together and develop multimodal applications (such as
+18
+See:
+https://tfl.gov.uk/info-for/open-data-users/unified-api?intcmp=29422#on-this-page-0
+17
+TfL also publishes open data related to transparency and accountability, such as
+details of its expenditure; this case study focuses on the organisation’s transit data.
+16
+Transport for London (n.d.), ‘Widgets’,https://tfl.gov.uk/forms/12425.aspx
+15
+Transport for London (n.d.), ‘What we do’,
+https://tfl.gov.uk/corporate/about-tfl/what-we-do
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             19
+
+those that enable users to plan a journey using both buses and the London
+Underground). The unified API presented the data in common formats (XML and
+JSON) and, for the first time, consistent structures.
+TfL’s open data now covers timetables, routes and lines, embarkation points and
+facilities, transit status, disruptions and works, and fares.According to recent
+19
+research by Deloitte,in total there are over 80TfL data feeds (75% of which are
+20
+available via the unified API) and over 13,000 registered developers.Data users
+21
+range from multinational technology companies to individual developers. The
+research has shown that TfL’s approach to open data is improving journeys,
+saving people time, supporting innovation and creating jobs.
+According to the Deloitte research, TfL open data is now used in over 600 apps
+(including journey planners, mapping tools, booking and scheduling tools, and
+analytics engines).42% of Londoners use an app poweredby TfL data and
+22
+passengers benefit from between £70m and £90m per year in time saved from
+using open data-powered applications to plan journeys more accurately. Up to
+£20m additional revenue is generated from increased journeys per year, driven
+by access to travel information, and £1m is saved per year by enabling external
+development of new customer-facing apps, rather than producing campaigns,
+systems and apps in-house. TfL save £2m annually by moving away from SMS
+passenger alerts and TfL open data currently supports 730 jobs, including those
+in new companies made viable through its availability.
+Insights
+Clearly describing the benefits of open data in relation to TfL’s wider
+organisational objectives has established a strong, ongoing case for its
+publication.Providing accurate and timely informationto passengers is central to
+TfL’s ability to deliver its physical services – open data enables developers and
+other organisations to develop customer-facing tools that do this on a scale that
+TfL could not do alone. Efforts to establish the value of the benefits of TfL’s open
+data approach include the Shakespeare Review,whichdocumented the
+23
+approach in a case study in 2013, and the Deloitte research commissioned by
+TfL that has estimated the total value of open data to the organisation,
+customers and others to be in the order of £130m per year.
+24
+24
+See Deloitte (2017), ‘Assessing the value of TfL’s open data and digital partnerships’,
+http://content.tfl.gov.uk/deloitte-report-tfl-open-data.pdf(p 5)
+23
+Gov.uk (2013), ‘Shakespeare review of public sector information’,
+https://www.gov.uk/government/publications/shakespeare-review-of-public-sector-infor
+mation
+22
+See Deloitte (2017), ‘Assessing the value of TfL’s open data and digital partnerships’,
+http://content.tfl.gov.uk/deloitte-report-tfl-open-data.pdf(pp 5, 9, 15)
+21
+Note that TfL still supports the use of some data feeds and bulk downloads that
+preceded its unified API. In some cases, these contain additional data not yet available
+via the unified API.
+20
+Deloitte (2017), ‘Assessing the value of TfL’s open data and digital partnerships’,
+http://content.tfl.gov.uk/deloitte-report-tfl-open-data.pdf
+19
+TfL Website (n.d.), ‘Our open data’,
+https://tfl.gov.uk/info-for/open-data-users/our-open-data?intcmp=3671
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             20
+
+Engaging with developers and other users has helped to build a vibrant
+ecosystem around TfL’s open data. Having begun with creating an area
+dedicated to developers on its website in 2007, TfL continues to engage with
+and provide support to users of its open data through hackathons, blog posts
+on its website, and other channels. In 2017 it launched the TfL Tech Forum and
+also ran a consultation focused on understanding how it could improve its
+open data publication.
+Publishing open data has supported conversations and partnerships between
+TfL and other organisations who hold valuable transit data. By making data
+available to others, TfL has benefited from engagement with companies such
+as Waze, Apple and Citymapper – some of which provide TfL with access to the
+data they collect. This includes data related to transport modes and areas for
+which it does not itself collect data (eg crowdsourced traffic incident data),
+giving TfL access to a rich source of data enabling them to better manage traffic
+in London than it otherwise could.
+A number of intermediary users combine TfL open data with data from other
+sources to create their own products and services. Organisations like ITO World,
+TransportAPI, Tom Tom and Elgin gather data from different sources to provide
+aggregated data feeds and additional services to developers and other
+organisations. This type of use demonstrates the need for transport data
+standards that allow interoperability – part of the value currently added by these
+intermediary users is to harmonise the data published by different transport
+operators and other organisations to make it easier to use and to develop new
+products and services.
+25
+As well as using open data published by TfL to increase access to the
+organisation’s physical transport network, some users are developing their own
+transport services. For example, CityMapper helps users make decisions about
+how to get from A to B in London using different modes of transport, which are
+managed and run by providers including TfL, Uber and Arriva. In 2017,
+CityMapper trialled the SmartBus, which uses data it collects on how users of
+its service move around the city to create the routes and timetables for the new
+SmartBus service.
+25
+The ODI is currently working with a wide range of stakeholders to support the
+development of open data standards. This includes producing a case study focused on
+the General Transit Feed Specification (GTFS), which is a widely adopted standard for
+public transportation data.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             21
+
+Example 1b. Leeds release of data in relation to bin collection
+Leeds Bins app – in nutshell
+The Leeds Bins app is a mobile application that tells people who live in Leeds
+when their green, brown and black bins are due to be collected, and adds
+reminders to their calendars. The diagram above is an example of a
+work-in-progress version of an ecosystem map, displaying the actors involved
+in the service delivery.
+How open data can support the delivery of waste management
+services: benefits to the public sector
+Open data on bin collection routes and times is used to inform people living in
+Leeds when their bins are collected. The application adds bin collection dates
+to people’s calendars, reminds them the night before to put out their bin, and
+includes links to what to put in which bin and where to take items that cannot be
+put into bins. The reminders make rubbish collection more convenient for
+citizens, and publishing open data – instead of sending out letters – saves the
+council approximately £100,000 per year based on estimations by imactivate.
+Leeds Bins app’s story
+Leeds has long seen open data as a means of supporting local economic growth
+while dealing with substantial reductions in local government spending power. In
+2014, Leeds Council decided to invest significantly in making open data work for
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             22
+
+the city. Leeds has a lot of digital talent and city leadership saw potential to
+showcase the city’s strengths to potential investors.
+In setting out the open data initiative, the council asked city departments what
+challenges they faced to consider how open data could help. The council
+assigned funding to encourage the release and use of open data to solve city
+challenges. TheUrban Sustainable Development Labwas one the programmes
+funded. An innovation lab was set up to generate ideas and pilot them. Some of
+the funding for this came from the UK’s national “Release of data” fund with
+extra local funding boosting this.
+26
+Leeds’ open data platformData Mill Northhosted anevent atODI Leeds, an ODI
+Node, with developers working with council departments – including office staff,
+frontline workers, and sometimes elected members – to consider how open data
+could be used for better service delivery. People working in waste management
+shared the problems they faced in their work, one being that people did not
+know when their bins were collected and were unhappy with the service as a
+result, and that the council had to mail out bin collection timetables either
+annually or twice-yearly, an expense that they increasingly could not afford.
+Data was made available for the event and developers built prototypes to
+address the identified problems.imactivate, a smallsoftware company in
+Leeds and partner organisations of ODI Leeds, developed a Leeds Bins
+prototype, initially as a website. This idea and three others from the other teams
+of developers were presented to the waste management department. A winner
+was selected and the Leeds Bins team got the funding to develop what later
+became a mobile application, due to the difficulty and cost of updating
+Leeds City Council’s website.
+Bartec Auto IDmanage the bin routes in Leeds andhave software that manages
+their bin routes and sends and receives live updates. Data Mill North worked
+with Bartec Auto ID to release household bin collection data openly, and the
+council included the open release of the bin collection schedule in its contract
+with Bartec Auto ID.DCLG (now MHCLG) had previouslydeveloped a standard
+27
+for publishing bin collection routing data with Bartec Auto ID, and other
+stakeholders, in theirLocal Waste Service StandardsProjectThat standard was
+used for this project. Imactivate developed theLeedsBins mobile application
+using the open bin route data. Uptake of the application has been fast and
+widespread, data on which is published openly.
+28
+The council uses open data on app usage to identify areas of low uptake, and
+has launched targeted initiatives to increase awareness of the application and/or
+promote other ways of informing people when their bins are collected, to reduce
+the risk of people without smartphones not receiving information about
+collection times. These targeted initiatives are more cost-effective than regular
+28
+Data Mill North (n.d.), ‘Leeds Bins app record of lookups’,
+https://datamillnorth.org/dataset/leeds-bins-app-record-of-lookups
+27
+Data Mill North (n.d.), ‘Household waste collections‘,
+https://datamillnorth.org/dataset/household-waste-collections
+26
+Data.gov.uk (2014), ‘Release of Data Fund Update’,
+https://data.gov.uk/blog/release-data-fund-update
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             23
+
+mail-outs. The open data on uptake allowed Leeds City Council to choose which
+channels to prioritise. This decision is difficult because it involves weighing up
+needs and costs. Data can inform these decisions but the council ultimately
+needs to make them democratically.
+Insights
+Starting with the problem, in this case people not knowing when to put out
+which bin, and working closely with the local authority on solving it with open
+data, has proven helpful in delivering a better public service. The ongoing cost
+to Leeds City Council for this solution is about £1,500 per year, significantly
+lower than mail-out costs.imactivate and BartechAuto ID are now selling the
+29
+app to other councils, powered by open data where possible and by direct
+data-sharing between imactivate and Bartech Auto ID where open data is not
+preferred by the local government, or where opening the data adds
+unacceptable costs (eg PAF licensing).
+29
+Numbers are based on estimations by imactivate.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             24
+
+Example 1c. Famiio improving access to childcare and family service
+information
+Famiio – in a nutshell
+Famiiois planning to provide a platform for informationon childcare and family
+services. Information on the platform will be available to the public, professionals
+and local and central government. Parents will be able to search and discover
+more than 500,000 services and activities across local authority borders in
+England; service providers will be able to promote their service offer effectively
+in one place; local authorities and commissioners will have access to better data
+more easily and cost-effectively, which in turn will help them to manage the
+childcare market and deliver “smart commissioning” of services.
+How open data can support childcare and family services: benefits to
+the public sector
+The UK Department for Education found that information about available
+services plays an important role in uptake of childcare by parents.The variety
+30
+of services available and the number of different service providers can make it
+difficult for parents to understand what services they can use. Once launched,
+Famiio will improve access to the right services for families that need them.
+Local authorities will be better able to direct citizens to the right service by
+providing help better and earlier through Family Information Services and by
+targeting services.
+In addition to providing information on available services to parents, the platform
+will also publish this information openly, to be reused by commissioners for gap
+analyses, to assist grant awards, and to be used by third parties. Famiio has the
+potential to help local authorities save costs in their internal information systems
+as information will be more readily available and it may become easier to match
+families’ needs with the existing services.
+For parents not able to or interested in using the Famiio interface, Family
+Information Services will be able to use the application and continue to provide
+more traditional support to parents. (This highlights the need for infomediaries
+that produce non-digital information.)
+Famiio’s story
+Most local authorities have a Family Information Service that provides
+information to parents about childcare and family services, the provision of
+which is a statutory responsibility of local authorities under the Childcare Bill
+2016. In 2008, the government initiated a project to aggregate information
+on all services available to families, including services not commissioned by
+local authorities.
+30
+Department for Education (2016), ‘Childcare and early years survey of parents 2014 to
+2015’,
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/516924/
+SFR09-2016_Childcare_and_Early_Years_Parents_Survey_2014-15_report.pdf.pdf
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             25
+
+This information was shared publicly, but not as open data. In 2012, this system
+was closed down under austerity measures.
+Famiio was conceived to help parents access services across borders between
+local authorities and to protect family information from the uncertainty of
+government funding.
+Statutory guidance for local authorities from the Department of Education
+specifies how local authorities should share information on childcare and family
+services, and suggests that as far as is reasonably practicable, data should be
+published in a reusable and machine-readable format based on open standards.
+31
+Local authorities will be able to use the Famiio platform to meet this guidance
+and, once the data is aggregated into the platform, parents will be able to
+access it free of charge, while local authorities and service providers will pay
+a subscription fee.
+Insights
+Funding is an essential part of an open data project. The potential of Famiio for
+better childcare and family services can only be realised once the organisation
+receives funding. Access to funding may be particularly difficult for organisations
+outside of government.
+31
+Department for Education (2017), ‘Early education and childcare. Statutory guidance
+for local authorities’,
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/596460/
+early_education_and_childcare_statutory_guidance_2017.pdf
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             26
+
+Pattern 2: open data for more efficient delivery
+chains and planning
+In this second pattern, we identify examples of open data release supporting
+planning and delivery. The direct beneficiaries are likely to be those in public
+sector organisations commissioning services and those in external organisations
+involved in service delivery.
+These examples highlight the role open data can play in better coordination
+between the public and private or third sector organisations involved and making
+the delivery of public services more effective and efficient.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             27
+
+Example 2a. Local authority publication of spend data
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             28
+
+Spend Network – in a nutshell
+Spend Networkpulls together spending, contract andtender data published
+by local authorities and other organisations in the UK. The organisation then
+provides insight and consultancy services to potential service providers to public
+sector organisations, and provides similar services back to government.
+How open data supports the delivery of local public services:
+benefits to the public sector
+Open data published by government organisations is analysed and repurposed
+by Spend Network to provide analysis, which will help make delivery chains and
+relationships between suppliers and buyers more efficient. The same (closed)
+data is used to save public money and improve the quality of services delivered
+to citizens.
+Spend Network’s story
+Inspired byWindsor and Maidenhead Council– whichhad started to release
+details of their spending in 2008 – the UK government, as part of the
+transparency drive in the previous coalition government, set out expectations
+32
+of the spend and transparency data it needed UK local authorities to publish.
+33
+For instance, this set out that all UK Local Authorities had to publish all spending
+transactions over £500 and all Government Procurement Card spending and
+contracts valued over £5,000. The policy motivation for these commitments was
+to ensure that taxpayers could have insight into how public authorities were
+spending money.
+Supported by guidance produced by the Local Government Association,
+34
+some local governments began to publish this data in open formats. In addition
+to spending data, data on let contracts was also made available.
+The councils were required to publish the data on their websites. Spend Network
+began to pick up the data and aggregate it across many different UK local
+authorities. Spend Network was launched in November 2013 using open data to
+create the first comprehensive and publicly available repository for government
+transaction data, a market worth in excess of £130b per annum. Spend Network
+has published over 100m transactions, worth in excess of £3t. The company has
+grown out of Ticon, a small consultancy focused on government procurement
+and payments, founded by Ian Makgill.
+34
+Local Government Association (2015), ‘Local transparency guidance’,
+https://www.local.gov.uk/our-support/guidance-and-resources/data-and-transparency/l
+ocal-transparency-guidance
+33
+SeeThe Guardian(2010), ‘Government data: full textof David Cameron's letter
+pledging to open up the datasets’,
+https://www.theguardian.com/news/datablog/2010/jun/01/government-data-david-came
+ron-letter
+32
+Gov.uk (2015), ‘Guidance Local government transparency code 2015’,
+https://www.gov.uk/government/publications/local-government-transparency-code-201
+5
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             29
+
+Spend Network provides services such as procurement intelligence to both
+small and large businesses who are providers of services to local government.
+It is also involved in a data reseller market to large consulting firms who then
+offer services back to the public sector.
+Spend Network data is standardised and linked and can be used to compare
+between bodies, regions or sectors. The ability to compare can help with
+spotting patterns and anomalies, which can then be addressed to improve the
+delivery process. The data can also be used to compare between suppliers;
+for example, comparing prices can inform spending decisions and lead to more
+effective allocation of resources.
+Spend Network also provides a service to government by re-publishing the open
+data made available according to theOpen ContractingData Standard(OCDS).
+OCDS was created by theOpen Contracting Partnershipand is used in many
+countries around the world. This makes it easier to scale. The team behind
+Spend Network are now using the standard and their experience gained in the
+UK to expand their tender-finding services worldwide using the brand name
+OpenOpps. FTSE 100 companies and the government usethe site.
+Insights
+Despite the guidance from central government on the publication of data by
+local authorities, Spend Network spends a lot of time and effort identifying,
+cleaning and analysing data. In this ecosystem, as an aggregator, they curate
+data, push for its publication when it isn't available, query quality issues and
+suggest improvements. They also lobby for data with copyrights to be
+published openly.
+However, despite the large amount of activity on both the part of Spend Network
+and public sector organisations, and despite the opportunities mentioned, we
+are yet to identify specific examples of where the data has been used to improve
+procurement in a public sector organisation.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             30
+
+Example 2b. NHS publication of open data
+NHS open data – in a nutshell
+The NHS spends over £110bn a year delivering health services in England and
+has a complex arrangement for providing these services at a local level.
+There are many organisations who variously support and oversee the design
+and provision of services. Many of these organisations collect and analyse data,
+which is used to analyse performance and improve quality and access to health
+services for citizens. The ODI undertook a workshop with members of NHS
+England and NHS Digital to begin to map out some of the key open data uses in
+the NHS. The NHS is a vast network of organisations and understanding the full
+position of use of open data would take considerable further research and
+expert knowledge.
+How open data can support the delivery of health services: benefits
+to the public sector
+The majority of data use within the NHS is individual-level data. This data is used
+for the delivery of direct care or, in pseudonymised or anonymised form, for
+research and planning. The data is made available to NHS organisations through
+the NHS DigitalSecondary Uses Serviceand to outsideorganisations through
+other means with appropriate controls in place. Some healthcare trusts have
+data-sharing arrangements with private, voluntary or academic sector
+organisations who also provide analytical insight and services to organisations
+at various levels within the NHS. Performance improvement organisations in the
+NHS such as clinical audits and theCommissioningSupport Units(CSUs)
+also use data and analysis in their work with health care trusts and
+Clinical Commissioning Groups.
+NHS open data story
+In our very cursory consideration of this area we identified some examples of
+open data use. The ODI has highlighted inthis blogposta number of key open
+35
+data sets which have been – and are being – published. A relatively well-known
+example of the potential of open data in the NHS is the use of open prescribing
+data.Practice-level prescribing datais publishedby NHS Digital every month.
+This is a list of all medicines, dressings and appliances prescribed by all
+practices in England, including GP practices. In 2012, Mastodon C and the
+Open Data Institute used this data to demonstrate the type of analysis that open
+data could provide. They issued a report highlighting the savings the NHS could
+make if they shifted from branded drugs to generic ones using the open
+prescribing dataset. Latterly, an organisation calledOpen Prescribinghas been
+using the data to provide ongoing analysis to the health service.
+There are also examples of open publication of data within the NHS that have
+been associated with clinical impacts. For instance, when MRSA instances were
+published as open data there was an 85% reduction in the number of cases,
+35
+ODI (2015), ‘How can open data help improve healthcare?’,
+https://theodi.org/blog/how-can-open-data-help-improve-healthcare
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             31
+
+though it is difficult to disaggregate the impact that publication has from things
+like media activity and quality and safety improvement work.
+Insights
+Although data is used routinely throughout the NHS, it seems from our initial
+research that the potential of open data is not fully realised. The few examples
+of open data publication are yet to show impacts in terms of changes to
+services, despite the promise that they show (eg prescribing data).
+The NHS open data agenda could perhaps learn from the tactics and
+approaches used in ecosystems that we have explored elsewhere, where
+connections have been made between the potential uses of open data and its
+publication, and feedback loops established. We recognise that this is a more
+complicated undertaking given that the NHS is a complex system and its data
+is also complicated. There may be an opportunity to use a “problem-focused”
+approach at Trust level and on data which is more able to be published due to
+its non-personal nature (e.g. around service provision).
+36
+36
+We welcome feedback as comments in the document or in an email to
+randd@theodi.org
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             32
+
+Example 2c. Urban Intelligence publishing local planning information
+Urban Intelligence – in a nutshell
+Urban Intelligence is a PlanTech startup developing a central repository of open
+information on UK planning policies. A tool calledHowardprovides a map that
+links planning policy information to its relevant locations, making it easier and
+quicker to navigate the complex planning policy landscape. Howard offers a
+mapping interface that allows property professionals to click on a site and get
+all relevant planning policy information for that site. It is the first centralised
+repository of planning policy information in the UK and allows planners to
+assess planning risks and opportunities associated with a specific location.
+How open data can support the delivery of urban planning services:
+benefits to the public sector
+Spatial planning and planning approvals are public services. The process is
+simpler if the relevant policies for each location and project are easier to find.
+Local authorities can use the platform free of charge to inform planning
+decisions, and with planning information available online, it is quicker and easier
+to provide this information to developers.
+Urban Intelligence’s story
+Urban Intelligence aggregates and organises information and data on planning
+policy from local councils, including policy documents and geospatial data.
+A number of local authorities have published their geographic data openly on
+data.gov.ukvia Ordnance Survey's “Presumption toPublish” process.
+Not all local authorities currently publish geographic data openly, which means
+the platform can’t currently cover these areas. Urban Intelligence works closely
+with local authorities to encourage them towards an open data approach.
+As a member of Ordnance Survey’s Geovation Hub and as Ordnance Survey’s
+partner organisation, Urban Intelligence has been developing their map feature
+usingOrdnance Survey MasterMap. OS MasterMap is asource of highly
+detailed geographic data about Great Britain, offering topographic, imagery and
+networks layers. OS MasterMap data is not open, but theAutumn Budget
+included a commitment that could lead to OS MasterMap data being made
+available as open data.Open OS MasterMap data wouldencourage more
+37
+services like Howard to emerge.
+The product is used by private sector organisations (planning consultancies,
+architecture practices, property developers, etc), who are often interested in
+understanding policy frameworks within and across different councils.
+Equally, local authority planning officers are provided with access to the
+platform for free to aid their work and service provision.
+37
+See ODI (2017), ‘What will the UK’s Geospatial Commission look like?’,
+https://theodi.org/blog/what-will-the-uks-geospatial-commission-look-like
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             33
+
+Insights
+Local authorities differ in the types and amount of data they publish openly.
+Actively working with them to support the release of open data to achieve
+benefits for the public sector appears to work well. There may be potential for
+peer-to-peer networks of local authorities at different stages of their open data
+progress. The development of new tools and approaches is made easier when
+geospatial data is made as open as possible. This should form part of any
+strategy to build stronger data infrastructure at local or national level.
+38
+38
+https://theodi.org/what-is-data-infrastructure
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             34
+
+Pattern 3 – Open data for policy development
+Finally, this group of examples centre around open data informing policy
+development and strategic direction. In these, the direct beneficiaries are
+involved in policy and strategy for the development of public services.
+Openness improves access to data across different branches of government
+and beyond, which can then be used to inform policy decisions.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             35
+
+Example 3a. The Department for Work and Pensions development of
+Churchill
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             36
+
+Churchill – in a nutshell
+Churchill is the working title for a digital data service being developed by the
+Department for Work and Pensions (DWP) that is run entirely on open data APIs
+and data published in CSVs from UK government sources. The service is
+a combination of a data visualisation tool built on D3 javascript libraries and
+a Mongo DB backend.This videoexplains Churchillbriefly.
+39
+How open data can support the delivery of DWP services: benefits to
+the public sector
+Churchill helps policy and delivery officials in DWP to develop more
+evidence-driven policy and services with data visualisations pulled from open
+data across government.
+DWP Churchill’s story
+The DWP has a history of making its statistical data available to the public
+through statistical publications and more recently through the online portal
+Stats-Xplore. There was arenewed expectation thatthe department would
+become more digitally driven,which has includeddata. This resulted in some
+40
+organisational restructuring to bring data teams and digital teams together.
+The new Director General, Mayank Prakash, also made a commitment to
+“driving hard for visualised analytics to be the normnot the exception”.
+41
+41
+Digital Leaders (2017), ‘Transformation and Innovation – use of data analytics in
+designing services’,
+https://digileaders.com/transformation-innovation-use-data-analytics-designing-services
+/
+40
+DWP Digital Blog (2017), ‘DWP Digital: Delivering the government transformation
+vision’,
+https://dwpdigital.blog.gov.uk/2017/02/17/dwp-digital-delivering-the-government-transf
+ormation-vision/
+39
+Youtube (2017), ‘Churchill, making better use of data’,
+https://www.youtube.com/watch?v=hn-Utxqjthg
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             37
+
+One of the data science teams based in Newcastle began exploring the user
+needs of policy colleagues in the DWP who use data to inform policy and service
+design. They undertook extensive user research with policy colleagues at Grades
+6/7 about what their needs were, and then developed a persona and elaborated
+the user needs for a new data-driven product. This work captured the level of
+data literacy as well as the current workflows and packages being used. They
+also considered other products and services that could be used by policy
+professionals and analysts in the DWP, such asLGInformdeveloped by the
+Local Government Association, which pulls togetherdata from DWP as well as
+data published by local authorities. The eventual approach to the product was
+inspired by the world of data journalism, including that used by ONS on their
+ONS.visual site, which creates a number of statisticalvisualisations based on
+user research.
+An prototype of the software was developed in DWP. It draws on data available
+from open data APIs across government, which is then copied into a database
+and updated regularly. A key part of the development was to make sure that the
+platform satisfied DWP security protocols – the system was set up from scratch.
+The frontend visualisation is run on theD3 javascriptlibrary. Part of the
+development of the product has beenworking in theopen.
+42
+There were a number of reasons for using open data to power the service.
+First, in some instances, it is easier to access open data than it is to access
+shared data. Second, some of the interviewees saw open data as trusted data
+as it has gone through a process of quality assurance prior to publication.
+The product was launched internally to demonstrate the possibilities to
+colleagues. Subsequently, Churchill has attracted interest from other
+government departments andhas been profiled externallyas well as having
+43
+had interest from the Canadian and Australian governments.
+The main potential impact of this use of open data and the development of
+Churchill is likely to be the reduced amount of time that policy colleagues and
+analysts in the DWP will need to spend accessing, cleaning and analysing data.
+This may also support more iterative and agile policy development as issues can
+be investigated more quickly. Potentially, the tool could help release the resource
+of an analyst.
+Quicker data access and analysis can free up resources to better focus on policy
+and strategy decision-making. In addition, better data quality and better data
+visualisation can support more informed policy and strategy decisions.
+Availability of data visualisations of related services means it is easier to spot
+dependencies and relationships that need to be considered in service design
+and the direction of policy decisions. An example of this could be more effective
+job seeker allowance policy. This is in line with government aspirations set out in
+43
+apolitical (2017), ‘How can policymakers get the most out of data? Ask Churchill’,
+https://apolitical.co/solution_article/can-policymakers-get-data-ask-churchill/
+42
+DWP Digital Blog (2017), ‘Data for people who don’t like data’,
+https://dwpdigital.blog.gov.uk/2017/02/24/data-for-people-who-dont-like-data/
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             38
+
+the recent Government Transformation Strategyto make better use of data by
+44
+making it available for internal uses through APIs.
+If the tool was shared across government there would also be a strong
+value-for-money benefit in the reduction of each department procuring individual
+solutions, as well as the productivity impacts. In the longer run, it could support
+greater standardisation of geographical data across government as civil servants
+will be more able to spot the datasets that need standardisation by attempting to
+use them through the tool. Use will also likely highlight anomalies or
+inconsistencies, which will help to improve the quality of government open data
+as there is a greater link between those who collect the data and those who are
+using it.
+Insights
+The release of open data has brought innovation within government. Churchill’s
+development by a team within DWP is only possible if data is opened up; open
+data innovation leadership can come from unexpected places.
+Digital transformation tools and approaches have supported the development of
+a data product. One of the key drivers of Churchill’s development was that it was
+incorporated within a broader digital transformation agenda within the DWP,
+which gave energy and process to the development.
+44
+HMG (2017), ‘Government Transformation Strategy’,
+https://www.gov.uk/government/publications/government-transformation-strategy-2017-
+to-2020/government-transformation-strategy#build-better-tools-processes-and-governa
+nce-for-civil-servants
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             39
+
+Example 3b. Cabinet Office release of government grants data
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             40
+
+Government Grants Information System – in a nutshell
+TheGovernment Grants Information System (GGIS)providesinformation
+on grants worth £100 billion (2016–2017) from 16 government departments.
+45
+Grants range from government funding for schools, to UK Sport grants,
+to funding for bus service operators.
+How open data can support the delivery of grant-funded public
+services: benefits to the public sector
+Access to grants data provides government and external organisations with
+opportunities to assess resource allocation on a national as well as on a more
+granular level. This contributes to transparency, efficiency and effectiveness
+in government.
+Government Grants Information System’s story
+The grants team within the Cabinet Office receive data from 16 central
+government departments (including HM Treasury, who make payments to
+departments to award grants but who also issue grants directly) on the grants
+they pay out to about 35 organisations – for example, schools, UK Sport
+organisations, or bus service operators. The total annual amount of grants
+in GGIS is about £100 billion.
+46
+The 16 departments use their individual legacy systems to manage data.
+To arrive at a common format, the departments transfer the data into a template
+spreadsheet, which they send to the grants team in the Cabinet Office, where all
+data gets aggregated in GGIS. Grants are structured in schemes, which are
+broken down into individual awards. The majority of grants data is broken down
+into awards but some of it is on a scheme level. The system generates unique
+identifiers on an award and scheme level to allow detailed analysis. This data is
+openly available to download in csv format.
+The Cabinet Office use the data internally to inform policies and spot
+opportunities for efficiency gains across government. GGIS data also feeds into
+thegovernment grants register, where it can be downloadedin csv format.
+The data also feeds into360Giving, who support fundersto publish their grants
+data openly and in a comparable way on the open data platformGRANTNAV,
+under the360Giving Standard.
+GGIS offers transparency in the grants system, which makes up a substantial
+share of the UK budget, and allows anyone to use this data to analyse grant
+flows in the UK. Central government benefits from having a single source of data
+in a common format to get a broad view across departments and to design an
+intelligent grants system.
+46
+Gov.uk (n.d.), ‘Government grants register’,
+https://www.gov.uk/government/publications/government-grants-register
+45
+Gov.uk (n.d.), ‘Government grants register’,
+https://www.gov.uk/government/publications/government-grants-register
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             41
+
+Individual departments benefit from understanding their own grant flows better
+and identifying overlaps or synergies with other departments. As services
+become more integrated, departments need to break down silos and understand
+their role as part of a larger ecosystem; having sight of grants can help with that.
+Open grants data also enables an assessment of particular programmes that are
+run across departments.
+360 Giving have launched aChallenge Fundto identifywhat questions need
+47
+answering and how open grants data can help. Participants submitted questions
+about the geographical distribution of grantsandthe types of organisations
+48
+that receive grants.This initiative suggests thatopen grants data is used to
+49
+answer important questions about access to funding for the delivery of
+public services.
+Outside of government, the media, civil society and individual citizens can use
+data to analyse grant flows or find out how much funding a local organisation
+receives. Grant recipients can compare their own grants with those of similar
+organisations and prepare targeted applications.
+If open grants data is linked withOpen Contractingdata from the Crown
+Commercial Service, it would be possible to identify the total amount of funding
+received by an organisation in grants and project funding.
+Open grants data refers to grants awarded. Ideally, in future this could be
+compared with actual spending to get a full picture.
+Insights
+Sourcing data from different departments with their own legacy data
+management systems and publishing it on different databases highlights the
+importance of common data standards and formats that make it possible to
+aggregate and compare datasets.
+49
+See for example Forum 360Giving (2017), ‘Core or project funding’,
+https://forum.threesixtygiving.org/t/core-or-project-funding/121?u=natalia
+48
+See for example Forum 360 Giving (2017), ‘Profile by where there are geographical
+gaps?’,
+https://forum.threesixtygiving.org/t/profile-by-where-there-are-geographical-gaps/133
+47
+360Giving (2016), ‘Challenge Fund – seven weeks in’,
+http://www.threesixtygiving.org/2018/01/03/challenge-fund-seven-weeks-in/
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             42
+
+Insights from examples
+There are some similarities across the examples which are worth elaborating on.
+We can group these in terms of organisations and processes, and in terms of
+effects and outcomes.
+Organisational collaboration
+A key characteristic is that each of the ecosystems is made up of organisations
+that all play a discrete role in the delivery of a public service.
+This characteristic is perhaps highlighted by the fact that in none of these
+examples is one organisation responsible for the end-to-end delivery of public
+service. Each of these public services in each of the ecosystems can only be
+delivered if a number of organisations and individuals within those organisations
+have the resources and appropriate knowledge to do their jobs correctly. When
+working across organisations, the need for easy access and use of data
+becomes even more important. In this way, open data can be said to be a
+key ingredient in ensuring greater coordination, more efficiency and a better
+end-user experience.
+●
+In the Leeds City Council example (1b.), Bartec and imactivate jointly
+deliver the waste collection service
+●
+In the Urban Intelligence example (2c.), local planning involves councils,
+developers and landowners and planning is made more efficient by the
+service offered by Urban Intelligence
+Technology infrastructure, digital skills and literacy
+Another aspect of each of the ecosystems is the importance of technology.
+There is a minimum level of digital infrastructure, skills and literacy, and
+capability needed for public-sector organisations to make the most of open data
+in their public-sector delivery model. This does not just relate to the technology
+within the public sector but also within the wider ecosystem of the private sector
+and civil society.
+●
+In the Leeds City Council example (1b.), Leeds City Council saw value
+in open data and technology for local service delivery. This led to an
+exploration of how open data can solve real problems and made the
+development of the Leeds Bins app possible.
+●
+In the Familio example (1c.), guidance from the Department for Education
+on the potential of open data for service delivery is an important success
+factor. In order for councils to make use of the data, a minimum level of
+digital skills and literacy are necessary.
+●
+In the Cabinet Office example (3b.), a dedicated team in the Cabinet
+Office, through their understanding of the opportunities provided by
+technology and data, support the establishment and use of the
+Government Grants Information System.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             43
+
+Foundational data infrastructure
+A data infrastructure consists of data assets, the organisations that operate and
+maintain them, the technologies and processes required to use the data, and
+more. Strong data infrastructure opens up new opportunities– it makes it
+50
+easier for others to use data to create new products and services, or develop
+new insight, and it can support diverse data ecosystems. Often, data
+infrastructure will include foundational datasets that support a broad range of
+uses, particularly if made available as open data that anyone can access, use
+and share.
+There are a number of key types of datasets that support the different
+ecosystems we have identified. Given the nature of the discussions in the
+interviews and workshops we held we cannot necessarily be sure that the most
+important datasets were always highlighted, although geospatial data such as
+maps, addresses and boundaries were of particular importance in at least half of
+the ecosystems. They help members of the public and people within government
+make sense of other data.
+●
+In the TfL example (1a.) data describing the location of stations is often
+used to help people access the most relevant transport options nearby.
+●
+In the Urban Intelligence example (2c.), geographical data is at the core
+of the tool Howard – which provides a map that links planning policy
+information to its relevant locations – making it easier and quicker to
+navigate the complex planning policy landscape.
+●
+In the Churchill example (3a.), administrative geography data is important
+in understanding relationships with other open datasets.
+Open standards for data
+Data standards were used in open data releases across most of the ecosystems.
+For instance, a data standard was developed following the development of the
+Leeds Bins app.
+●
+In the example on local authority spending (2a.), two international
+standards have been central to reducing the additional data preparation
+and increasing the value of the data released.
+●
+In the Cabinet Office example (3b.), receiving grants data from different
+departments across government with their own individual financial
+systems highlights the importance of standards.
+Senior-level championing
+In many of the examples, we found that systems matured best when the open
+approach was championed at the senior level. This can be a councillor, minister
+or a senior individual, depending on the type of organisation. These senior
+leaders highlight the strategic opportunity that the organisation has in releasing
+open data, prioritise resources to focus on it, and give cover for others to
+overcome internal resistance elsewhere in the organisation.
+50
+https://theodi.org/what-is-data-infrastructure
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             44
+
+●
+In the Leeds City Council example (1b.), the City Council’s drive and
+initiative has been a key success factor, which led to problems being
+articulated, solutions being developed, open data being included in the
+contract with Bartec, and finally the Leeds Bins app.
+Peer networks
+As well as the senior leaders in these ecosystems, there was also a pattern
+of peer networksacross organisations helping to encouragedevelopment.
+Equally, closed data ecosystems can be developed with networks and
+connections among key individuals. However, in the case of these open data
+ecosystems it seems that influential networks may use different, more open,
+channels and approaches – for instance connections through Twitter, blogging,
+andunconferencessuch asOpen Data Camp,LocalGovCamp,etc (2a.).
+This is currently anecdotal, and further research could look in more detail at
+whether there is clearer evidence that processes and opportunities like these
+have made a difference in the approach that some of these open data
+ecosystems have taken.
+Intermediaries
+Key players within many of these ecosystems (1a., 2b.) are data intermediaries,
+organisations which have a specific role in ensuring that the open data the
+public sector organisations make available is usable by other organisations.
+These intermediaries take data published openly or shared by the public and
+private sector and can undertake a number of activities such as aggregating
+data from a number of sources, standardising it and making it more usable by
+others. The role of these organisations is not always obvious from a cursory
+description of the effect of open data and can be missed from a description of
+how open data is actually used to deliver a service. The exact form of the
+intermediary and the activities they undertake can also belie the maturity of the
+particular ecosystem.
+●
+In the Familio example (1c.), different providers, coordinated by the
+council, deliver childcare and family services, and Famiio improves
+access for citizens. The example highlights that it is important to consider
+intermediaries and the role they play in the delivery of a service.
+Problem focus
+Where services have more successfully integrated open data in their delivery,
+they have had processes that work to solve a particular problem that the
+organisation is focused on rather than publishing open data for the sake of it.
+●
+In the DWP example (3a.), the team developing the Churchill service took
+a user-centred design approach to understand how government policy
+officials used data, and then sought out relevant open data to incorporate
+into the product.
+●
+Similarly, in the Leeds City Council example (1b.), the app came out of an
+acceleration programme to identify service issues which could be tackled
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             45
+
+through the use of data and identified a specific problem of citizens not
+knowing when their bins will be collected, which then drove the
+development of a solution in the form of the Leeds Bins app. Different
+approaches might also be successful in identifying how open data can
+support the delivery of public services, but focused activity might be able
+to identify opportunities more easily.
+●
+In examples 2a. (Spend Network), 2b. (NHS) and 3b. (Cabinet Office)
+we can see a focus on the publication of open data rather than on a
+problem. This might explain why these ecosystems are less mature in
+their development than some of the others and why we found fewer
+use cases.
+Open innovation
+Early releases of open data seem to have helped push forward and identify
+further possibilities for improvement, which created impact in service delivery.
+For instance, in the case of TfL the release of a small number of datasets as
+feeds eventually led to the development of a more openAPIsystem
+– a development which might not have happened if closed data-sharing
+agreements had been made. In addition, in several of the ecosystems we
+concluded that choosing an open approach to data publication has attracted
+more external interest and involvement than if the public sector organisation
+had taken a closed approach.
+●
+As an example, TfL are now be able to claim the involvement of more
+than 14,000 developers in their data, which would have been difficult
+if they had had to make arrangements to grant each of these
+specific access.
+●
+In examples 1c. and 2c., organisations outside the public sector have
+developed solutions for problems in delivering public services. This is
+made possible by sharing the challenges and releasing the relevant
+data openly.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             46
+
+Recommendations
+Based on the work undertaken so far, we have developed
+recommendations for a range of actors in order to
+support greater use of open data in the delivery of
+public
+ 
+services.
+These are initial ideas: we would value feedback on themand will also test
+51
+them throughout the rest of the project. We have organised them according
+to the main insights that we have identified from the research so far. These
+recommendations are also based on the experience the ODI has gainedworking
+with governments internationally to develop their open data programmes.
+52
+The main audience for the recommendations are those working in the public
+sector and thinking about how to support their open data ecosystem to help
+deliver their public service. However, we have also identified specific ways that
+central government could support each of these aspects and have flagged these
+up where relevant.
+Organisational collaboration
+●
+In starting to explore the ways in which open data can support the
+delivery of a service, be clear about which organisations are involved,
+both within and outside of government.
+●
+Recognise that there are players in an open data ecosystem beyond
+publishers and users. How data is licensed and published shapes those
+ecosystems by making some roles more or less viable.
+Central government recommendation: fund public sector
+organisations to experiment with using open data to support
+the delivery of public services
+The availability of funding for activity is a key determinant of activity. We
+received 24 responses to the invitation to tender for the Stimulus Fund aspect of
+this project. We could have funded more consortia if we had had the resources
+to do so. There is clearly appetite within local government to undertake
+experiments in this area but there are funding challenges. Central government
+should consider funding further activity in this area to help develop these new
+patterns and deliver better services to citizens.
+52
+ODI (2015), ‘Open data in government: how to bring about change’,
+http://opengov.si.md/wp-content/uploads/2015/02/255887396-Open-data-in-governme
+nt-how-to-bring-about-change.pdf.
+51
+We welcome feedback as comments in the document or in an email to
+randd@theodi.org.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             47
+
+Technology infrastructure, digital skills and literacy
+●
+Consider how a focus on the potential of open data to support your
+service could be undertaken as part of any digital transformation in
+your organisation.
+●
+Ensure that you have the appropriate underlying technology and skills.
+●
+Support staff to use open data in public service delivery with practical
+tools and approaches
+Central government recommendation: train public sector staff how to
+use open data in public sector delivery
+In the fieldwork, participants referred to the Government Digital Service (GDS)
+leadership on service design as best practice. This extended to the curriculum
+for the GDS academy and the GDS service design manual, which were influential
+both for public sector staff and the training courses they received from public
+and private sector training providers.
+As part of the expansion of the curriculum of service design training towards
+covering data and technology roles and digital competencies, we recommend
+developing specific content for this. This would build on some of the insights
+from this research to help those in non-technical roles understand how open
+data can support services at a strategic level. By including content on this
+topic in the core curriculum, we would hope to influence broader training
+activity to also encompass this topic and hence increase use of open data
+in public service delivery.
+Data infrastructure
+●
+Public services are underpinned by data infrastructure.It is essential
+53
+that this data infrastructure is as open as possible, while respecting
+privacy, to support innovation and encourage the creation of efficient
+and effective services.
+Open standards for data
+●
+Explore whether open standards are already developed for the data that
+your service supports.
+Senior-level championing
+●
+Ensure that senior management and elected representatives are aware of
+the opportunities to use open data to deliver your services and champion
+its use in delivery.
+Peer networks
+●
+If you have not already, join existing networks on Twitter and through
+unconferences such asUKGovCampandLocalGovCamp.
+53
+https://theodi.org/what-is-data-infrastructure
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             48
+
+●
+Create a network of those who are interested and involved in using open
+data for public service delivery.
+●
+Allow members of your organisation to network across and outside
+your organisation.
+●
+The ODI has recently published amethods paper ondeveloping peer
+networks for open data leaderswhich contains morerecommendations
+for activities.
+54
+Intermediaries
+●
+When looking to elaborate the broader ecosystems, identify and establish
+relationships with intermediary organisations who are adding value by
+taking and transforming their data for other purposes.
+Problem focus
+●
+Focus initial discussion of an open data approach to service delivery
+on the issue you are trying to improve in the service rather than the data
+that is available. Always link the benefits of the publication or use of
+open data to your organisation’s overarching or fundamental goals
+and objectives.
+54
+ODI (2016), ‘Method report: Peer networks for open data leaders’,
+https://theodi.org/method-report-peer-networks-for-open-data-leaders
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             49
+
+Next steps
+To carry the research findings forward, we will pilot learning materials
+and continue working with the Stimulus Fund consortia to experiment
+with redesigning public services using open data.
+Learning materials
+We are developing and testing a range of learning materials with different
+audiences within the public sector.
+These will build on the learnings from this report and the materials which are
+being developed by the four consortia that are part of the Stimulus Fund.
+Specifically, we will also continue to develop the ecosystem mapping
+methodology. So far, in the fieldwork and broader engagement undertaken
+in this research, we have received positive feedback regarding ecosystem
+mapping as a way to elaborate and understand how open data can make
+public service delivery better.
+We will further develop the methodology in the remainder of our research.
+In particular, we will:
+●
+adopt the methodology to document the work undertaken in the four
+Stimulus Fund consortia
+●
+examine how this methodology can be used as one of the learning
+materials developed in this project
+●
+extend the methodology to other aspects of theODI’sR&D programme,
+including itsopen standards for dataproject
+●
+explore how this methodology can more systematically capture the
+commonalities identified between ecosystems in this research, such
+as the foundational data, open standards used, etc.
+Stimulus Fund
+The four Stimulus Fund consortia will finish their redesign of a public service
+using open data. They will create design patterns and capture the effects open
+data has or will have on the delivery of their public service. Along the course of
+the funding period, they will capture their learning and develop tools and
+approaches that they find useful as part of their redesign process. We will share
+the design patterns, tools and approaches openly on ODI’s website as resources
+for other councils that want to redesign public services using open data.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             50
+
+Method
+Having settled on a working definition of a public service, we started our
+research by compiling a database of UK and international examples to identify
+which examples to pursue.
+These examples came from three sources. First, there were those which were
+already known to members of the ODI through its global work with the public
+and private sector.
+A second source was a broad internet search and screening research
+organisations that had similarly been focusing on the open data agenda.
+This included organisations such as Open Knowledge, GovLab, the Knight
+Foundation and Sunlight Foundation, amongst others. In addition, we looked
+at open data portals where they listed examples of use.
+Finally, we undertook a search of reports and other documents published on
+the topic of data use within UK government, with a specific focus on open data.
+We supported this secondary research by primary research interviews with
+experts from the community. These interviews highlighted examples and helped
+to develop and expand our approach and explanatory framework for the rest of
+the project.
+The details in the examples were mostly captured in workshops with individuals
+who had a close working knowledge of the area. We spent the majority of the
+workshop time working with the participants to draw a rich picture of the
+example identified and talking through the key aspects that emerged.
+Working with illustratorIan Dutnall, we have translatedthese rich pictures into
+more schematic diagrams and accompanied them with a written description
+of the key characteristics of each. We have tried to make these examples as
+comparable as possible but due to their subject matter and the insight of the
+individuals, there may be differences in detail.
+In the process of developing the illustrations and drafting the descriptions of the
+examples, we have reconfirmed the detail with relevant individuals and, where
+appropriate, have omitted commercially sensitive or otherwise confidential
+information at their request.
+Open Data Institute 2018 / Using open data to deliver public servicesWhat data publishers need             51

@@ -1,0 +1,2216 @@
+
+
+
+
+Contents
+Contents1
+About this report3
+Summary4
+National data economies: an overview4
+High-level sector mapping: an overview6
+Finance6
+Transport7
+Artificial intelligence8
+Healthcare9
+Energy and utilities9
+Defining the data economy10
+Germany11
+Mapping the data economy11
+Data legislation and regulation13
+Key legislation and regulation13
+Impact of GDPR and the European ePrivacy Regulation15
+High-level market analysis16
+Finance17
+Transport18
+Artificial intelligence19
+Healthcare20
+Energy and utilities21
+France23
+Mapping the data economy23
+Data legislation and regulation24
+Key legislation and regulation24
+Impact of GDPR and the European ePrivacy Regulation25
+High-level market analysis25
+Finance25
+Transport27
+Artificial intelligence28
+Healthcare29
+Energy and utilities29
+1
+
+Netherlands31
+Mapping the data economy31
+Data legislation and regulation33
+Key legislation and regulation33
+Impact of GDPR and the European ePrivacy Regulation34
+High-level market analysis35
+Finance35
+Transport36
+Artificial intelligence38
+Healthcare38
+Energy and utilities40
+Belgium41
+Mapping the data economy41
+Data legislation and regulation42
+Key legislation and regulation42
+Impact of GDPR and the European ePrivacy Regulation44
+High-level market analysis45
+Finance45
+Transport46
+Artificial intelligence46
+Healthcare47
+Energy and utilities48
+Appendix 1: methodology50
+2
+
+About this report
+From April 2018 to March 2019, the Open Data Institute will be working to support international
+trade opportunities for data-enabled businesses - in particular, in Germany, France, the
+Netherlands, and Belgium. The ODI commissioned this report from Oxford Insights to help inform
+its decisions about how best to invest time and effort in 2018-19.
+3
+
+Summary
+This report is a high-level analysis of the data economies of Germany, France, the Netherlands, and
+Belgium: ‘sizing the prize’, mapping out key stakeholders, and assessing the impetus for change.
+Our emphasis was breadth rather than depth, with a view to directing future research and
+development resources.
+Our analysis is divided by country, with each consisting of the following sections: mapping the data
+economy; an overview of relevant data-related legislation and regulation, including the likely impact
+of GDPR; high-level qualitative mapping of the finance, transport, artificial intelligence, healthcare,
+and energy and utilities sectors.
+The four countries reviewed are all making strong progress both in opening up and capitalising on
+the value of data, but this progress is uneven across countries and sectors.
+National data economies: an overview
+Different pictures emerged of the data economies in each of the countries we studied. The four
+economies range in size: Germany is the largest economy in the EU, France the 3rd, the
+Netherlands is 6th and Belgium 9th.However, in termsof the EU’s Digital Economy and Society
+1
+Index (DESI), which measures digital performance and competitiveness, the most advanced digital
+economy of this group is the Netherlands, which is 4th, and Belgium is 6th, while Germany and
+France lag behind them at 11th and 17th respectively.Digital progress is not dictated purely by
+2
+economic might.
+Source: World Bank
+3
+3
+World Bank (2017) DataBank
+2
+European Commission (2017) The Digital Economy AndSociety Index (DESI)
+1
+Eurostat (2017) Share of Member States in EU GDP
+4
+
+Source: EU Digital Economy and Society Index 2017
+4
+The Global Open Data Index, which measures open government data publication, told a further
+story: France is the leader here, in 3rd place, while the Netherlands (20th), Belgium (22nd) and
+Germany (24th) all perform relatively poorly given their high DESI rankings and large economies.
+Source: The Global Open Data Index 2017
+5
+5
+Open Knowledge International (2017) Global Open DataIndex
+4
+EU Commission (2017) The Digital Economy and SocietyIndex
+5
+
+The International Data Corporation’s 2017 reportinto the European data market reports on the
+6
+value of the data market for each country. These findings are displayed in the graph below. In the
+EU, Germany’s data market is the most valuable, France’s is third, e Netherlands’ is sixth and
+Belgium’s is eighth. As per IDC analysis, this suggests that all the countries studied here already
+have relatively high market penetration of data products and services. All are therefore theoretically
+well positioned to take advantage of the economic benefits of the data economy.
+Graph displaying the value of European countries’ data markets. Source: European Data Market Monitoring
+Tool, IDC October 2016
+7
+High-level sector mapping: an overview
+Finance
+All of the countries studied here have reasonably strong and growing FinTech sectors. There is also
+a trend of banks in these countries successfully collaborating with tech firms and taking advantage
+of the opportunities presented by big data and new technologies. They have varying rates of
+consumer FinTech adoption amongst the digitally active population, however (as displayed in the
+graph below): Germany leads with 35 percent; France has 27 percent; Netherlands has 27 percent;
+and Belgium and Luxembourg together have 13 percent (the average of countries studied was 33
+percent).
+8
+8
+Ernst and Young (2017) EY FinTech Adoption Index2017
+7
+Ibid.
+6
+International Data Corporation (2017) European DataMarket: Final Report
+6
+
+Source: EY FinTech Adoption Index 2017
+9
+In the Netherlands, there is political will to drive the FinTech sector, with the 2017 coalition
+agreement explicitly recognising the value of innovative financial technology and recognising the
+need for relaxing regulation to foster innovation. Applications of big data in banking is one of the
+focus areas of the country’s Commit2Data programme. The Belgian government has similarly
+acknowledged the value of the sector, with Finance Minister Johan van Overtveldt seeking to build
+bridges with UK FinTech firms to maintain links after Brexit. The German government has, amongst
+other measures, set up FinCamps to promote dialogue with German FinTech companies. The
+French government has similarly sought to attract FinTech from the UK after Brexit.
+Transport
+Given the integrated nature of Europe’s transport network, there is a significant amount of EU-level
+cooperation and initiatives involving big data and tech to improve transport. All four countries are
+part of the EU’s C-Roads project, which aims to use tech to enable vehicles to communicate with
+one another as part of a move towards a smart roads network.
+At a national level, there is a policy focus on intelligent transport and autonomous vehicles, with
+governments such as Germany and the Netherlands stating their intentions to make progress in
+these areas. There has been significant private sector innovation in the transport sphere, as seen in
+the success of companies such as German taxi-hailing app Mytaxi and French ride-sharing app
+BlaBlaCar. There is also a trend of more traditional transport industry giants investing in innovative
+new tech companies, such as Daimler buying a share of Mytaxi, Volkswagen investing in
+taxi-hailing app Get, and TomTom buying a self-driving car startup.
+9
+ibid.
+7
+
+Artificial intelligence
+Under Macron, France is taking a number of steps to reverse its traditionally anti-tech,
+anti-entrepreneur image. AI has been a focal point of the current administration, including the
+country becoming one of the first ten in the world to publish a national AI strategy (#FranceIA), and
+Macron recently announcing €1.5 billion of investment into AI research.Germany, the
+10
+Netherlands and Belgium currently do not have comprehensive national AI strategies, although the
+German and Dutch governments seem to be more committed than the Belgian government to
+making AI a national priority area based on statements and policy documents.
+Source: Asgard
+11
+In the private sector, the capital cities of each of these countries except Belgium are major tech
+hubs: Berlin, Paris and Amsterdam are the 2nd, 3rd and 6th biggest AI startup hubs in Europe
+respectively.Germany also has Munich at 5th positionand Frankfurt at 11th, and the Netherlands
+12
+has the Hague at 13th. Although Belgium tends to lag behind the other three countries in terms of
+its AI sector, it does still have two of the top 15 hubs of AI talent in Europe: Brussels (12th) and
+Antwerp (14th).
+13
+At the EU level, there is the issue that amounts of data available for training algorithms for AI is very
+different to, for example, the US, where there are huge data lakes held by commercial companies,
+or China, where Alibaba can be trained using government data. The fragmented nature of data
+across the EU limits the speed of developing AI.
+14
+14
+Interview with Ton Zijlstra, European open data expert, 12 April 2018
+13
+Tibau, F. (2016) Brussels and Antwerp in top 15 EuropeanAI hubs, Startups.be
+12
+ibid.
+11
+Fabian (2017) The European Artificial IntelligenceLandscape
+10
+Cerulus, L. (2018) Macron: France to invest nearly€1.5B for AI until 2022, Politico
+8
+
+Healthcare
+Most countries have struggled with the issue of how to handle personal privacy when considering
+how to capitalise on patient data to enable large-scale digitisation of healthcare. Belgium and
+France have recently announced new regulations or amendments to existing regulations to address
+this, but cumbersome regulation remains a limitation to eHealth in Germany, in particular.
+All the countries included in this report recognise the potential of eHealth and the need to digitise
+healthcare, but large-scale digitisation seems to remain fairly elusive. The Netherlands, Belgium and
+Germany have established or plan to establish ‘Health Valleys’ to encourage cooperation between
+the public and private sector to foster innovations in the field of eHealth. This is a key area in which
+other governments may learn from the UK, as the NHS is a good example of the opening up of
+selected healthcare data, and how this can be used to make the system more efficient.
+Energy and utilities
+Across Europe, governments are seeking to make the transition toward greater use of renewable
+energy sources, a process which most recognise will require greater reliance on digital technologies
+and the use of big data. Smart networks featuring smart grids and smart meters to transmit data
+on energy consumption are an extremely popular innovation in all four countries and a useful
+source of big data. Using this data is not always straightforward, as seen in the Netherlands where
+public-private energy transporters can be forced to turn down open data requests due to privacy
+concerns and contractual confusion around the conditions under which public and private entities
+and individuals share their data into the pool.
+15
+Partly as a result of EU directives to liberalised energy markets, there has been major innovation
+taking place in the energy sectors of the countries in this report. This has led to movement away
+from traditional oligopolies consisting of a small number of energy giants in each country, which
+has created space in the market for smaller digital and data-driven companies to flourish. As a
+result, start-ups are springing up with solutions for problems such as how to optimise energy use
+using customer data, and how to store energy from renewable sources. The field of ‘clean tech’
+startups in each of these countries is rapidly developing and highly innovative, and will be worth
+monitoring closely over the coming years.
+15
+ibid.
+9
+
+Defining the data economy
+There is a lack of consensus regarding the definition of a data economy. We considered a number
+of possible definitions, including an attempt to crowdsource a definition on social media (with
+limited success). Ultimately, the definition we have settled on for the purposes of this report follows
+most closely that used by the Big Data Value Association (an EU Commission strategic partner):
+The data economy is the total social and economicvalue derived from using data.
+When measuring the data economy, there are a number of possible indicators to take into account.
+As per the International Data Corporation’s report on the European data market,these include the
+16
+total number of data workers (those who collect, store, manage and analyse data), companies that
+produce and deliver data-related products and services, and the value of the overall data market.
+16
+International Data Corporation (2017) European DataMarket: Final Report
+10
+
+Germany
+Mapping the data economy
+Germany is the economic powerhouse of Europe. It is the fourth
+largest economy in the world, and the largest in the EU,
+accounting for around 21 percent of total EU GDP.As of 2017,
+17
+it is the second fastest growing economy in the G7 (after
+Canada), with a growth rate of 0.6 percent in the first quarter of
+that year.Additionally, employment in the countryhas increased
+18
+by over 10 percent over the last decade.Germany’sstrengths
+19
+as a large, fast-growing economy with increasing employment
+mean that it is well placed not only to manage, but to take
+advantage of, disruption caused by technological change.
+Germany’s GDP is forecast to potentially increase by €82 billion if
+German businesses capacity to exploit digital technologies is
+fully realised.However, thus far digital progresshas tended to
+20
+lag behind other indicators, and Germany ranks 11th in the
+2017 Digital Economy and Society Index..
+21
+The country’s ‘Digital Strategy 2025’emphasisesthe idea that data is the backbone of
+22
+Germany’s planned digital transformation. It also explicitly references the value of data to
+businesses and the economy: “how data is handled is a decisive factor in the success of modern
+business...in the long run, the key competencies of successful companies will revolve around
+collecting, processing, linking and protecting data”.The need to ensure that manufacturing
+23
+companies, production sectors and other businesses can continue to compete with new market
+players with superior understanding of data is recognised as an urgent priority for policymakers to
+address.
+24
+Data was also a key theme in the recent Coalition Agreement,signalling the country’s
+25
+commitment to focus on digital policy and data as a central dependency for this. This is a change
+in approach, as Germany has not previously had a strong focus on data openness, and is only a
+25
+[German] Coalition Agreement between the CDU, CSUand SPD (2018)
+24
+ibid.: 8
+23
+ibid.: 6
+22
+ibid.
+21
+European Commission (2017) The Digital Economy AndSociety Index (DESI)
+20
+Federal Ministry for Economic Affairs and Energy(2016) Digital Strategy 2025: 6
+19
+ibid.
+18
+Goodley, S. & Inman, P. (2017) UK comes bottom ofG7 growth league as Canada takes lead, The
+Guardian
+17
+Eurostat (2017) Share of Member States in EU GDP
+11
+
+recent member of the Open Government Partnership (2016).Pledges included a new law on
+26
+open data, an intensive review of data protection in mid-2020, and the prioritisation of data as a
+central dependency of the new goal to spend 3.5 percent of GDP on areas including AI and
+digitisation. Additionally, Germany plans to establish an e-Government agency to carry out pilots
+with the aim of improving public services and governance.The government also announced a
+€500 million commitment to help ensure that citizens’ data is used in a transparent manner,
+including exploring the possibilities offered by Blockchain for public authorities. Germany has also
+committed to a national research data infrastructure, to help standardise and improve access to
+banks of data.
+27
+As well as this action from central government, which has contributed to Germany improving its
+rank in EU’s Open Data readiness index from 20th in 2016 to 17th in 2017,there is significant
+28
+‘bottom-up’ impetus, from both the state level, and citizens. (Examples of state-level legislation
+promoting open data are discussed in the ‘key legislation and regulation’ section of this chapter,
+below). The drive by citizens and businesses for open data can be seen in the abundance of
+hackathons organised throughout Germany, and the number of startups that applied for the
+European Commission’s Open Data Incubator for Europe programme (133, meaning the country
+ranked third after the UK and Spain).The countrycontinues to lag in open data rankings,
+29
+however, behind its European economic rivals: it is currently 24th in the Global Open Data Index,
+behind Britain (2nd), France (3rd), the Netherlands (20th) and Belgium (22nd).This is at least in
+30
+part due to the country’s historically strong stance on protecting individuals’ data.
+According to Financial Times analysis from 2017,German industry is lagging when it comes to
+31
+taking advantage of the opportunities afforded by big data and digital disruption. Although
+Germany is an economic powerhouse and home of automobile industry giants such as BMW,
+Audi, and Mercedes-Benz, many fear that digitisation could undermine Germany’s position of
+economic strength, and that Germany’s ‘old’ industries are not well placed to cope with digital
+disruption. As German Chancellor Angela Merkel said in 2014:“We have the opportunity for a
+digital economic miracle. The question is whether or not it will happen in Germany”.
+If German industry does not digitally transform, it risks a decline in industrial value added of €220
+billion by 2025.German companies could instead becomesubcontractors for digital platforms
+32
+that connect consumers and hardware products. Germany’s response to the risk of disruption
+posed by tech giants thus far has tended to be additional regulation, such as the banning of Uber
+and Airbnb in several major cities. There is uncertainty over whether Germany has the capacity or
+32
+ibid.
+31
+Chazan, G. (2017) Why German needs to accelerateinto the digital fast lane, The Financial Times
+30
+Global Open Data Index (2017)
+29
+ibid.
+28
+Radu, C. (2018) Open Data in Europe: placing publicadministrations in the driver's seat of innovation,
+Capgemini
+27
+Nove (2018) New Grand Coalition in Germany: Analysisof the Coalition Agreement
+26
+The Open Government Partnership is a multilateral initiative established in 2011 by governments and civil
+society representatives, with a central aim of enhancing and promoting open government.
+12
+
+drive to process the big data needed for the fourth industrial revolution with connected factories
+and automated production.
+33
+Data legislation and regulation
+Key legislation and regulation
+The 2018 coalition agreement confirms Germany’s long-held commitment to implementing
+regulation to protect its citizens’ data. The agreement lays out the country’s plans to introduce an
+ePrivacy regulation in line with GDPR.If there isa delay in the EU’s ePrivacy Regulation (beyond
+34
+the anticipated deadline of 25 May 2018), then any legislative loopholes will be addressed through
+national legislation which will put into action the ePrivacy Directive 2002/58/EC (GDPR’s
+predecessor), as well as the German Telemedia Act.
+35
+Aside from GDPR and the ePrivacy regulation, the State Secretary for Economic Affairs Matthias
+Machnig presented a white paper on digital platforms at the 2017 CeBIT fair.This white paper
+36
+represents what would be the country’s first comprehensive set of rules for a digital regulatory
+policy, with Section 3.2 entitled ‘Creating a modern data economy’. This states that “an innovative,
+data-centred economy with a strong industrial base is the European model to secure prosperity”.
+37
+The paper outlines a number of steps for the government to“politically accompany the creation of
+a modern data economy”:
+38
+●
+Establish a clear legal framework for data usage;
+●
+Advance seal and certification solutions for greater transparency, using GDPR as a
+foundation for more data sovereignty and portability;
+●
+Introduce basic transparency and information duties for digital platforms;
+●
+Make online business transactions and e-Government simpler and more secure by passing
+a Trust Services Act (VDG) on the basis of the EU’s requirements for trust services (the
+eIDAS Regulation), to make it easier for the public, businesses and authorities to verify
+identities;
+●
+Establish ‘experimentation rooms’ or ‘real laboratories’ for innovative digital networked
+business models.
+Although it is still unclear whether these proposals will be enacted into law, they represent a
+commitment from the Ministry of the Economy to advancing the creation of a data economy in the
+country. As such, it is worth following the development of these proposals going forward.
+38
+ibid.:107-108
+37
+ibid.:66
+36
+Federal Ministry for Economic Affairs and Energy(2017) White Paper on Digital Platforms
+35
+Splittgerber, A. & Schonhofen, S. (2017) Pre-ChristmasUpdate on the ePrivacy Regulation, ReedSmith
+Technology Law Dispatch
+34
+Nove (2018) New Grand Coalition in Germany: Analysisof the Coalition Agreement
+33
+ibid.
+13
+
+Germany’s first federal Open Data law came into effect on 13 July 2017. The law amended the
+earlier e-Government law,and seeks to make Germangovernment data ‘open by default’.The
+3940
+law establishes a legal basis for citizens to access information from public authorities, as well as
+providing clarity for providers as to what must be published. It stipulates that this data must be
+provided in a machine-readable format, and that the government will establish a central data
+agency to support public authorities on questions reading open data provision, as well as to act as
+a central contact point for regional authorities. Expected benefits of the law include better public
+sector products and services, as well as new digital transformation growth areas and better
+management in the private sector, due to the availability of more high quality data. The German
+Ministry of Interior, which presented the bill, forecast that this will generate up to €130 billion of
+economic gains over the next decade.In a statementfollowing the adoption of the Federal Open
+41
+Data Act, a parliamentary spokesperson commented on the potential value of this data: “the
+systematic publication of administrative data...creates opportunities for startups and SMEs...and
+therefore the basis for data driven business models are laid”.
+42
+The Open Government Partnership, however, lists a number of exemptions the Open Data Law:
+43
+●
+It only covers data in electronic form (written documents are exempt);
+●
+The law does not cover the regional authorities (Bundesländer),and thus only applies to
+data from authorities directly subordinate to the federal government (though several states
+have their own open data policies, as described below);
+●
+Universities and research bodies indirectly subordinate to the federal government are
+exempt.
+Organisations such as the Open Government Partnershiphave been lobbying the German
+44
+government to agree to commit to an open data law since 2013,when their efforts were focused
+45
+on getting the government to include a statement on the matter in their coalition agreement. They
+did so on the basis that “the inclusion of such phrases [as ‘open data law’] is crucial in the
+law-making process because it provides a point of reference for future lobbying efforts, especially
+once the topic is out of the public’s attention”.This makes the 2018 coalition agreement
+46
+particularly pertinent, with its pledge to introduce a new law on open data, to “assess opportunities
+for citizens and government authorities inherent in open data”.At present, further details of this
+47
+proposed legislation are elusive, but it potentially represents a major opportunity to help German
+businesses extract value from data.
+47
+Nove (2018) New Grand Coalition in Germany: Analysisof the Coalition Agreement: 2
+46
+ibid.
+45
+Open Government Partnership (2017) Germany Finallyhas an Open Data Law
+44
+The Open Government Partnership website
+43
+Open Government Partnership (2017) Germany Finallyhas an Open Data Law
+42
+European Data Portal (2017) New Open Data Act inGermany
+41
+ibid.
+40
+European Data Portal (2017) Germany brings Open Datainto law
+39
+[German] Law for the Promotion of Electronic Administration (E-Government Law); unofficial English
+translation:Von Michael, P. (2017) German Open DataLaw in English, Open Knowledge Foundation
+Deutschland
+14
+
+As well as this top-down action from the federal government, which also included acceding to the
+Open Government Partnership in late 2016, there has been significant impetus for open data from
+the federal state level.Transparency laws have beenadopted in the states of Bremen, Hamburg
+48
+and Rhineland-Palatinate, whilst North Rhine-Westphalia is drafting its own Open Data Act.
+49
+Germany remains a staunch advocate of personal data protection and has played a key role in EU
+privacy legislation, partly as a result of historic factors such as the country’s legacy as a police state
+during the Cold War. In response to the recent Facebook-Cambridge Analytica scandal, the Justice
+Minister Katrina Barley announced plans to pass new laws on social media to enable tighter
+supervision of companies like Facebook and allocate more power to the central government to
+punish data protection violations.Such a law wouldbe a further layer of regulation for social
+50
+media giants, who were also recently subject to controversial new law the Network Enforcement
+Act (known as NetzDG), under which platforms face fines of up to €50 million if they do not remove
+‘obviously illegal’ hate speech within 24 hours of being notified of it.The Act came into force on1
+51
+January 2018, prompting Facebook and Twitter to add extra features for flagging content, and hire
+and train moderators. The legislation has provoked controversy as critics say it could curtail free
+speech.
+Impact of GDPR and the European ePrivacy Regulation
+Due to a lack of clarity on both the final wording and timelines of the ePrivacy regulation,
+organisations which use electronic communications services may struggle with preparations for the
+new regulation.There is an ongoing rush by manybusinesses to create and own consumer login
+52
+systems, to help their businesses adapt to new ePrivacy laws, in the event that they will require
+consumer consent for cookie use.This has resultedin cross-industry ‘login collectives’, or
+53
+‘alliances’comprised of publishing groups and non-publisherpartners. These combine national
+54
+newspapers such asBildandDie Weltwith industrygiants such as car manufacturers Daimler,
+insurance firm Allianz, Deutsche Bank, Lufthansa, and Deutsche Telekom. The aim of these
+alliances is to create single sign-in platform for all customers, to allow people to more easily
+manage the data that businesses hold on them. This is to help businesses compete with the tech
+giants such as Amazon and Google after GDPR comes in, as these companies already hold vast
+quantities of login data and in theory will more easily be able to communicate new consent
+requirements to customers than those with non-logged in or registered audiences.
+55
+55
+Davies, J. (2017) With an eye on the duopoly, Germanbroadcasters create a unified consumer login,
+Digiday UK
+54
+Davies, J. (2017) German publishers are joining forcesagainst the duopoly, Digiday UK
+53
+Davies, J. (2018) With ePrivacy looming, German publishersscramble to get users logged in, Digiday UK
+52
+ibid.
+51
+Oltermann, P. (2018) Tough new German law puts techfirms and free speech in spotlight, The Guardian
+50
+Rettman, A. (2018) Germany pledges 'strict' lawsafter Facebook data breach, EU Observer
+49
+ibid.
+48
+Radu, C. (2018) Open Data in Europe: placing public administrations in the driver's seat of innovation,
+Capgemini
+15
+
+There is also concern among publishers that they could lose up to 30 percent of income from
+digital advertising sales, as a result of the new EU ePrivacy Regulation, an amount equivalent to
+around €300 million.This adds to ongoing concernsabout the relative advantage held by big
+56
+platform operators when GDPR and new ePrivacy regulations are implemented. Dr Rudolf
+Thiemenn, President of the Association of German Magazine Publishers (Verband Deutscher
+Zeitschriftenverleger,or VBZ),has called on theGerman government to oppose the new EU
+regulation as a result.
+57
+High-level market analysis
+Diagram displaying digital maturity of German industries. Source: BCG report on Digital Germany
+58
+58
+Gumsheimer, T., Hecker, M. & Kruger, T. (2015) DigitalGermany, BCG
+57
+ibid.
+56
+Verband Deutscher Zeitschriftenverleger (2018) ePrivacy: A loss of more than 30 percent in digital
+advertising sales for journalistic media
+16
+
+Finance
+The collaboration between banks and
+the tech industry is a major success
+story of Germany’s digital economy: it is
+estimated that around 87 percent of
+German banks currently work with
+FinTech organisations.Germany has a
+59
+strong and growing FinTech landscape,
+with an estimated 300 FinTechs in total,
+employing 13,000 people, attracting
+increasing investment flows and being
+used by around 35 percent of the
+digitally active population (above the EU
+average of 33 percent).There are
+60
+multipleFinTech hubs around the
+country, including Berlin, Hamburg,
+Frankfurt and Munich, as demonstrated
+by the map on the right. Models of
+collaboration between financial
+institutions and FinTechs takes a variety
+of forms, the most widespread of which
+involves financial institutions relying on
+FinTechs to provide innovative tech services.
+61
+Geographic distribution of German FinTech companies.
+Source: The Federal Ministry of Finance report
+on the FinTech market in Germany
+62
+A 2016 report into the FinTech market in Germany conducted for the Federal Ministry of Finance
+63
+found that nearly all of the FinTechs and some of the banks surveyed for the report had criticisms
+over the state of technology in Germany. These included:
+64
+●
+Outdated systems used by the German central bank ;
+●
+Poor internet connections in rural areas;
+●
+Inadequate data supply;
+●
+No uniform procedure for data protection between states;
+64
+ibid.:42, 45 and 49
+63
+Ibid.
+62
+Dorfleitner, G. & Hornuf, L. (2016) The FinTech Marketin Germany
+61
+ibid.:15
+60
+Ernst and Young (2017) Germany FinTech Landscape:2
+59
+Federal Ministry for Economic Affairs and Energy(2018) Minister Brigitte Zypries visits Tech-Quartier in
+Frankfurt am Main
+17
+
+●
+Regulatory issues, including very dense and complex legislation, which is expensive for
+businesses and potentially an issue for startup FinTechs.
+The government has recently taken a number of steps to improve regulation to encourage
+FinTechs. Major steps taken include:
+65
+●
+Reforming tax rules regarding carrying forward losses, to help remove obstacles that
+prevent new businesses gaining access to capital;
+●
+New legislation to introduce the EU’s second Payments Services Directives which should
+permit the growth of new business models, as it mandates access to payment accounts
+held by credit institutions for approved service providers.
+Berlin-based N26is an influential player in theGerman finance/FinTech world. It is a free direct
+66
+online bank, available in all Eurozone countries except Cyprus and Malta. The bank recently
+secured the biggest round of funding ever for a German FinTech company, raising $160 million
+from investors led by Chinese internet and social media giant, Tencent, and Allianz X, the insurance
+group.The company is due to launch in the UK andUS in 2018.
+67
+Transport
+It is a stated priority of the Federal Ministry of Transport and Digital Infrastructure (BMVI) to
+accelerate the employment of intelligent transport systems.This is particularly focused on
+68
+intelligent vehicle and road systems which can improve road safety, and make travel more efficient
+and more environmentally friendly. The Ministry is promoting such systems not only at the national
+level, but also seeking to cooperate with other European partners. As a result, the Ministry has
+helped to draw up a European directive for the use of intelligent transport systems, to encourage
+their adoption and cooperation. They have also produced a National Intelligent Transport Systems
+Action Plan for road travel, covering the period to 2020.
+69
+According to BCG analysis of seven sectors in Germany, the logistics and transportation sector is
+likely to see the fewest changes from digitisation, partly because the sector already makes
+substantial use of digital technologies and processes.Applications such as Uber and Mytaxi are
+70
+extremely popular in Germany, and have transformed the way people access taxi services. Mytaxi
+is a Hamburg-based start up,which now employs 600people across Europe and South
+71
+America.It is Germany’s most popular app for bookingtaxis, with one in five German taxi drivers
+72
+72
+Mytaxi website, About Mytaxi
+71
+Mytaxi website
+70
+Gumsheimer, T., Hecker, M. & Kruger, T. (2015) DigitalGermany, BCG
+69
+Federal Ministry of Transport, Building and UrbanDevelopment (2012) ITS Action Plan for the Roads
+68
+Federal Ministry of Transport and Digital Infrastructure,Intelligent transport systems in the field of road
+transport
+67
+Buck, T. (2018) Tencent and Allianz lead $160m fundingfor German online bank N26, The Financial Times
+66
+N26 website
+65
+Federal Ministry of Finance (2017) Innovation anddigitisation are a must, not an option
+18
+
+signed up and over 120,000 drivers globally.In September 2017, when Transport for London
+73
+announced it would not be renewing Uber’s license in London, the CEO of Mytaxi Andrew
+Pinnington announced his intention for Mytaxi to capitalise on the opportunity.
+74
+German automobile giant Daimler has a 60 percent stake in Mytaxi - primarily for its data, to help
+Daimler develop their own autonomous vehicle programme.This is also part of a broader trend of
+75
+automobile giants investing in tech startups, at least in part due to the access to customer data this
+provides: Daimler have also invested in British mapping company what3words,while Volkswagen
+76
+have invested in taxi app Gett.These actions suggestthat the traditional manufacturing giants of
+77
+the automobile sector in Germany are actively seeking opportunities to capitalise on the data
+economy in this sector.
+Artificial intelligence
+According to research carried out by venture capital firm Asgard, the most significant fields for AI
+startups in Germany (accounting for 48 percent of German AI startups) are:
+78
+●
+Customer support;
+●
+Customer communication;
+●
+Sales and marketing;
+●
+Software development;
+●
+Computer vision/image recognition.
+Around 54 percent of these AI startups are located in Berlin, making the city the fourth largest AI
+hub in the world after Silicon Valley, London and Paris.
+79
+Two of the ten best-funded European artificial intelligence companies are based in Germany.
+Arago,which works on process automation and generalproblem-solving AI, is based in Frankfurt,
+80
+while KONUX,an Internet of Things company whichhelps to monitor and improve infrastructure
+81
+and operations, is based in Munich. Berlin-based startups had a good year in 2017, raising €2.97
+billion, up from €1.1 billion in the previous year. This made the city second only to London among
+European tech hubs for raising investment.
+82
+According to 2017 Financial Times analysis,Germanyhas so far lacked the commercialisation
+83
+success of its major research institutions as seen in places like Silicon Valley which are populated
+83
+McGee, P. (2017) Germany's Cyber Valley aims to becomeleading AI hub, The Financial Times
+82
+Buck, T. (2018) Tencent and Allianz lead $160m fundingfor German online bank N26, The Financial Times
+81
+KONUX website
+80
+Arago website
+79
+ibid.
+78
+Asgard (2017) The German Artificial IntelligenceLandscape
+77
+Price, R. (2016) Volkswagen is making a $300 millionbet on one of Uber's rivals, Business Insider UK
+76
+Barber, L. (2018) Daimler invests in What3Words,a British tech startup mapping the entire world with
+words, City AM
+75
+Kennedy, J. (2017) Mytaxi CEO: 'Our real drivingforce is data', Silicon Republic
+74
+Hobbs, T. (2017) Mytaxi's CEO on how it plans to'capitalise' on Uber's London failings
+73
+ibid.;Mytaxi website, About Mytaxi
+19
+
+with companies run by Stanford alumni. To counter this, Germany has announced plans to create a
+new tech hub, ‘Cyber Valley’, in the south of the country between Stuttgart and Tubingen, to
+encourage collaboration between academia and business, as well as to boost Germany’s nascent
+startup culture.Central to this is a project focusingon AI research, comprised of the Max Planck
+84
+Society, two technical universities, Wurttemberg (Germany’s biggest exporting state) and Porsche,
+Daimler and Bosch.
+The German AI landscape. Source: Asgard
+85
+Healthcare
+According to advisory firm Brunswick’s commentary,Germany has unfavourable conditions for
+86
+the digitisation of healthcare in comparison with other European neighbours. This is due to a
+number of factors:
+●
+Out-of-date healthcare policy, with outdated regulations and excessive data protection
+requirements;
+●
+Sustainable investments in healthcare innovations are scarce;
+●
+Patient-system communication are outdated, e.g. there is a ban on remote diagnosis and
+treatment and mail-order prescription drugs.
+McKinsey also recently found that three out of five German hospitals lack a digitisation strategy.
+87
+85 percent of hospital directors say that the progress toward digitisation at their own hospitals is
+‘inadequate’.Brunswick attribute this lack of progressto all parts of the system, including the
+88
+88
+ibid.
+87
+ibid.
+86
+Brunswick (2017) Commentary on the Digitization ofthe German Healthcare System
+85
+Fabian (2017) The European Artificial IntelligenceLandscape
+84
+ibid.
+20
+
+‘digitally aversive’ medical professionals, the ‘legislatively ignorant’ medical market, and a digital
+infrastructure currently not set up for the integration of apps.
+They call on politicians to lobby for and drive change, with the Federal Joint Committee having
+acknowledged the problems with the situation. Federal Minister for Economics and Energy Brigitte
+Zypries has long been an advocate for the digitisation of healthcare, and has previously put forward
+a list of demands to improve the current situation. The change, Brunswick argue, will come from
+the startup scene - but is currently being stymied by a lack of clarity over regulation.Last yearthe
+89
+government named the Bavarian Medical Valley the Digital Hub for Health.The ‘Valley’ fosters
+90
+collaboration between business, science, healthcare and politics, and is similar to the Health
+Valleys of the Netherlands and the planned one in Belgium.
+The German Institute of Medical Documentation and Information (DIMDI)is the online publisher of
+91
+medical standards and classifications. It develops and runs database systems for drugs, medical
+devices and healthcare data. Part of DIMDI is a data trust,established in 2014, responsible for
+92
+pseudonymisation healthcare data from statutory health insurance funds to help analyse the
+country’s healthcare situation. The system is funded by the health insurance funds.
+The German medical device market is Europe’s largest, and the third largest in the world (its
+estimated worth in 2014 was $26 billion).It combinesmajor players with a majority of small- and
+93
+medium-sized companies. There is significant demand for new and innovative medical
+technologies within the German market.
+94
+Energy and utilities
+As part of its digital agenda, the Federal Ministry for Economic Affairs and Energy is funding
+pre-commercial research and development projects.The smart data programme is looking for
+widely applicable big data solutions in key sectors including energy, mobility and healthcare.
+95
+The Digital Agenda also launched the ‘Smart Networks’ initiative, which aimed to make better use
+of the social and economic opportunities from digital networking (or the optimised use of ICT) in
+sectors including energy, health and transport.Innovationsinclude the Smart Gridand Smart
+9697
+Meter.There is a focus on smart electricity gridswith smart meters continuously monitoring
+98
+household consumption, allowing electricity generation to align with up-to-date demands. Data
+98
+Federal Ministry for Economic Affairs and Energy,The digitisation of the energy transition
+97
+Federal Ministry for Economic Affairs and Energy,Smart grids
+96
+Federal Ministry for Economic Affairs and Energy,Smart networking
+95
+Federal Ministry for Economic Affairs and Energy,Taking control of the digital transformation
+94
+ibid.
+93
+EMERGO (2018) Germany - Overview of medical deviceindustry and healthcare statistics
+92
+DIMDI website, Health Care Data
+91
+DIMDI website
+90
+Invest in Bavaria (2017) Bavarian Medical ValleyNamed Germany's Digital Hub for Health by Federal
+Government
+89
+ibid.
+21
+
+generated by smart meters is governed by the strictest data security rules in Europe, as introduced
+through the Act on the Digitisation of the Energy Transition.
+99
+There is significant innovation taking place around energy in the private sector, which is evolving
+away from being concentrated around the traditional model of a small number of energy providers.
+Startups are helping to solve problems such as how to store energy from renewable sources for
+later use, or how to make energy usage in the home more efficient. Thermondo, for example, is a
+German startup which uses customer data analytics to provide highly customised heating
+solutions, with their business model centred around improving customer interaction points.
+100
+100
+Thermondo website
+99
+ibid.
+22
+
+France
+Mapping the data economy
+France is the third-largest economy in the European Union after Germany and the United Kingdom,
+comprising around 15 percent of EU GDP.Its GDP growthsaw a significant increase in 2017
+101
+compared with 2016, rising from 1.2 percent to 1.8 percent.In 2013, McKinsey measured
+102
+France’s ‘digital GDP’ at €113 billion, or 5.5 percent of its GDP. McKinsey also suggests that this
+has the potential to grow to €276 billion, or 10.8 percent of GDP, by 2020.However, this would
+103
+require French businesses to overcome what McKinsey described as a resistance to using digital
+techniques.They state that this is due to a generalinability to invest in digital and innovate due to
+104
+small margins in certain companies and limited interest in digital from those at the top level of some
+firms. For example, where 26 percent of German companies took online orders in 2013, the same
+was true for only 14 percent of French firms.
+105
+Despite these apparent limitations in the private sector, French government policy has not
+neglected big data. In 2014, the French government included big data as an important element in
+creating a ‘New Industrial France’,releasing a BigData Road Map. This sought to create or
+106
+support 137,000 jobs, with a focus on employment in the IT industry or IT-related tasks within
+firms.In 2016, the New Industrial France projectlaunched a Big Data Observatory designed to
+107
+measure 40 sectors’ progress in using big data.
+108
+France has also demonstrated its commitment to international cooperation in search of data and
+digital-driven economic growth. This includes collaboration with the two other largest EU
+economies, Germany and the UK. In March 2015, the German and French Economic Ministers
+stated their intention to further integrate their digital economies,while the UK and France
+109
+launched a 2015 taskforce to investigate how they could use the ‘data revolution’ for mutual
+economic benefit.The taskforce’s recommendationsincluded a passport programme for
+110
+startups, allowing companies to explore the digital business environment in both countries.
+110
+The UK-French Data Taskforce (2015) Data Driven Growth:Innovation, Infrastructure, Skills and
+Empowerment in the Digital Age
+109
+Republique Française (2015) The Borderless DigitalEconomy
+108
+Republique Française (2016) Big data: un observatoiresur les usages des données numériques
+107
+Republique Française (2014) Big data: la feuillede route entre en action
+106
+Trade Bridge Consultants (2014) President FrançoisHollande launches ‘New Industrial France’
+105
+ibid.
+104
+ibid.
+103
+McKinsey (2013) Closing France’s €100 billion digitalgap
+102
+European Commission (2018) Economic Forecast forFrance
+101
+Eurostat (2018) GDP and main components (output,expenditure and income).
+23
+
+Furthermore, France released an International Digital Strategy in December 2017. Its purpose is to
+develop the international competitiveness of the French digital sector, including an emphasis on
+introducing French startups to external markets and drawing international digital talent to the
+country. Historically France has been viewed as somewhat ‘clunky’ and anti-technology; something
+President Macron is trying to address, including by capitalising on possible opportunities to lure
+talent back to France following Brexit.He has alsooverseen the creation of a €10 billion fund for
+111
+startups, aimed at making France a ‘startup nation’.Additionally, Macron has recently stated that
+112
+Europe needs a big data strategy to compete with China and the US.
+113
+France is highly ranked in global measures of governments’ commitment to open data.It is placed
+4th on the Global Open Data Index 2016/7,and 15thon the Digital Economy and Society Index
+114
+2017(just below the EU average). This reflects developments such as the government’s open
+115
+data portal, launched in 2011,France joining theOpen Government Partnership in 2014, and the
+116
+creation of a State Chief Data Officer. This was the first position of its kind in Europe.
+117
+Data legislation and regulation
+Key legislation and regulation
+France introduced the French Digital Republic Act on 7th October 2016, following a consultation
+process that involved over 4,000 submissions from a range of sectors.The stated purpose of the
+118
+Act is as follows: firstly, to ensure France’s digital competitiveness by focusing on digital
+infrastructure and data; secondly, to ensure users’ rights in the digital sphere and engage them
+with France’s digital policy.
+The Act itself has three key components:
+●
+It expands France’s open data policy and introduces the concept of ‘data of general
+interest’;
+●
+It confirms the notions of network neutrality and data transferability, determines
+individuals’ ‘digital rights’, and ensures that digital platforms treat consumers fairly;
+●
+It ensures universal internet access, with a focus on accessibility for disabled people
+and connectivity for ‘the most disadvantaged members of society’.
+119
+119
+Republique Française (2016) Digital Republic Act:Explanatory Memorandum
+118
+Field Fisher (2016) France Adopts Digital RepublicLaw;Republique Française (2016) Digital RepublicAct:
+Explanatory Memorandum
+117
+Etalab (2014) Open government data: France createsthe role of State Chief Data Officer
+116
+joinup (2014) Data.gouv.fr: the French Open Platformfor Open Data
+115
+European Commission (2017) The Digital Economy AndSociety Index (DESI)
+114
+Global Open Data Index (2017)
+113
+Hornby, L. (2018) France’s Macron calls for Europe-widebig data strategy, The Financial Times
+112
+Agnew, H. (2017) Emmanuel Macron inspires entrepreneurswith start-up nation vision, The Financial
+Times
+111
+Ram, A. (2017) France looks to steal UK tech's Europeancrown, The Financial Times
+24
+
+The Digital Republic Act’s open data focus enshrines the principle of ‘open by default’, making it
+the first country in Europe to put open data provisions in law.Amendments to Law No. 78-753
+120
+of July 1978, which enabled citizens to view public organizations’ administrative documents,
+121
+demand that such documents are now automatically made available online.The Act also ‘aims
+122
+to extend the scope of the administrative documents that may be already made available’.
+Impact of GDPR and the European ePrivacy Regulation
+The Digital Republic Act of 2016 prepares France for the introduction of GDPR in May 2018. In
+particular, it provides individuals with the right to determine how their personal data is used.
+123
+The Act introduced amendments to Act no.78-17 of January 6 1978 on Data Processing Data Files
+and Civil Liberties, also known as the French Data Protection Act. For example, it allows individuals
+to state how their data be used after death, and to demand the deletion of personal data collected
+on them as children.
+124
+While it outlines the French Data Protection Authority’s ability to impose upon companies four
+percent of their global annual revenue for violations of GDPR Article 83, the Digital Republic Act
+also enables regulators to fine companies up to €3 million for violations of the Data Protection Act
+not covered by GDPR. This is an increase on the maximum €150,000 fines allowed by the original
+Data Protection Act.
+An additional draft law aimed at further amending the French Data Protection Act to bring it in line
+with GDPR is being swiftly brought through Parliament in order to ensure its implementation by 25
+May 2018.Among other changes, this will introducea right for individuals to access and delete
+125
+personal data collected in relation to criminal issues.
+126
+High-level market analysis
+Finance
+France’s FinTech sector is growing rapidly, with $62.5 million invested in FinTech in 2014, rising to a
+record $297.8m in 2017. The average size of FinTech deals is also growing: from around $3.3
+million in 2014 to $7.3 million in 2017.Despitethis growth, the French market lags behind
+127
+leading European countries in terms of its consumers’ use of FinTech services. Where 42 percent
+of consumers in the UK, 37 percent in Spain, and 35 percent in Germany reported having used
+127
+FinTech Global (2018) French FinTech companies receiveda record level of funding in 2017
+126
+DLA Piper (2018) France: Draft Data Protection Law- one step close to a final version
+125
+Data Guidance (2018) France: Accelerated GDPR bill“limited in scope”
+124
+DAC Beachcroft (2017) France - Digital Republic Billbrings changes to the French data protection act.
+123
+Field Fisher (2016) France Adopts Digital RepublicLaw
+122
+Republique Française (2016) Digital Republic Act:Explanatory Memorandum
+121
+UCL Constitution Unit (2018) France: InternationalFocus
+120
+GovInsider (2016) France mandates open data releaseacross government
+25
+
+two or more FinTech services in 6 months in 2017, the same figure was just 27 percent for French
+users. This is below the global average (33 percent).
+128
+French FinTech companies. Source: Medici
+129
+Nevertheless, this relatively low rate of adoption presents an opportunity for growth in French
+FinTech startups. The largest FinTech deal in 2017 saw startup Younited Credit raise $47.8 million.
+A crowdlending platform, YounitedCredit allows customers to borrow up to €40,000 without
+involving a bank; the company has also started using artificial intelligence to determine potential
+customers’ credit-worthiness.
+130
+Telecoms operator Orange’s recent move into mobile banking further demonstrates the potential
+for consumer-facing FinTech in France. Orange Bank was launched in late 2017 with the aim of
+gaining two million customers.All of its bankingservices take place via smartphone, putting
+131
+Orange Bank in competition with German startup N26. N26 had 100,000 customers in France in
+October 2017 compared with Orange Bank’s projected 200,000 in January 2018.
+131
+Jenkins, P. (2018) Orange Bank: is a phone companythe future of FinTech? The Financial Times
+130
+TechCrunch (2017) Younited Credit raises $47.8 millionfor its crowdlending platform
+129
+Medici (2016) 100+ FinTech Companies Are EmbracingInnovation in the Region
+128
+Ernst & Young (2017) EY FinTech Adoption Index 2017
+26
+
+With Brexit on the horizon, France is seeking to capitalise on the opportunity to draw UK FinTech
+companies and talent to France. Digital Minister Axelle Lemaire laid out a number of reasons that
+France might be an attractive new home to FinTech companies:
+132
+●
+FinTech-friendly regulation: the country’s complex labour laws have been reformed
+(however these still remain somewhat opaque);
+●
+Privileges for tech entrepreneurs: the ‘tech ticket’ programme includes a grant and
+fast-track visa, and has already attracted 180 entrepreneurs;
+●
+Several incubators and financial services centres, including the Station F incubator and
+financial firms hub Finance Innovation;
+●
+Tax regime: corporation tax is set to be cut from 33 percent to 28 percent (compared to 30
+percent in Germany, 25 percent in the Netherlands and 29 percent in Belgium), as well as
+tax cuts for companies employing people in France.
+France also seems to be making strides in the field of cryptocurrencies. The French Minister of the
+Economy Bruno Le Maire recently shared the country’s intentions to become the leading
+jurisdiction for initial coin offering (which is how funds can be raised for cryptocurrencies).France
+133
+and Germany have also collaborated on joint proposals for regulating bitcoin, which they are to
+present at the 2018 G20.
+134
+Transport
+The beta version of France’s transport open data portal, transport.data.gouv.fr, launched in autumn
+2017 and intended to contain a database for static data and a ‘directory of external APIs for
+real-time data’.The Ministry of Transport hostedan open data ‘Barcamp’ in June 2017 which
+135
+allowed representatives of the transport industry and transport users to give feedback on the portal
+ahead of its launch.
+136
+Consumer-facing transportation platforms have had a significant impact on the French economy. In
+2016, a BCG study showed that transportation network companies such as Uber created six
+percent of GDP growth in Paris and two percent nationally in the first half of 2016, while also
+creating one out of four new jobs in Paris.In 2015,meanwhile, the French government launched
+137
+an Uber-style app, Le Taxi, that used geolocation data and an open API to allow taxi operators to
+137
+BCG (2016) La filière VTC est à l'origine d'une créationd'emploi sur 4 et de 6 percent de la croissance du
+PIB au premier semestre 2016 en Ile de France;UberUnder the Hood (2016) New Data Reveals Uber’s
+Economic Impact in France
+136
+ibid.
+135
+European Data Portal (2017) French Ministry of Transportco-creates data platform
+134
+Reuters (2018) France, Germany to make joint bitcoinregulation proposal at G20 summit
+133
+Quinn, G. (2018) France is Upping its Game When itComes to Fintech and Entrepreurship, Crowdfund
+Insider
+132
+Business Insider Intelligence (2017) Here's why Francemight steal the UK's fintech crown, Business
+Insider UK
+27
+
+easily attract customers and compete with Uber.All data collected by the app is also made
+138
+openly available.
+139
+French companies have also taken a leading role in developing platforms for easier journeys.
+BlaBlaCar, for example, was founded in 2006 and was valued at $1.6bn in 2015.It matches
+140
+drivers with spare seats to passengers in need of a ride and operates in 22 countries with around
+30 million users. In France and other European countries,booking rides with BlaBlaCar is now
+141
+also possible via Google Maps.
+142
+Artificial intelligence
+Following the introduction of the Digital Republic Act, France launched its national artificial
+intelligence strategy, #FranceIA, in January 2017.This recommends creating a fund of up to €25
+143
+million for AI startups, and emphasises the importance of guaranteeing capital for businesses to
+allow them to take risks.The Digital Republic Actalso mandated the National Commission for
+144
+Information Technology and Liberties to conduct a large-scale consultation on AI ethics.
+145
+The momentum behind France’s artificial intelligence industry increased in January 2018 when
+Facebook announced its intention to expand its AI research centre in Paris by investing €10 million,
+increase the number of AI scientists from 30 to 60 and fund 40 PhD candidates rather than 10.
+146
+The centre, launched in 2015, is Facebook’s first research facility outside the USA. In the same
+month, software company SAP announced that it would spend more than €2 billion over five years
+on innovations including machine learning. They also purchased Recast.AI, a Paris-based startup,
+with the intention of introducing Recast.AI’s natural language processing capabilities to enhance
+the SAP user experience.
+147
+Such decisions demonstrate France’s increasing international competitiveness in AI. French
+President Emmanuel Macron has made clear that France thinks it can lure IT workers from London
+after the United Kingdom leaves the European Union; under his Presidency, France has launched a
+new tech visa programme and directed state money to startups.The President also announced
+148
+148
+Titcomb, J. (2018) UK and France agree artificialintelligence tie-up, The Telegraph
+147
+SAP (2018) SAP Increases Commitment to Powering Innovationin France
+146
+Ram, A., Khan, M. & Agnew, H. (2018) Facebook investsin French centre for artificial intelligence, The
+Financial Times
+145
+Republique Française (2017) #FranceIA: the nationalartificial intelligence strategy is underway
+144
+Republique Française (2017) Rapport de Synthèse:France Intelligence Artificielle
+143
+Republique Française (2017) #FranceIA: the nationalartificial intelligence strategy is underway
+142
+eMarketer (2017) Google Maps Partnership Boosts EuropeanRide-Hailing Service BlaBlaCar
+141
+London Stock Exchange Group (2018) BlaBlaCar
+140
+Quartz (2014) BlaBlaCar is building a global transportationnetwork out of empty car seats;Bloomberg
+Technology (2015) BlaBlaCar Valuation Hits $1.6 Billion After Latest Funding Round
+139
+TheLocal.fr (2015) France launches own ‘Le Taxi’app to rival Uber
+138
+The UK-French Data Taskforce (2015) Data Driven Growth:Innovation, Infrastructure, Skills and
+Empowerment in the Digital Age
+28
+
+at the end of March 2018 that his government would invest €1.5 billion into AI research until the
+end of his term in 2022, to help accelerate innovation.
+149
+France’s relationship with the UK in this sphere, however, is also characterised by collaboration. In
+January 2018 the two countries announced their intention to host a digital conference focusing on
+AI as well as ‘data, cyber security, digital government and digital skills’; in the same week, Imperial
+College London and the French National Centre for Scientific Research began working more
+closely together on AI-relevant subjects.
+150
+Healthcare
+The 2016 Law for the Modernisation of the Health System introduced amendments to France’s
+Data Protection Law to establish a process for acquiring personal healthcare data; it also provides
+some limited means for private companies to access data.This law allowed for a new national
+151
+healthcare database which is projected to be ‘one of the biggest healthcare databases in the
+world’.Anonymised data within the database willbe made fully open, while personal data will
+152
+only be made available to bodies following strict guidelines.The French government also
+153
+consulted extensively with the public on the opening up of healthcare data: workshops and an
+online consultation gathered views to be presented at a conference in July 2016.
+In late 2016, it was reported that four Parisian hospitals were trialling using big data and artificial
+intelligence to predict the flow of admissions and allocate resources accordingly, using an open
+source platform that could be accessed by hospital staff.
+154
+Energy and utilities
+Access to data on energy use is increasingly important to French public bodies seeking to save
+money and use resources efficiently. The Energy Transition for Green Growth Act of 2016
+contained a section enabling public bodies to access data held by energy providers where it
+related to their operations.Equally, the FrenchChief Data Officer has worked with the national
+155
+procurement department and Ministry of Justice to understand how energy is being used in public
+buildings and inform ‘the liberalisation of the electricity market’. This has resulted in ‘millions of
+euros’ in procurement savings.
+156
+156
+The UK-French Data Taskforce (2015) Data Driven Growth:Innovation, Infrastructure, Skills and
+Empowerment in the Digital Age
+155
+République Française (2016) Energy Transition forGreen Growth Act
+154
+Forbes (2016) Big Data in Healthcare: Paris HospitalsPredict Admission Rates Using Machine Learning
+153
+ibid.
+152
+Bird & Bird (2017) France Launches Healthcare BigData
+151
+DLA Piper (2016) France: new rules for processingpatient health data
+150
+UK Government (2018) UK and France to strengthenlinks in tech sector and artificial intelligence
+149
+Cerulus, L. (2018) Macron: France to invest nearly€1.5B for AI until 2022, Politico
+29
+
+Other energy companies and operators publish energy-related data, including RTE and
+Enedis/EDF, while many energy datasets are accessible via data.gouv.fr. These include information
+about energy use in food production and energy data provided by regional institutions.
+157
+In the private sector, meanwhile, electricity company ENGIE has opened data for the La Haute
+Borne wind farm.The purpose was to demonstrate theworkings of ENGIE’s Darwin big data
+158
+tool. This collects real-time data from renewable energy installations across Europe; it also enables
+data-driven predictions about power plant maintenance and has the potential to answer customer
+enquiries via a chatbot.
+159
+159
+Renewables Now (2017) Engie to open data for 21 MWFrench wind farm - report
+158
+ENGIE (2017) Welcome to ENGIE’s first open data windfarm
+157
+Think Smartgrids (2016) Yet more Open Data for SmartGrid players
+30
+
+Netherlands
+Mapping the data economy
+The Netherlands is the 18th largest economy in the world,and the sixth largest in Europe,
+160
+accounting for 4.7 percent of total EU GDP.As of2016, the Dutch digital economy was
+161
+estimated to be worth €182 billion.The country ranksfourth in the EU Digital Economy and
+162
+Society Index (DESI) 2017, scoring highly for the digitisation of services and having a digitally
+skilled, active and connected population.DESI’sfindings also show that the country faces the
+163
+challenge of improving the uptake of technology by businesses.
+164
+The country currently ranks at 20th (of 94 countries) in the Global Open Data Index.The 2017
+165
+coalition agreementaffirms the government’s commitmentto open data and outlines plans to
+166
+develop an ‘ambitious, broad agenda’ for digitising public services. In support of this promise, a
+2017 amendment to the General Administrative Law Act stated that all citizens and businesses
+have the right to conduct all of their affairs with the government digitally. The government has also
+created a connected system of 13 key databases that all of government uses frequently, which
+serves as the backbone to other data efforts. Where possible this information is also published as
+open data, such as the vehicle register, cadastral maps, addresses, and buildings.
+167
+The government is to come out with a new digital strategy later this year, which is likely to contain a
+substantial section on the value of big data and potentially a new regulative model for data sharing.
+A new Open Government Action Plan is also set tobe launched this spring, featuring nine action
+168
+topics, one of which is to be open algorithms and the principle of open by design for government
+agencies.The Secretary-General at the Dutch EconomicAffairs Ministry Maarten Camps
+169
+announced at the start of 2018 that all companies, including data-rich businesses such as Google,
+Facebook and Apple should share anonymous user data as part of a new model for economic
+regulation. Camps said that this data was extremely valuable for businesses and improving
+services, and failure to share it inhibits competition and allows for monopolies. New plans for data
+sharing would still need to protect personal privacy, and companies may receive financial
+compensation for data.
+169
+Interview with Ton Zijlstra, European open data expert, 12 April 2018
+168
+International Institute of Communications (2018)Netherlands Pronounces on the Digital Economy
+167
+Interview with Ton Zijlstra, European open data expert, 12 April 2018
+166
+Coalition Agreement between VVD, CDA, D66 and theChristian Union (2017) Confidence in the Future
+165
+Global Open Data Index (2017)
+164
+ibid.
+163
+EU DESI (2017) Netherlands
+162
+Warmerdam, M. (2017) Dutch Digital Economy Worth€182 Billion
+161
+Eurostat (2017) Share of Member States in EU GDP
+160
+IMF (2017) World Economic Outlook (October 2017)
+31
+
+The country’s current digital strategy document (dated 2016)recognises data as one of their
+170
+main ‘challenges’. Key issues for data include:
+●
+The declining price of sensors, data storage and processing capacity. This leads to
+increasing amounts of data online, and intensifies pressure on the capacity of digital
+infrastructure;
+●
+Privacy and cybersecurity, and the following questions:
+○
+What data is collected?
+○
+On what legal basis is it collected?
+○
+Who can access the data?
+○
+What is done with it?
+The strategy paper recognises that data privacy and cybersecurity represents an opportunity as
+well as a challenge:
+171
+‘the guarantee of security and privacy is an important condition for purchasing products
+and services. By ensuring these preconditions are met and by offering innovative products
+and services in the field of cybersecurity, the Dutch business sector can stand out from its
+competitors throughout the rest of the world’.
+Ongoing governmental actions outlined in the Digital Strategy in relation to data include:
+●
+Schemes to train big data scientists in-country, as 300 more are needed every year;
+●
+New public-private partnerships (PPPs) in four sectors: energy, healthcare, cybersecurity
+and industry. These have been initiated by Team ICT, the government body for digitisation.
+In 2016-17 they sought to apply big data analysis to find solutions to social issues, such as
+smart networks for energy, and diagnostics and prevention in healthcare;
+●
+Giving €50 million per year to fiscal measures for startups and SMEs.
+The Dutch government has also created Commit2Data. This is a multi-year national research and
+innovation programme aimed at developing the collection and use of data as a basis for economic
+growth.This project is made up of Big Data Hubs,which focus on individual sectors, to try to
+172
+establish connections with economic clusters and regional field labs through PPPs. The hubs are a
+pre-competitive environment where researchers, SMEs and large companies collaborate on
+short-cycle real use cases.
+Largely due to the country’s liberal corporate taxation laws, there is substantial foreign direct
+investment in the ICT sector in the Netherlands, particularly focused in Amsterdam. Several major
+players have chosen to situate their European headquarters here, including Facebook, Netflix and
+Uber. Google and Microsoft also both have their European data centres in the Netherlands.
+172
+Commit2Data website
+171
+ibid.
+170
+The Ministry of Economic Affairs (2016) Digital Agendafor the Netherlands
+32
+
+The country is also home to a number of smart cities including Eindhoven and Utrecht, where tech
+is being used to tackle issues such as traffic, noise and crime.This includes amassing
+173
+substantial data using means such as wifi trackers, cameras and microphones on lamp posts. This
+creates issues around personal privacy, particularly given that, in Utrecht (and other cities), a
+significant number of smart projects are outsourced to private companies. CityTec, for example,
+who manage car parks, traffic lights and lamp posts, have previously refused to share their data
+with municipalities. In Amsterdam, these efforts tend to be based on a model of data sharing,
+rather than open data, which would provide a more level playing field. Indeed, Amsterdam seems
+to have more or less dropped ‘open data’ from their discourse.Some of these issues are a
+174
+product of local governments failing to draw up a clear agenda or set of procedures for the
+contracts needed for these projects, resulting in data monopolies for specific companies. To help
+address this, Geonovum (an association of geodata users including governments) have released a
+toolto help local governments define their differentroles as regulators, guardians of public
+175
+spaces, data users, and providers of public environments as innovations platforms.
+176
+Data legislation and regulation
+Key legislation and regulation
+The Dutch Personal Data Protection Act has been in place since 1 January 2016, and sets out the
+main laws for handling personal data.The Dutch DataProtection Authority supervises the law’s
+177
+implementation. The law stipulates that people should be informed in advance of data collection,
+and the purpose specified. In reality, this has not been uniformly implemented, as evidenced by
+Guardianresearch into smart cities where vast quantitiesof data is collected on individuals without
+their knowledge or explicit consent.
+178
+The government has recently increased penalties for noncompliance with personal data privacy
+laws. The Data Breach (Notification Obligation) Act (Meldplicht Datalekken) and the extension of the
+power to impose fines (as set under the Dutch Data Protection Act) came into force in January
+2016, in anticipation of similar obligations under GDPR.
+The duty of notification means that if a breach of security measures around personal data is
+discovered, the data controller must immediately report it to the Dutch Data Protection Authority.
+The data controller then has to report this information to affected individuals if their personal privacy
+is under threat. The maximum fine for non-compliance with the Act was also raised from €4,500 to
+178
+Naafs, S. (2018) 'Living laboratories': the Dutchcities amassing data on oblivious residents, The Guardian
+177
+deLex (2016) The Personal Data Protection Act
+176
+Interview with Ton Zijlstra, European open data expert, 12 April 2018
+175
+Geonovum tool for local governments
+174
+Interview with Ton Zijlstra, European open data expert, 12 April 2018
+173
+Naafs, S. (2018) 'Living laboratories': the Dutchcities amassing data on oblivious residents, The Guardian
+33
+
+€810,000; or 10 percent of the annual net turnover of a company, per violation.This obligation
+179
+will continue on top of GDPR. The Data Protection Law has already been used to investigate major
+companies such as Microsoftand Airbnb.As GDPRapproaches, the number of data leaks
+180181
+reported to the Data Protection Authority has greatly increased: in 2017, 10,000 were reported, up
+by 70% from 2016, which the authority interprets as a growth in public awareness.
+182
+Impact of GDPR and the European ePrivacy Regulation
+The Netherlands are viewed by many other European countries as an interesting test case for the
+impacts of GDPR. This is due to the number of tech giants headquartered there who rely on
+customer data.The country already has a good trackrecord of creating national data protection
+183
+laws (see previous section on key regulation). This means that implementing GDPR will, in theory,
+not be unchartered territory. On 13 December 2017 the Dutch government sent their GDPR
+Implementation Bill (theAlgemene Verordening Gegevensbescherming,or AVG) to Parliament. The
+bill is designed to ensure that GDPR is implemented in a ‘policy-neutral manner’; i.e. that all
+existing legislation continues so long as it is permitted under GDPR.
+184
+The Personal Data Protection Data Act, which is to be replaced by GDPR, has broadly similar
+principles governing the use of personal data (lawfulness, fairness, transparency and accuracy),
+and generally similar obligations.Key differences,common to most countries subject to GDPR,
+185
+include changes for those who process personal data on a daily basis. For example, human
+resources departments will now have to comply with new employee rights such as the right to be
+forgotten and the right to data portability.
+There is a lack of clarity over who will be responsible for overseeing ePrivacy laws. The European
+Parliament and EU would like this to be overseen by the Data Protection Authority, but ePrivacy is
+currently overseen by the Consumer and Market Authority (ACM).The Minister of Justice and
+186
+Security Sander Dekker issued a memorandum in December stating that it would be up to the
+respective bodies to handle the overlap in duties on a case-by-case basis.
+187
+187
+Explanatory memorandum for the GDPR ImplementationAct
+186
+Hofmans, T. (2018) Dutch companies not ready forGDPR despite approaching deadline, Computer
+Weekly
+185
+Osborne Clarke (2017) GDPR and HR - What will changein the Netherlands?
+184
+Terstegge, J. (2017) Dutch government introducesGDPR Implementation Bill, International Association of
+Privacy Professionals
+183
+Hofmans, T. (2018) Dutch companies not ready forGDPR despite approaching deadline, Computer
+Weekly
+182
+Autoriteit Persoonsgegevens (2018) 10,000 data leaksreported in 2017
+181
+Autoriteit Persoonsgegevens (2017) Dutch DPA: Airbnbends processing of national identity numbers
+180
+Autoriteit Persoonsgegevens (2017) Dutch DPA: Microsoftbreaches data protection law with Windows 10
+179
+Kromann Reumert (2015) The Netherlands: a new actintroduces a notification duty for personal data
+breaches and higher fines
+34
+
+PwC’s June 2017 reportPrivacy Governancereviewed 350 companies in the Netherlands and
+188
+found that only around 12 percent were suitably prepared for the implementation of AVG. A large
+proportion of companies lacked rules to comply with the January 2016 national Data Breach Act. A
+later report from November 2017 still found that 80 percent of companies were not compliant with
+the new law.This lack of preparedness for GDPR hasled to a rise in companies helping to assist
+189
+organisations and business leaders with AVG compliance.
+190
+High-level market analysis
+Finance
+The Dutch FinTech environment is growing quickly, reflecting the country’s projected image as a
+digital innovation hub. There are approximately 430 companies currently active in the Dutch
+FinTech market, and this number grew by 100 over the last year alone.The government is
+191
+supporting this growth. The 2017 coalition agreement states that it will establish a Dutch finance
+and development institution, InvestNL, and make €2.5 billion available in the budget for it.
+192
+This is intended to encourage investments in sectors where the country has not yet capitalised on
+all opportunities. The body is to act as a single point of contact for entrepreneurs seeking risk
+capital, guarantees, export credit insurance and international finance programmes. It will also help
+develop and invest in major public projects in the country and overseas, and support innovative
+businesses such as start-ups and scale-ups. In particular, InvestNL will focus on “high-risk
+activities within various transition areas” such as energy, mobility, and the digitisation of industry.
+The coalition agreement also explicitly recognises the value of innovative financial technology
+(FinTech), stating that in order to encourage these companies to grow, the government will
+introduce less strict licensing requirements for banking and other services. Meanwhile,
+Commit2Data has run a programme to fund research into big data applications for banking and
+insurance. Major banks are collaborating with FinTechs, as well as offering their own FinTech
+initiatives such as PEAKS (Rabobank), Gappie (Nationale Nederlanden) and Kandoor (APG).
+Europe’s largest FinTech event, Money 20/20, is to be held in Amsterdam this year.
+However, according to the 2017 EY FinTech Adoption Index, only 27 percent of the digitally active
+population use FinTech services, which is below the EU average of 33 percent. Also, FinTech
+growth has not been without controversy. Dutch banking giant ING came under fire in 2014 when it
+announced a plan to sell its customers’ payment data to other companies, to enable them to target
+advertising. Substantial negative backlash forced the bank to renege on its on plans, and the
+192
+Dutch Government (2017) Cabinet draws out investmentsby establishing Invest-NL
+191
+Holland FinTech (2018) Dutch Fintech Infographic4.0
+190
+Hofmans, T. (2018) Dutch companies not ready forGDPR despite approaching deadline, Computer
+Weekly
+189
+Lemsom, M. (2017) Companies and governments are notready for a new privacy law
+188
+PwC Nederland (2017) Privacy Governance
+35
+
+scandal ultimately restricted the development of big data in the country for a while.The bank
+193
+remains, however, a ‘big data proponent’, having invested millions in its data strategy and
+technologies.
+194
+Dutch FinTech market. Source: Holland FinTech
+195
+Transport
+The 2017 coalition agreement stresses the need to take autonomous vehicles into account when
+designing infrastructure. It also states that, “wherever possible, government information on traffic
+and transport for vehicles, apps and journey and route planners will be provided as open data”.
+196
+To govern this, the agreement pledges to create rules on ownership and use of travel data. In
+2017, a national agreement was signed between the Ministry of Transport, public transport
+concession holders, Translink Systems (who operate radio frequency identification travel cards),
+and the Provinces (who provide concessions for regional public transport), to make full trip data
+(including multimodal single trips, e.g. from train to bus to tram) available. The agreement was
+196
+Coalition Agreement between VVD, CDA, D66 and theChristian Union (2017) Confidence in the Future
+195
+Holland FinTech (2018) Dutch Fintech Infographic4.0
+194
+Monge, J. (2017) How ING engages customers with BigData and the Internet of Things, Internet of
+Business
+193
+Bakker, J. (2016) Dutch mastering the art of bigdata analysis, Computer Weekly
+36
+
+designed to mitigate the associated privacy issues whilst making this valuable data available for
+research.
+197
+The Digital Strategy also discusses the importance of big data for mobility in the Netherlands. A
+large part of this is provided by the national data warehouse for traffic data (NDW), which published
+real time sensor data on traffic density, number of vehicles and speed, and the national department
+for traffic (RDW), which publishes technical data and license plates.The strategy outlines
+198
+research into a new system for regulating the taxi market as part of a ‘future-proof legislation’
+approach to quickly remove impediments to innovation. It also discusses government collaboration
+with research and academic institutes and the business sectors on programmes such as:
+●
+The Better Use (Beter Benutten) [of existing travelinfrastructure] programme. This is to
+provide €1.1 billion of public funding for 250 measures across ten regions, and includes
+improving real-time travel data to help reduce traffic jams;
+199
+●
+The Declaration of Amsterdam on connected and automated driving. This is an agreement
+between the European Commission and the private sector on joint goals and actions for
+introducing automated cars to Europe’s roads;
+200
+●
+The European Truck Platooning Challenge, organised by the Netherlands to promote
+convoys of semi-automated trucks across Europe.
+201
+The Digital Strategy also discusses the need to change the way that data is shared in the mobility
+and logistics sector, with an emphasis on standardisation. The government is developing a single
+portal for trade and transport to optimise this.
+In the private sector, Uber’s European headquarters is based in Amsterdam. They plan to double
+the number of staff members working there to 1,000 over the next decade. The company
+processes revenue from rides elsewhere in Europe in the Netherlands, due to lower corporate tax
+rates (25 percent, compared to 33 percent in France, 30 percent in Germany and 29 percent in
+Belgium). This has attracted substantial criticism from the London Private Hire Car Association,
+who called it ‘tax avoidance on an industrial scale’.The company has previously run into trouble
+202
+with Dutch regulators, who twice raided the offices in 2015 over the low-cost UberPOP service,
+which they suspected of operating without sufficient licensing. This service was discontinued in the
+same year.
+203
+203
+Cook, J. (2017) Uber is planning to double the sizeof its international HQ in Amsterdam, Business Insider
+UK
+202
+Williams-Grut, O. (2015) EXCLUSIVE: Uber's rivalsays it uses 'tax avoidance on an industrial scale,' and
+wants Europe to investigate, Business Insider UK
+201
+European Automobile Manufacturers Association (2016)What is the European Truck Platooning
+Challenge?
+200
+Dutch government, What is the Declaration of Amsterdamon selfdriving and connected vehicles?
+199
+Dutch government, Improving utilization of infrastucture
+198
+ibid.
+197
+Interview with Ton Zijlstra, European open data expert, 12 April 2018
+37
+
+Major Dutch navigation player TomTom recently acquired German self-driving car startup
+Autonomous, signalling a move for the company into the field of autonomous vehicles.
+204
+Artificial intelligence
+According to Asgard research, Amsterdam is the sixth biggest AI hub (in terms of number of AI
+companies) in Europe, after London, Berlin, Paris, Madrid and Stockholm. The city recently
+launched a new AI training programme called Artificial Intelligence for Growth to teach people from
+non-technical backgrounds about AI.The programmeis run by the Growth Tribe Academy, with
+205
+partners including Startup Amsterdam, Microsoft and the Dataiku data science platform. There is
+significant multidisciplinary collaboration in Amsterdam between academia and industry, with labs
+such as Qualcomm-QUVA Lab (researching deep vision), UvA-Bosch DELTA Lab (researching
+applications of deep learning to automotive and computer vision), AMLAB (for machine learning),
+Intelligent Sensory Information Systems (for computer vision) and ILPS (for information retrieval).
+Many of these are based at the Amsterdam Science Park, which is a key site for dialogue and
+shared research between science and industry.
+206
+The city, which received the 2016 European Capital of Innovation Award,also hosted the World
+207
+Summit for AI, the world’s biggest applied AI conference, in October 2017. Europe’s first AI
+accelerator, Rockstart, was launched in 2017 in the city, initially to fund ten startups.The city’s
+208
+two major universities also have joint AI masters programmes to help grow local talent. Some
+notable local AI companies are Sightcorp,who helpedpioneer real-time measurement of facial
+209
+expressions, Eclecticiq IQwho work on threat intelligenceand Elastic,who work on a range of
+210211
+data problems.
+Healthcare
+The Digital Strategy recognises the digitisation of healthcare as a major priority area, and notes the
+role of big data in helping to diagnose diseases such as Parkinsons and Alzheimers. Big data can
+also allow for greater transparency in the sector, as the paper states: “[d]igital operations and
+standardised data exchange boost the healthcare sector and must therefore become the
+standard”.
+212
+The 2017 coalition agreement pledges to set aside a total of €40 million for the administration’s
+term in office, and €5 million a year thereafter, for promoting digitally assisted care delivery and
+212
+The Ministry of Economic Affairs (2016) Digital Agendafor the Netherlands: 37
+211
+Elastic website
+210
+Eclectic IQ website
+209
+Sightcorp website
+208
+I amsterdam (2017) Amsterdam startup scene embracingAI
+207
+European Commission (2016) Amsterdam is the EuropeanCapital of Innovation 2016
+206
+Amsterdam Science Park website
+205
+I amsterdam (2017) Artificial Intelligence for growth
+204
+Nickman, S. (2017) Artificial Intelligence in Amsterdam,the City of Freedom, Medium
+38
+
+more widespread use of innovative working methods.Key government goals for eHealth include:
+213
+214
+●
+Access to medical records - by 2019, 80 percent of the chronically ill population and 40
+percent of the general population should have direct access to their own medical records
+(note that a 2011 government initiative for a national centralised system for patient files
+failed, and since then there has been an opt-in ‘national switchboard’ where data is shared
+by care providers with a patient’s consent - although patients do not know what specifically
+is shared or who can access it);
+215
+●
+Health monitoring - by 2019, 75 percent of chronically ill and elderly people should be able
+to monitor their own healthcare data and share this with their health provider;
+●
+Online contact with care provider - those receiving care and support at home should be
+able to communicate with their provider at any time via a screen.
+While an ongoing healthcare modernisation programme exists (Innovatie en Zorgvernieuwing),the
+Digital Strategy states that large-scale applications of eHealth initiatives are often lacking. This is
+due in part to a lack of resources for highly reliable verification of users and standards for logging
+on to systems. Steps taken so far have included:
+216
+●
+The first ‘Health Deal’ was signed in 2016 by a combination of public and private
+companies in the IT and healthcare sectors to try to scale up innovations in healthcare;
+●
+The government has set up an online support platformfor healthcare innovators,
+217
+including funding tips;
+●
+Making digital data-sharing easier - the government is consulting healthcare administrators
+on standards to facilitate data sharing, and talking to IT suppliers;
+●
+Bringing together healthcare innovators and other parties to share knowledge and help
+advance innovations;
+●
+Overseeing collaboration between various parties in the healthcare sector on a programme
+to agree standards and requirements for personal digital healthcare environments.
+Health Valley is a unifying network to encourage and support technological innovations in
+healthcare. It is a public-private partnership funded by contributions from the government and
+partners from the network. It provides a platform to connect universities, care institutions,
+companies and government authorities to exchange information and work on innovations in
+healthcare.
+It is important to note, however, that despite all the government rhetoric around eHealth initiatives,
+the basic data and operations of the healthcare system remain very opaque.There is generally
+218
+no available data on, for example, the costs of treatments and the quality of care providers. Even
+218
+Interview with Ton Zijlstra, European open data expert, 12 April 2018
+217
+Zorg voor innoveren website
+216
+Dutch government, Government encouraging use of eHealth
+215
+Interview with Ton Zijlstra, European open data expert,12 April 2018
+214
+Dutch government, Government encouraging use of eHealth
+213
+Coalition Agreement between VVD, CDA, D66 and theChristian Union (2017) Confidence in the Future
+39
+
+the Ministry of Health only receives healthcare data after a three year lag. The public national care
+authority (NZA) dropped ‘providing transparency of costs’ as one of its stated goals after receiving
+a freedom of information request for this data, which they successfully fought in the highest court.
+Insurers and care providers have, however, been fighting for greater transparency. Furthermore, in
+2015 the financial responsibility for youth care, chronic care provision and care for the elderly was
+devolved to local governments, which has led to a fragmentation of data and policy.
+219
+Energy and utilities
+Since the Energy Agreement for Sustainable Growth (2013),the Netherlands has been pursuing
+220
+a transition away from non-renewables, aided by IT. The Digital Agenda emphasises energy and
+utilities, and focuses on the development of smart networks and smart grids. Key ideas in the
+document for applications of big data in energy include:
+221
+●
+Maps to display energy consumptions of regions, districts and buildings to help manage
+the infrastructure, develop spatial policy, and offer energy conservation products and
+services;
+●
+Improving weather forecasts using data from windmills and solar panels;
+●
+Linking data from generators and consumers of energy through digital platforms.
+The national transition away from non-renewables (to be completed by 2050) remains a major
+focus point of the Coalition Agreement and substantial government funds (around €4 billion a year)
+are allocated to the various associated budget items, with an additional set of funding for
+innovation policy.
+Commit2Data are researching how big data can assist this transition. They are seeking to achieve
+change in this domain through the use of PPPs, with projects starting in this sphere in early 2018.
+Big data is recognised as a key enabler in coordinatingthe transition through smart meters and
+222
+sensors. Through Commit2Data, the Netherlands Organisation for Scientific Research (NWO)
+awarded grants worth €3.85 million to six projects, to be combined with private sector funding,
+including ‘intranets for energy’ and ‘peer-to-peer energy grids’.
+223
+Energy transporters (publicly owned private entities) already provide both open and shared data,
+but also turn down lots of data requests. Although they see the value of releasing data, for example
+to aid the energy transition, they are often forced to turn down requests for a number of reasons.
+These include privacy concerns (around data such as that from smart metres) and contractual
+confusion due to their position in charge of a data pool derived from both public, private, and
+individual sources who submit data under varying conditions.
+224
+224
+Interview with Ton Zijlstra, European open data expert, 12 April 2018
+223
+NWO (2018) Grants awarded for Energy System Integration& Big Data
+222
+Dutch Digital Delta, Energy
+221
+The Ministry of Economic Affairs (2016) Digital Agendafor the Netherlands: 40
+220
+Social and Economic Council (2013) The Agreementon Energy for Sustainable Growth: a policy in
+practice
+219
+ibid.
+40
+
+Belgium
+Mapping the data economy
+Belgium is the 9th largest economy in the EU and 25th in the world.With a growth rate of 1.6
+225
+percent in 2017, its economy is described as ‘well-diversified’, ranging from manufacturing to
+services and technology, and based on extensive transport infrastructure.Belgium has a large
+226
+tech industry in relation to its small population of 11 million citizens: it has 22 companies in
+Deloitte's Fast 500 list for 2016.
+227
+Belgium is ranked 22nd in the global Open Data Indexand 6th out of 28 EU countries in the
+228
+2016 Digital Economy and Society Index (DESI). It therefore forms part of a cluster of
+high-performing countries when measured on its digital infrastructure, confidence and security,
+skills and jobs, economy, and government.
+229
+However, Belgium’s DESI ranking of 6th in 2016 represents a fall from its 5th place in 2015.
+Equally, the 2016 BCG e-Intensity Index, which measures the extent to which a country embraces
+the internet, ranks Belgium 19 out of 85 countries. It therefore sits behind many of its European
+peers. Belgium also ranked 17th in European countries on the 2017 Global Innovation Index,
+behind comparable nations such as Sweden (2nd), the Netherlands (3rd), and Denmark (6th).
+230
+These rankings suggest that Belgium risks being out-performed by its European neighbours, yet
+also possesses a well-developed baseline and potential for significant growth in its digital economy.
+Indeed, it is estimated that a fully operational digital market embracing digital technology and
+startups in Belgium could double the GDP growth rate by 2020. Potentially, this could translate into
+300,000 full-time jobs across the digital sector and wider economy.
+231
+Belgium possesses one of the most devolved government structures in the world, and both its
+federal and regional governments have recently sought to end any apparent digital complacency.
+At present, the country has ‘crossroads’ databases at both the federal and regional level, where
+multiple government stakeholders pool data. In a similar model to the Netherlands (and Denmark),
+some of these datasets are open. However in Belgium (unlike the Netherlands and Denmark),
+231
+ibid.
+230
+BCG (2016) Digitising Belgium
+229
+European Commission (2017) Digital Single Market:Belgium
+228
+Global Open Data Index (2017)
+227
+Hot Topics, A comparison of the world's leading fintechhubs: Belgium
+226
+Index Mundi (2018) Belgium Economy Profile 2018
+225
+Eurostat (2017) Share of Member States in EU GDP
+41
+
+largely due to complicated government structures, these ‘crossroads’ databases are not
+connected in a single unified system.
+232
+In 2015, Deputy Prime Minister and Minister for the Digital Agenda Alexander de Croo launched
+new federal open data strategy, Digital Belgium. This is a five point plan to put Belgium ‘firmly on
+the digital map’. At its centre is a commitment to transition all government data to ‘digital by
+default’, available for use by non-profit and commercial applications without attribution.Aiming to
+233
+create 1,000 new startups and 50,000 jobs, and grant internet users access to 1Gbps connectivity
+by 2020, this agenda contains an explicit commitment to place Belgium 3rd in the DESI by 2020. It
+has received strong support from organisations such as Open Knowledge Belgium.
+234
+These ambitious agendas are currently at the early stages of enactment, meaning that Belgium is
+yet to realise their full potential. Nevertheless, the government’s actions are promising. There is a
+clear recognition that new companies and organisations will shape Belgium’s new digital economy
+meaning, and this creates a window of opportunity for young and emerging actors. This is
+particularly so in FinTech. Following Britain’s decision to leave the European Union, Belgian Finance
+Minister Johan van Overtveldt has sought to build new links between the two countries with the
+launch of a new Brussels-based hub to support financial technology startups.
+235
+Data legislation and regulation
+Key legislation and regulation
+The 2015 Digital Belgium strategy is the centerpiece driving the federal government’s digital policy
+agenda. Not only does it make all government data sets open-by-default when requested, but it is
+required for the data to be published in easy-to-access, and machine-readable formats (useful for
+researchers and app developers alike). It is the government’s intention that by 2020, all government
+data will be proactively published without requiring citation through the use of CC0 (licenses
+without restriction - often the best form of open data licenses).To make this happen, every
+236
+government department must develop an open data strategy that includes appointing a
+responsible Open Data Champion to put the initiative into practice. This is overseen by the creation
+in 2016 of the Digital Transformation Office - a centre of excellence and innovation in the
+intersection of new technologies and data.The federalgovernment also launched a new
+237
+government cloud (“G-Cloud”) providing a single platform for the integration of federal services and
+ministries. The strategy represents a clear embrace of digital governance where exceptions for
+privacy and security - rather than openness - have to be justified. Privacy is still taken seriously (as
+237
+European Commission (2017) Digital Single Market:Belgium
+236
+Belgian Government (2015) Green light for federalopen data strategy: government data is now freely
+available
+235
+Finextra (2017) Belgium builds fintech bridge toLondon
+234
+Colpaert, P. (2015) Green light for the Belgian federalOpen Data strategy
+233
+Digital Belgium website
+232
+Interview with Ton Zijlstra, European open data expert, 12 April 2018
+42
+
+the GDPR section will illustrate), with the strategy ensuring that all personal information is
+anonymised, with an open data committee within the Privacy Commission overseeing this.
+238
+The federal government’s strategy is rightly ambitious, aiming to place it 3rd in the DESI rankings by
+2020 with a five-point plan closely aligned to the key measures behind the index.Beyond open
+239
+data, the strategy contains commitments to improve digital infrastructure (1 Gbps fibre broadband
+by 2020), ease of doing business (electronic invoicing is now an obligation for all government
+suppliers), and simplifying regulation for startups. Recognising that more and more people provide
+services to others as ‘mini-entrepreneurs’ through apps and other digital platforms (in what is
+known as the collaborative economy), the federal government introduced a new innovative legal
+framework in 2017 clarifying and streamlining taxes for these services. Under an income of €5,000,
+such services will be taxed at a straightforward, reduced rate of 10 percent (deducted at source) to
+prevent fraud and unfair competition with other small businesses - a vast improvement on the
+previous 33 percent rate that was applied ad hoc and required individuals to self-report income to
+tax authorities.This is complemented by the doublingof investments in startups each year since
+240
+2015, with Belgium having long lagged behind its European peers in startup funding.
+241
+BCG highlights that this has amounted to a significant increase in regulation in recent years,
+particularly in terms of fiscal and social legislation for the sharing economy. However, there are still
+important focus areas for improvement. Europe’s 2017 Digital Progress Report for Belgium
+highlights that 68 percent of Belgians reported having at least basic digital skills (the EU average is
+56 percent), and though there is high enrollment in tertiary education, there is a distinct shortage in
+graduates of STEM subjects necessary for growth and innovation, particularly in digital technology.
+The BCG report highlights this and labour market flexibility as key weaknesses of the government’s
+approach thus far.Despite these shortcomings, thegovernment has launched a Digital
+242
+Champions scheme (‘to make every child in Belgium a digital champion’),and plan to bring IT
+243
+professionals into schools. Perhaps the most significant move by the government is the
+announcement of an €18 million digital skills fund to advance coding and digital skills training
+courses for young people over the next three years.
+244
+The legislative situation in Belgium is complicated by its heavily devolved governance between the
+Flemish, Walloon, and Brussels regional parliaments and executives. Indeed, Open Knowledge
+Belgium has claimed that this results in Belgium’s digital performance being understated in several
+international indices such as the EU Digital Economy and Society Index which is based primarily on
+federal-level measures.What is happening at theregional legislative level is therefore highly
+245
+245
+Open Knowledge Belgium, Open Data in Belgium
+244
+European Commission (2017) Digital Single Market:Belgium
+243
+Digital Champions website
+242
+BCG (2016) Digitising Belgium
+241
+Ernst and Young (2016) Belgium: an unexpected idealhub for FinTech?
+240
+European Commission (2017) Digital Single Market:Belgium
+239
+Digital Belgium website
+238
+Open Access Belgium, Open Data
+43
+
+consequential and should not be ignored. Flanders thus far has been at the forefront of open data
+in Belgium with open standards set for its regional government as early as 2014. Numerous events
+and initiatives such as hackathons are well established across Flemish cities and supported by the
+Flemish Open Data Forum.There is now also a SmartCities Flanders program, which is a broad
+246
+stakeholder network with Flemish government and EU funding.Likewise, Wallonia has sought to
+247
+catch up by launching Digital Wallonia, a platform for IT initiatives which provides an open data
+portal for the region as a whole.Key to these regionalinitiatives is the idea of not only improving
+248
+citizens’ lives, but ensuring data is readily available for research purposes, a key principle behind
+the opening up of datasets on Brussel’s new City Portal.
+249
+Finally, Belgium is in the process of radically reforming its Data Protection Agency by investing an
+extra €150 million euros into its annual budget. The goal is to ensure ‘state of the art standards’
+that treat GDPR as a ‘business opportunity’.
+250251
+Impact of GDPR and the European ePrivacy Regulation
+Ensuring both public and private organisations are ready for the GDPR is being taken extremely
+seriously by both federal and regional governments with practical advice to firms issued by the
+national Privacy Commission (in the form of a 13 step plan)and through Digital Wallonia.The
+252253
+GDPR has prompted the federal government to radically overhaul its Data Protection Authority, with
+the national Parliament approving an extra €1.7 million for its annual budget to secure a ‘state of
+the art’ agency to operate on a par with the biggest data protection authorities around the world.
+254
+The outgoing President of the Belgian Commission for the Protection of Privacy, Willem
+Debeuckelaere, is frank in stating that despite significant investment and efforts, “[e]ven the Belgian
+DPA will not be 100 percent compliant with the GDPR on May 25...[but] don’t worry, we won’t be
+the only ones”.
+255
+Belgium’s Secretary of State for Privacy, Philippe De Backer, views this as a ‘business opportunity’
+to create a level playing field between the public and private sectors to enable data exchange.
+256
+He emphasises that the new Data Protection Agency’s approach, (when it comes online in May
+2018) is not simply to sanction, but ‘provide guidelines for businesses and create legal certainty’.
+As part of this, sanctioning mechanisms have been written into law to avoid ambiguity and in
+256
+Ashford, W. (2017) GDPR is a business opportunity,says Belgian minister, Computer Weekly
+255
+ibid.
+254
+Pfeifle, S. (2018) How Belgium is gearing up forGDPR, The Privacy Advisor
+253
+De Doncker, O. (2018) GDPR, quel impact pour lesprestataires de services digitaux?
+252
+DLA Piper (2016) BELGIUM: Belgian Privacy Commissionissues a 13 step plan for companies preparing
+for GDPR compliance
+251
+Ashford, W. (2017) GDPR is a business opportunity,says Belgian minister, Computer Weekly
+250
+Pfeifle, S. (2018) How Belgium is gearing up forGDPR, The Privacy Advisor
+249
+Open Data Brussels website
+248
+Digital Wallonia website
+247
+Smart Cities Flanders website
+246
+ibid.
+44
+
+transposing EU legislation to national law, they also seek to make exceptions for archiving statistics
+and scientific research to allow as much room for innovation as possible.
+257
+High-level market analysis
+Finance
+Belgium is being touted as a surprisingly good platform for FinTech startup and development,
+despite its present low adoption rate of 13 percent amongst consumers (below a global average of
+33 percent).Though an early pioneer in the standardisationof payments between banks,
+258
+Belgium’s small market and population size, alongside a comparative decline in startup investment
+have not made Belgium an obvious choice for FinTech innovation recently. However, this has the
+potential to rapidly change over the next few years. The industry’s roots in payments systems gives
+Belgium a clear potential focus area within the sector, with one survey showing that almost all
+FinTech usage in Belgium originates from digital payments, facilitated by the rise of e-commerce in
+the last decade.
+259
+Generally, Belgium is unusual in that three quarters of its startups are business-to-business
+focused, a trend very much in evidence in its FinTech firms with companies like Xpenditure offering
+services for businesses over consumers and Clear2Pay focusing on helping financial institutions to
+improve internal payments processes. Belgium has long been at the forefront of applying innovative
+technologies in the financial system, with firms such as Clear2Pay having raised $127 million over
+its 16-year lifetime.
+260
+Despite Belgium hosting big players in FinTech, investments tend to be concentrated in early-stage
+startups, with more than 60 percent of the country’s 56 funding rounds awarded for less than €5
+million in 2016. Not only is startup funding increasing, but the government launched a ‘Startup Plan
+2015’ to create a tax shelter for tech companies, reducing tax bills by anywhere from 30-45
+percent.Though Belgium’s small market means FinTechfirms have to build an outward-facing
+261
+business, the country’s comparatively developed market makes it an ideal innovation base prior to
+rolling out products to wider markets. This is being reinforced by the Finance Minister Johan van
+Overtveldt’s approach to Brexit, in which he has deliberately sought to build mutually beneficial
+bridges with UK FinTech firms to continue to keep international markets open for Belgian firms that
+rely on them.
+262
+262
+Finextra (2017) Belgium builds fintech bridge toLondon
+261
+ibid.
+260
+Hot Topics, A comparison of the world's leading fintechhubs: Belgium
+259
+Ernst and Young (2016) Belgium: an unexpected idealhub for FinTech?
+258
+Ernst and Young (2017) EY FinTech Adoption Index2017[NB: this figure also includes Luxembourg]
+257
+ibid.
+45
+
+Transport
+Belgium has one of the most developed transport networks in the world, which is also highly
+integrated into the European transport system. The European project ‘Open Transport Net’,
+launched in 2014, includes two hub cities in Belgium - Antwerp and Ghent. The project’s aim is to
+create virtual hubs aggregating, harmonising, and visualising transport-related data to make it
+easier for innovators to create new services and opportunities.In 2013, Brussels Mobility and the
+263
+Brussels Regional Informatics Centre jointly designed an Open Data license that currently only
+applies only to their own data sets and specifically to the Brussels UrbIS geodata. It is this
+intelligent data-lead approach to managing transport data and communicating it to relevant
+stakeholders that is gaining an increased foothold, though at the moment still lags behind nearby
+large cities such as London, Paris and Amsterdam.
+Belgium, like Germany, France, and the Netherlands, is a beneficiary of the C-Roads project
+supported by a combined €55 million grant from the EU, to implement technologies that enable
+vehicles to ‘talk’ to each other in moving towards a smart road network.External organisations
+264
+such as ITS.be (Intelligent Transport Systems), a public-private not-for-profit, have conducted
+extensive lobbying of federal and regional governments seeking to accelerate the transition to
+sustainable mobility across the country.
+265
+Artificial intelligence
+Brussels has new ambitions to be a centre for AI research and innovation.Recently, Innoviris
+266
+(Brussels Institute for Scientific Research) unveiled an investment programme, Team UP, of €4
+million, to support companies and higher education in developing solutions for image analysis,
+telemedicine, virtual reality, robotics, and financial analysis.One such beneficiary, ChatBot Plus,
+267
+is already helping improve customer service using chatbot technology via Facebook.These
+268
+developments present powerful opportunities for the application of AI in the Belgian retail industry.
+As a recent PWC report on the applicability of automation in the Belgian retail sector points out, AI
+could be used at almost every stage of retail from checkouts, sales forecasting, and in-store
+analysis, accompanied by robotic process automation (RPA) which can be used to carry out
+high-level repetitive tasks behind the scenes including populating tax returns with financial data,
+and automated invoicing.Though the Belgian retailsector needs to invest in business software
+269
+and structured, centralised databases to realise this potential, these automatic processes represent
+opportunities applicable to the wider Belgian economy (beyond retail).
+269
+PWC (2016) Rethinking retail: Artificial intelligenceand robotic process automation
+268
+Chatbot Plus website
+267
+Innoviris Brussels website, Missions
+266
+BNP Paribas (2017) Why Brussels is investing in artificialintelligence
+265
+Intelligent Transport Systems, About page
+264
+Traffic Technology Today (2016) C-Roads project reinforcesEU's commitment to connected and
+cooperative mobility
+263
+Open Transport Net website
+46
+
+According to ‘The State of European Tech’ report 2016, Brussels and Antwerp are in the top 15
+hubs of artificial intelligence talent in Europe (12th and 14th respectively).Likewise, KU Leuven
+270
+and Ghent University are ranked in the top 100 worldwide by most-cited AI related research.
+271
+Though there are plenty of green shoots in regards to AI development in Belgium, there are
+currently no political frameworks to systematically advance, implement or discuss issues
+surrounding AI at the federal or regional level, and the issue is yet to reach the stage of salient
+national debate.
+272
+Diagram of the Brussels AI ecosystem. Source: impulse.brussels
+273
+Healthcare
+App-based medical provision and support is gaining traction in Belgium. In February 2018, the
+Minister for Social Affairs and Public Health, Maggie De Block, announced federal plans to establish
+273
+impulse.brussels (2017) Artificial Intelligence Overview
+272
+El Ghabri, M. (2017) Belgium, in Green Observatory:Robotics and Artificial Intelligence, Green European
+Journal
+271
+State of European Tech (2017) Europe is home to theworld's leading AI research community
+270
+Tibau, F. (2016) Brussels and Antwerp in top 15 EuropeanAI hubs, startups.be
+47
+
+a three-tier regulatory framework to ensure the responsible growth of this exciting sector which
+deals with sensitive information:
+274
+●
+Tier 1 - minimum privacy, security, and purpose requirements every app should satisfy;
+●
+Tier 2 - ensure the interoperability of medical apps with official e-health applications;
+●
+Tier 3 - funding to reimburse apps generating added value to the health economy.
+Launched in 2015, Recip-e, a "non-addressed" prescription messaging service (the prescriber
+does not know which provider the patient will turn to, when the prescription is produced), is a
+prime example of an expanding e-health domain.Sinceroll-out, 90 percent of generalists in
+275
+Belgian healthcare are equipped with Recip-e.
+276
+Appropriate regulation of the e-health sector in Belgium is set to be addressed as Maggie De
+Block, alongside Alexander De Croo (Deputy Prime Minister and Minister responsible for the Digital
+Agenda) plan to create a ‘Digital Health Valley’.The plans to develop an ecosystem of firms
+277
+involved in all aspects of the e-health economy have already served as a platform for the launch of
+HealthTech.Belgium, a collaborative effort bringing together key actors in the sector to make
+Belgium the world’s starting base for innovation in health technologies.Grassroots innovation in
+278
+Belgium appears to have prompted a government vision and support which lays promising ground
+for the growth of its e-health economy.
+Energy and utilities
+The energy market is currently in the process of remarkable change in Belgium. A new federal
+clearing house (ATRIAS) and the implementation of a new energy market process model, MIG6.0,
+will greatly simplify the data exchange between energy market stakeholders in a liberalised market,
+and incorporate the latest technologies (such as smart meters and decentralised energy
+production) respectively.With technology enablingthe production and use of data in a liberalised
+279
+energy market with decentralised producers, the Belgian energy market was in need of a simplified,
+transparent, and efficient model to handle increasing data and exchange. Crucial to this is the
+creation of a federal, standardised, central communication platform to simplify information
+exchange between market players.
+There is much pressure across Europe to adopt new market practices and restructure energy data
+management with the mass roll-out of smart-meters (up to 80 percent coverage by 2020)
+increasing the amount and frequency of energy data. This new data also brings with it the need to
+properly legislate protections of customer data. Belgium’s energy market also faces long-term
+279
+Energy Outlook (2016) Atrias and MIG6.0: Towardsa new energy market model in Belgium
+278
+Agoria (2018) Launch of HealthTech.Belgium: "Let'smake Belgium THE world's test country for Health
+Tech innovation"
+277
+VBB (2018) Belgium - Minister De Block Unveils Planfor Medical Apps and Digital Health Valley
+276
+ibid.
+275
+Recip-e website
+274
+VBB (2018) Belgium - Minister De Block Unveils Planfor Medical Apps and Digital Health Valley
+48
+
+challenges from government policy to phase out its nuclear reactors until 2025.As PwC
+280
+highlights, this poses significant challenges to the country’s ability to meet its climate change goals.
+The restructuring of Belgium’s energy market andthe challenges faced by its long-term energy
+281
+sustainability invite a significant role for digital technologies in the future.
+281
+Forum Nucleaire, The role of nuclear power and renewablesin the energy transition
+280
+World Nuclear Association (2017) Nuclear Power inBelgium
+49
+
+Appendix 1: methodology
+We conducted desk-based research over a period of six weeks, to map out the data economies of
+Germany, the Netherlands, France and Belgium. We consulted a wide range of online resources,
+from public sector documents and policy statements to reports produced by private companies
+and consultancy firms. Given time and resource constraints, we have attempted to summarise as
+much salient information as possible for each country from the wide potential range of information
+and resources to consider. It is important to note, therefore, that that this work is non-exhaustive
+and may contain omissions.
+50

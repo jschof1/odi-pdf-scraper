@@ -1,0 +1,357 @@
+
+
+
+
+Open data roadmap for the UK | Open Data Institute 2015
+ The Open Data Institute would like to acknowledge and thank all of those who have 
+ contributed their time and expertise to the evolution of this roadmap, including the 
+ ODI team, its members, startups and a range of people across the open data community. 
+ If you haven’t contributed yet, you still can. Over the first half of 2015, we’ll continue to 
+ expand on its themes, in open discussion and workshops. 
+ Follow @ODIHQ on Twitter to keep up-to-date. 
+This roadmap by the ODI is licensed under a Creative Commons Attribution-ShareAlike (CC BY SA 4.0) International License
+
+3Open data roadmap for the UK | Open Data Institute 2015
+Around  the  world,  governments,  businesses  
+and communities are drawing on data and 
+digital technologies to help respond to 
+challenges that surround us. 
+Open  data:  an  essential  part  of  
+modern policy-making
+Open data has emerged as a core component of 
+the  UK’s  commitment  to  open  policy-making.  It  
+is key to the digital transformation of government, 
+which will only continue to increase in pace with 
+the next parliament. 
+The  UK  has  already  taken  steps  to  harness  the  
+benefits of open data for improved policy-making, 
+and social, environmental and economic benefit. 
+The Open Data Institute’s open data roadmap sets 
+out steps the government can take to continue to 
+drive progress. 
+What is open data?
+Open  data  is  data  that  is  made  available  by  
+government,  businesses  and  individuals  for  
+anyone to access, use and share. Open data is:
+• helping government to make public services 
+more efficient;
+• driving innovation and economic growth by 
+revealing opportunities for businesses and 
+startups to build new services;
+• offering citizens insights into how central and 
+local  government  works,  improving  public  trust  
+and boosting political engagement; and
+• helping government and communities to keep 
+track of local spending and performance.
+Not all data is open data
+Data can be freely accessible but that does not 
+mean  it  is  ‘open  data’.  For  example,  we  can  
+access  Twitter  feeds  any  time,  but  we  cannot  
+reuse the data without buying a licence with strict 
+conditions.  Open  data  is  data  that  is  published  
+under a licence with express permission to reuse, 
+share and modify. 
+Some data will be closed for reasons like privacy, 
+commerciality and security. Open data should not 
+compromise privacy: in any circumstances where 
+personal data is being dealt with, there need to 
+be  meaningful  privacy  safeguards  and  ways  for  
+people to access their own data. 
+
+4Open data roadmap for the UK | Open Data Institute 2015
+Making UK public services more efficient
+The UK’s aging and increasing population will put new pressures on its healthcare system and 
+economy over the next 15 years. Over £200m per year in potential NHS savings have been found 
+using open data, which showed where general practitioners throughout the country could be 
+prescribing generic drugs instead of branded versions. These savings were revealed in 2012 
+by ODI startup Mastodon C, in collaboration with Open Health Care UK and science writer Ben 
+Goldacre, by analysing the prescription records of every family doctor in the UK, without releaving 
+their patients’ identities.
+Preparing UK cities for the next 7 million people
+With the UK population expected to increase by 10% over the next 15 years, to around 70.7 
+million people,
+1
+ space in UK cities is at a premium. Cities across the UK have started opening 
+up their data for new apps to help plan and scale their infrastructure. For example, University 
+College London researcher Oliver O’Brien used data from the London Datastore to map how 
+many people enter and exit tube stations, and how this changes over time. His research has 
+helped inform tube planning around service delivery and staffing. 
+1 
+Adjusting services to an unpredictable climate
+Rising temperatures will mean more extreme weather for the UK. In 2014, floods in the UK 
+highlighted the need for better communication in emergency prevention and response. Open 
+data is being used around the world to help target responses to natural disasters. In the aftermath 
+of  the  2010  Haiti  earthquake,  OpenStreetMap  collated  open  mapping  data,  and  became  the  
+authoritative source of information about roads, buildings and camps of displaced people. Open 
+data was also at the centre of relief efforts after the 2013 Typhoon Haiyan in the Philippines.
+
+5Open data roadmap for the UK | Open Data Institute 2015
+
+6Open data roadmap for the UK | Open Data Institute 2015
+The  UK  is  ranked  number  one  in  the  world  for  
+its  leadership  in  open  data  by  the  Open  Data  
+Barometer (2013). For more than a decade, UK 
+governments of various political parties have built 
+on the open data initiatives of their predecessors 
+to encourage open data to be released and reused 
+across government: from the launch of the Power 
+of Information Review by the Blair government in 
+2007,  to  the  implementation  of  the  data.gov.uk  
+open  data  portal  under  the  Brown  government  
+in  2009,  to  David  Cameron’s  letter  to  cabinet  
+ministers in 2010, affirming previous progress 
+in  open  data  and  setting  out  the  coalition’s  
+transparency agenda. 
+Among  the  UK’s  many  successes  have  been  
+the publication of more than 15,000 government 
+datasets  as  open  data;  the  chairing  of  the 
+inaugural Open Government Partnership in 2011; 
+the introduction of the Open Government Licence; 
+the launch of the Open Data Institute; and frequent 
+training  opportunities  and  incentives  for  public  
+bodies to release more open data.
+This means the UK is perfectly 
+placed to unlock value
+The efforts of the Government Digital Service, the 
+Department  for  Business,  Innovation  and  Skills  
+and the Cabinet Office have contributed to the 
+UK’s  world-class  digital  government  service  
+delivery. 
+There is still more data that can be released, 
+more uses of data that can be demonstrated 
+and more that can be done to improve data 
+quality and literacy. 
+The UK has made great strides in open data so far, 
+and must continue to move forward boldly.
+
+7Open data roadmap for the UK | Open Data Institute 2015
+New businesses are emerging
+with open data
+As  more  open  data  is  released,  businesses  are  
+using  it  to  grow.  Startups  supported  by  the  
+ODI  have  used  open  data  to  build  businesses  
+around government procurement, health savings, 
+smart cities, energy efficiency, 3D-printing and 
+supporting  disabled  communities.  They  have  
+attracted clients from both the public and private 
+sectors,  and,  between  them,  generated  £2.5m  
+since 2012.
+The UK’s efforts in open data have fostered new 
+kinds  of  innovation  and  new  business  models.  
+Now the focus is moving onto sustainability.
+A sustainable open data culture
+The ODI has been engaging groups from across 
+the UK’s open data communities to gather their 
+feedback and build on this strong foundation. 
+Based on these conversations, the ODI’s roadmap 
+for open data in the UK sets out recommendations 
+for  how  to  achieve  a  sustainable  open  data  
+culture.  The  roadmap  also  builds  on  a  range  of  
+policy  documents  that  have  been  released  this  
+year,  including:  the  Royal  Statistical  Society’s  
+Data Manifesto; Policy Exchange’s Technology 
+Manifesto; and the Institute for Government’s 
+Programme for Effective Government. 
+In  2015,  the  ODI  will  continue  to  explore  the  
+prerequisites  for  widespread  impact  from  open  
+data, through discussions with UK stakeholders, 
+technical briefings and regular blog-posts on the 
+ODI website. We will continue to invite feedback 
+as  we  move  from  laying  the  foundations  for  a  
+sustainable open data culture, to putting it into 
+practice. 
+Open data roadmap for the UK | Open Data Institute 2015
+
+8Open data roadmap for the UK | Open Data Institute 2015
+The next UK Government should:
+ 1.  Clearly embed open data within a wider data strategy
+ 2.  Appoint a Chief Data Officer for government to oversee this strategy
+ 3.  Build data publication into all government digital services
+ 1.  Support UK trading funds to release more closed datasets as open data
+ 2.  Use the National Information Infrastructure as a tool for future releases
+ 3.  Include the release of open data in government procurement contracts
+ 1.  Commit to data training for government, business and citizens
+ 2.  Incentivise government to consume open data, not just publish it
+ 3.  Connect research and development frameworks to open data 
+
+9Open data roadmap for the UK.   Open Data Institute 2014
+The central government has stimulated a range 
+of activities around open data. Now is the time 
+to connect and focus them. 
+ 1.  Invest in a data framework:
+embed open data as part of a
+wider data strategy
+Some aspects of data policy, like open data, data 
+sharing and data science are dealt with by different 
+teams  in  the  Cabinet  Office.  Data  protection  
+and IP rights in data are coordinated by other 
+departments. The responsibility for all aspects of 
+data policy should lie in one place within the Cabinet 
+Office, and be more clearly aligned with digital 
+service delivery. The Information Commissioner’s 
+Office should oversee regimes governing both 
+access  to  and  reuse  of  public  information,  and  
+be supported to continue to improve its services. 
+The  data  strategy  should  cover  data  owned  by  
+central and local government, other public bodies 
+and organisations outside government, wherever 
+possible.
+ 2 .  Give the framework oversight 
+and political attention: appoint a 
+Chief Data Officer, who, as part 
+of their role, will monitor and seek 
+the publication of open data
+A government data strategy needs strong strategic 
+leadership. A Chief Data Officer position created 
+within the Cabinet Office should be provided with 
+budget and a team to develop, advocate for and 
+seek  progress  on  all  aspects  of  the  UK’s  data  
+strategy. The Chief Data Officer position would 
+report to the Executive Director of Digital in the 
+Cabinet Office, explicitly aligning data as part of 
+the government’s ‘digital by default’ strategy. The 
+Chief Data Officer should be able to compel the 
+release  of  data  as  high-quality,  open  data  from  
+public bodies, where it is in the public interest to 
+do so.
+ 3 .  Combine policy with delivery:
+support the Government Digital 
+Service to develop a world-class 
+data publishing platform for use 
+by the public sector
+The  Government  Digital  Service  is  transforming  
+online government services, and making it easier 
+to find information about government. Similar 
+attention  should  be  paid  to  embedding  high-
+quality  data  publication  into  all  digital  services  
+across  government.  The  GDS  is  best  placed  
+to exercise this role. GOV.UK and the Office of 
+National  Statistics  website  should  be  invested  
+in to enhance high-quality open data publication. 
+
+10Open data roadmap for the UK | Open Data Institute 2015
+The UK Government has published a lot of open 
+data, but it still holds important datasets that 
+are  ‘closed’  –  that  is,  not  openly  licensed  for  
+reuse. These datasets could have significant 
+social, environmental and economic benefits 
+if released as high-quality open data.
+ 
+ 1 .  Open up: invest in the release
+of important datasets as open data
+The  standard  for  UK  public  sector  data  is  open  
+by  default.  Geospatial  data,  address  data,  
+meteorological  data  and  land  valuations  data  
+all  hold  immense  potential  if  released  as  high-
+quality  open  data.  Trading  funds  including  
+Ordnance Survey, the Met Office, Land Registry 
+and Companies House need to be empowered to 
+continue to release more open data. In Denmark, 
+in 2002, the government made its national address 
+file free; since then it has calculated a 30 to 1 ratio 
+of direct financial benefits to cost.
+2
+ 
+ 2 .  Think big: use the National 
+Information Infrastructure to plan 
+for the future
+ 
+The  National  Information  Infrastructure  is  a  
+potentially  powerful  strategic  asset  to  prioritise  
+and incentivise the release of important datasets.  
+It needs thoughtful design and investment so that 
+it is more than a static list of datasets: it needs to 
+change and evolve as other infrastructures do. So 
+far, the NII has largely highlighted important but 
+closed datasets, without a means of opening them 
+up, or a plan for identifying future data assets. The 
+new Chief Data Officer should be able to release 
+important datasets identified through the NII as 
+open data, taking account of what public bodies 
+and the wider community want and need.
+ 3 .  Set best-practice for the 
+future: mandate that government 
+procurement contracts require 
+the release of open data
+The UK has committed to being “open by default” 
+under the G8 Open Data Charter. Embedding 
+open data into procurement contracts will ensure 
+that data produced in future, as part of the delivery 
+of goods and services for government, is opened 
+up. The government should also proactively look 
+for tenders that will generate significant amounts 
+of data. The ODI has published a guide, Procuring 
+open data in the public sector, which outlines how 
+open data can be embedded into the procurement 
+of public services. 
+
+11Open data roadmap for the UK | Open Data Institute 2015
+Across the UK, businesses, researchers, citizens 
+and  public  bodies  already  rely  on  open  data  
+to  deliver  products  and  services  and  help  
+lower  costs,  often  without  realising.  With  a  
+clear UK data strategy, strong implementation 
+and  access  to  high-value,  good-quality  
+datasets, the number of businesses, research 
+projects, innovative services and new ways of 
+interpreting open data will continue to flourish.
+ 
+ 1.  Commit to data training and 
+skills development for government, 
+business and citizens
+In October 2013, the government published its  
+strategy  for  increasing  UK  data  capability,  with  
+strong emphasis on data skills development. The 
+nation needs more data scientists and statisticians, 
+equipped with basic skills that can be applied in 
+all fields of data analysis. Civil servants should be 
+trained in basic data literacy skills, including open 
+data. Open data training encourages collaboration 
+across different kinds of data, and will ultimately 
+foster the data scientists of tomorrow. 
+ 2 .  Incentivise government to 
+consume open data, not just
+publish itr 
+Training  the  next  generation  of  data  scientists  
+and statisticians will be of little benefit if their 
+skills  are  not  put  to  good  use.  Government  
+departments need to be encouraged to use open 
+data themselves, published by both government 
+and  business,  and  to  request  more  open  data  
+from  businesses  to  advance  policy  goals.  The  
+government should introduce a rewards scheme 
+for innovative uses of the open data it releases.
+ 3 .  Connect research and 
+development frameworks to open 
+data
+The Royal Statistical Society highlights increased 
+investment in R&D as an essential element of its 
+data manifesto, to strengthen data and statistics 
+for better policy-making, greater democracy and 
+increased  prosperity,  and  the  ODI  agrees.  The  
+funding framework for R&D can also be explicitly 
+aligned with open data. Where R&D is supported 
+by public funds, the data that is created should 
+be made available to other researchers, as open 
+data  wherever  possible.  Existing  and  future 
+investments in data science and R&D, including 
+big data initiatives, should form a coordinated and 
+complementary research landscape.
+ 
+
+Open data roadmap for the UK | Open Data Institute 2015
+The ODI is an independent non-profit bringing together government, 
+industry and academia to realise the benefits of open data. The ODI 
+helps people to unlock supply and demand for open data, and share 
+this value with everyone, by:
+•  Providing support to UK entrepreneurs working with open data
+•  Delivering open data training to people and government
+•  Recognising and rewarding best-practices with open data
+•  Connecting data reusers with data publishers
+•  Creating and sharing research on the benefits of open data
+•  Exporting UK open data best-practices to the world
+You can learn more about the Open Data Institute at theodi.org
+ 
+1. Office of National Statistics, An Executive Summary, 2012-based National Population Projections Reference Volume (published March, 2014) 
+ 2. Danish Enterprise and Construction Authority, The Value of Danish address data (published July, 2010)
+ P5. Visualisations - Left (Source: UK Climate Change Act 2008), Right (Sources: UK Parliament research: ‘The aging population’ & ‘Ready for aging?’)

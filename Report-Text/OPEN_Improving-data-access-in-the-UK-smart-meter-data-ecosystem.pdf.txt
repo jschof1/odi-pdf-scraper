@@ -1,0 +1,792 @@
+
+
+
+
+Contents
+Executive summary4
+Background5
+The energy data ecosystem5
+The ‘Data for good’ initiative7
+The smart meter data ecosystem8
+Workshop format and attendance10
+Use cases for smart meter system data11
+Key stakeholders12
+Sustainable data access12
+Technical infrastructure13
+Barriers, risks and mitigations for smart meter system data14
+Building trust: mitigating risks and equitable benefits14
+Recommendations16
+Appendix 1: The value of sharing data18
+Appendix 2: Data access initiatives in other sectors19
+Appendix 3: Additional resources21
+About
+This report was produced as part of a research project funded by the Data
+Communications Company (DCC). The views in this report are those of the authors.
+This report has been researched and produced by the Open Data Institute (ODI),
+and was published in June 2021. The lead authors are Josh D’Addario and James
+Maddison; ODI.
+To share feedback on this report by email or to get in touch, contact the ODI, at
+info@theodi.org.
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem2
+
+Executive summary
+The Data Communications Company (DCC) is a licensed monopoly set up to design,
+deliver and manage the smart meter system in Great Britain. This supports the digital
+backbone of Britain's energy infrastructure. At scale, 30m homes and businesses will be
+connected to a single, secure, smart metering network.
+DCC is currently exploring a data access initiative to improve access to smart meter
+system data. Similar programmes exist across the energy sector already. Open Energy,
+supported by Ofgem and the Department for Business, Energy and Industrial Strategy
+(BEIS), seeks to improve data access in the sector through open data standards for data
+sharing. The Smart Data initiative, also from BEIS, is aimed at improving data portability
+across sectors to provide tangible benefits to customers and wider society.
+In its discussion paper, ‘Data for good’, DCC proposes that organisations should work
+together to improve access to smart meter ‘system data’ – effectively the metadata about
+the typical transactional data we think of when imagining the smart meter data ecosystem.
+The initiative would aim to increase the ability to analyse and use data about the smart
+meter system, and combine it with data from other organisations, to address some of the
+big challenges facing the UK, such as reaching net zero, transitioning to a flexible energy
+system and reducing fuel poverty.
+To support this initiative, at the Open Data Institute (ODI) we conducted two workshops to
+explore the opportunities and barriers facing improving access to system data in the
+smart meter data ecosystem. The first workshop participants were mainly potential users
+of smart meter system data, including data-driven service providers, data intermediaries,
+researchers and academia. The second workshop focused on public concerns of data
+access and included mainly consumer organisations, civil society organisations and
+charities.
+Across both workshops the main focuses for improving data access in the smart meter
+space were clear: achieving net zero and local decarbonisation; addressing consumer
+vulnerability and fuel poverty; and optimising efficiency and reducing costs around
+domestic energy and bills.
+However, there are challenges to achieving these goals. Participants identified that proper
+safeguards to security and privacy were needed, as well as strong mechanisms around
+consent, progress monitoring and redress. Ensuring that risks are mitigated as much as
+possible is crucial to building a trustworthy data ecosystem.
+The energy sector is a complex space, and becoming more so with the trends towards
+digitalisation, datafication (the process by which subjects, objects and practices are
+transformed into data) and increased collaboration with people and organisations outside
+the energy sector. But organisations like DCC are part of a data ecosystem comprising
+people, organisations and initiatives pushing towards similar goals, and initiatives in other
+industries can help them and their partners understand what works best and what should
+be avoided. Importantly, DCC should embark on this journey in an open, transparent and
+collaborative way so that it builds trust, understands how best to mitigate risks and ensure
+benefits reach as many stakeholder groups as possible.
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem3
+
+Background
+The ODI works with companies and governments to build an open, trustworthy data
+ecosystem, where people can make better decisions using data and manage any
+harmful impacts. In 2020, we began working with the Data Communications
+Company (DCC) as part of the ‘R&D: Data infrastructurefor common challenges’
+project funded by Innovate UK. The purpose of this collaboration was to help inform
+some of the early thinking that DCC was doing for itsdata access initiativefocused
+on improving access to smart meter system data
+1
+, andto learn about how
+organisations such as the DCC were developing these types of initiatives. This
+support included running workshops usingData EcosystemMappingand theData
+Ethics Canvasto examine a particular use case inthe initiative.
+Following the project close and the official launch of the DCC’s system data
+exchange initiative outlined in the ‘Data for good’discussion paper, we once again
+worked with the DCC to facilitate an additional set of workshops exploring the
+barriers and opportunities for improving the smart meter system data ecosystem.
+This report discusses the importance of smart meter system data and improving
+access to that data to further the goals of the wider UK energy sector. It also brings
+together analysis of the opportunities and challenges around improving access to
+that data, based on findings from two workshops with key stakeholders from across
+the ecosystem. It ends with recommendations for DCC and other people and
+organisations in the ecosystem.
+The energy data ecosystem
+In our2019 report on data infrastructure of the UKenergy sector,we stated the UK
+energy sector faces a huge challenge: it must adapt to meet ambitious
+decarbonisation targets and accommodate new technologies, while continuing to
+satisfy complex and growing consumer expectations. Data will play an important role
+in this shift.
+2
+The energy data ecosystem contains data that exists on aspectrum,
+3
+from closed, to
+shared, to open. Below is a graphic of theData Spectrumfor Energy, produced by
+the ODI and Icebreaker One.
+4
+Much of the data is closedor shared in a limited
+manner for security and privacy reasons, such as the amount paid on household
+energy bills. Some data is shared widely such as power outages, network coverage,
+and asset locations. Ofgempublishes some statistics,for instance on market share
+and customer service levels, but they are not licensed for commercial use.
+5
+5
+Ofgem, ‘Data Portal Overview’,https://www.ofgem.gov.uk/data-portal/overview
+4
+Icebreaker One (2020), ‘Data Spectrum for Energy’,
+https://icebreakerone.org/2020/10/02/data-spectrum-for-energy/
+3
+Open Data Institute (n.d.). ‘The Data Spectrum’.
+https://theodi.org/about-the-odi/the-data-spectrum/
+2
+Open Data Institute (2019), ‘Data infrastructurefor the UK energy sector 2019-05’,
+https://docs.google.com/document/d/1iVG6OZuATZLDn5UpXSEhWe-dd2hy1BJOqsPeI6n6JZ0/edit#
+1
+Smart meter system data refers to the metadata produced by the normal operations of smart meters. A
+fuller description can be found in the next section.
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem4
+
+When data is more open, more people can access, use and share that data, to create
+solutions to problems and make better decisions. Access to energy data could be
+integral in solving some of the major social, economic and environmental challenges
+we face, like reaching net zero or addressing fuel poverty.
+Currently under the banner of ‘Smart Data’, in 2019,a data portability strategy was
+published as part of the UK Industrial Strategy. This proposed that greater access to
+data would foster innovation to improve consumer outcomes by:
+●
+accelerating the development of innovative data-driven services in consumer
+markets
+●
+using data and technology to help vulnerable consumers
+●
+ensuring consumers and their data are protected.
+6
+There are several Smart Data, data portability and data access initiatives being
+delivered in various sectors (seeappendix 3), andin recent years, we have seen the
+energy sector taking collective action to increase access to data:
+●
+The energy regulator, Ofgem, is one of the organisations driving this agenda.
+Its Decarbonisation Action Plan describes good data use and availability as
+‘crucial to provide better visibility of system usage, spare capacity and
+constraints, to inform investment needs, and to facilitate opportunities for
+strategic coordination.
+7
+●
+Recommendations from the UK government-ledEnergyData Taskforceand
+now Energy Digitalisation Taskforce steering the industry toward improved
+data availability, quality and transparency.
+8
+●
+The launch ofModernising Energy Data, a joint initiativebetween Ofgem,
+BEIS and Innovate UK, is underway with IceBreaker One developing anOpen
+8
+Gov.UK (2019), ‘Energy Data Taskforce’,https://www.gov.uk/government/groups/energy-data-taskforce
+7
+Ofgem (2020), ‘Ofgem’s Decarbonisation Action Plan’,
+https://www.ofgem.gov.uk/publications-and-updates/ofgem-s-decarbonisation-action-plan
+6
+Department for Business, Energy and Industrial Strategy (2019), ‘Smart Data: Putting
+consumers in control of their data and enabling innovation’,
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_
+data/file/808272/Smart-Data-Consultation.pdf
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem5
+
+Energyprototype to improve data interoperability, search and integration in
+the energy sector.
+9
+The ‘Data for good’ initiative
+The initiative outlined in the ‘Data for good’ discussion paper seeks to increase open
+and shared data in the sector in a way that maximises value for energy customers,
+opportunities for companies, and provides further benefits to society such as
+delivering on net zero and fuel poverty commitments.
+10
+This could be done by looking
+at what data infrastructure in the energy sector could becomemore open.
+Data infrastructureconsists of data assets such asdatasets, registers and common
+identifiers like metadata. It also includes the standards and technologies used to
+curate and provide access to those data assets and the guidance and policies that
+inform the use and management of data assets. It can also include the organisations
+that govern the data infrastructure and has to involve the communities involved in
+contributing to or maintaining it; and those who are impacted by decisions that are
+made using it.
+11
+The ‘Data for good’ system data exchangeinitiative aims to have
+organisations work together to improve access to energy data infrastructure, starting
+with improving access to its own smart meter system data.
+Smart meters are devices which record the amount of gas and electricity used,
+usually every 30 minutes. They aim to create opportunities for making the grid
+smarter and to offer new products to consumers, such as time-of-use tariffs. Smart
+meters enable energy suppliers to provide accurate billing and export tariffs through
+measurement of energy use and generation. In addition, messages can be sent to the
+meter, as well as taking readings from it – this enables a whole range of new
+functionality including dynamic (time of use) tariffs, change of supplier and load
+control/demand side response services.
+Smart meter system data is not the same as energy consumption data. The term
+‘systems data’ can include data about the device itself, high level data about
+transactions between the energy supplier and customer, and data about the
+registration of the device, like whether it has been installed in a domestic or
+non-domestic location. The ‘Data for good’ initiative focuses on what more can be
+done with more open smart meter system data infrastructure.
+11
+Dodds, L. & Wells, P. (2019) The State of Open Data: Data Infrastructure
+https://www.stateofopendata.od4d.net/chapters/issues/data-infrastructure.html
+10
+Data Communications Company (2021), ‘Data for good’,
+https://www.smartdcc.co.uk/media/4699/21037-dcc-data-for-good-paper_v8-final.pdf
+9
+Gov.UK (2019), ‘Modernising Energy Data’,https://www.gov.uk/government/groups/modernising-energy-data
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem6
+
+Image credit:Data for Good,Data CommunicationsCompany
+As of June 2021 there aremore than 12 million connectedmetersinstalled and
+enrolled onto the DCC's nationwide secure network. Up to 470 million messages are
+securely encrypted and sent to and from homes and small businesses every month.
+12
+Increased access to this smart meter data infrastructure, including identifiers,
+standards, and the metadata to closed or shared data, could boost innovation in the
+sector that benefits not just energy customers, but Great Britain and beyond.
+12
+Data Communications Company (2021), ‘Data for good’,
+https://www.smartdcc.co.uk/media/4699/21037-dcc-data-for-good-paper_v8-final.pdf
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem7
+
+The smart meter data
+ecosystem
+At a high level, the UK smart meter system is like a big federated database: the
+individual meters store and submit data, with access to that database being governed
+by DCC. The authorised users of that network build and maintain their own local
+caches of data, to support their businesses and customers. Given the relative
+complexity of the smart data ecosystem, it can be difficult to picture how data is
+shared between stakeholders.
+At the ODI, we use an approach called data ecosystem mapping to help people
+understand how value is being created from data within a data ecosystem. A data
+ecosystem map identifies the key data stewards and users, the relationships between
+them and the different roles they play. In our initial collaboration with the DCC, we
+created a data ecosystem map which represents what the smart meter data
+ecosystem might look like when mapped against a specific use case, like addressing
+fuel poverty.
+Potential DCC fuel poverty use case data ecosystem map.
+Interactive kumu map. N.B. this map is hypotheticaland a simplified version of the
+potential smart meter system data ecosystem.
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem8
+
+Some of the key interactions within this potential data ecosystem map include:
+●
+DCC provides access to system data to a variety of approved organisations
+for monitoring and research purposes such as academia, researchers,
+regulators and government. The research community could provide valuable
+insights into the system back to DCC for this purpose, while the government
+and regulators keep an eye on this important piece of national data
+infrastructure.
+●
+DCC provides access to system data to approved data intermediaries such
+as analytics companies that can combine this data with other available data
+and provide additional services and insights to key ecosystem stakeholders
+such as local authorities, housing associations and energy suppliers.
+●
+These stakeholders could then use these advanced analytics, which include
+smart meter system data, to plan interventions in the forms of advice, insights
+or new services in order to combat fuel poverty in households currently in
+vulnerable circumstances.
+Understanding the smart meter data ecosystem was an important first step in helping
+us to understand which stakeholders needed to be involved in future conversations
+about the smart meter system data exchange and what some of the barriers might be
+that prevent data from being accessed by the wider energy sector.
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem9
+
+Workshop format and
+attendance
+The ODI team ran two workshops, hosting participants from a variety of backgrounds
+such as potential data users (such as nonprofits and startups from both within and
+outside the energy sector), data providers (including representative energy sector
+trade bodies), industry bodies, consumer advocacy groups, thinktanks and
+government. The workshops were convened in an early exploratory manner to help
+better understand the potential for DCC’s ‘Data for good’ system data exchange
+initiative, and were designed to not be exhaustive in scope.
+The data users’ workshop was convened to explore the high value socioeconomic
+uses of system data in the ecosystem, the current data infrastructure underpinning
+the ecosystem, and the opportunities to increase value through new partnerships,
+operating models or data infrastructure.
+The public considerations workshop focussed on using a data ethics and privacy lens
+to align the key priorities in the market, understand the key risks and barriers to an
+initiative targeting these priorities and develop mitigation strategies.
+In both workshops, UrbanTide gave an overview of their in-development solution,
+uSmartZero – funded through Modernising Energy Data Applications, a BEIS and
+Ofgem sponsored competition funded by UKRI. DCC is participating in the feasibility
+study as part of a consortium. The project is exploring how smart meter system data
+at an aggregated level, when combined with other data sets, can help to identify
+households in or at a risk of fuel poverty.
+Participants answered a series of questions and were asked to rank or respond using
+the Sli.do voting system. This was followed by discussion enabling participants to
+provide more detail to their answers.
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem10
+
+Use cases for smart
+meter system data
+As a precursor to the work with the ODI, DCC has been exploring potential use cases
+for smart meter system data. Working with the Connected Places Catapult and as a
+participant to the Smart Meter Public Interest Advisory Group,  a number of use cases
+have arisen where smart meter system data could provide significant value.
+In 2020, DCC reviewed the Innovate UK Local Energy Data Innovation project, led by
+Regen SW as a further source ofuse casesthat couldbe underpinned by improved
+access to smart meter system data.
+13
+These combined sources of use cases covered a number of themes including:
+●
+Achieving net zero and local decarbonisation
+●
+Addressingconsumer vulnerability and fuel poverty
+●
+Optimising efficiency and reducing costs arounddomesticenergy and bills
+●
+Improving the infrastructure forelectric vehicles(EV)
+●
+Optimising and decarbonisingenergy generation
+●
+Optimisingenergy networks
+●
+Improvingenergy services and their supply arrangements
+●
+Improvingflexibility services
+●
+Joining up utilitiesto find cross-sector efficiencybetween energy and water
+●
+Better understanding the links between energy andpublic healthand
+improving public health outcomes
+Across both workshops achieving net zero and local decarbonisation, addressing
+consumer vulnerability and fuel poverty and optimising and decarbonising energy
+generation came out as the top three choices. This clearly communicates that
+stakeholders across the energy data ecosystem are aligned on the major priorities for
+the energy sector – switching to renewable energy and addressing financial
+vulnerability.
+Other use cases chosen in the top five were focused on EV and domestic energy in
+the data users’ workshop, and domestic energy and public health in the public
+considerations workshop.
+The participants were also asked for additional use cases they felt were not included
+in the themes presented. These included:
+●
+improving efficiency and decarbonisation specifically in heat provision and
+heat pump adoption
+●
+targeting retrofitting in private rental sector (beyond current work in social
+housing)
+13
+Regen (2020), “Local Energy Data Innovation”,
+https://www.regen.co.uk/publications/local-energy-data-innovation/
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem11
+
+●
+optimising the energy system for the agriculture industry
+●
+provide data for policy planning and measuring the impact of major events
+(such as a pandemic) on energy use
+●
+informing decarbonisation strategies for commercial premises.
+Key stakeholders
+Participants were asked to identify the key ecosystem stakeholders that needed to be
+involved in the ‘Data for good’ programme in order to deliver on the prioritised use
+cases. Answers fell broadly into three categories: primary energy sector stakeholders,
+secondary energy sector stakeholders and other stakeholders.
+Primary energy sector stakeholders are those delivering energy and energy related
+services through the entire supply chain. This included energy producers, distributors
+and organisations providing additional services. This also included regulators like
+Ofgem, industry bodies like the Energy Savings Trust and government organisations
+like BEIS. This also included energy consumers themselves.
+Secondary energy sector stakeholders are those connected more loosely to the
+energy sector but have a direct impact. This included local authorities, consumer
+groups, housing providers and the construction sector, and universities.
+Finally, there were a few organisations that can be seen as removed from the energy
+sector but with the potential to play a big role in the wider smart meter system data
+ecosystem. This included data focussed organisations such as data intermediaries
+with experience in other similar sectors, especially the open banking ecosystem. Civil
+society organisations (CSOs) connected to the outcomes of these use case themes
+and the Information Commissioner’s Office (ICO) were also mentioned.
+Sustainable data access
+The financial sustainability of data access ensures that the benefits from that access
+continue to flow to beneficiaries. Our research onsustainable data accesshas shown
+how important this is, and the various ways organisations usually manage this.
+DCC is proposing to maximise data access at the lowest possible cost required to
+maintain financial sustainability. Data will be provided free where possible.
+In our data users’ workshop we sought feedback about some of these methods:
+●
+Membership fees
+●
+Subscription fees
+●
+Usage fees
+●
+Free + premium/tiered access
+●
+Free + 'over-the-top' services
+Providing a ‘tiered freemium access’ model was a popular option, with most
+respondents believing that there should be some free access, and the ability to either
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem12
+
+price discriminate based on the service requested (such as premium APIs) or the
+organisation requesting access (such as free for nonprofits and a progressive fee
+system for the private sector).
+Technical infrastructure
+Finally, data users were asked what types of technical infrastructure would help
+enable innovation, trust and value in the smart meter system data ecosystem.
+Responses included:
+●
+Open licences (such as Creative Commons)
+●
+Well-documented APIs
+●
+Developer sandboxes
+●
+A community of users
+●
+A query tool
+●
+Codes of practice
+●
+Metadata
+●
+Standardised consent manager
+Many of these types of infrastructure have been successfully used in other data
+access initiatives such asopen banking, includingAPI specifications, security profiles
+and other guidelines.
+14
+Existing initiatives such asopen banking and Open Energy
+could provide a model for how DCC may want to implement similar standards across
+‘Data for good’.
+14
+Open Banking (2019), ‘Welcome to the Open Banking Standard’,https://standards.openbanking.org.uk/
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem13
+
+Barriers, risks and
+mitigations for smart
+meter system data
+All data access initiatives come with inherent risks. Data should be as open as
+possible, but to do so without the proper safeguards to security and privacy to
+mitigate those risks can harm people and lead to a loss of trust in data sharing.
+The main risks and concerns voiced by the workshop participants echoed many that
+rightly coincide with other similar initiatives. Concerns included that privacy may not
+be sufficient or data may be de-anonymised; that data may be used inappropriately
+such as with discriminatory services; and typical fears around security and accuracy.
+Some important risks and barriers that surfaced outside of typical fears focused
+primarily on digital exclusion. Digital literacy and understanding consent are critical
+components to ensure equitable benefits from a data access initiative. There were
+also concerns that people without smart meters would not accrue benefits.
+Regarding the issue of fuel poverty there were concerns that in focusing overly on the
+energy sector or ‘fuel poverty’, a siloing of data or effort could occur that doesn’t
+address the fact that poverty is not relegated to just a single sector of the economy.
+Building trust: mitigating risks and equitable
+benefits
+There are risks around ensuring that the benefits from this initiative are realised and
+are equitably distributed, and participants identified several ways to mitigate these
+risks. These activities help ensuretrustworthy dataaccessby focusing on consent,
+redress and clear, active communication.
+As in all data access initiatives, consent is critical to building a trustworthy data
+ecosystem. Consent can never be fully informed, for reasons including the difficulty in
+anticipating all potential uses of data, but clearly communicating the consent
+mechanisms, intended benefits of the initiative, the risks and how to access redress
+is best practice for data governance. Participants also noted that public engagement
+should be represented by a diverse group to ensure equitable support.
+Participants felt that data users must play an active role in demonstrating to
+consumers that their use of data aims to provide a public benefit, as consumers are
+likely to be most concerned with why data about them is being shared. This aligns
+with our previous research on the topic, ‘About DataAbout Us’ produced with the
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem14
+
+RSA and Luminate, which found that ‘people are happy to share data about them for
+societal benefits, but want to understand and have a say in what it is used for.’
+15
+Participants also suggested that one of the best ways to build trust was to prove the
+impact with a small pilot project, possibly in a single locality and scale up from there.
+This approach is being deployed with Open Energy, which may prove instructive.
+Other means of ensuring trust in the system included defining metrics and monitoring
+them against audits, using widely accepted standards, citizens assemblies and an
+ethics board.
+15
+Open Data Institute (2019), ‘Data About Us: ‘the people’ know and care more than they are given credit
+for’,
+https://theodi.org/article/data-about-us-the-people-know-and-care-more-than-they-are-given-credit-for/
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem15
+
+Recommendations
+It takes a lot of work to create an open, trustworthy data ecosystem and DCC is well
+positioned to begin that journey with the system data exchange initiative described in
+the ‘Data for good’ discussion paper. The smart meter data ecosystem is poised for
+such a data access initiative, with interest from end users, data users and providers,
+as well as similar trends across the energy sector and beyond. Broadly speaking we
+believe that DCC identifying as a data institution and the ‘Data for good’ initiative as a
+data access initiative will help both align activities and priorities, as well as help
+deliver on intended outcomes.
+We recommend the following key steps:
+●
+Convene an advisory group of different industry representatives to develop a
+programme of activity for further discovery and implementation, in a similar
+way to the Open Energy Advisory Groups led by Icebreaker One
+○
+Seek buy-in from the industry’s main service providers, such as
+energy suppliers and distribution network operators (DNOs), to
+ensure a smooth implementation and achievement of goals
+○
+Confer with key representatives from other data initiatives in the
+communications, water, and banking sectors to learn best practice
+and where pitfalls may exist. Ensure alignment as much as possible
+with the work done by the BEIS Smart Data team and the Open
+Energy initiative.
+○
+Run workshops with this group focussing on data ethics, sustainable
+data access, building trust, technical infrastructure and other key
+themes that have surfaced throughout the initial work.
+●
+Consider how to incorporate the views of the public and customers in
+governance and access, given the ‘public good’ designation of the data
+infrastructure. Participants clearly outlined the need for public transparency
+and outreach regarding consent, risks, benefits and other aspects. The
+INSIGHT data institutionfound success in having arobustpatient and public
+involvement programme.
+●
+Explore ways to stimulate and encourage further work on specific use cases
+such as what is being done with uSmartZero. Data users and consumer and
+civil society organisations showed clearly that net zero, fuel poverty and
+improved energy services are key areas to develop these use cases. This
+might involve engaging in discovery projects, delivering hackdays or
+exploring options for stimulus funding for small projects.
+●
+In the finance sector, open banking has already demonstrated that a
+standardised set of APIs, licensing and approach to managing access and
+consent can help to drive innovation in a way that is good for consumers.
+Working with industry stakeholders and data users to develop some of the
+technical infrastructure outlined in the findings, such as open standards and
+APIs, ensuring alignment with the Open Energy standards.
+●
+Promote and sponsor further engagement and research to understand the
+data ecosystem better, such as an appropriatemodelfor data access, such
+as adatainstitution for data that cannot be openlypublished. Ensure that the
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem16
+
+infrastructure and financial costs for data users to meet the necessary
+technical, security and audit requirements for access are not prohibitive.
+●
+Ensure that the sustainability of the funding model is proportionate to firm
+size, stimulating innovation from smaller organisations, nonprofits and
+academia, and not restrictive to only large private sector organisations and
+government.
+●
+Following the Energy Data Task Force recommendation of data being
+‘presumed open’, publish data and information openly wherever possible,
+such as about the Smart Energy Code, the different types of smart meters,
+and the progress of the initiative and national rollout itself. This will help
+engender trust in the overall programme.
+In addition to our recommendations for DCC, we believe that the wider ecosystem of
+stakeholders, such as data users and providers, civil society, government and
+regulators have a role to play. Our recommendations for these stakeholders are as
+follows:
+Data users
+●
+Engage with DCC and other data providers in the energy sector to help them
+identify and prioritise use casesfor smart metersystem data.
+●
+Work with DCC to inform the creation of a model fordata access that is
+both sustainable and equitable.
+●
+When using smart meter system data, make sure tocommunicatethe
+public benefitsof this data use as openly as possible.
+Data providers (including energy suppliers and DNOs)
+●
+Consider how the data collected could be useful in addressing social,
+economic and environmental challenges. Work with ecosystem partners to
+develop valuable use casesusing this data.
+●
+Explore how tomake this data more availablethroughsustainable and
+trustworthy data access models.
+Civil society
+●
+Work with DCC and other smart meter ecosystem stakeholders toevaluate
+the access, use and sharing of smart meter system data through an
+ethics lens. Help ensure that value is flowing throughthe ecosystem
+equitably, especially towards people in vulnerable situations, and that risks
+are mitigated as much as possible.
+●
+Work with the public toidentify common challengesthat could be
+addressed through improved access to smart meter data.
+Government and regulators
+●
+Work with DCC and other energy stakeholders toensurethat regulations
+support access to smart meter datawhere appropriate,including
+mechanisms for redress, and that this is communicated to clearly to the
+public.
+●
+As a longer term objective,consider making fundingavailable to support
+data users in addressing social, economic and environmental challenges
+using smart meter data, through challenges and innovation programmes.
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem17
+
+Appendix 1: The value of
+sharing data
+Businesses can create value by using third-party data to develop new products and
+services. Our research has shown that they can unlock additional value by sharing
+data they have collected.
+16
+Increasing access to dataheld in the private sector has
+proven benefits to businesses in many ways, including:
+●
+Improving supply chain efficiency
+17
+●
+Increasing market reach
+18
+●
+Facilitatingbenchmarking and market insights
+19
+●
+Building trust
+20
+●
+Improving efficiencies throughopen innovation
+21
+, includingwithinregulated
+markets
+22
+●
+Collaborating toaddress sector-wide challengessuchas those found in the
+energy sector
+23
+Our research with the Bennett Institute at the University of Cambridge onthe value of
+datahas shown that despite increasing access to databeing an important way to
+unlock its wider economic and social benefits, there are various market failures
+around data and the data economy that mean data sharing initiatives will not
+necessarily emerge on their own.
+24
+24
+Open Data Institute & Nuffield Foundation (2020), ‘Valuing data: foundations for data policy’,
+https://www.nuffieldfoundation.org/project/valuing-data-foundations-for-data-policy
+23
+Open Data Institute (2020), ‘Case study: The value of sharing data to address sector challenges’,
+https://theodi.org/article/case-study-the-value-of-sharing-data-to-address-sector-challenges/
+22
+Open Data Institute (2020), ‘Case study: The value of sharing data in regulated environments’,
+https://theodi.org/article/case-study-the-value-of-sharing-data-in-regulated-environments/
+21
+Open Data Institute (2020), ‘Case study: The value of sharing data to drive open innovation’,
+https://theodi.org/article/case-study-the-value-of-sharing-data-to-drive-open-innovation/
+20
+Open Data Institute (2020), ‘Case study: The value of sharing data to build trust’,
+https://theodi.org/article/case-study-the-value-of-sharing-data-to-build-trust/
+19
+Open Data Institute (2020), ‘Case study: The value of sharing data for benchmarking and insights’,
+https://theodi.org/article/case-study-the-value-of-sharing-data-for-benchmarking-and-insights/
+18
+Open Data Institute (2020), ‘Case study: The value of sharing data for improving market reach’,
+https://theodi.org/article/case-study-the-value-of-sharing-data-for-improving-market-reach/
+17
+Open Data Institute (2020), ‘Case study: The value of sharing data in supply chain optimisation’,
+https://theodi.org/article/case-study-the-value-of-sharing-data-in-supply-chain-optimisation/
+16
+Open Data Institute (2020), ‘Report: Sharing data to create value in the private sector’,
+https://theodi.org/article/report-sharing-data-to-create-value-in-the-private-sector/
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem18
+
+Appendix 2: Data access
+initiatives in other
+sectors
+Currently under the banner ofSmart Data, in 2019,a data portability strategy was
+published as part of the UK Industrial Strategy. This proposed that greater access to
+data would foster innovation to improve consumer outcomes by:
+○
+accelerating the development of innovative data-driven services in
+consumer markets
+○
+using data and technology to help vulnerable consumers
+○
+ensuring consumers and their data are protected.
+25
+Smart Data, data portability and data access initiatives, including the work being
+done in the energy sector by BEIS, Ofgem and Icebreaker One, include initiatives to
+increase access to data in a variety of sectors:
+●
+Open bankingallows retail banking customers to share account and
+transaction data with trusted partners. When securely shared, the data can
+be used to build useful services such as account aggregation and personal
+financial management.
+26
+●
+The Financial Conduct Authority (FCA) is looking to expand this to other
+financial data sources, including savings, investments, mortgages and
+pensions under the banner ofopen finance.
+27
+Of thesethePensions
+Dashboardbeing led by the Money and Pensions Service(MaPS) is the most
+mature.
+28
+●
+Open communicationswould enable people and businessesto share data
+about their use of telecoms services, held by their providers, with third parties
+who could help them navigate the market and get a better deal.
+29
+Our first
+look intoopen APIs in the telecoms industrydemonstratedthat there is
+29
+Open Data Institute (2020), ‘Open Communications: An open trustworthy data ecosystem for the
+telecommunications sector’,
+https://theodi.org/article/open-communications-an-open-trustworthy-data-ecosystem-for-the-telecommunicati
+ons-sector-report/
+28
+Pensions Dashboard Programme (2021), ‘UK Pensions Dashboard’,
+https://www.pensionsdashboardsprogramme.org.uk/
+27
+Open Data Institute (2020), ‘The Financial Conduct Authority’s call for input on open
+finance: ODI response’,
+https://theodi.org/article/the-financial-conduct-authoritys-call-for-input-on-open-finance-odi
+-response/
+26
+Open Data Institute (2019), ‘How far Open Banking has come: our five takeaways’,
+https://theodi.org/article/how-far-open-banking-has-come-our-five-takeaways
+25
+Department for Business, Energy and Industrial Strategy (2019), ‘Smart Data: Putting
+consumers in control of their data and enabling innovation’,
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_
+data/file/808272/Smart-Data-Consultation.pdf
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem19
+
+potential to enable new products and services that meet the needs of a wide
+set of users.
+30
+●
+Though not a formal Smart Data initiative, theOpenActiveprogramme from
+Sport England and the ODI is currently helping the sports and leisure sector
+adopt data standards and publish open data with the hope of getting more
+people in England active.
+●
+Similarly, there have been initiatives in thetransport
+31
+andhealth
+32
+sectors to
+improve access to data about transport users and patients in trustworthy and
+secure ways.
+32
+Open Data Institute (2020), “Applying new models of data stewardship to health and care data [report]”,
+https://theodi.org/article/applying-new-models-of-data-stewardship-to-health-and-care-data-report/
+31
+Open Data Institute (2018), “Personal data in transport: exploring a framework for the future (report)”,
+https://theodi.org/article/personal-data-in-transport-exploring-a-framework-for-the-future-report/
+30
+Projects by IF (2018), ‘Open APIs in the Telecoms Industry’,
+https://openapis.projectsbyif.com/
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem20
+
+Appendix 3: Additional
+resources
+●
+TheData Landscape Playbook, which helps organisationsinvolved indata
+access initiatives— collaborative programmes thatfocus on addressing
+social, environmental or economic challenges by improving access to data —
+to prioritise and plan their initial activities to design or strengthen data
+infrastructure
+●
+TheTrustworthy Data Stewardship Guidebookhas beencreated to help
+organisations assess, build and demonstrate both their trust and their
+trustworthiness
+●
+TheSustainable Data Access Workbookwhich supportsorganisations that
+steward data to make better decisions about their revenue models
+●
+Mapping data ecosystemsmethodology andtool– a toolfor documenting
+and mapping data ecosystems
+●
+Open standards for the UK energy sector
+●
+Anonymisation and open data: An introduction to managing the risk of
+re-identification
+●
+Open Standards for Data- This guidebook helps peopleand organisations
+create, develop and adopt open standards for data.
+●
+Data sharing in the private sector- includes casestudies on businesses
+gaining value from increasing access to data they hold and asummary report
+●
+The Value of Data report- exploring ideas aroundhow to effectively and
+ethically tap into the value of data
+Open Data Institute | June 2021Improving data access in the UK smart meter data ecosystem21

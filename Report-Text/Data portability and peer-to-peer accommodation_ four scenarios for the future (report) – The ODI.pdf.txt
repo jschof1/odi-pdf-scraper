@@ -1,0 +1,656 @@
+
+
+27/10/2022, 14:51Data portability and peer-to-peer accommodation: four scenarios for the future (report) – The ODI
+https://theodi.org/article/data-portability-and-peer-to-peer-accommodation-four-scenarios-for-the-future-report/#1522943934045-d581c108-4c6e4817-d3b51/9
+Data portability and peer-to-peer accommodation: four
+scenarios for the future (report)
+Mon Apr 9, 2018
+Share
+Data ethics and privacy
+We’ve been exploring multiple scenarios of imagined futures to help us understand
+how we move towards a world where people, organisations and communities use
+data to make better decisions, and are protected against any of its harmful
+impacts.
+In its simplest form, data portability is the ability for someone to copy or move data
+from one organisation to another. Although portability was originally intended as a
+data protection right, our work in other sectors like banking, retail and telecoms
+Knowledge & opinion > Reports >
+
+27/10/2022, 14:51Data portability and peer-to-peer accommodation: four scenarios for the future (report) – The ODI
+https://theodi.org/article/data-portability-and-peer-to-peer-accommodation-four-scenarios-for-the-future-report/#1522943934045-d581c108-4c6e4817-d3b52/9
+shows that it also has other benefits. It can help build competitive, complementary
+and serendipitous services.
+Portability is performed with the consent of the people or organisations who the
+data is about. They decide which organisations they trust to get access to the data.
+To provide an extra level of security, organisations may be vetted by a third party.
+For example, the UK’s open banking standard, which allows bank customers to
+give third party organisations access to bank account information, requires those
+organisations to be on an Open Banking Register,  itself administered by the
+Financial Conduct Authority.
+Over time, data portability can become a new mechanism for data sharing. If good
+open standards are developed then, despite the data portability right’s limitations,
+sharing will become quick, easy and beneficial for some use cases. However, while
+the new mechanism for data sharing can enable better services, healthy
+competition and cooperation, it can also enable harmful activities or even dystopian
+futures.
+In our work we explored multiple scenarios of imagined futures to help us
+understand how we move towards a world where people, organisations and
+communities use data to make better decisions, and are protected against any of
+its harmful impacts.
+How we expanded our thinking on data portability to include
+the peer-to-peer sector
+To investigate the opportunities in the peer-to-peer sector we built a
+multidisciplinary team which included people with experience in research, design,
+communications, policy and technical development. We started with a few rounds
+of research, including desk research on government interventions and user
+research, with people who both rent and let properties on peer-to-peer platforms
+and various other stakeholder groups in the sector.
+Using the knowledge we gained from the research, we used design fiction practices
+to start imagining and thinking about future scenarios. We asked ‘what would
+happen if...’ questions to help us think beyond what is possible right now, and to
+visualise different future worlds and services that could be made possible through
+increased data portability.
+For each scenario we debated the data being used, stakeholders, risks and
+benefits, and the likelihood of it coming to pass.
+Four scenarios for the future
+We imagined four scenarios:
+
+27/10/2022, 14:51Data portability and peer-to-peer accommodation: four scenarios for the future (report) – The ODI
+https://theodi.org/article/data-portability-and-peer-to-peer-accommodation-four-scenarios-for-the-future-report/#1522943934045-d581c108-4c6e4817-d3b53/9
+Holo-day
+Holo-day – a virtual reality environment to help people make more informed
+decisions on where to go on holiday. It would allow people to ‘visit’ a destination in
+virtual reality to help them decide if a destination city or a room that someone was
+letting met their needs
+Read more about Holo-day
+Reputation Barometer
+“Hypr-local” bike tour
+Data Baggage Tag
+Conclusion
+
+27/10/2022, 14:51Scenario one: Holo-day – The ODI
+https://theodi.org/?page_id=55681/4
+Scenario one: Holo-day
+Share
+Holo-day – a virtual reality environment to help people make more informed
+decisions on where to go on holiday. It would allow people to ‘visit’ a destination in
+virtual reality to help them decide if a destination city or a room that someone was
+letting met their needs
+Strap on your headset. Be there. Wake up in that dream holiday home, look around
+the place as if you were there. Experience walking out into the neighbourhood, see
+what the corner shop looks like, feel the atmosphere of the streets, interact with the
+locals. Be there before you decide to go there.
+What is it?
+In this scenario we explored the concept of a virtual reality (VR) environment to
+help people have better holidays.
+Knowledge & opinion > Reports >
+
+27/10/2022, 14:51Scenario one: Holo-day – The ODI
+https://theodi.org/?page_id=55682/4
+A seamless mix of Street View tourism and the kind of 3D/360 ̊ virtual tours popular
+in real estate, the product explored here helps people decide if a destination city or
+a room that someone is letting will meet their needs.
+It helps people answer questions such as “will I feel safe in this area?”, “will I enjoy
+my holiday here?”, and “will my holiday companions and I be able to get into, or
+move around in the property in a wheelchair?”. It does this by allowing them to take
+a virtual tour both around an area and inside the properties that are available to let.
+As people look around the area in the VR environment they can see tourist spots,
+restaurants, sports activities and entertainment opportunities that suit their
+interests. They can even see avatars representing the type of people who live in
+the area walking around and enjoying their lives. Information on crime or other risks
+in the area is also available.
+They can see properties marked as being available for let and which online
+platforms they are available through. People can take a virtual tour of properties to
+see if they meet their needs. They can see if they have enough space for
+themselves and their friends, or if there is good access for luggage, child buggies
+or wheelchairs.
+How does it work? How is it related to portability?
+In this scenario, the core data powering Holo-day are photographs, layouts or 360 ̊
+recordings of properties which Holo-day showcases.
+We imagined that Holo-day was not a feature of a single accommodation platform
+but a separate service that relied on data portability to access and use data about
+the properties themselves – such as their exact location. The simulation can mesh
+the view from inside with the exploration of the neighbourhood and the reputation of
+the host based on letting history.
+Holo-day is given permission to access data about the preferences of potential
+groups of guests from their peer-to-peer accommodation platform accounts. These
+preferences might be explicitly ported from their letting history on several
+accommodation platforms by one or more guests, or derived from their behaviour
+on other services. Holo-day could also request access to data from its users’ bank,
+for example, providing data about their spending habits to help highlight activities
+and retailers they might be interested in seeing through Holo-day.
+In addition to data used through a portability framework, Holo-day will benefit from
+a wealth of open data about the areas it covers: data about maps, addresses, and
+points of interest; data about buildings and transport; demographic data to better
+represent the local feel of the area; and data about local entertainment and
+attractions. As a third party working across peer-to-peer accommodation platforms,
+it also makes use of open data about the platforms and their products, including
+pricing and T&Cs.
+
+27/10/2022, 14:51Scenario one: Holo-day – The ODI
+https://theodi.org/?page_id=55683/4
+In order for Holo-day and similar services to work at scale, a cross-sector working
+group may be needed to develop standards for shared and open data that could
+then be applied globally.
+National data regulators and policymakers will make required data such as
+geospatial, transport and demographic data available. They will also consider –
+from a regulatory perspective – what data should be openly available or kept
+private in their domains.
+There are different business models for Holo-day that could emerge. A community
+model, perhaps built around existing communities like OpenStreetMap or Second
+Life, is one option. Holo-day could also be built by the private sector: it is easy to
+imagine how this could be an expansion of an existing service like Google’s
+StreetView, but the possibility that the short-term letting platforms might offer the
+service themselves is equally viable. Finally, in some countries or cities, the public
+sector might offer the service, whether to show their cities in the way they want, or
+because the market does not provide the service.
+Benefits and risks
+By offering a high-fidelity preview of the properties and their surroundings, Holo-day
+aims to create a ‘no surprise’ service which should result in more renters going on
+holidays that meet their needs and expectations, in turn creating a higher level of
+customer satisfaction for the letters and platforms.
+The ability to virtually visit properties can also improve the experience – and the
+ability to travel comfortably and safely – for people with accessibility needs.
+Finally, by meshing the appeal of properties and the local area together, such a
+service creates new avenues for interaction between platforms and the localities
+they operate in. This and other factors could lead to greater trust in the peer-to-peer
+accommodation sector, leading to more use and growth.
+There are some downsides  to consider.
+Could there be a rise in virtual tourism with people not taking holidays in real-life
+but instead only taking Holo-days? Could Holo-day become a vector for disaster
+tourism, with people taking Holo-days in disaster zones? Would the high-fidelity
+view of properties and their exact locations increase the risk of burglary, stalking or
+espionage? Less serious, but rather creepily, people might create games that they
+played in the Holo-day version of other people’s houses.
+There may be a relative lack of usable data (or no data at all) for some areas,
+leading to people only going on holiday to places with high-fidelity Holo-days. This
+would lead to an increase in logistical pressure on popular spots, while places
+without the capacity to gather such detailed data could suffer from a drop in visits.
+Or would visitors be more attracted to areas that they couldn’t visit through virtual
+reality?
+
+27/10/2022, 14:51Scenario one: Holo-day – The ODI
+https://theodi.org/?page_id=55684/4
+      
+Creative Commons Licence
+Open Data Institute, 5th Floor, Kings Place, 90 York Way, London N1 9AG
+Privacy policy Contact us
+The risk of data manipulation is worth exploring too. What if a host or letter shared
+false information about a property? How acceptable would it be to ‘airbrush’ the
+imperfections of a given property? And what if a local authority decided to publish
+fake data to increase tourism?
+How far in the future could this be?
+This is technically feasible and seems fairly near-term. We suspect that some peer-
+to-peer accommodation platforms and technology companies will already be
+prototyping such ideas using the data they already hold.
+Back to main pageNext scenario
+
+27/10/2022, 14:51Scenario two: Reputation Barometer – The ODI
+https://theodi.org/knowledge-opinion/reports/scenario-two-reputation-barometer/1/5
+Scenario two: Reputation Barometer
+Share
+Reputation Barometer – a service that measures and monitors an individual’s
+standing by giving an overall score for their reputation. This reputation score would
+be informed by behaviour renting or letting properties on peer-to-peer
+accommodation platforms. It could be used by other users of the peer-to-peer
+platform or services outside the sector to make decisions about whether and how
+to interact with that person
+From her home in Cape Town, Alice is preparing a trip from Edinburgh to Loch
+Lomond and the Isle of Mull, a dream come true, and a chance to spend time with
+some of her best friends from university days. She is browsing the EtherBedroom
+app, looking for places to stay during her two nights stop in Oban. It’s close to the
+date of her departure, but she’s relaxed. The prices look great, and she knows she
+will be able to book any room as soon as she decide between the one-room in the
+city centre with a free tour thrown in, or the gorgeous loft offering her a
+personalised 40% discount.
+Knowledge & opinion > Reports >
+
+27/10/2022, 14:51Scenario two: Reputation Barometer – The ODI
+https://theodi.org/knowledge-opinion/reports/scenario-two-reputation-barometer/2/5
+She never used EtherBedroom before, but it doesn’t matter. Her Reputation
+Barometer crosses borders, and her high score opens doors. Her near-perfect
+reviews from SBB, the leading peer-to-peer accommodation platform across south
+and west Africa, sure help. So does her employment record and the fact she has
+accumulated plenty of loyalty points with Baimazon, the retail giant. Upon creating
+her account with EtherBedroom, she simply had to click on “Barometer” as her
+preferred reputation broker, and the Barometer did the rest. It queried records and
+reputation scores across platforms similar to EtherBedroom – with Alice’s consent,
+of course.
+It’s a good thing Alice has a great score. Her friend Bob, who lives in Glasgow,
+wouldn’t have been able to book her a room on EtherBedroom anyway.
+Youthful indiscretions stick, over there, and while Bob is by all accounts an
+upstanding citizen now, his use of most online platforms is heavily curtailed. He
+knows how to work around it, of course. You learn those things fast, learn to use
+the alternatives, the services where reputation management is not de rigueur yet,
+the shady ones too. He tried fixing his record, to understand why his score was so
+low. No luck.
+Too much stress spending hours and days on the phone with Barometer or
+TrueTrust, the two big providers in the UK. Neither would tell him whether it was the
+heavy partying in his early twenties or an in-work/out-of-work career as
+experimental artist that was the problem. Too much stress trying to fix it, anyway.
+Life goes on. It’s the social networks he misses the most. His friends refuse to
+connect with him in case his reputation damages theirs...
+What is it?
+In this scenario we explore a service that measures and monitors an individual’s
+standing by giving an overall score for their reputation. Adopting and expanding
+ideas from the credit scoring industry, as well as inspiration from popular culture
+and recent news, we wanted to explore how data portability could enable new
+forms of management of reputation in the peer-to-peer accommodation sector.
+The reputation score given by our fictional Reputation Barometer, and other similar
+services, is informed by the reviews received by an individual when renting or
+letting properties on peer-to-peer accommodation platforms, but also by their
+behaviour or reputation in other contexts, for example on other online services or in
+their career.
+Once calculated, a person’s reputation score can be used to make decisions by
+other users of the peer-to-peer platform, or services outside this sector. In this
+scenario, use of the barometer and score would be widespread, normal, and
+expected.
+
+27/10/2022, 14:51Scenario two: Reputation Barometer – The ODI
+https://theodi.org/knowledge-opinion/reports/scenario-two-reputation-barometer/3/5
+We explored how the reputation could be represented, for example as a whole
+number on a scale that ranges from 0 – 600. This ‘score’ is assigned to an
+individual through the assessment of a number of data points, building a picture of
+an individual’s trustworthiness.
+An insights dashboard forms part of the Barometer. It offers insights into how your
+score could be improved, how improvements would benefit you and your standing
+in relation to the rest of society and your peers.
+How does it work? How is it related to portability?
+The core idea behind this scenario is that with widespread data portability, sharing
+of data about individuals becomes easier as standards and interfaces are
+developed to maturity. So much so that reputation and personal data on other
+platforms can flow between each other.
+In our scenario, a user who registers with a peer-to-peer accommodation platform
+needs to bring their reputation score with them, fostering two-way trust from an
+early point in their interactions on the platform. It works by prompting the user to
+connect their chosen P2P rental platform account to their barometer, or vice-versa,
+both in order to port their existing reputation to that platform, and so the barometer
+can port data back from the platform.
+Once consent is established, data ported between the accommodation platform
+and the barometer includes reviews, history, and reputation data from other
+platforms and services.
+Through other data sharing mechanisms, the Reputation Barometer may include a
+person’s criminal record, tax records, employment history, financial history and
+current balance.
+The system may also use existing open data, such as demographic and economic
+statistics, to better gauge someone’s reputation in the context of their location and
+background.
+A cross-sector working group could be needed to develop standards for safely
+sharing and determining a reputation score. Meanwhile civil society, businesses
+and governments would need to consider the potential harms and need for updates
+to legislation such as that to protect privacy and prevent discrimination.
+Benefits and risks
+Reputation becoming more portable means that it may be easier for people – in
+their roles as service users or workers – to move between platforms. In a global
+world, knowing who you can trust becomes easier.
+The idea of quantifying reputation with a single score, however reductive, creates a
+simple indicator of otherwise elusive, qualitative information. This is both a benefit
+
+27/10/2022, 14:51Scenario two: Reputation Barometer – The ODI
+https://theodi.org/knowledge-opinion/reports/scenario-two-reputation-barometer/4/5
+and a risk, because of how it hides complexity and nuance.
+A feedback loop is created as reputation is used to determine the levels of service
+provided to people. Those with higher reputations are likely to receive services from
+those demanding higher reputations, which increases their reputations further,
+while those with lower reputations are likely to be placed in situations where they
+find it hard to succeed, further lowering their reputation. These feedback loops can
+lead to stratification of society and widening inequalities.
+In some variants of this scenario, we can suppose that data portability is no longer
+used simply as a mechanism giving individuals protection and control, but a
+requirement from states and corporations to participate in society. This then creates
+a risk of control of population via the opaque workings of an algorithm that
+calculates reputation.
+Such opacity can then create, and hide, discrimination against specific groups of
+people, whether deliberately or accidentally, via proxies implicit in the data. It could
+negatively affect the more creative and challenging portions of society – such as in
+art, comedy, acting and media – as reactions to people’s deliberately provocative
+work as creators has negative impacts on those individuals’ lives as citizens.
+All of this could result in an increase in anxiety and other mental illnesses due to
+fear of your every action or mistake affecting your future.
+How far in the future could this be?
+This is hard to tell.
+In some sense such systems already exist – in China or in western societies’ credit
+score systems. Although the level of participation and co-operation of multiple
+actors required to bring about the specific scenario we describe does feel remote,
+some of us felt it might be inevitable because it was so easy to imagine.
+That said, limiting the scope of a reputation system to the portability of data about a
+user of a peer-to-peer accommodation platform to ‘seed’ their reputation in another
+peer-to-peer accommodation platform does not feel far-fetched and could be
+useful. It could be created through collaboration between existing platforms,
+coupled with careful experimentation with how to make it fair and effective.
+The harder part would be limiting the use of the data to this particular scenario and
+preventing it from being used in other contexts where problems are more likely to
+occur.
+
+27/10/2022, 14:51Scenario three: Hypr-local bike tours – The ODI
+https://theodi.org/?page_id=55731/4
+Scenario three: Hypr-local bike tours
+Share
+“Hypr-local” bike tour – a bike that is preprogrammed with various tours people
+can take through a holiday community. The tours are based on data provided by
+the local community, hosts and renters, as well as the visitor’s own preferences
+Hypr-local bikes are more than your usual cycle-sharing scheme. Adopted in 23
+cities across the world, they are your gateway and your guide to visiting and
+experiencing true local life.
+All Hypr-local bikes come with a touch screen and – safety first – a voice-activated
+assistant that will lead you through the best routes, pointing out hidden details and
+telling you the unknown stories, all gleaned from the expert, intimate knowledge of
+the local communities.
+Each of the communities that live here would like to show you something special,
+something unique, something they love and think you’ll love.  But don’t take our
+word for it, take their word. The word on the street. The word of the street.
+Knowledge & opinion > Blog >
+
+27/10/2022, 14:51Scenario three: Hypr-local bike tours – The ODI
+https://theodi.org/?page_id=55732/4
+What is it?
+In this scenario we explore how somebody might interact with a network of multiple
+local community platforms, with the traditional peer-to-peer accommodation
+platform operating as a broker of access and trust. In this scenario we imagine that
+a visitor to an area could join a local network by porting their profile data to one or
+many local platforms for the duration of their visit. During the visit the local
+platforms would act as a tour guides, providing their own perspective on the area in
+which they live and work.
+We thought of how this guide could manifest itself, from an interactive map to a
+device held in the hand or attached to a typical object found in areas travelers and
+tourists may want to discover.
+We settled for the idea of a cycling tour of the area they’re visiting, allowing them to
+explore the different aspects of their temporary community. The tours are created
+and curated to provide the guest with a different ‘slice’ of the community in a given
+area: the Turkish community, the artist’s community, the young parent’s community,
+etc.
+How does it work? How is it related to portability?
+This scenario shows a system that could complement – by way of data portability –
+the existing peer-to-peer accommodation sector. It could also support other parts of
+the tourism sector, like hotels.
+We considered a number of data flows in this scenario. The central concept being
+that the community is the local repository of data. For Hypr-local to work best,
+people or businesses port data from local review platforms, whether they are
+specialised for restaurants, or more generalist. Preferences and profiles for hosts
+and guests are also ported – at the behest of the user – from peer-to-peer
+accommodation platforms to the Hypr-local community for the duration of their stay,
+allowing some personalisation of the guides based on accommodation location,
+and taste predictions based on history.
+This service also benefits from open data, such as maps, addresses, transport data
+and other data key to the logistics of being and moving in an urban environment. It
+makes use of other data (some of which may be open), including community based
+notice boards and events listings.
+Benefits and risks
+Peer-to-peer accommodation platforms already act as brokers of trust. They vet the
+identity of both guests and hosts for reasons of safety and to manage payments.
+However, if the platform starts to suggest places/businesses to visit based on
+recommendations from hosts and the platform’s product design decisions, there is
+a risk of catering only to the kind of guests the platform and hosts would like to
+
+27/10/2022, 14:51Scenario three: Hypr-local bike tours – The ODI
+https://theodi.org/?page_id=55733/4
+attract, which could ultimately distort local markets. What if instead platforms were
+to devolve knowledge of the local area to the local community, which operates a
+complementary community-based platform?
+As a guest, I may appreciate that a P2P accommodation platform provides an
+aggregated and consistent search interface, and that it stores my history, host
+references, personal profile and preferences.
+What if as a guest I could temporarily join local community platforms by porting my
+preferences and profile to them? In this way I could explore a community before I
+visit, and the people who live in a local area might give me recommendations
+based both on my profile and what they would like to promote for an authentic and
+community-enhancing experience.
+Conversely, as a host I am motivated to use a peer-to-peer accommodation
+platform as a broker of trust and to advertise my availability, but I may want to
+associate myself primarily with a community platform and port information about
+myself to one or more traditional peer-to-peer platforms. By simultaneously
+participating in a hyper-local community platform, I hope to become more
+connected to the members of the communities I am part of, and discover the other
+communities with whom I share my neighbourhood.
+We can also extend the idea of hosts to include local businesses, guides and
+others who are passionate about their local area. Together they form a network of
+intersecting and interacting communities on their own platform. They can port in
+details from other platforms such as a register of independent businesses, although
+ideally this would be available as open data.
+This scenario comes with a number of benefits for a variety of actors in the
+ecosystem. For instance:
+Communities self-describe and paint their own picture of how they experience
+their lives and see themselves
+It frames a visit differently for prospective guests – people might feel like a
+guest in a geographical community, not just a hotel or rented room in someone
+else’s house
+A hyper-local community is more likely to support small businesses and they
+have the local knowledge to verify a business’s local credentials
+Both guests and hosts are more aware of the richness of their local area   
+A record of the profiles of visitors will form a community guest book
+This platform becomes a (geographical) community resource of its own and
+could be used by anyone who wants to explore a local area, not just platform
+guests
+The platform can focus on what it does best – matching guests to hosts,
+adding new locations, and managing the transactions, while developing a
+relationship with a community via complementary platforms
+
+27/10/2022, 14:51Scenario three: Hypr-local bike tours – The ODI
+https://theodi.org/?page_id=55734/4
+      
+Creative Commons Licence
+Open Data Institute, 5th Floor, Kings Place, 90 York Way, London N1 9AG
+Privacy policy Contact us
+We like to imagine this leads us to a future of better relationships between guests
+and hosts and better inter-community understanding.
+There may of course be risks and unintended consequences to such a service. If
+the community platform can see and identify the visitor as a tourist they could
+become a target for fraud, theft, suspicion or backlash.
+The scheme as we explored it also relies heavily on the time, effort and goodwill of
+local communities. Having communities self-declare could also make them targets
+for harassment. Conversely, communities could choose to boycott a platform, or
+make it difficult for visitors to an area to discover local amenities. And finally,
+insufficient funding or time for the community to build and support the platform
+might result in substandard – or even unsafe – guidance for visitors.
+How far in the future could this be?
+In theory the technology exists to do this now, although it would require some kind
+of standard to enable data portability from the accommodation and review platforms
+to this guiding service. It would also require support and funding for the community
+platforms for it to work well.
+Previous scenarioBack to main pageNext scenario
+
+27/10/2022, 14:51Scenario four: Data Baggage Tag – The ODI
+https://theodi.org/?page_id=55761/4
+Scenario four: Data Baggage Tag
+Share
+Data Baggage Tag – data from services / platforms that people can carry around
+on a physical device. When you stay at a property the services in that property,
+such as smart thermostats, will be given access to data about you and adapt to
+your preferences.
+I step in through the front door – it’s nice, tastefully decorated. The lights are on full,
+too bright, and the noise from the street is a little louder than the profile on
+EtherBedroom suggested. It’s almost a home from home but not yet. I unclip my
+baggage tag from my suitcase, and I tap it to the sensor on the wall just inside the
+front door. Immediately the lights dim and my favourite music floats through the
+integrated speaker system. I relax.
+What is it?
+Knowledge & opinion > Blog >
+
+27/10/2022, 14:51Scenario four: Data Baggage Tag – The ODI
+https://theodi.org/?page_id=55762/4
+Here we looked at what literal data portability could mean: data from services and
+platforms which you can carry around on a physical device, in this case a baggage
+tag with the ability to record, store, and share on-demand data about your travels.
+With such a device you could interact with other devices either in a rental property,
+or terminals that can be found in public spaces throughout a city. Touching the tag
+to specific devices and terminals shares data temporarily, and only at the point of
+use.
+The data stored on the tag acts as a reflection of its owner’s preferences, needs
+and history. Potentially you could refine personal data about you so that it becomes
+more representative and accurate.
+In the context of short-term rentals and peer-to-peer accommodation, a key
+function of this application of data portability is the ability for users to bring their
+home settings with them to their rented accommodation and apply those same
+settings upon arrival. Preferences could include your ideal temperature, light
+settings, voice interaction settings, account details for streaming services, home
+automation preferences – bringing your bubble with you.
+We also explored the idea of a public terminal for similar applications. A physical
+device that resides in public spaces in our cities, it acts as a focal point for the
+dissemination of ‘personalised’ information about the local/wider area –
+communicating relevant information to users based on the data on their tag.
+How does it work? How is it related to portability?
+Users could populate their portable device with data from the platforms of their
+choosing. Augmenting it with personal data, some of which might be sensitive, and
+decisions they’d like to remember.
+This data collected from disparate sources can then be tended to by the user,
+pruning, editing, deleting, adding elements. The user is empowered to take control
+over this data and how it represents them.
+The data/device is then carried on the user as a physical manifestation of their
+digital self. It can be used to interact with other digital objects within the physical
+world to aid the user in decision-making, pathfinding and general interactions, yet
+leaving no trace behind.
+Because the user can choose whatever they would like to curate or store on the
+device, the possibilities for what data it stores are numerous but could include:
+Physical preferences – for example temperature, light levels, walking pace
+Entertainment preferences – for example music service account details, “how i
+like my coffee”, etc.
+Web search history
+Medical history
+Purchase history
+
+27/10/2022, 14:51Scenario four: Data Baggage Tag – The ODI
+https://theodi.org/?page_id=55763/4
+Benefits and risks
+Exploring this scenario, we were intrigued by how this baggage tag might become a
+medium by which user preferences for a multitude of things may be literally carried
+around – how you like your coffee, your home automation settings, music playlists,
+etc. The baggage tag won’t resolve differences between groups of travellers though
+– human interaction would still be needed.
+The concept of the tag seemed to come with convenience and consistency: by
+carrying your history and preferences all the time, it voids the need to reset your
+environment everywhere you go. An added convenience would be if the public
+terminals could double as knowledge resources for the area.
+This disaggregation from the platforms where these preferences are typically stored
+points to a number of interesting benefits, including a greater control over personal
+data. It also may lead to a greater understanding of data sharing: by making data
+more tangible, and sharing a physical activity rather than something one has to
+pursue within complicated settings in a software environment, the device can help
+us get a better grasp of what data about us gets used, shared and stored, when,
+and how.
+On the other hand, without significant yet easy mechanisms for authentication of
+the user, this scenario raises serious privacy and security concerns if the tag were
+to be lost. Variants of this scenario, where data can be exchanged through
+contactless methods, could lead to fraudulent skimming of data from devices
+hanging from luggage, and even identity theft.
+Another risk is that, by virtue of the tag storing and providing access to extensive,
+rich data, it could lead to services collecting more data than they need, abusing the
+lack of granularity of how the data is requested and shared from the baggage tag.
+Finally, we foresee a risk that such technology might isolate us from the world,
+leaving us in an echo chamber: this ability to take your bubble with you everywhere
+would mean even less chance for serendipity or ever being placed slightly outside
+your comfort zone.
+How far in the future could this be?
+Technically speaking, this is achievable today. Indeed, almost all of the capabilities
+we ascribed to the data tag could be replicated through software on smartphones,
+although it is always worth noting that smartphone ownership is not universal, even
+in rich societies.
+Whether for a physical tag or for apps, realising the benefits of this scenario while
+avoiding its risks requires developing new sharing standards, and addressing
+privacy and security issues.
+
+27/10/2022, 14:52Conclusion: The future is not determined – The ODI
+https://theodi.org/?page_id=55791/3
+Conclusion: The future is not determined
+Share
+Here’s our conclusion on the scenarios we explored 
+We felt that each of the scenarios we explored was technically possible and that
+there would be viable business models for organisations offering these services,
+but there were things that might stop them emerging easily, for example whether
+data stewards – the people who hold data – decide to work together to make the
+data they hold portable to an open standard, or whether regulators intervene to
+force them do so. These echoed the limitations to data portability that we have
+seen in other sectors and contexts.
+We could also see risks in each scenario. A badly built Holo-day might lead to
+disaster tourism, with people getting pleasure from virtually experiencing other
+people’s discomfort. The Hypr-Local bike tour could lead to identikit holidays with
+everyone touring the same few tourist traps. All of this could damage local
+economies although, perhaps, some local communities might enjoy corralling
+tourists into one place.
+The Reputation Barometer caused most internal debate
+At the ODI we are strongly in favour of individuals having more control over data
+about them. We believe that data should be used to make more and better
+decisions, but everyone needs to be careful with the type of futures that can be
+created by and for societies. People, organisations and societies that end up being
+driven by data and making all of their decisions by ‘clever algorithms’ might be
+efficient and convenient for some, but could also lead to flawed, ineffective and
+unfair societies for others.
+The Reputation Barometer envisioned a society in which the services people
+received were determined by the reputation scores other people give them. It is a
+scenario familiar to viewers of the Black Mirror episode Nosedive. In such a society,
+people, businesses and governments might expect, or even demand, to see
+reputation data when making decisions.
+Would it be fair that a bad rating on a sharing economy platform could damage your
+ability to rent a flat for the long term or get a job? How would you understand or
+appeal the decisions? Would you even know if an organisation was making a
+decision about you using bad data or a dumb algorithm? Would you be able to
+change your mind about giving those organisations access to data about you and
+tthitifiit?Obblttbddt?
+Knowledge & opinion > Reports >
+
+27/10/2022, 14:52Conclusion: The future is not determined – The ODI
+https://theodi.org/?page_id=55792/3
+stop those organisations from using it? Or be able to correct bad data?
+Data needs a stronger human element
+A system based on reputation data might be what some societies want and decide
+to build. Some say China’s social credit system is heading in that direction, or that
+Western society’s credit score systems will do the same. But we believe that many
+societies will choose to have a stronger human element.
+This will start with a clear rights framework. This framework will include strong
+regulators and protections in favour of privacy, against discrimination and in support
+of innovation. Organisations who deliver services will include ethical considerations
+and good design practices in their processes. Human decisions – with all of their
+own flaws and biases and moral dilemmas – will improve by virtue of being
+informed by data, with support from consumer organisations, well-designed ethical
+services, and regulators as a backstop.
+Monitoring progress towards good outcome
+It is still hard for us to monitor the effects of data portability and whether, despite all
+of our efforts, we will still end up with adverse outcomes. That might be due to
+accidents or malicious actors. Once data is shared between organisations it can be
+copied and it becomes ever harder to understand who has access to it and how it is
+being used.
+Despite these difficulties, societies – and particularly policymakers – will need to
+learn how to monitor and respond to the effects of data portability, both in terms of
+the benefits and the harmful impacts. This monitoring will need to include being
+open about how personal data is being used as well as how equitably the benefits
+are spread. It will be necessary to help societies shape technological progress to
+deliver the outcomes they decide on.
+If harmful impacts occur, and trust in data starts to be lost, then we can imagine
+stronger government intervention across the world. Building from our example of
+reputation data, perhaps reputation will become what the UK calls a ‘protected
+characteristic’, with warning signals and inspection measures in place to check that
+organisations are only using reputation under certain conditions.
+At the extreme there could be a public backlash that takes us into a ‘data
+wasteland’. People might withdraw permissions for data about them to be used,
+even for public good. As individuals restrict their privacy settings, we risk adding
+bias into what might otherwise have been useful datasets. In some countries,
+controls may be put in place that increasingly limit researcher and business access.
+This could unnecessarily inhibit the potential of data portability to create more
+effective and efficient services and a fairer data ecosystem for us all.
+Building a better and more open future
+Thtdbtdthildhd
+
+27/10/2022, 14:52Conclusion: The future is not determined – The ODI
+https://theodi.org/?page_id=55793/3
+      
+Creative Commons Licence
+Open Data Institute, 5th Floor, Kings Place, 90 York Way, London N1 9AG
+Privacy policy Contact us
+The team debated these issues long and hard.
+Our consensus was that the future we glimpsed was as scary as it was full of the
+potential to make things better. We think that a future more informed by data will be
+better for governments, businesses and people. We think that a future in which
+people can move and share data between platforms and services has many
+benefits: such as more choice, more access to more efficient and effective services,
+and a thriving economy. We can also see there are risks of harmful impacts and
+even dystopian possibilities.
+The work of the Open Data Institute, and other organisations, needs to help
+achieve the many benefits while heading off the risks. Our innovation programme,
+which both this project and our recent exploration of data portability in the telecoms
+sector with IF have been part of, helps with this work.
+We are about to start another project in that programme looking at different ways to
+widen access to data while retaining trust, and we are also starting more data
+portability projects for business and governments.
+If you want to talk about the issues raised in this post or work with us to use data to
+help build a better future, get in touch at policy@theodi.org.
+GET IN TOUCH IF YOU'D LIKE TO DISCUSS OUR RESEARCH WITH US
+Get in touch

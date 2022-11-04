@@ -1,0 +1,1473 @@
+
+
+ 
+
+ 
+ 
+Contents 
+ 
+ 
+Executive summary1 
+1. Introduction2 
+2. Stakeholders and the impacts of peer-to-peer accommodation they focus on4 
+3. The role of data in understanding the impact of peer-to-peer accommodation8 
+3.1 Airbnb data8 
+3.2 Third-party data intermediaries9 
+3.4 Other data sources14 
+4. Data observatories16 
+4.1 In the wild16 
+4.2. In peer-to-peer accommodation19 
+5. Findings and recommendations21 
+5.1. Findings23 
+5.2. Recommendations25 
+ 
+ 
+ 
+ 
+About 
+This report has been researched and produced by the Open Data Institute, and 
+published in April 2018. Its lead author was Jack Hardinges. It was contributed to by 
+Rachel Wilson, Izy Champion, Peter Wells, Karin Christiansen, Jeni Tennison, Leigh 
+Dodds, Lucia Chauvet, Caley Dewhurst, Anna Scott and Tess Millar. 
+This report is published under the Creative Commons Attribution-ShareAlike 4.0 
+International licence. See: ​https://creativecommons.org/licenses/by-sa/4.0​. 
+ 
+ 
+ 
+How can it be improved? We welcome suggestions 
+from the community in the comments. 
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    1 
+
+ 
+Executive summary 
+Peer-to-peer accommodation platforms enable people to make their home or spare 
+room available for others to rent, normally for a short period of time. 
+ 
+The global market for peer-to-peer accommodation has grown significantly in recent 
+years and is expected to be worth as much as £250bn by 2025.  
+ 
+In addition to this growth there is debate around the wider impacts of peer-to-peer 
+accommodation. For example, residents of some cities are concerned that it changes 
+the way people feel about their homes and communities. There is a risk that this debate 
+– and subsequent decisions and actions made by policymakers and other stakeholders 
+– will be based on assumptions rather than evidence and opinions informed by data. 
+ 
+The Open Data Institute (ODI) has undertaken a project to understand how data can 
+improve the peer-to-peer accommodation market to support businesses, consumers 
+and communities. As part of this work, we have conducted interviews and desk research 
+to better understand the stakeholders interested in the impact of peer-to-peer 
+accommodation and the impacts they focus on, the role of data in understanding impact 
+and the potential use of a data observatory. 
+ 
+We have made a number of findings, including that there is a diverse set of stakeholders 
+interested in the impacts of peer-to-peer accommodation for different purposes. We also 
+found that although peer-to-peer accommodation platforms hold vast amounts of data 
+that could be used to understand the market’s impacts, restricted access to this data 
+inhibits its use. We also found that data observatories could help to meet the demand for 
+more data and increase understanding of the impacts of peer-to-peer accommodation. 
+ 
+ 
+Based on the findings of our research, we recommend that: 
+ 
+1.public and private sector organisations that hold data should commit to 
+working together to build data infrastructure that is as open as possible 
+while respecting privacy and commercial confidentiality 
+2.national government officials should facilitate and support the creation of 
+open data infrastructure in the peer-to-peer accommodation market and 
+the development of data observatories 
+3.local government officials should create environments that can support the 
+development of data observatories 
+4.stakeholders with similar needs should develop data observatories 
+collaboratively 
+5.local and national government officials should engage with different 
+stakeholders to inform decision-making related to the impacts of 
+peer-to-peer accommodation 
+ 
+Taking these actions will help to improve the collective understanding of the impact of 
+the peer-to-peer accommodation market. 
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    2 
+
+ 
+1. Introduction 
+Across a variety of sectors, platforms that enable people to exchange goods and 
+services are challenging traditional business models. 
+ 
+In finance, for example, the global peer-to-peer lending market grew by 271 per cent 
+to more than $130bn (£106.4bn) in 2016. Peer-to-peer car sharing aims to provide 
+1
+an alternative to traditional vehicle ownership; market leader Drivey now has 1.5 million 
+users globally. These types of platforms and the activity or exchanges they facilitate 
+2
+are often referred to collectively as the sharing or collaborative economy. 
+ 
+Peer-to-peer accommodation plays a significant role in this economy, and can be 
+broadly defined as accommodation – such as a spare room or an entire home – made 
+available by an existing homeowner for others to rent, normally for a short period of time. 
+ 
+Peer-to-peer accommodation platforms such as Airbnb, LoveHomeSwap and Wimdu 
+have grown rapidly in recent years. Platforms like these connect homeowners with 
+people looking for short-term accommodation, and compete with hotels and other 
+more established providers of short-term lettings. 
+ 
+The rapid growth of peer-to-peer accommodation has created opportunities. It is now 
+cheaper and easier for people to stay in many countries and cities. More people can 
+generate income by providing access to their spare rooms or properties. In the UK, 
+Airbnb has estimated that its guests and hosts have generated £3.46bn between July 
+2016 and July 2017. Studies have predicted that by 2025, the value of the peer-to-peer 
+3
+sector could be as high as £250bn worldwide. 
+4
+ 
+There is ongoing debate surrounding the impacts of peer-to-peer accommodation and 
+the growth of the sharing economy more broadly. In addition to the clear opportunities 
+driven by the trend, some have voiced concerns about the negative outcomes it may 
+also fuel. 
+ 
+There is a risk that this debate will be based on assumptions rather than informed by 
+evidence and data. The best available evidence and data should be used to help 
+understand the impacts, so that we can collectively make informed decisions and take 
+appropriate action – such as how to encourage positive impacts or when to intervene 
+to mitigate negative ones. 
+ 
+As part of the Open Data Institute’s (ODI) data innovation programme, we have 
+5
+undertaken a project to understand how data can improve the peer-to-peer 
+accommodation market to support businesses, consumers and communities. 
+1
+ Peer2Peer Finance News (2016), ‘Global P2P market worth over £106bn’, 
+http://www.p2pfinancenews.co.uk/2016/10/12/global-p2p-kpmg  
+2
+ Telegraph (2017), ‘Car sharing market expands as Europe's largest player Drivy parks 
+up in UK with London launch’, 
+https://www.telegraph.co.uk/business/2017/11/14/car-sharing-market-expands-europe
+s-largest-player-drivy-parks  
+3
+ Airbnb (2017), Airbnb UK Insights Report, 
+https://www.Airbnbcitizen.com/wp-content/uploads/sites/48/2017/09/Airbnb-UK-Insight
+s-Report_Final_Digital_v3.pdf  
+4
+Financial Times (2014), ‘UK ‘sharing economy’ companies told of £9bn potential’, 
+https://www.ft.com/content/5e0348ac-23c3-11e4-8e29-00144feabdc0  
+5
+ Open Data Institute (2017), ‘ODI secures £6m to advance data innovation’, 
+https://theodi.org/article/odi-secures-6m-to-advance-data-innovation  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    3 
+
+ 
+During a discovery phase that ran between September and December 2017, attempts 
+6
+to understand the impact of peer-to-peer accommodation stood out as a prominent 
+topic. The term “data observatory” was used in stakeholder interviews and workshops to 
+describe how data from different sources could be gathered and used to inform the 
+debate about this impact. 
+ 
+ 
+This report summarises the next stage of research we undertook to 
+address these questions: 
+ 
+●Who is interested in the impacts of peer-to-peer accommodation and 
+what types of impact are they interested in? 
+ 
+●How is data currently used to understand the impacts of peer-to-peer 
+accommodation? 
+ 
+●What is a data observatory and how might it support people to better 
+understand the impacts of peer-to-peer accommodation? 
+ 
+ 
+ 
+Our research consisted of structured interviews with a broad range of stakeholders, 
+supported by desk research. The findings of our research are described throughout 
+Sections 2, 3 and 4 of this report, and are summarised in Section 5. The final section 
+also includes a set of recommendations designed to increase the understanding of the 
+impacts of peer-to-peer accommodation. 
+ 
+ 
+ 
+ 
+ 
+  
+6
+ Open Data Institute (2017), ‘Research: what are the impacts of peer-to-peer 
+accommodation platforms?’, 
+https://theodi.org/article/research-what-are-the-impacts-of-peer-to-peer-accommodatio
+n-platforms  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    4 
+
+ 
+2. Stakeholders and the 
+impacts of peer-to-peer 
+accommodation they focus on 
+During the project’s discovery phase, we undertook user research to identify a broad 
+range of stakeholders interested in understanding different impacts of peer-to-peer 
+accommodation. 
+7
+ 
+In the next phase of our work we conducted a series of interviews with these 
+stakeholders and other individuals and organisations. In total we conducted 15 
+interviews, asking interviewees a series of questions about the types of impacts of 
+peer-to-peer accommodation they are attempting to understand. 
+ 
+The core set of stakeholders attempting to understand the impacts of peer-to-peer 
+accommodation to help them make decisions in line with their organisation's objectives are:  
+ 
+1.Local government officials developing local strategies for planning, economic 
+growth and community development, and administering local housing, planning 
+and licensing systems 
+2.National government officials across different departments or agencies, 
+including policymakers focused on housing, tourism and the digital economy, 
+and tax collection, as well national tourism agencies and bodies 
+3.Politicians representing the views of their constituents and parties on local 
+issues, as well as those acting and making decisions at a national level 
+4.Statistical organisations such as the UK’s Office for National Statistics (ONS) 
+and commercial market researchers 
+5.Academic and research institutions and other centres of research 
+6.Independent researchers with no particular organisational affiliation 
+7.Think-tanks and policy organisations that undertake research and 
+advocacy work 
+8.Peer-to-peer accommodation platforms and the associations and other 
+organisations that represent them 
+9.Hotels and alternative providers of short-term accommodation and the 
+associations and other organisations that represent them 
+10.Emergency services, including police, fire and rescue, and medical services 
+11.Home and contents insurance providers, including those developing products 
+for the peer-to-peer accommodation market 
+12.Hosts who make their properties available using peer-to-peer accommodation 
+platforms, ranging from home-owners making a room available sporadically 
+through to “commercial hosts” 
+13.Guests who use peer-to-peer accommodation 
+14.Residents, as well as the associations and other organisations that 
+represent them 
+15.Property developers and investors, as well as related advisors and agents 
+ 
+7
+ Open Data Institute (2017), ‘Research: what are the impacts of peer-to-peer 
+accommodation platforms?’, 
+https://theodi.org/article/research-what-are-the-impacts-of-peer-to-peer-accommodatio
+n-platforms  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    5 
+
+ 
+ 
+We found that these stakeholders are interested in understanding numerous 
+types of impacts, described in Table 1 below: 
+ 
+ 
+Impact type Description 
+On the availability of 
+long-term housing 
+stock 
+The numbers of residential properties available to purchase or rent on a 
+long-term basis. This can include comparative impacts on different types of 
+property such as houses and apartments, or by value. 
+On property prices The price of residential property available to purchase. 
+On property rental 
+prices 
+The price of residential property available to rent on a long-term basis, often 
+defined as for six months or more. 
+On tourism and visitors The numbers of tourists or short-term visitors. This can include impacts on 
+lengths of stays, expenditure and types/characteristics of visitors. 
+On alternative forms of 
+short-term 
+accommodation 
+The performance of hotels and other forms of short-term accommodation. 
+This can include impacts on occupancy rates, profitability and employment. 
+On host income The income generated by hosts who make their properties available to 
+guests on a short-term basis. 
+On economic 
+performance 
+The contribution to economic performance, often using indicators such as 
+Gross Domestic Product (GDP). This can include impacts at local, national 
+and sectoral levels. 
+On fire, health and 
+safety, and other 
+incidents 
+The prevalence and risks of fire, health and safety, and other incidents, 
+including impacts on adherence to existing regulations and rules. 
+On noise levels, 
+disturbance and 
+antisocial behaviour 
+The incidence of noise, disturbance and antisocial behaviour. 
+On emergency 
+services 
+The use of and demand for emergency services such as the police, fire and 
+rescue, and medical services. 
+On other public 
+services 
+The use of and demand for public services such as transport, refuse and 
+recycling, parks and non-emergency medical services. 
+On the desirability of 
+an area 
+The perceived attractiveness of an area to visit or move into. This includes 
+impacts on existing residents and visitors, as well as potential ones. 
+On the sense of 
+community in an area 
+The sense of community felt by residents and visitors. This can include 
+impacts on the way people feel about their homes, neighbours, businesses 
+and community. 
+On the environment The consequences to the environment, such as impacts on energy 
+consumption, water usage, waste and use of transport. 
+On tax revenues The taxation of activity by peer-to-peer accommodation platforms, as well 
+as by guests and hosts (such as personal income tax and business rates). 
+ 
+Table 1: Types of impacts of peer-to-peer accommodation 
+ 
+ 
+ 
+ 
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    6 
+
+ 
+We have mapped each of the impact types to the stakeholders whom we found 
+to have an interest in them in Figure 1 below: 
+ 
+ 
+ 
+Figure 1: Types of impacts of peer-to-peer accommodation and the stakeholders who 
+are interested in them 
+ 
+ 
+ 
+These impacts types are presented neutrally. Whether an impact is considered positive 
+or negative, or even non-existent, may depend on the stakeholder and their goals. 
+ 
+Many of these impact types are linked. For example, impacts on the availability 
+of housing stock are likely to affect property prices. Similarly, the levels of noise, 
+disturbance and antisocial behaviour may affect the desirability of an area or its sense 
+of community. There may be a host of complex interactions that link multiple types of 
+impact. The different types of impacts may also be grouped into broader topics or 
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    7 
+
+ 
+domains: a group of national government officials with the remit of tourism policy may be 
+interested in the impact of peer-to-peer accommodation on levels of tourism and visitors, 
+on economic performance, and on alternative types of short-term accommodation. 
+ 
+Although different stakeholders have an interest in understanding the same types of 
+impact of peer-to-peer accommodation, we found that their motivations are likely to 
+differ. A national government official may be interested in an impact in their role as 
+stewards or regulators of the market; a platform will be interested as a market 
+8
+participant. The process of developing an understanding of the impacts of peer-to-peer 
+accommodation and then acting on that understanding – for instance how it may be 
+used to inform a planning or licensing decision made by a local government official – 
+is not the focus of this report but is referenced at times in the following sections. 
+Stakeholders are also interested in the impacts of peer-to-peer accommodation at 
+different geographic and administrative levels. For example, a local government official 
+responsible for planning decisions is likely to be interested in more local impacts than 
+a national government official concerned with tourism across a country. Some are 
+interested at impacts at local, national and international scales. 
+ 
+The type of impacts described in Table 1 are likely to evolve and change over time. 
+Many of the interviewees we spoke to described the difficulty of identifying what types 
+of impacts to measure or attempt to understand related to peer-to-peer 
+accommodation, as well as the sharing or collaborative economy more broadly. 
+This difficulty was generally attributed to the speed at which the peer-to-peer 
+accommodation market has grown and its differences to traditional forms of short-term 
+accommodation. Despite these challenges, almost all stakeholders stated a desire to 
+increase their understanding of the impacts of peer-to-peer accommodation. 
+ 
+  
+8
+ As part of this project’s discovery phase, we published a report exploring the different 
+types of interventions local and national authorities have made to support the 
+peer-to-peer accommodation market: 
+Open Data Institute (2018), ‘Exploring interventions to support the peer-to-peer 
+accommodation sector’, 
+https://theodi.org/article/exploring-interventions-to-support-the-peer-to-peer-accommod
+ation-sector  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    8 
+
+ 
+3. The role of data in 
+understanding the impact of 
+peer-to-peer accommodation 
+Our interviews and desk research found that there are different ways in which data is 
+already being used to describe, provide evidence of and understand the impacts of 
+peer-to-peer accommodation. 
+3.1 Airbnb data 
+Almost all information made available by peer-to-peer accommodation platforms 
+describing their impact is published by Airbnb. This is, in part, likely due to its dominant 
+share of the market (although it is difficult to find accurate figures describing its market 
+share) and subsequently, the perceived scale of its impact. 
+ 
+Airbnb publishes summaries, reports and other documentation that include references 
+to its impact. For example, it published its UK Insights Report “A look at the impact of 
+home sharing across the UK” in 2017. The report includes statistics related to hosts 
+9
+and listings, and guests and their economic activity at national and regional levels. 
+Whilst some statistics in the report are clearly derived from data already held by the 
+platform – such as data about its listings – the data and analysis used to generate 
+others, like estimates of economic activity and contribution, is unclear. 
+  
+Airbnb also produces reports that describe its impact in response to particular 
+developments. It recently responded to a call for evidence by the Scottish Expert 
+Advisory Panel on the Collaborative Economy with a position paper entitled 
+10
+“The collaborative economy and tourism in Scotland”. Airbnb intended the report 
+11
+to “contribute to more informed recommendations” and included statistics based 
+on data from its UK Insights Report as well as original analysis. Further statistics 
+and figures related to the impact of its guests’ and hosts’ activities are also included 
+in regulatory proposals Airbnb makes to local governments. For example, in a series of 
+proposals made to the city of Edinburgh in January 2018, it described how “local families 
+typically earned £3,600 per year by hosting guests from all over the world for around 38 
+nights of the year”.  
+12
+ 
+In addition to reports, Airbnb has made some limited data available on the Airbnb Citizen 
+website that describes its impact on particular cities. These overviews – for example, of 
+9
+ Airbnb Citizen (2017), ‘A look at the impact of home sharing across the UK’, 
+https://www.Airbnbcitizen.com/a-look-at-the-impact-of-home-sharing-across-the-uk  
+10
+ Scottish Government (2017), ‘Scottish Expert Advisory Panel on the Collaborative 
+Economy’, ​https://consult.gov.scot/digital-communications/collaborative-economy  
+11
+ Airbnb (2017), ‘Airbnb Position Paper; The Collaborative Economy and Tourism in 
+Scotland’,  
+https://2sqy5r1jf93u30kwzc1smfqt-wpengine.netdna-ssl.com/wp-content/uploads/2018
+/01/Airbnb-Submission-to-the-Scottish-Expert-Panel-on-the-Collaborative-Economy-No
+vember-2017_Web.pdf  
+12
+ Airbnb / Halogen Communications (2017), ‘Press Release: Airbnb Unveils New 
+Proposals for Edinburgh’, 
+https://greens.scot/sites/default/files/Airbnb_Edinburgh_press_position_combinepdf.pdf  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    9 
+
+ 
+the Airbnb community in Berlin – are restricted to a small number of cities on a yearly 
+13
+basis and were last updated for 2015. 
+14
+ 
+Airbnb also shares data on an ad hoc basis with other organisations for research 
+purposes, for example, to support a 2016 study into home sharing in London by 
+the Institute for Public Policy Research (IPPR) and research into the supply of 
+15
+accommodation during the 2016 Olympics in Rio. 
+16
+3.2 Third-party data intermediaries 
+In recent years, third-party data intermediaries such as AirDNA and Inside Airbnb 
+1718
+have become popular providers of data related to the impact of peer-to-peer 
+accommodation. 
+ 
+Data infrastructure consists of data assets, the organisations that operate and maintain 
+19
+them, and guides and policies describing how to use and manage the data. Third-party 
+intermediaries form an important part of the data infrastructure that is used to help 
+understand the impacts of peer-to-peer accommodation. The ODI has recently used 
+ecosystem mapping to understand the data, organisations and relationships that 
+comprise data infrastructure, and also the organisations and communities that use and 
+benefit from it. 
+20
+ 
+AirDNA says that it currently tracks around four million global Airbnb listings by scraping 
+publicly available data about hosts and listings from the Airbnb website. It provides a 
+number of services to users, most of which it charges for. These include an interactive 
+map-based tool that presents information about individual Airbnb listings, reports on 
+broader trends and raw data for further analysis. The types of information it generates 
+include occupancy rates, average daily charges and property revenues. These services 
+appear to be focused predominantly on supplying hosts and property investors with 
+information on trends in the supply and demand for accommodation, and insights to 
+support the pricing of accommodation. 
+21
+ 
+Inside Airbnb also provides access to data and a set of analytical tools that enable users 
+to explore Airbnb activity in cities around the world. ​Inside Airbnb is similar to AirDNA in 
+that it uses data ​about individual listings ​scraped from the Airbnb platform​, although it 
+appears to serve a different, less-commercial set of use cases. It says that it can be used 
+to produce data in response to broad queries like “How many listings are in my 
+neighbourhood and where are they?”, as well as more targeted ones such as “Show me 
+all the highly available listings in Bedford-Stuyvesant in Brooklyn, New York City, which 
+13
+ ​https://www.Airbnbcitizen.com/data/  
+14
+ Airbnb has provided information about the methodology used to compile these 
+overviews: 
+Airbnb Citizen (2015), ‘Data Methodology’, 
+https://www.Airbnbcitizen.com/data-methodology  
+15
+ IPPR (2016), ‘Homesharing and London’s housing market’, 
+https://www.ippr.org/publications/homesharing-and-londons-housing-market  
+16
+ World Economic Forum (2016), ‘Understanding the Sharing Economy’, 
+http://www3.weforum.org/docs/WEF_Understanding_the_Sharing_Economy_report_20
+16.pdf  
+17
+ Airdna,  ​https://www.airdna.co/methodology  
+18
+ Inside Airbnb, ​http://insideAirbnb.com  
+19
+ Open Data Institute, ​https://theodi.org/topic/data-infrastructure  
+20
+ Open Data Institute (2018), ‘Using open data for public services’, 
+https://theodi.org/article/patterns-for-using-open-data-in-the-delivery-of-public-services  
+21
+ Airdna, ​https://www.airdna.co/services/datafeed  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    10 
+
+ 
+are for the ‘entire home or apartment’ that have a review in the last six months AND 
+booked frequently AND where the host has other listings.” 
+22
+ 
+Different types of organisations – including public authorities and academic institutions – 
+use data sourced from AirDNA and Inside Airbnb to analyse the impact of Airbnb activity. 
+For example, recent studies by the School of Urban Planning at the McGill University on 
+impacts in New York City and Alasdair Rae’s analysis of short-term lets in Edinburgh 
+2324
+rely on data from AirDNA data and Inside Airbnb respectively. Studies into the impact 
+of​ ​peer-to-peer accommodation often combine data from these intermediaries with data 
+from other sources, such as demographic data published by local public authorities. 
+Some studies are then reported in popular media. For example, an article published by 
+Wired​ in January 2018 referenced a number of studies and analyses, all of which were 
+25
+conducted using data, in part, from the two intermediaries. 
+ 
+Airbnb generally disputes the accuracy of data scraped by AirDNA and Inside Airbnb, 
+and by extension, the outputs produced using data provided by them. This inaccuracy 
+is​ ​often ascribed to the models used to infer listing occupancy and profitability. Also, as 
+acknowledged in the City of San Francisco's analysis of the short-term rental market, 
+26
+data related to other peer-to-peer accommodation platforms is not made available, 
+either directly by platforms or via third-party intermediaries. As a result, most analysis 
+focuses on Airbnb’s activities only, which may distort their conclusions about the 
+impacts of peer-to-peer accommodation, particularly for areas where other platforms are 
+commonly​ ​used. 
+ 
+Airbnb’s Terms of Service prohibit “use [of] any robots, spider, crawler, scraper or 
+other​ ​automated means or processes to access, collect data or other content from 
+or​ ​otherwise interact with the Airbnb Platform for any purpose”. AirDNA’s and Inside 
+27
+Airbnb’s legal basis for scraping and using data from Airbnb, and making it available 
+to​ ​other users, is therefore unclear and questions the sustainability and legality of any 
+applications, services or analyses that use this data. For example, Inside Airbnb asserts 
+that the data it publishes is in the public domain, by publishing it under a CC0 waiver; 
+it​ ​is unlikely, however, that it has the rights to do that unless it has a separate agreement 
+with Airbnb. 
+ 
+There does not appear to be public debate about privacy issues related to the ways 
+in which data scraped from Airbnb is used. For example, although available listings 
+are displayed publicly to potential guests, the process of scraping data describing 
+an individual property or room and using it outside of its original purpose – such as by 
+enabling users to analyse patterns over time or to download and combine it with other 
+datasets – may increase the risk that individual hosts could be identified. Currently, many 
+decisions related to privacy sit with third-party intermediaries who scrape listing data – 
+22
+ Inside Airbnb, ​http://insideAirbnb.com/about.html  
+23
+ Urban Politics and Governance research group McGill University (2018), ‘The High 
+Cost of Short-Term Rentals in New York City’, 
+http://www.sharebetter.org/wp-content/uploads/2018/01/High-Cost-Short-Term-Rental
+s.pdf  
+24
+ Alasdair Rae, University of Sheffield (2018), ‘Analysis of Short-Term Lets Data for 
+Edinburgh’, 
+https://greens.scot/sites/default/files/AnalysisShortTermLetsDataforEdinburgh_AlasdairR
+ae_PDF-FINAL_2.pdf  
+25
+ Rowland Manthorpe (2018), ‘Airbnb is taking over London – and this data proves it’, 
+http://www.wired.co.uk/article/airbnb-growth-london-housing-data-insideairbnb  
+26
+ City and County of San Francisco Board of Supervisors (2015), ‘Policy Analysis 
+Report; Analysis of the impact of short-term rentals on housing’, 
+http://sfbos.org/sites/default/files/FileCenter/Documents/52601-BLA.ShortTermRentals.
+051315.pdf  
+27
+ Airbnb, ​https://www.airbnb.co.uk/terms  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    11 
+
+ 
+Inside Airbnb states that the data it makes available for download “has been analysed, 
+cleansed and aggregated where appropriate to facilitate public discussion”.  
+28
+ 
+Who can access data is the characteristic that most affects how it can be used to 
+support decision-making or drive innovation. Data exists on a spectrum of closed, 
+29
+shared or open, as shown below in Figure 2. 
+ 
+ 
+Figure 2: The Data Spectrum 
+ 
+Some of the types of data used to understand the impacts of peer-to-peer 
+accommodation are made available as open data that anyone can access, use and 
+share. This is mainly limited to data held by the public sector (described in Section 3.4), 
+such as demographic characteristics of different areas and the outputs of business 
+surveys. This data can be used without restriction in various studies and analyses. 
+ 
+Other data types exist within the shared part of the spectrum; this includes the data 
+Airbnb sometimes shares with organisations for research purposes. The choice made by 
+Airbnb and other peer-to-peer accommodation platforms not to publish, or share more 
+widely, data that they hold has led to third-party intermediaries like AirDNA and Inside 
+Airbnb scraping data from their websites. These intermediaries then make their own 
+decisions about how users can access the data, such as by restricting it to users who 
+pay for premium services or publishing it under certain licences. 
+ 
+ 
+The data relationship between private sector organisations and the 
+places where they operate: examples from the transport sector  
+ 
+There is a wider debate about the ways that private sector organisations should 
+make data generated by their products and services available to the towns, cities 
+and other places in which they operate. This debate is perhaps strongest around 
+operators in the transport sector who collect data about, and are thought to 
+impact, public infrastructure at a significant scale. 
+ 
+28
+ Inside Airbnb, ​http://insideAirbnb.com/get-the-data.html  
+29
+ Open Data Institute, ​https://theodi.org/about-the-odi/the-data-spectrum/  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    12 
+
+ 
+Data collected by private sector transport providers could inform cities’ decisions 
+about their own public transport services, investment in physical infrastructure 
+and much more. In response to demand for data it holds, Uber has developed 
+Movement, an interactive mapping tool which aggregates data collected about its 
+users’ journeys and makes it available to help people understand traffic flows and 
+patterns around cities. Similarly to Airbnb, it also shares data with some 
+researchers. Uber’s Head of Transportation Policy and Research, 
+Andrew Salzberg, has recently said that the company is also “actively looking in 
+a bunch of different directions to be able to share data in different ways and for 
+different purposes”. 
+30
+ 
+More than 100 transport planning departments around the world use Strava 
+Metro data, collected from app users tracking their running and cycling 
+31
+activities. The data describes aggregated cyclist and pedestrian activity such as 
+popular or avoided routes, peak commute times and origin/destination zones. 
+Strava Metro charges cities for access to data it holds. The cost varies based on 
+the amount of Strava activity taking place; it was reported in 2014 that one 
+year’s-worth of data on cyclists in the city of Portland cost Oregon’s department 
+of transportation $20,000. Strava states that it provides access to this data “to 
+32
+help improve infrastructure and safety for cyclists, runners and pedestrians”. 
+33
+ 
+Paid data-sharing agreements and proprietary tools may not satisfy the demands 
+that all cities have for data. In 2017 New York’s Taxi and Limousine Commission 
+introduced rules requiring rideshare and livery companies, including Uber and Lyft, 
+to share detailed data about their passengers’ journeys on a regular basis. 
+34
+UK government and local authorities have legislated bus operators to open up 
+data after other attempts to persuade them to do so failed. A recent London 
+35
+Assembly Transport Committee report suggested that Transport for London (TfL) 
+– which publishes open data that more than 13,000 developers now use to fuel 
+their products and services – should expect “reciprocity”, where organisations 
+36
+who operate in London should be required to share data back to the city. 
+ 
+More cities are likely to consider making legislatory interventions to increase their 
+access to data in the transport sector and beyond. For private operators, this is 
+not the only reason that attempts to sell data to local and national authorities may 
+not be sustainable. Users of products and services are gaining more control over 
+data collected by private sector organisations, including through legislation like 
+the General Data Protection Regulation (GDPR). They may prefer that data they 
+contribute or is generated about them is made available to cities to help improve 
+the infrastructure they use, rather than being monetised. Also, data that can be 
+used for similar purposes may be collected by a number of other organisations, 
+30
+ Aarian Marshall (2018), ‘Dying to Know Uber's Secrets, Data-hungry Cities get 
+Creative’, ​https://www.wired.com/story/uber-lyft-data-research-driver-pay/  
+31
+ Strava, ​https://metro.strava.com/?_branch_match_id=500726494267820847  
+32
+ Telegraph (2014), ‘GPS big data: making cities safer for cyclists’, 
+https://www.telegraph.co.uk/technology/news/10818956/GPS-big-data-making-cities-s
+afer-for-cyclists.html  
+33
+ Strava, ​https://metro.strava.com/fa 
+34
+ Aarian Marshall (2017), ‘The Secret Uber Data That Could Fix Your Commute’, 
+https://www.wired.com/2017/02/ubers-coughing-data-nyc-fix-commute/  
+35
+ House of Commons (2017), ‘Bus Services Act 2017’, 
+http://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7545#fullreport  
+36
+ UK Authority Data For Good (2018), ‘Transport for London “should obtain data from 
+apps”’, 
+http://www.ukauthority.com/data4good/entry/7940/transport-for-london-should-obtain-
+data-from-apps  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    13 
+
+ 
+products and services and so may not have unique value. In transport, Google, 
+Apple and telecoms operators are likely to hold similar data to the transport 
+providers about passenger trips. 
+37
+ 
+Rather than defer choices related to data access to legislation, private sector 
+organisations could work collaboratively with cities to make the data they hold 
+as open as possible while respecting privacy and commercial confidentiality. 
+In the context of bike-sharing operators, Peter Wells has suggested that “if the 
+bike sharing companies don’t decide to be smart then I suspect the genuinely 
+‘smart cities’ will make the decision for them. Bike sharing companies will be 
+welcomed, but only the companies that decide to provide better services by 
+opening up their data. Smart companies will learn the lessons and get ahead 
+of that particular game.” 
+38
+ 
+Uses of data held by private sector organisations will extend far beyond those of 
+the cities they operate in. Regulators, citizens and other individuals may want to 
+use it to get involved in debates around policy. It could also support new products 
+and services. By making data as open as possible, private sector organisations 
+can support decision-making and drive innovation. Citymapper began publishing 
+open data in 2017 about its Smartbus routes, stop locations, schedules and 
+real-time arrival predictions. CityMapper was built using open data and the 
+organisation sees the value of releasing their own – it “encourage[s] all transport 
+operators to make their data freely available to enable innovation 
+and accessibility”.  
+39
+ 
+In some cases, there will be valid reasons why the data that cities require access 
+to cannot be made available as open data – for example, the risk of 
+re-identification of individual people whose journeys are described in the data. 
+There is an ongoing challenge to find the level of aggregation and access that 
+enables data to be as open as possible while protecting privacy and 
+commercial confidentiality. 
+ 
+As in other sectors, making valuable data more widely available will be central 
+to efforts to understand the impacts of peer-to-peer accommodation. As the 
+Scottish Expert Advisory Panel on the Collaborative Economy has recently 
+reported, “it is crucial that third party analysts focus on collaborating with 
+platforms to access data at source, rather than relying on 
+data-scraped information”. 
+40
+  
+37
+ Peter Wells (2018), ‘Will bike sharing benefit from learning some data lessons from 
+other parts of transport?’, 
+https://hackernoon.com/bike-sharing-will-benefit-from-learning-some-data-lessons-9d7
+77dbf360c  
+38
+ It is reported that Washington DC has since forced Mobike to start opening up some 
+data: ​https://twitter.com/oobr/status/973977824947253249​.  
+39
+ Citymapper, ​https://citymapper.com/smartride/opendata  
+40
+  Scottish Expert Advisory Panel on the Collaborative Economy (2018), ‘Scottish Expert 
+Advisory Panel on the Collaborative Economy Report’, 
+http://www.gov.scot/Publications/2018/01/4152  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    14 
+
+ 
+3.4 Other data sources 
+As already described, the basis for many studies and analyses of the impact of 
+peer-to-peer accommodation is the combination of data scraped from Airbnb with data 
+from other sources. 
+ 
+Outside of AirDNA or Inside Airbnb, data is often sourced from business and consumer 
+surveys related to the tourism and leisure industry. National tourism agencies and bodies 
+such as VisitEngland and VisitBritain publish outputs from national surveys measuring 
+the volume, value and characteristics of tourism, and other research. STR provides 
+4142
+access to data (as well as reports and other documentation) on hotel performance 
+for benchmarking, analytics and other insights. Its users include hotel owners and 
+operators, investors, and researchers – STR data was used in Diane Coyle’s and 
+Timothy Yu-Cheong’s study into the impacts of Airbnb in 14 European cities. 
+43
+Studies such as “Impacts of peer-to-peer accommodation use on travel patterns” 
+44
+adopt their own survey methodology to capture new data about the impacts of 
+peer-to-peer accommodation. 
+ 
+Local and national governments are increasingly using surveys to capture data related 
+to the sharing or collaborative economy, including in the peer-to-peer accommodation 
+market. In the UK, the ONS has has developed a framework to support the collection 
+and dissemination of statistics on sharing economy activity – related to both individuals 
+and businesses – as part of its work to assess the feasibility of “measuring the sharing 
+economy”. The ONS is also adapting or introducing new questions into some of its 
+45
+long-running surveys, such as those focused on GDP and inflation. 
+46
+ 
+Although our research unearthed other datasets that can be used to help understand 
+the impacts of peer-to-peer accommodation, such as statistics related to property rental 
+prices in an area, it was often difficult to identify definitive sources. Those we did identify 
+were not always publically available, therefore limiting their use. In many cases, data that 
+can be used exists at different levels of geographic and administrative scope, which can 
+make it hard to combine or make comparisons. 
+ 
+Informal descriptions of the impacts of peer-to-peer accommodation are referenced in 
+political discussions and debates around the world. In a November 2017 debate in the 
+Scottish Parliament, for example, numerous constituent testimonies were directly quoted 
+and “a very large number” of others were referenced. The impacts these testimonies 
+47
+41
+ VisitBritain, ​https://www.visitbritain.org/england-research-insights  
+42
+ STR, ​https://www.strglobal.com  
+43
+ Diane Coyle & Timothy Yu-Cheong Yeung (2016), ‘Understanding AirBnB in Fourteen 
+European cities’, 
+https://www.tse-fr.eu/sites/default/files/TSE/documents/ChaireJJL/PolicyPapers/2016_3
+0_12_pp_understanding_Airbnb_in_14_european_cities_coyle_yeung_v.3.1.pdf  
+44
+ Iis Tussyadiah & Juho Pesonen (2015) ‘Impacts of Peer-to-Peer Accommodation Use 
+on Travel Patterns’, 
+https://www.researchgate.net/publication/282817382_Impacts_of_Peer-to-Peer_Accom
+modation_Use_on_Travel_Patterns  
+45
+ Office for National Statistics (2017), ‘The feasibility of measuring the sharing economy: 
+November 2017 progress update’, 
+https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/thefea
+sibilityofmeasuringthesharingeconomy/november2017progressupdate#potential-future-s
+ources-of-information  
+46
+ Philip Aldrick (2017), ‘ONS plans to include “sharing economy” transactions such as 
+Uber and Airbnb in GDP’, 
+https://www.thetimes.co.uk/article/ons-plans-to-include-sharing-economy-transactions-
+such-as-uber-and-Airbnb-in-gdp-z5w5h9t2q  
+47
+ They Work For You, ​https://www.theyworkforyou.com/sp/?id=2017-11-08.22.0  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    15 
+
+ 
+describe – such as a report from an individual resident about the impact of peer-to-peer 
+accommodation on their sense of community – have a more personal focus than the 
+types of studies and analyses that rely on broader statistics. While seldom 
+representative, these stories can make abstract numbers more tangible, engaging and 
+useful. Access to both statistics and localised data may be needed to understand the 
+impacts of peer-to-peer accommodation. In these political discussions and debates, 
+a number of similar testimonies are sometimes used as evidence of wider trends, 
+or of types or severity of impact. 
+ 
+Data describing the impacts of peer-to-peer accommodation can also be generated by 
+cooperation between platforms and local public authorities. Our discovery research 
+48
+found that some types of cooperation require property location and host identity data to 
+be provided to local authorities as part of a property registration process. Similarly, the 
+49
+Mayor of London’s draft housing strategy states that the city will work with short-term 
+letting operators to develop an information-sharing protocol to support councils’ 
+enforcement of the city’s 90-day rule. However, as data is not the focus of these types 
+50
+of cooperation, it is unclear whether the data they generate is also used to understand 
+the impact of peer-to-peer accommodation. 
+  
+48
+ This cooperation is sometimes mandated via interventions made by local or national 
+authorities, such as the introduction of regulation or other rules, and at other times is 
+developed in collaboration between industry and authorities, or proposed by 
+peer-to-peer accommodation platforms. 
+49
+ Open Data Institute (2018), ‘Exploring interventions to support the peer-to-peer 
+accommodation sector and the role of data’, 
+https://docs.google.com/document/d/1H1jBPNtX6AIPSL60iLazCmhukVG0X_05AUU3s-
+a9CcQ/edit#  
+50
+ Robert Booth & Dan Newling (2016), ‘Airbnb introduces 90-day annual limit for London 
+hosts‘, 
+https://www.theguardian.com/technology/2016/dec/01/Airbnb-introduces-90-day-a-yea
+r-limit-for-london-hosts  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    16 
+
+ 
+4. Data observatories 
+The term “data observatory” was used frequently in the original discovery interviews and 
+workshops we ran. It was used by different stakeholders to describe the possibility of 
+bringing together data to enable people to better understand the impacts of 
+peer-to-peer accommodation. As a result, we conducted further research into how the 
+term is used in other sectors and contexts. 
+4.1 In the wild 
+We found a number of relevant examples of data observatories. The general concept 
+appears linked to local information systems, or geographic information systems (GIS). 
+These systems enable users to “load, store, analyse and present statistical data that has 
+a strong geographic reference”, to provide “a place-focused evidence base that is easily 
+accessible to a wide range of users including data experts, managers, policy makers, 
+front-line staff and citizens”. 
+51
+ 
+Many modern data portals have similar functionality to these types of systems. A basic 
+definition of a data portal is “a list of datasets with pointers to how those datasets can 
+be accessed”, helping users to discover data. Their inclusion of features such as data 
+52
+analysis and visualisation tools means that the distinction between a data portal, a local 
+information or GIS system, and a data observatory is not always clear. 
+ 
+We have attempted to group the examples of data observatories we found: 
+ 
+●Data observatories as policymaking tools​. A number of tools developed 
+with the purpose of supporting policymaking share the characteristics and 
+functions of other identified types of data observatories. Recent work by the 
+Department for Work and Pensions on the Churchill tool was driven by the 
+finding that policymakers rely on a combination of official government statistics 
+and data about local communities. The Churchill tool provides access to data 
+53
+from across government on-demand, and provides policymakers with tools to 
+explore topics in more detail, and changes and trends over time. The Local 
+Government Inform (LG Inform) tool enables councils to access over 1,800 
+54
+types of data to assess performance locally, regionally and nationally, and help 
+them to make decisions about their local areas and services. The iCOASST 
+project provides real-time data, interactive maps, GIS tools and reports to 
+55
+support shoreline management and other long-term coastal decision-making. 
+ 
+●Data observatories as collections of data held by the public sector​. We 
+found numerous local data observatories, such as those covering East Riding 
+56
+51
+ Wikipedia, ​https://en.wikipedia.org/wiki/Local_information_systems  
+52
+ Leigh Dodds (2015), ‘What is a data portal?’, 
+https://blog.ldodds.com/2015/10/13/what-is-a-data-portal  
+53
+ Department for Work and Pensions (2017), ‘Data for people who don’t like data’, 
+https://dwpdigital.blog.gov.uk/2017/02/24/data-for-people-who-dont-like-data  
+54
+ Local Government Inform, ​http://lginform.local.gov.uk  
+55
+ National Network of Regional Coastal Monitoring Programmes of England, 
+https://www.channelcoast.org  
+56
+ East Riding of Yorkshire Council Data Observatory, 
+http://www2.eastriding.gov.uk/council/local-area-facts-and-figures/data-observatory 
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    17 
+
+ 
+and North Lincolnshire, which consist of collections of maps, statistics, facts, 
+57
+figures and data. Generally, these data observatories cover a broad range of 
+topics including demography, housing and the economy based on data from 
+sources such as local fire, police and health services. Data portals like the 
+London Datastore, data.gov.uk and the European Data Portal provide 
+585960
+access to similar types of public sector data at city, national and multinational 
+levels. These collections of public sector data are underpinned by a range of 
+different software, such as CKAN, DataPress and InstantAtlas. 
+616263
+ 
+●Data observatories as collections of data by topic or theme​. Examples of 
+this type are not generally referred to as data observatories but similarly gather 
+data held by publicly funded organisations and provide users with tools to work 
+with it. Examples in the UK include the Ministry of Housing, Communities and 
+Local Government OpenDataCommunities, MAGIC, which provides access 
+6465
+to mapping tools and data about the natural environment from across UK 
+government, and MEDIN, a portal for marine datasets from over 400 
+66
+organisations and data archive centres. UK government recently launched the 
+“Ethnicity facts and figures” website, which it describes as “the first of its kind, 
+bringing together and publishing ethnicity data collected by government in one 
+place”. We found data observatories to be particularly prevalent in the health 
+67
+sector. The WHO Global Health Observatory, Public Health England (PHE) 
+68
+Fingertips (which replaced PHE’s network of health observatories) and PHE 
+6970
+data and analysis tools all represent collections of data related to different 
+71
+health topics, including by diseases or conditions. 
+ 
+●Data observatories as academia-led initiatives​. Funded by the Newcastle 
+University Science Central, the Urban Observatory is an attempt to provide 
+72
+access to data collected by real-time sensor feeds from across the city. It aims 
+to provide a baseline for research into urban issues. A number of universities are 
+involved in the global Web Observatory initiative to develop interactive real-time 
+73
+systems for capturing, storing and analysing data about the web and its users. 
+In contrast to other examples of data observatories we have found, initiatives 
+such as these involve the collection of data from new sources or in original 
+ways, as well as enabling its presentation or analysis. 
+ 
+●Data observatories as data sharing platforms​. Platforms that enable 
+organisations to share data with one other, or with specific types of users, 
+57
+ North Lincolnshire Data Observatory, ​http://nldo.northlincs.gov.uk/IAS_Live/  
+58
+ London Datastore, ​https://data.london.gov.uk 
+59
+ Data.gov, ​https://data.gov.uk/  
+60
+ European Data Portal, ​https://www.europeandataportal.eu 
+61
+ Wikipedia, ​https://en.wikipedia.org/wiki/CKAN  
+62
+ DataPress, ​https://datapress.com 
+63
+ InstantAtlas, ​https://www.instantatlas.com/extra  
+64
+ OpenDataCommunities, ​http://opendatacommunities.org 
+65
+ MAGiC, ​http://magic.gov.uk/home.htm  
+66
+ Marine Environmental Data & Information Network, ​http://www.oceannet.org/  
+67
+ Ethnicity Facts and Figures, Cabinet Office, 
+https://www.ethnicity-facts-figures.service.gov.uk 
+68
+ World Health Organisation, Global Health Observatory, ​http://www.who.int/gho/en/  
+69
+ Public Health England, Public Health Profiles, ​https://fingertips.phe.org.uk/  
+70
+ Public Health England, Network of Public Health Observatories, 
+http://webarchive.nationalarchives.gov.uk/20170106081009/http://www.apho.org.uk/  
+71
+ PHE Data and Analysis Tools, 
+https://www.gov.uk/guidance/phe-data-and-analysis-tools  
+72
+ Urban Observatory, ​http://www.urbanobservatory.ac.uk/  
+73
+ Web Science Trust, Web Observatories, 
+http://www.webscience.org/web-observatory/list-of-web-observatories/  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    18 
+
+ 
+can be interpreted as data observatories with limited access. For example, 
+the Infectious Diseases Data Observatory seeks to provide a platform for the 
+74
+research community to share data, with access managed by data contributors 
+and the wider community. Although access to the data can be restricted, the 
+outputs of its use (such as reports and data visualisations) are made publicly 
+available on the platform. Similarly, the Clinical Study Data Request (CSDR) 
+platform, which consists of a consortium of pharmaceutical companies and 
+75
+other data providers, aims to support scientific decision-making and innovation 
+by facilitating wider access to data. Researchers can use the platform to request 
+access to anonymised patient-level data and/or supporting documents from 
+clinical studies. CARTO Data Observatory software supports businesses 
+76
+to derive spatial insights for marketing, site planning and investment 
+decision-making. It enables users to combine their own data with other 
+demographic, economic and real estate datasets. 
+ 
+●Data observatories as data and tools made available by private sector 
+organisations​. A recent trend that can be associated with the concept of data 
+observatories is private sector organisations making data about the use of their 
+services publicly available. Uber Movement is an interactive mapping tool that 
+enables the public to explore routes and travel times between areas of cities 
+based on Uber passengers’ journeys. Its aim is “to help urban planning around 
+the world”. Strava makes its Global Heatmap available for people to explore 
+7778
+the aggregate routes of cyclists and runners around the world. Its Metro tool 
+aggregates data generated by millions of rides and runs (via individuals’ 
+smartphones or GPS devices), and provides access to departments of 
+transportation and city planning groups to improve infrastructure for bicyclists 
+and pedestrians. 
+79
+ 
+●Data observatories as physical environments​. The majority of the data 
+observatories we found are virtual and web-based. A few, however, are physical 
+– such as the Data Observatory at Imperial College London, which consists of 
+80
+64 large screens for data visualisation, and the Bristol Data Dome. This 
+81
+category of data observatory would also include government control rooms of 
+the past such as Project Cybersyn, an early 1970s attempt to build a system 
+82
+to receive, store and use information for decision-making by the 
+Chilean government. 
+ 
+●Data observatories as organisations, processes and teams​. The Kent 
+Public Health Observatory is staffed by the Kent County Council. It produces 
+83
+analysis, knowledge and evidence to improve health and wellbeing across Kent, 
+including in the form of health and social care maps, weekly bulletins and annual 
+reports. Teams from across the council can contact the observatory and make 
+requests for analysis, which are then reviewed, prioritised and completed. 
+ 
+74
+ Infectious Diseases Data Observatory, ​https://www.iddo.org/about-iddo  
+75
+ ClinicalStudyDataRequest, ​https://www.clinicalstudydatarequest.com/  
+76
+ Carto, ​https://carto.com/data-observatory/  
+77
+ Uber Movement, ​https://movement.uber.com/cities?lang=en-US  
+78
+ Strava, ​https://labs.strava.com/heatmap/#7.00/-120.90000/38.36000/hot/all  
+79
+ Strava, ​https://metro.strava.com/?_branch_match_id=500726494267820847  
+80
+ Imperial College London Data Observatory, 
+http://www.imperial.ac.uk/data-science/data-observatory/  
+81
+ Bristol is Open (2015), ‘Bristol Is Open Launches The Data Dome’, 
+http://www.bristolisopen.com/bristol-is-open-launches-the-data-dome/  
+82
+ Wikipedia, ​https://en.wikipedia.org/wiki/Project_Cybersyn  
+83
+ Kent Public Health Observatory, ​https://www.kpho.org.uk/  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    19 
+
+ 
+These types of data observatories share some characteristics. In most cases, they define 
+a particular “universe” to be observed, such as a theme or topic, or geographic area. 
+Most provide tools for users to explore, analyse and interpret data. Their collective 
+difference to data portals is that they are developed with a purpose, or set of purposes, 
+in mind beyond aiding in the discovery of data. 
+ 
+While the term “observatory” implies a certain neutrality, this purpose ties data 
+observatories closely towards a particular set of data users, the impacts they are trying 
+to understand and the decisions they are trying to make. In several cases there are 
+multiple observatories with a different lens on the same thing – like a city or a sector – 
+but meeting different sets of user needs. Data observatories might not provide 
+recommendations or direct action, but the choices made about the data they 
+incorporate, how different datasets are brought together and compared, and which 
+timescales are considered, facilitate some kinds of analyses and limit others. 
+The purpose of the data observatory, and the organisation that has made these choices, 
+are important factors for those using them to consider. 
+ 
+There are also some significant differences between the types of data observatories we 
+found, which highlight factors to consider when designing data observatories for different 
+user needs. For instance, they can allow for different granularities of data and analysis in 
+terms of geography and time. Some enable users to explore monthly or yearly data at 
+a regional level, whereas others enable users to explore data at the level of individual 
+real-time sensors. The data observatories also have different models for funding, 
+governance and sustainability – some are led by local authorities and others by 
+academia or industry. 
+4.2. In peer-to-peer accommodation 
+There is a growing demand for data related to the impacts of peer-to-peer 
+accommodation and the activities of the sharing or collaborative economy more widely. 
+The Boston Hospitality Review has made the point that currently “there is little empirical 
+evidence of the economic or social impacts of [peer-to-peer accommodation]... 
+Thus, the course and the magnitude of these impacts do not go beyond speculation 
+for the time being”. 
+84
+ 
+This demand for data was summarised by the Scottish Expert Advisory Panel on the 
+Collaborative Economy report published in January 2017, which found that: 
+85
+ 
+●“the collaborative economy is data-rich, and many advances have been made in 
+the use of data to guide public and policy choices and improve user experiences 
+(for example live transport data sets)... Nonetheless, we do not have accurate 
+and up-to-date data sets that show the impact of the collaborative economy 
+in Scotland” 
+●“without this input, the Scottish government cannot effectively understand 
+the ongoing trends that are shaping its economy and communities” 
+ 
+  
+84
+ Tarik Dogru, Makarand Mody & Courtney Suess (2017), ‘Comparing apples and 
+oranges? Examining the impacts of Airbnb on hotel performance in Boston’, 
+http://www.bu.edu/bhr/2017/06/07/Airbnb-in-boston/  
+85
+  Scottish Expert Advisory Panel on the Collaborative Economy (2018), ‘Scottish Expert 
+Advisory Panel on the Collaborative Economy Report’, 
+http://www.gov.scot/Publications/2018/01/4152  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    20 
+
+ 
+The panel recommended that the Scottish government: 
+ 
+●“set up an observatory into the collaborative economy... [to] collect, aggregate, 
+analyse and publish a variety of datasets that show the ongoing impact of 
+collaborative economy platforms in Scotland. This would be a new way for 
+platforms (local authorities and conceivably workers) to agree to share certain 
+data and would address the clear data and evidence gaps that exist in order 
+to track activity and impacts” 
+●“continue the work of this panel to bring together industry (both innovators 
+and incumbents), policy makers and stakeholders in an open dialogue with 
+regulators; and making the most of new tools for public engagement at scale 
+as an input to deliberating decisions on regulation” 
+●“resource the collection of an evidence base in considering restrictions on 
+short-term rentals... taking into account the number of dedicated lets in any 
+given area, the impact on rent/housing costs and the cost/benefit of loss of 
+economic benefit to renters and the local areas” 
+ 
+The comments made by the panel summarise wider demand for data that can be used 
+to describe, provide evidence of and understand the impacts of peer-to-peer 
+accommodation.  
+ 
+Various examples of data observatories we found from other sectors and contexts may 
+be applicable to the peer-to-peer accommodation market. Multiple data observatories 
+could combine the features of numerous types of data observatory described in Section 
+4.1. For example, one may exist as a collection of datasets by theme, use data and tools 
+made available by platforms, and be designed as a tool to support policy-making in 
+housing. A data observatory may be used by a national or local authority to inform their 
+decisions about different interventions into the peer-to-peer accommodation market, 
+or whether an intervention is required at all. Another could combine some of the same 
+datasets, incorporate more data about fire, health and safety, and other incidents 
+to assist in decisions about where to prioritise emergency services capacity.  
+  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    21 
+
+ 
+5. Findings and 
+recommendations  
+5.1. Findings 
+In summary of the findings described throughout this report: 
+ 
+Stakeholders and the impacts of peer-to-peer accommodation they focus on 
+ 
+1.A diverse set of stakeholders are interested in the impacts of peer-to-peer 
+accommodation​. ​These stakeholders include local and national government 
+officials, emergency services, and hotels and alternative providers of short-term 
+accommodation. (p 4) 
+ 
+2.Stakeholders are interested in a variety of different impacts of peer-to-peer 
+accommodation​.​ These range from those that are more readily quantifiable, 
+such as impacts on tourism and visitors, to the more abstract, including impacts 
+on the desirability of an area and the sense of community. (p 5) 
+ 
+3.Different stakeholders share interests in the same types of impacts of 
+peer-to-peer accommodation​.​ For example, the impacts on tourism and visitors 
+are of interest to statistical organisations such as the ONS, as well as residents 
+and peer-to-peer accommodation platforms themselves. (p 6) 
+ 
+4.Stakeholders are generally interested in the impacts of peer-to-peer 
+accommodation for different purposes.​ ​For example, platforms will seek 
+to understand the impacts of their activity and the market to make decisions 
+to sustainably grow their businesses, while emergency services want to make 
+decisions about where resources should be prioritised. (p 7) 
+ 
+5.Stakeholders are interested in the impacts of peer-to-peer accommodation at 
+different geographic and administrative levels​.​ Although some stakeholders are 
+clearly defined in these terms – such as both local and national government 
+officials – some stakeholders can be interested in impacts at multiple different 
+levels. For example, a peer-to-peer accommodation platform may be interested 
+in its impacts at local, national and international scales. (p 7) 
+ 
+6.We are in the early stages of understanding the types of impacts peer-to-peer 
+accommodation may have​. ​The rapid growth of the peer-to-peer 
+accommodation market and the wider sharing or collaborative economy means 
+that it can be difficult to identify types of impacts to attempt to describe, provide 
+evidence of and understand. (p 7) 
+ 
+7.Stakeholders want to increase their understanding of the impacts of 
+peer-to-peer accommodation. ​Generally, the stakeholders we interviewed are 
+seeking to improve their understanding of the impact of the market and its 
+activity in order to make better decisions for their organisations. (p 7) 
+ 
+ 
+  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    22 
+
+ 
+The role of data in understanding the impact of peer-to-peer accommodation 
+ 
+8.The data that can be used to understand the various impacts of peer-to-peer 
+accommodation has multiple sources​.​ These sources span the public and 
+private sectors and different types of organisations, including local and national 
+government, statistical organisations, and business and consumer surveying 
+organisations. Indeed, one given impact may only be addressed using data from 
+multiple sources, which may require coordination in order to combine them. 
+(pp 8–15) 
+ 
+9.Data that can be used to understand the impacts of peer-to-peer 
+accommodation is not always easy to find and access.​ ​Data related to the 
+various impacts are not made available consistently, nor in formats that make 
+them readily usable as inputs into a study or analysis. (pp 14) 
+ 
+10.Data that can be used to understand the impacts of peer-to-peer 
+accommodation exists at different levels of geographic and administrative 
+scope​.​ Data such as constituent reports may describe an individual incident, 
+property or guest, whereas some of the studies and analyses published by 
+academic institutions have a city-wide, or even regional, focus. (pp 8–15) 
+ 
+11.Nearly all studies and analyses focus on the impacts of Airbnb rather than 
+peer-to-peer accommodation platforms and activity more widely​. ​This appears 
+to be due in part to Airbnb’s significant market share, but also the fact that 
+third-party intermediaries do not currently scrape data from other platforms 
+and make it available to other users. (pp 10) 
+ 
+12.Peer-to-peer accommodation platforms hold vast amounts of data that could be 
+used to understand the market’s impacts, but restricted access to this data 
+inhibits its use​. ​Platforms such as Airbnb make some limited data available via 
+reports, websites and ad hoc sharing arrangements, but do not share data with 
+stakeholders (such as local and national government) or publish data in a routine 
+or consistent way. This has fuelled the rise of third-party intermediaries such as 
+AirDNA and Inside Airbnb, who provide access to data scraped from Airbnb and 
+support a whole host of downstream studies, analyses and other activity. 
+As a result of the reliance on scraped data, there is often debate surrounding 
+the accuracy of the outputs of these activities as opposed to debate about the 
+impacts of peer-to-peer accommodation. (p 11) 
+ 
+13.The privacy implications related to the way in which data is currently used 
+to​ ​understand the impact of peer-to-peer accommodation are unclear​. 
+Although most platforms make their hosts’ listings publicly available, third-party 
+intermediaries such as AirDNA and Inside Airbnb use, and enable others to use, 
+the data they scrape for purposes beyond merely choosing a place to stay. 
+Although some limited information about aggregation is published by these 
+intermediaries, there does not appear to be much debate around this topic. 
+(p 10) 
+ 
+14.Not all data that can be used to understand the impacts of peer-to-peer 
+accommodation is collected, managed or used in a coordinated way​. 
+For example, while business surveys are explicitly designed to collect data 
+about certain stakeholders and impacts, the reports from constituents referred 
+to by politicians are not underpinned by a similarly robust process. Despite this, 
+these informal descriptions contain rich information about people’s experiences 
+of impact. A lack of structured data – or even the ability to describe a type of 
+impact in a structured way – might make it difficult to evaluate the wider extent 
+of an impact, but there may be evidence of it nonetheless. (p 10) 
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    23 
+
+ 
+ 
+15.There is demand for increased access to data related to the impacts of 
+peer-to-peer accommodation, including via a data observatory​.​ Developing 
+a data observatory may be one approach to increasing access to data. 
+Data infrastructure in the peer-to-peer accommodation market that is as open 
+as possible, whilst respecting privacy, will support a breadth of different uses 
+to help decision-making and drive innovation. (p15) 
+ 
+ 
+Data observatories 
+ 
+16.The term “data observatory” is used to describe a wide range of services 
+outside of the peer-to-peer accommodation market​.​ ​Types of data observatories 
+we found include collections of data held by the public sector, policy-making 
+tools and even physical environments. (p 16) 
+ 
+17.Data observatories outside of the peer-to-peer accommodation market have 
+some similar characteristics, but also some significant differences​.​ The majority 
+are defined by a theme, topic or geographic area, and provide tools for users to 
+work with data. There are differences, however, in the organisations responsible 
+for them and in the level of granularity of analysis they allow. (p 19) 
+ 
+18.Data observatories could help increase understanding of the impacts of 
+peer-to-peer accommodation.​ ​There is demand for more data that can be used 
+to understand the impacts of peer-to-peer accommodation. Data observatories 
+may help bring together datasets from different sources and provide tools for 
+users to explore, analyse and interpret the data. (p 19) 
+ 
+19.It is unlikely a single peer-to-peer accommodation data observatory will meet 
+all​ ​stakeholder needs.​ ​In this report we have described a diverse set of 
+stakeholders, impacts and types of data observatories. Given this diversity, 
+it may be that – alongside other types of data infrastructure – multiple data 
+observatories could support better understanding of the impacts of peer-to-peer 
+accommodation. Data observatories could be scoped by a combination of 
+factors, such as types of stakeholder, geography, and/or the type of impact that 
+needs to be understood. (p 20) 
+  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    24 
+
+ 
+5.2. Recommendations 
+Improving the understanding of the impacts of peer-to-peer accommodation through 
+access to data, evidence and informed debate is critical to ensuring that the decisions 
+made by different stakeholders maximise the benefits of peer-to-peer accommodation 
+and mitigate its costs. 
+ 
+Based on the findings of our research, we have developed five recommendations 
+focused on improving the understanding of the impact of peer-to-peer 
+accommodation market:  
+ 
+1. Public and private sector organisations that hold data should commit to 
+working together to build data infrastructure that is as open as possible while 
+respecting privacy and commercial confidentiality. 
+ 
+Data infrastructure that is as open as possible will support decision-making and drive 
+innovation. It will make it easier for stakeholders with different needs to understand 
+impacts and make better decisions. Creating and using data observatories is one way 
+to achieve this. 
+ 
+Key stakeholders in creating, maintaining and improving this data infrastructure include 
+local and national government officials, peer-to-peer accommodation platforms and 
+statistical organisations. 
+ 
+The ODI's data infrastructure principles provide some guidance to help ensure that this 
+86
+infrastructure is built incrementally and that it meets data user needs. 
+ 
+2. National government officials should facilitate and support the creation of 
+open data infrastructure in the peer-to-peer accommodation market and the 
+development of data observatories. 
+ 
+It is in national government's interest for local government to have the powers it needs 
+to make decisions that are devolved to it, and access to the data that will help it make 
+those decisions. National government officials should help facilitate conversations and 
+encourage private sector organisations to publish and share data to a useful standard. 
+It should also ensure that local government has any new powers that it requires to 
+undertake new types of intervention, and, potentially, powers to compel the release 
+of certain types of data from organisations if needed. 
+ 
+3. Local government officials should create environments that can support the 
+development of data observatories. 
+ 
+Recent ODI research has identified three patterns for using open data in the delivery 
+of public services. One of these patterns focused on using data to build services that 
+87
+support more informed policy development. This pattern could describe the future 
+development of a data observatory, or multiple data observatories, to support better 
+understanding of the peer-to-peer accommodation market. 
+ 
+This research also identified the characteristics of environments in which these types of 
+services are built – such as organisational collaboration, strong technology infrastructure, 
+digital skills and literacy, open standards for data, and peer networks. 
+86
+ Open Data Institute (2016), ‘Principles for strengthening our data infrastructure’, 
+https://theodi.org/article/principles-for-strengthening-our-data-infrastructure/  
+87
+ Open Data Institute (2018), ‘Using open data for public services’, 
+https://theodi.org/article/patterns-for-using-open-data-in-the-delivery-of-public-services/  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    25 
+
+ 
+ 
+Creating this environment will need a senior champion – such as a local mayor, chief 
+executive or chief data officer – who can use their convening or regulatory powers to 
+bring together the multiple stakeholders in the public and private sectors who hold data 
+and those who want to use it to make better decisions. 
+ 
+4. Stakeholders with similar needs should develop data observatories 
+collaboratively. 
+ 
+Different stakeholders seeking to understand the impacts of peer-to-peer 
+accommodation may have shared needs that can be met by a data observatory. 
+These needs may cluster based on types of stakeholder (such as officials across a local 
+authority), geography (such as particular local area), and/or the type of impact in focus 
+(such as tourism).  
+ 
+Public sector design standards, like those developed by the ​UK's Government Digital 
+Service​ or the ​US Digital Service​, provide guidance on how to design services. 
+Data standards are also an important part of data infrastructure – the ODI has shared 
+findings on approaches to developing standards and the impact of open data standards.
+ The development of data observatories may also help to build out wider data 
+88
+infrastructure, as each one may highlight the need for additional types or sources 
+of data, which engaged data holders can work together to release, improve or share.  
+ 
+5. Local and national government officials should engage with different 
+stakeholders to inform decision-making related to the impacts of peer-to-peer 
+accommodation. 
+ 
+A better understanding of the impacts of peer-to-peer accommodation will help 
+policymakers to make informed decisions. It is important, however, that these decisions 
+are also informed by input from stakeholders such as statistical organisations, academic 
+and research institutions, independent researchers and residents. This input is key to 
+gathering data or information that is not collected, managed or used in a structured way, 
+such as the reports of individuals who may have benefited from the peer-to-peer 
+accommodation market and those who may have been adversely affected. 
+ 
+ 
+88
+ Open Data Institute (2018), ‘Open standards for data: adoption, approaches and 
+impact’, 
+https://theodi.org/article/open-standards-for-data-adoption-approaches-and-impact/  
+ 
+Open Data Institute 2018 / ReportImpacts of peer-to-peer accommodation, the role of data and data observatories    26 

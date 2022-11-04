@@ -1,0 +1,2155 @@
+
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Main report 
+POLICY IMPLICATIONS 
+
+ 
+REPORT  
+The Value of Data  
+Policy Implications 
+ 
+CONTENTS 
+Introduction 1 
+The economic lens:  The distinctive economic characteristics of data 4 
+The information lens: Subject, context and use 8 
+Quality 10 
+Sensitivity and personal data 10 
+Interoperability and linkability 10 
+Excludability 11 
+Accessibility 11 
+The current UK legal framework 14 
+Intellectual property rights and licensing 14 
+Intellectual property rights in public sector information 15 
+Data protection rights 16 
+Market-based methods of data valuation 17 
+Existing non-market estimates 21 
+Creating value through open and shared data 23 
+Institutions for the data economy 27 
+Data Infrastructure 29 
+Data Trusts 31 
+Other data sharing models 32 
+Policy issues and recommendations 37 
+Note on Methods 43 
+Advisory group members 44 
+Interviewees 44 
+ 
+ 
+  
+
+ 
+Published: February 2020 
+ 
+AUTHORS 
+ 
+Diane Coyle                Lawrence Kay 
+Stephanie Diepeveen               Jeni Tennison 
+Julia Wdowin 
+Bennett Institute, University of Cambridge              Open Data Institute 
+ 
+ 
+ 
+Publication from the Bennett Institute for Public Policy, Cambridge in partnership with  
+the Open Data Institute. bennettinstitute.cam.ac.uk / theodi.org 
+ 
+ 
+
+ 
+The Value of Data / policy implications - 1 
+ 
+Introduction 
+ 
+There is a lively debate about the value of data, but the creation of value from data of different 
+kinds,  its capture by  different  entities,  and  its distribution,  need  to  be  better  understood.  This 
+matters for effective policy as well as business opportunities, in order to ensure that society as a 
+whole  gains  from  the  data-fuelled  changes  in  the  economy.  Yet  at  present  there  is  too  little 
+distinction in the debate between different types and uses of data, and the private and public 
+value these could create, even though the number of data transactions is growing significantly.  
+This  report  proposes  an  approach  to  understanding  questions  of  value,  and  the  policy 
+implications, based on the economic characteristics of data. Its aim is to contribute to a shared 
+understanding of the value of this newly pervasive intangible asset. By ‘value’, we are referring 
+to  the  economic  concept  of  ‘social  welfare’:  the  broad  economic well-being  of  all  of  society, 
+including the profitability of businesses, the incomes and needs of individuals, and non-monetary 
+benefits such as convenience or health. 
+This definition encompasses the value exchanges that are taking place involving public sector 
+organisations  in  areas  such  as  transport  and  health,  with  commercial  deals  on  various  terms 
+involving patient or passenger data. We set out some key issues and principles for data policy 
+and regulation. The ultimate aim is to ensure that there is as much creation of value as possible 
+from data (in terms of social welfare), shared widely in society. The focus here is therefore on 
+economic  value  broadly  understood  from  the  perspective  of  society,  not  solely  on  commercial 
+potential. This lens highlights some potential policy trade-offs. 
+Policy  interest  in  data  has  two  dimensions.  First,  government  has  to  make  policy  decisions 
+involving the value of data to the economy as a whole. These include decisions by government 
+to invest in maintaining datasets, choices about the terms on which publicly-created data will be 
+made available, and decisions to regulate more broadly concerning data access. The UK Treasury 
+recently published a discussion paper pointing to the economic potential of data, but also the 
+challenges around unlocking that potential.
+1
+ The European Commission’s Joint Research Centre 
+noted the large array of policy questions, concluding that there were no easy answers to them 
+(Duch-Brown et al, 2017).
+2
+ A greater understanding of the value of data would help identify where 
+the benefits of greater investment in and sharing of data are worth the costs. Given the public 
+good characteristics of data, it seems likely that there is considerable untapped value in enabling 
+greater provision, access to, and joining up of data sets. 
+Second,  even  where  it  is  recognised  that  greater  sharing  of  data  brings  benefits,  such  as  in 
+transport  or  health,  those  making  decisions  about  providing  data  they  have  created  need  to 
+understand the economic transaction. Although it may prove difficult or impossible to establish 
+specific monetary valuations of certain data sets, a clearer sense of the social value is needed 
+                                                   
+1
+ HM Treasury, “The Economic Value of Data: A discussion paper,” (2018). 
+2
+ N. Duch-Brown, B. Martens and F. Mueller-Langer, “The economics of ownership, access and trade in 
+digital data,” European Commission JRC Digital Economy Working Paper 2017-01 (2017). 
+
+ 
+The Value of Data / policy implications - 2 
+ 
+urgently, as many transactions involving access to public sector data are in fact already occurring. 
+Commercial firms are eager to gain access to data held by public bodies. Yet even though these 
+companies  may  develop  useful  and  commercially  successful  new  services,  there  is  a  risk  that 
+much  potential  value  will  be  concentrated  in  a  small  number  of  hands,  or  that  citizens  and 
+taxpayers  will  not  receive  a  fair  return  from  private  companies  using  publicly  provided  data. 
+These are pressing issues: following recommendations from the Hall & Pesenti AI Review,
+3
+ the 
+Office  for  AI  has  been  investigating  implementation  of  data trusts,  which  will  require  an 
+understanding  of  how  to  distribute  value  from  users  to  contributors.  The  question  of  market 
+power  based  on  data  aggregation  was  one  of  the  considerations  for  the  Furman  Review  of 
+competition  in  digital  markets,  which  concluded  opportunities  for  innovation  and  growth  are 
+being  limited  by  a  lack  of  access  to  data.
+4
+ There  is  considerable  debate  about  possible 
+mechanisms  for  paying  people  for  personal  data.  At  the  same  time,  there  are  trade-offs, 
+particularly the need to ensure adequate incentives for investment in data, and the risks involved 
+in storing and using data, and protecting privacy. A better understanding of data value will inform 
+these  discussions  and  help  to  shape  appropriate  regulation  and  governance,  in  a  context  of 
+significant distrust of the uses to which individuals’ data may be put by both public and private 
+sector entities.  
+While a growing number of studies have investigated the value of data (reported in our separate 
+literature review), most treat data as homogeneous. However, the value of different types of data 
+can  be  very  different:  for  example,  it  may  be  reference  data, streaming  data,  historical  data, 
+statistical data or sensitive individual data; it may have different levels of completeness, accuracy 
+or representativeness; it may depreciate more or less rapidly; it may be unique or commonplace; 
+its marginal value may differ depending on context and use; and so on. This paper starts from 
+the basic economics of data in order to develop a more nuanced understanding of how to value 
+it using the two lenses of economic characteristics and informational content.  
+Many  of  the  available  empirical  studies  use  market  valuations  or  transactions  as  the  basis  for 
+estimating   the   value   of   data.   By   definition,   these   valuations   exclude   externalities   and 
+complementarities. In effect, considering data markets as a basis for policy leaves public value 
+on the table – for instance, the additional value that could be derived from enhanced access to 
+enable additional uses; or the additional value from being able to combine different data sets. 
+The (social welfare) value left untapped by failing to enable these non-market opportunities is 
+of significant policy relevance. 
+Our approach in this report has drawn on a series of expert interviews, extensive discussions with 
+our advisory group (see p39), feedback from conference presentations, our own analysis, and a 
+review of the existing literature. We have also prepared a summary. The report touches on a wide 
+                                                   
+3
+ W. Hall and J. Pesenti, “Growing the artificial intelligence industry in the UK,” Department for Digital, 
+Culture, Media & Sport and Department for Business (DCMS), Energy & Industrial Strategy (BEIS). Part of the 
+Industrial Strategy UK and the Commonwealth, (2017). 
+4
+ HM Treasury, “Unlocking digital competition Report of the Digital Competition Expert Panel,” (2019). 
+Accessed at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/7855
+47/unlocking_digital_competition_furman_review_web.pdf.  
+
+ 
+The Value of Data / policy implications - 3 
+ 
+range of challenging issues and trade-offs, and considerable work remains in order to flesh out 
+the policy implications of the data landscape. With this caution, we conclude that it is possible 
+to generate more society-wide economic value from data if the right set of policies can be put in 
+place; but if the data economy is ‘left to the market’ there will be worse outcomes in terms of 
+social  welfare  because  there  is  a  wedge  between  private  and  social  incentives  due  to  the 
+underlying economic characteristics of data.  
+We set out some recommendations in the final section of the report. The key points concern the 
+need  to  consider  in  detail,  in  different  contexts,  the  access  rights  different  organisations  or 
+individuals  have  to  certain  data,  and  establishing  a  trustworthy  institutional  framework  for 
+managing, monitoring and enforcing the terms of access. Asymmetries of information mean that 
+contracts  for  data  use  are  incomplete,  and  the  regulatory  framework  should  recognise  this, 
+particularly that schemes for sharing data in a regulated way change the returns on investment 
+in collecting and cleaning data, and investing in complementary skills and assets. There are also 
+some unavoidable trade-offs that will require policy choices. 
+  
+
+ 
+The Value of Data / policy implications - 4 
+ 
+The economic lens:  
+The distinctive economic characteristics of data 
+ 
+There  are  several  existing  taxonomies  of  data  aiming  to  delineate  characteristics  relevant  to 
+valuation. Some are presented in the table below.  
+By characteristics By origin By usage By feature 
+OECD 2013
+5
+ OECD 2013
+6
+ Sweden National Board of 
+Trade 2014
+7
+ 
+Nguyen & Paczos 2018
+8
+ 
+•Sensitivity 
+•Subject 
+•Purposes 
+•Context 
+•Identifiability 
+•In/directly collected 
+•Provided 
+•Observed 
+•Derived 
+•Inferred 
+•Corporate 
+•B2C 
+•Human resources 
+•B2B 
+•Technical 
+•Public or private 
+•Proprietary or 
+open/public domain 
+•Personal or not 
+•User created/machine 
+generated/administrative 
+•Actively or passively 
+created 
+ 
+Rather than these taxonomies, when thinking about the value of data in the broad sense in which 
+we  mean  it,  two  lenses  need  to  be  turned  on  data:  one  is  the  economic  lens;  the  other  is  the 
+information lens.  
+The economic lens is the first one we apply to consider the value of data. Data is an intangible 
+asset with distinctive economic characteristics, which do not map onto these taxonomies.  
+Most importantly, data is non-rival:  unlike  many  conventional  goods  (such  as  apples)  or  assets 
+(such as machine tools), many people can use the same data at the same time without it being 
+used  up.  It  is,  technically  speaking,  either  a public  good,  or  a club  good when  access  to  it  is 
+excluded by technical and/or legal means. Data is therefore shared to varying degrees, or its use 
+is  licensed.  It  is not best  thought  of  as  owned  or  exchanged.  Our  interviewees  agreed  that 
+personal  ‘ownership’  is  an  inappropriate  concept  for  data  (and  that  characterising  data  as  ‘the 
+new  oil’  is  similarly  misleading).  Excludability  determines whether  or  not  data  is  a  club  good 
+                                                   
+5
+ OECD, "Exploring the Economics of Personal Data: A Survey of Methodologies for Measuring Monetary 
+Value," OECD Digital Economy Papers no. 220 (Paris: OECD Publishing, 2013). 
+6
+ Ibid. 
+7
+ The National Board of Trade, “No Transfer, No Trade: The Importance of Cross-Border Data Transfers for 
+Companies Based in Sweden” (The National Board of Trade, 2014): 8. 
+8
+ D. Nguyen and M. Paczos, “Measuring the economic value of data and data flows,” presentation at OECD 
+Working Party on Measurement and Analysis of the Digital Economy, Paris, 7 May 2019. 
+
+ 
+The Value of Data / policy implications - 5 
+ 
+rather than a pure public good; different types of data have different excludability characteristics, 
+discussed below.  
+Data  often  involves externalities. These  are  often  positive,  such  as  additional  data  improving 
+predictive accuracy, or enhancing the information content of other data.
+9
+  In these cases,  data 
+often gains its value from being combined with other data. For example, one person’s health data 
+gains  much  of  its  value  from  comparison  with  aggregate  statistics,  such  as  the  distribution  of 
+cholesterol levels in the population or average blood pressure, and other data based on research 
+about how these are linked to health outcomes. There may also be negative externalities, notably 
+the compromising of individual privacy.
+10
+  
+Although there is a strict legal definition of personal data in the EU under GDPR, which means it 
+has  to  be  treated  differently  from  other  types  of  data  (implying  different  costs  and  risks),  our 
+interviewees  by  and  large  considered  it  would  be  impossible  to  define  with  any  precision  an 
+economically   meaningful   category   of   ‘personal   data’.   For   although   individuals   provide 
+considerable amounts of data about themselves, which may be sensitive or private, the valuable 
+information content often lies in aggregation or in comparison with data provided by others. The 
+information is co-produced by individuals and by companies, with individuals creating (positive 
+or  negative)  informational  externalities  for  each  other.
+11
+ Consequently,  focusing  questions  of 
+value on the data provided by individuals overlooks the allocation of value created thanks to the 
+externalities and complementarities.  
+Along  with  this  public  good  character  of  data  (in  the  technical  sense  of  non-rivalry),  the 
+externalities  mean  that  market  mechanisms  are  unlikely  to  deliver  socially  optimal  outcomes, 
+producing  too  little  and/or  charging  too  much  where  there  are  positive  externalities,  and  vice 
+versa.  We  are  probably  in  a  situation  where  both  are  true:  there  is  over-production  and 
+commercial use of some types of data raising privacy concerns; and also under-production and 
+use in contexts where the commercial opportunities may not be so obvious (or may be limited to 
+the aggregation of data across consumers or across activities occurring within individual firms) 
+but the potential public value is large. Together, the non-rivalry and externalities mean there is 
+a  wedge  between  the  private  value  of  data  and  public  value  (social  welfare  in  economists’ 
+language).   When   there   are   positive   externalities,   and information   content   comes   from 
+aggregation, too little data will be provided for use, from the perspective of society, as it can be 
+difficult  for  whoever  incurs  the  cost  to  capture  the  benefits  of  it.  In  either  case,  market 
+transactions alone will not lead to the best social outcomes; a strategy of public investment and 
+regulation is essential.  
+                                                   
+9
+ C. Jones and C. Tonetti, “Nonrivalry and the Economics of Data,” Stanford Business School Working Paper 
+(August 2019). Accessed at: https://www.gsb.stanford.edu/faculty-research/working-papers/nonrivalry-
+economics-data. 
+10
+ D. Acemoglu et al., “Too Much Data,” MIT Working Paper (September 2019). Accessed at: 
+https://economics.mit.edu/files/17760. 
+11
+ See also D. Bergemann and A. Bonatti, “The Economics of Social Data: An Introduction,” Cowles 
+Foundation Discussion Paper 2171R (September 2019). 
+
+ 
+The Value of Data / policy implications - 6 
+ 
+The distribution of value is also affected. The identity of the beneficiaries of insights from data 
+influences its total potential value, how that value is likely to be distributed, and the likelihood 
+of  investment  in  that  data.  For  example,  data  about  purchasing  decisions  may  be  valuable  to 
+advertising agencies; it could either boost their profits or reduce costs for advertisers. Data about 
+disease contagion may be valuable to public health professionals; it may increase the impact of 
+money spent on public health measures and reduce sickness and death. Data about purchasing 
+decisions might attract a high market price because of the direct economic benefit to advertising 
+agencies, while that about disease does not. 
+ 
+Aggregated value may often be greater than the sum of individual values, but sometimes there 
+can  be increasing  returns to  gathering  more  data,  and  sometimes diminishing  returns.  This  is 
+determined by context and use. Sometimes data is needed to build a predictive statistical model. 
+So,  at  some  point,  after  a  period  of  increasing  returns,  diminishing  returns  to  additional  data 
+points set in. Nevertheless, data holders with market power may continue to accumulate data as 
+a means of cementing their economic rents and using data as a barrier to entry. In other cases, 
+such as certain mapping and traffic applications, granular real time data are useful and more data 
+points  will  continue  to  add  value.  Data  can  also depreciate,  losing  value,  at  different  rates 
+depending  on  context  and  use - slowly  for  population  health  data,  much  faster  for  data 
+concerning real time traffic flows supporting in-car navigation systems. So, the volume of data, 
+its granularity, and its speed - as well as its accuracy - will all have implications for value but in 
+varying ways depending on context. 
+As  well  as  the context,  discussed  further  below,  the consequences of  data  use  affect  value. 
+Additional data will be more valuable in highly consequential situations. Contrast the potential 
+life and death consequences of autonomous vehicles with the consequences of badly targeted 
+advertising. The use values differ widely.  
+Often  individual  sources  of  data  will  have  considerable option  value,  or  in other  words  might 
+become valuable if new questions, not yet thought of, can be answered in future. The consensus 
+among our interviewees was that many of the organisations accumulating data have been doing 
+so  because  of  potential  rather  than  actual  uses.  The  EU’s  GDPR  legislation  rules  out  the 
+accumulation of individuals’ data for other than specified reasons but this may rule out potential 
+for  innovation;  significant  innovations  usually  derive  from  new  questions  rather  than  new 
+answers to old questions. While the legislation does not formally require individuals’ permission 
+to be sought for any new use of their data, many companies are currently taking an ultra-cautious 
+approach. It may take some time for GDPR to be fully understood and tested. 
+Data also involves costs and risks; it can be a liability as well as an asset.  
+Investment in the collection and cleaning of data often has a high up-front cost and low marginal 
+cost (like other digital or intangible goods and assets). Up-front costs might involve investment 
+in  hardware  (such  as  sensors),  software,  data  modelling  or  standardisation,  and  in  developing 
+processes for collecting and maintaining data. The return on the investment will depend on the 
+use of the data. This use value is often likely to exceed the marginal cost, particularly when the 
+collection of data is highly automated, for example generated through the delivery of a digital 
+service or from sensors. Secure storage of data - necessary when data is sensitive - involves costs, 
+and while storage has become relatively cheap, the risk of data breaches has increased. There 
+are  additionally  reputational  and  financial  risks  (including  fines)  associated  with  security 
+
+ 
+The Value of Data / policy implications - 7 
+ 
+breaches or data misuse. When data collection is laborious, for example involving surveying of 
+people,  organisations  or  the  physical  environment  to  create  maps  or  registers,  the  costs  of 
+maintaining data can also be high.  
+Finally, capturing the value from data will often need specific capabilities (e.g. data science and 
+analytical  skills,  management  know-how)  or complementary  investments (e.g.  software,  other 
+capital equipment). Our interviewees consistently indicated that a lack of capabilities is a major 
+barrier to capturing the potential value from data use. 
+Together, these considerations imply the following issues and potential valuation methods: 
+Characteristic Issues Evaluation 
+Diminishing/increasing marginal 
+returns? 
+How granular is the necessary data? 
+How much data is needed for 
+prediction models?  
+ 
+ 
+Is the holder using data 
+accumulation as a source of market 
+power? 
+Accuracy of predictive models 
+ 
+Innovations and quality 
+improvements in services 
+ 
+Monopoly rents - profitability, 
+absence of new entry 
+Externalities Does additional data, or 
+aggregation, sharing/open data, or 
+joining different data sources add 
+information? Does it compromise 
+privacy? 
+Innovations and quality 
+improvements in services 
+ 
+Contingent valuation methods 
+Optionality Does gathering more information 
+provide scope for future process or 
+quality improvements or 
+innovation? 
+Real options methods 
+Consequences Are decisions made using the data 
+highly consequential? 
+Value at Risk methods 
+Costs What costs need to be covered - 
+data acquisition, data cleaning, 
+storage, skills and capabilities, 
+governance? 
+ 
+What are the contingent costs - 
+security breaches, loss of sensitive 
+information, reputational damage, 
+fines? 
+ 
+ 
+ 
+ 
+ 
+Harm to identified individuals (eg if 
+later defrauded), loss of commercial 
+confidentiality 
+ 
+Risk assessments 
+
+ 
+The Value of Data / policy implications - 8 
+ 
+The information lens: Subject, context and use 
+ 
+The second lens to apply to data value concerns its information content - illustrated by the classic 
+information pyramid, Figure 1, below: information enables people, firms and government officials 
+to make better decisions, depending on their objectives. Context matters because the value of 
+data is not related in any simple way to its volume (records, bits etc).  
+Figure 1: The Information Pyramid 
+ 
+The  subject  or  information  content  of  data  determines  how  useful  it  will  be.  A  number  of 
+characteristics shape this. 
+Some of these reflect use value. Data can be about people (such as demographics, behaviours, 
+and relationships), about organisations (such as their types, activities and business relationships), 
+about  the  natural  environment,  built  environment  or  manufactured  objects.  It  can  be  used  to 
+make  decisions  that  affect  us  economically - such  as  about  purchases  or  investments;  our 
+environment - such as our energy and transport use; or our lives - such as our health, education 
+or engagement with society.  
+The generality of data determines how many decisions the data is useful for. Some data might be 
+only  valuable  for  a  few  purposes  and  other  data  useful  in  a  range  of  different  scenarios.  For 
+example,  labelled  retinal  scans  might  only  be  useful  for  creating  diagnostic  systems  for  eye 
+diseases whereas geospatial data might be used for things as varied as navigation, understanding 
+the density of services offered to different communities, or predicting the impact of floods. The 
+granularity of data affects its generality: the more detailed and granular data is, the more purposes 
+it can be put to because it can be filtered, aggregated and combined in different ways to reveal 
+different insights. 
+The geospatial coverage of data limits its utility. Data about a city is largely useful only within 
+that city, for example. Data with a wide geospatial coverage can have limited value at a more 
+local level unless it has high geospatial granularity that allows it to be filtered to provide a more 
+local  view.  While  data  about  people  from  one place  can  inform  decisions  about  other  places, 
+
+ 
+The Value of Data / policy implications - 9 
+ 
+differences in laws, cultures, and demographics mean that even data that does not seem to be 
+tied to a particular area can have limited cross-locale relevance. 
+The temporal coverage of data also determine how it can be used. Data can be: 
+● Forecasts that predict what will happen in the future 
+● From the present or recent past 
+● Part of the historical record 
+● A backcast that estimates what happened in the past 
+ 
+Data can be used by people and organisations taking different kinds of actions: 
+● Planners - acting  to  affect  or  prepare  for  the  short/medium/long  term  future  eg  city 
+planners, children choosing schools/subjects 
+● Operators - acting to deal with the present, eg. doctors in A&E, commuters deciding what 
+route to take home 
+● Historians - acting to respond to something in the past eg. police investigating a crime, 
+tax collectors. 
+ 
+The  utility  of  different  temporal  characteristics  for  these  different  people  are  shown  in  the 
+following table: 
+ 
+ Planners Operators Historians 
+Forecasts Most valuable Near future potentially 
+valuable if it helps 
+prioritise 
+Not valuable 
+Current/recent past Valuable to feed into 
+prediction engines 
+Most valuable Valuable only in so far as 
+it provides an anchor for 
+understanding what 
+happened in the past 
+Historical record Valuable to create and 
+validate prediction 
+engines 
+Only valuable in so far as 
+informs current decision 
+making 
+Most valuable 
+Backcasts Valuable when historical 
+record is missing, to 
+supplement existing data 
+in the generation of 
+prediction engines 
+Not valuable Potentially valuable if it 
+supplements or supports 
+the historical record 
+ 
+
+ 
+The Value of Data / policy implications - 10 
+ 
+Quality 
+Quality is frequently cited as an important characteristic of data. Our interviewees emphasised 
+the quality of data as a key challenge. In particular, this is a growing challenge with the use of 
+big data sets, where the quality issues can be significant .
+12
+ It is important to note that the quality 
+needed depends on what the data is being used for. Higher quality data reduces uncertainty or 
+reduces the risk that decisions based on it are incorrect; knowledge of known issues with quality 
+can help with assessing that risk. Data quality is typically described in terms of characteristics 
+such as completeness, accuracy, and timeliness: 
+● Completeness is an assessment of what proportion of reality a dataset represents. This can 
+include  its  spatial  and  temporal  extent  as  well  as  being  influenced  by  sampling  and 
+biases in data collection. 
+● Accuracy is  an  assessment  of  the  correctness  of  the  information  made  available  in  the 
+dataset.  Accuracy  can  be  influenced  by  the  method  of  data  collection,  with  more 
+automated mechanisms being more accurate. 
+● Timeliness is an assessment of the delay between the time period the data is about (its 
+temporal extent) and when it is available. Timeliness is particularly important for data 
+being  used  in  an  operational  context,  and  for  data  that  relates  to  the  recent  past  and 
+forecasts of the near future. 
+ 
+The  lower  the  completeness,  accuracy  and  timeliness  of  data,  then  in  general the  greater  the 
+marginal returns on additional data being incorporated into the dataset. 
+Sensitivity and personal data 
+Data can be sensitive for a number of reasons, including revealing information about individuals 
+or  organisations,  or  about  physical  assets  that  might  be  susceptible  to  attacks  or  disruption. 
+Sensitive data will normally have restrictions on access to protect the people, organisations or 
+things  it  is  about.  However,  sensitive  data  is  usually  thought  to  be  vital  for  personalising  or 
+customising a product or service. The requirement to protect sensitive data means that collecting 
+and storing it will have additional costs.  
+Interoperability and linkability 
+As discussed above, the value of data frequently arises from it being brought together with other 
+data. There are two characteristics that relate to the ease of combining datasets: 
+● Interoperability relates to the use of data standards when representing data, which means 
+that data relating to the same things can be easily brought together. 
+● Linkability relates  to  the  use  of  standard  identifiers  within  the  dataset  that  enables  a 
+record in one dataset to be connected to additional data in another dataset. 
+                                                   
+12
+ See for example Maurizio Vichi and David Hand, “Trusted Smart Statistics: the challenge of extracting 
+usable aggregate information from new data sources.” Statistical Journal of the IAOS: vol. 35, no. 4, pp. 
+605-613, 2019  
+
+ 
+The Value of Data / policy implications - 11 
+ 
+Excludability 
+Once collected and accessible, data is non-rival. However, as noted earlier some types of data 
+can be naturally excludable while others are not. Categories for data based on its excludability 
+include: 
+● Environmental  data is  data  collected  about  the  environment.  Anyone  can  see  data  that 
+arises from the environment, so anyone (with the right sensors) can collect it. It is hard 
+to exclude environmental data from those who can afford to collect it and is becoming 
+harder with the growing use of sensors and satellites. Examples include geospatial data, 
+rainfall,  satellite  data,  air  pollution, roadworks,  and  data  that  is  public  on  the  internet 
+such as tweets or LinkedIn profiles. 
+● Administrative  data is  data  that  is  collected  as  people  interact  with  public  or  private 
+services. Unless it is explicitly shared, this kind of data is only naturally visible to those 
+providing  the  service.  Examples  include  tax  returns  to  tax  offices,  shopping  carts  to 
+retailers, patient records to healthcare providers. 
+● Planned data is data about planned activities. This information is invisible except to those 
+doing  the planning  and  is  therefore  very  easy  to  exclude.  Examples  include  budgets, 
+roadwork schedules, or bus timetables. 
+● Predicted data is data about what might happen in the future. This may be data anyone 
+can  create,  if  they  have  access  to  enough  data  to  create reasonable  predictions  and 
+capability  to  create  predictive  models.  Examples  include  voting  outcomes,  weather 
+forecasts, or stockmarket predictions. 
+● Historic data is data about historic events. This data is only accessible to those who were 
+there  or  who  recorded  it,  although  it  may  be  reconstituted  through  backcasting  in  a 
+similar  way  to  predicted  data.  Examples  include  an  individual  browser  history,  historic 
+members of parliament, actual bus times. 
+ 
+Accessibility 
+The useful distinctions above do not, however, capture the role of access to data in unlocking its 
+wider value to economies and societies. To move toward an alternative approach, we begin by 
+describing in more detail the Data Spectrum. Data, although inherently non-rival, can be closed, 
+shared, or open:  
+If access to data is restricted, its uses are limited to what that organisation can do with 
+it. 
+If it is shared with a select group of people - a club good - its uses and analysis can be 
+wider, perhaps creating more value. 
+If data is shared openly - a public good - anyone can use it.  
+The creation of wider social value through greater openness is limited by the sensitivity of the 
+data - sharing more widely can cause harm to the people, organisations or environment the data 
+describes - and by incentives to invest, as firms might be reluctant to spend money on collecting 
+and controlling the data if others are going to capture the benefits.  
+
+ 
+The Value of Data / policy implications - 12 
+ 
+The Data Spectrum (Figure 2 below) shows some of the access conditions determining whether 
+data  is  a  private,  shared,  or  public  good.  Access  conditions  can  be  determined  by  technology, 
+licensing  or  terms  and  conditions,  and  regulation.  For  example,  an  authentication  process  for 
+parties  wanting  to  access  data  on  a  medical  research  project  restricts  availability,  which 
+safeguards sensitive data and perhaps raises value creation potential by enhancing incentives for 
+investment  in  long-term  research.  Equally,  a  lack  of  interoperable  standards  or  restrictive 
+licensing will reduce potential investment and value creation. 
+ 
+Figure 2: The Data Spectrum 
+ 
+ 
+Access  conditions  can  be  determined  by  how  many  overlapping  use  rights  might  apply  to  the 
+data.  If  data  is  collected  about  someone  who  has  a  high  degree  of  control  over  it,  they  have 
+something akin to a unilateral property right and may be able to demand payment for others to 
+use it. Where data is collected about many people at once, and they have rights to control sharing 
+or use of that data, there will need to be a process of negotiating claims to control before it can 
+be used.  
+
+ 
+The Value of Data / policy implications - 13 
+ 
+Data about individuals can be found at both ends of the Data Spectrum, and rights and access 
+affect its value.
+13
+ Information  about  the  consumption,  movement,  and  work  habits  of  a  person 
+can  be  valuable  to  advertisers,  particularly  when  similar  data  is  collected  about  lots  of  other 
+people.  But  the  risk  of  harm  from  sensitive  insights  about  that  behaviour  being  released 
+inappropriately has long motivated data protection laws around the world and hence barriers to 
+access.
+14
+ 
+It is also important to note that the spectrum from open to closed is distinct from the contrast 
+between  free  and  purchased.  The  financing  of  access  to  data  is  an  important  but  different 
+question. 
+ 
+  
+                                                   
+13
+ Open Data Institute, “Anonymisation and open data: An introduction to managing the risk of re-
+identification” (2019). Accessed at: 
+https://docs.google.com/document/d/1CoXniaTnQL_4ZyQuji9_MA_YCEElQjx4z1SEdB08c2M. 
+14
+  Although the EU’s Digital Single Market strategy has distinguished non-personal data – such as on 
+transport timetables – from personal data in an attempt to simplify transactions. European Commission, 
+“Free flow of non-personal data” (2019). Accessed at: https://ec.europa.eu/digital-single-market/en/free-
+flow-non-personal-data; Eur-Lex, “Regulation (EU) 2018/1807 of the European Parliament and of the 
+Council of 14 November 2018 on a framework for the free flow of non-personal data in the European 
+Union (2019). Accessed at: https://eur-lex.europa.eu/legal-
+content/EN/TXT/?qid=1546942605408&uri=CELEX:32018R1807. 
+
+ 
+The Value of Data / policy implications - 14 
+ 
+The current UK legal framework  
+ 
+The trading of data, and the distribution of value arising from it, are founded on legal rights. This 
+section describes the basics of the current rights framework in the UK. 
+ 
+Intellectual property rights and licensing 
+When an organisation or individual creates an intangible asset, such as documents, code or data, 
+they automatically have intellectual property rights in that asset. The most important category 
+when  it  comes  to  data  are copyright - rights  over  assets  generated  through  creativity - and 
+database  rights - rights  over  datasets  arising  when  significant  effort  is  invested  in  creating or 
+maintaining that data. There are no intellectual property rights in plain facts; these only arise 
+when  facts  are  arranged  into  databases.  Unlike  copyright, sui  generis database  rights  are  only 
+defined in a few countries, mostly in the European Union, and they exist in the UK by virtue of 
+The Copyright and Rights in Databases Regulations 1997.
+15
+ These have a term of 15 years, but as 
+this is extended when substantial alterations are made to the database, there is essentially no 
+termination date for database rights in data constantly kept up to date. 
+These  intellectual  property  rights  limit  what  other  people  can  do  without  explicit  permission 
+from the rights holder. Permission to use data and other content can be explicitly provided either 
+by  licensing  it  or by  dedicating  it  to  the  public  domain,  which  means  waiving  IP  rights  in  the 
+asset. 
+Licences to use data can be generated on a case-by-case basis, through negotiation between the 
+rights holder and the licensee. However, more typically a rights holder will have a fixed licence 
+that it applies to particular data. There are also standard licences, most notably open licences, 
+which are adopted by multiple licensors. Standard licences reduce the transaction and legal costs 
+involved in setting up an arrangement to use data. 
+This legal framework thus provides for the holders of database rights to charge for: 
+● The  IP  rights  themselves,  i.e.  to  transfer  both  a  database  and  the  rights  to  use  that 
+database and determine who else uses it, to someone else; 
+● A one-off licence to use a particular version of a dataset; 
+● A  continuous  or  recurring  licence,  where  the  licensee  will  pay  a  subscription  to  retain 
+access to up-to-date data. 
+ 
+Licences  can  and  frequently  do  contain  clauses  that  limit  what  licensees  can  do with  data,  in 
+particular to protect the licensor from losing revenue if licensees make the data available to third 
+parties. Licences may limit the ability of the licensee to sub-license, may allow this only in return 
+for  additional  royalties,  and  may  claim additional  rights  over  data  derived  from  the  originally 
+licensed data. 
+                                                   
+15
+ See: http://www.legislation.gov.uk/uksi/1997/3032/made 
+
+ 
+The Value of Data / policy implications - 15 
+ 
+ 
+Copyright  and  database  rights  are  private  rights;  defending  them  requires  the  holders  of 
+intellectual property rights to take legal action themselves. Protecting IP entails both detection 
+and enforcement costs. Organisations that use, or anticipate they may be accused of using, third-
+party IP can take insurance against legal action. 
+Intellectual property rights in public sector information 
+The intellectual property rights in public sector information (PSI) - that is information generated 
+by a public body in the course of delivering on its public task - is held by the Crown. Those rights 
+are administered by the Queen’s Printer, within The National Archives, through the Government 
+Licensing Framework.
+16
+ Under this framework, most PSI that does not contain personal data is 
+licensed with the Open Government Licence (OGL). Public bodies can only license data differently 
+if they are given a delegation of authority allowing them to do so. 
+The Reuse of Public Sector Information Regulations 2015
+17
+ constrains the ways in which PSI can 
+be licensed, in particular ensuring that no exclusive licences are granted (which would prevent 
+the public body from granting a licence to other reusers) and ensuring no one is given preferential 
+terms.  
+Access  to  some  data  created  by  public  bodies  can  also  be  requested  through  the  Freedom  of 
+Information Act 2000
+18
+ and the Freedom of Information (Scotland) Act 2002.
+19
+ The Freedom of 
+Information Act 2000 was amended by the Protection of Freedoms Act 2012 to ensure that public 
+bodies  provide  clarity  about  the  licensing  of  any  data  requested  through  the  act.  The 
+Environmental  Information  Regulations  2004
+20
+ also  provides  a  mechanism  for  accessing 
+environmental information, including from some private sector bodies such as water companies 
+who are delivering a public service. 
+These rights and responsibilities are regulated and enforced by the Information Commissioner's 
+Office (ICO). 
+                                                   
+16
+ Government Licensing Framework. Accessed at: http://www.nationalarchives.gov.uk/information-
+management/re-using-public-sector-information/uk-government-licensing-framework/. 
+17
+ See: https://www.legislation.gov.uk/id/uksi/2015/1415 
+18
+ See: https://www.legislation.gov.uk/id/ukpga/2000/36 
+19
+ See: https://www.legislation.gov.uk/id/asp/2002/13 
+20
+ See: https://www.legislation.gov.uk/id/uksi/2004/3391 
+
+ 
+The Value of Data / policy implications - 16 
+ 
+Data protection rights 
+While they are alive, people have a set of rights over data that is collected about them.
+21
+ These 
+rights are enshrined in the Data Protection Act 2018,
+22
+ which maps the General Data Protection 
+Regulations (GDPR) into UK law. 
+Data protection law limits what data organisations can collect about people (particularly when 
+it is more sensitive, special category data) and how it can be used. Personal data can be 
+lawfully collected, processed and shared by obtaining consent or having a contract with data 
+subjects (those identified within the data). However, consent is not the only lawful basis for 
+processing personal data: data can also be used where necessary to fulfil legal obligations, save 
+people’s lives, by public bodies to deliver their public task, and for other “legitimate interests” 
+of the organisation or third parties, which can include for wider public good, as long as this is 
+balanced against any privacy impact on the data subjects. 
+Data protection law frequently requires organisations that gather personal data to keep track of 
+when people have provided consent, or restricted the use of data. It also requires organisations 
+to enable people to access, correct and delete data held about them as well as to provide 
+information about how data is used within the organisation. These requirements can add costs 
+to organisations that hold or process personal data. 
+While data protection law does not explicitly prevent organisations from selling personal data 
+(as long as they have a legal basis for doing so, such as consent), any buyer of such data needs 
+to also have a lawful basis for processing that data themselves. Since these buyers tend not to 
+have a direct relationship with data subjects, they often rely on the basis in law of “legitimate 
+interests” to process data. However, the Information Commissioner’s Office’s Update report on 
+adtech and real time bidding indicates “legitimate interests” is currently being frequently 
+misused and misunderstood, particularly as it cannot be used as the basis for processing special 
+category data.
+23
+ For organisations for whom behaving lawfully is important or the threat of 
+action by ICO is an effective deterrent, GDPR should limit the sharing and trading of personal 
+data. 
+  
+                                                   
+21
+ Information Commissioner’s Office, “Guide to Data Protection.” Accessed at: https://ico.org.uk/for-
+organisations/guide-to-data-protection/. 
+22
+ See: https://www.legislation.gov.uk/id/ukpga/2018/12 
+23
+ Update report into adtech and real time bidding, Information Commissioner’s Office. Accessed at: 
+https://ico.org.uk/media/about-the-ico/documents/2615156/adtech-real-time-bidding-report-201906.pdf 
+
+ 
+The Value of Data / policy implications - 17 
+ 
+Market-based methods of data valuation 
+ 
+Although the economic characteristics of data mean it is unlikely that market-based transactions 
+give a complete picture of the value or potential value of data, a growing number of studies and 
+approaches  use  market  prices  to  estimate  value.  These  can  be  divided  into  broad  categories: 
+stockmarket valuations, and income-based or cost-based approaches.  
+One approach is to compare the stockmarket valuations of companies that are and are not data-
+intensive. For example, a report by PwC finds that stockmarket valuations of data-driven firms 
+within  the  same  industry  tend  to  be  higher  than  those  of  their  peers,  and  furthermore,  that 
+companies  with  data  analytics  capabilities  are  twice  as  likely  to  end  up  in  the  top  quartile  of 
+performance  within  their  industries.
+24
+ There  are  some  striking  examples  of  how  effective  data 
+use  can  affect  corporate  performance.  For  instance,  BP  has  a  10-year  $1.2bn  contract  with 
+Palantir to integrate data across its businesses. One early result is a digital model of BP’s entire 
+production system which can optimise the oil’s most efficient route, using data to speed the flow 
+and increase production by 30,000 barrels a day.
+25
+  
+An alternative approach, taken in a number of recent papers and reports, is income-based, using  
+“an estimate of future cash flows to be derived from the asset.”
+26
+ The data value chain (Figure 3) 
+visualises this approach. 
+ 
+Figure 3: Data value chain 
+ 
+Mawer, 2015 
+ 
+                                                   
+24
+ PwC, “Putting a value on data” (2019). Accessed on 9 October 2019 at:  https://www.pwc.co.uk/data-
+analytics/documents/putting-value-on-data.pdf. 
+25
+ A. Raval, “BP’s Bernard Looney takes oil major into energy transition,” Financial Times, 6 October 2019.  
+26
+ C. Mawer, “Valuing data is hard,” Silicon Valley Data science blog post (2015). Accessed at: 
+https://www.svds.com/valuing-data-is-hard/. See also C. Corrado, “Data as an Asset,” presentation at 
+EMAEE 2019 Conference on the Economics, Governance and Management of AI, Robots and Digital 
+Transformation, 2019; and M. Savona, “The Value of Data: Towards a Framework to Redistribute It,” SPRU 
+Working Paper 2019-21 (October 2019).  
+
+ 
+The Value of Data / policy implications - 18 
+ 
+Li et al. (2019)
+27
+ consider data value in the context of value chains for several different business 
+models, such as e-commerce marketplaces, search, or matching platforms. Many of these involve 
+a  direct  monetary  benefit  to  the  company  accumulating  data,  an  indirect  monetary  benefit  to 
+suppliers  and  advertisers  who  subsequently  make  more  sales,  and  a  non-monetary  benefit  to 
+final users who get free online services (as well as perhaps more choice or lower prices). However, 
+the authors observe that the income-based approach is limited because a data-driven business 
+model,  embedded  in  the  organisation’s  capabilities,  can  create  additional  value  beyond  that 
+generated by the chain of transactions. Thus, the big data-driven platforms effectively capture 
+much of the social value of the data they have accumulated. For example, in Amazon’s case, the 
+platform is able to take advantage of the feedback loops its business model creates (Figure 4). 
+ 
+Figure 4: Value creation in e-commerce platform 
+ 
+ 
+Li et al (2019) 
+ 
+Research into users’ contingent valuation (willingness to pay/willingness to accept) suggests they 
+place  a  high value  on  the  free  online  services  they  can  access  in  return  for  their  provision  of 
+                                                   
+27
+ Li,	W.C.Y.,	Nirei,	M.,	&	Yamana,	K.	2019.	“Value	of	Data:	There’s	No	Such	Thing	as	a	Free	Lunch	in	
+the	Digital	Economy”,	RIETI	discussion	paper	19-E-022	and	BEA	working	paper,	February	2019. 
+
+ 
+The Value of Data / policy implications - 19 
+ 
+data.
+28
+ However, the character of the exchange (and market power/profitability of the large data-
+accumulating  companies)  has  led  to  some  debate  about  whether  or  not  individuals  should  be 
+paid for data they provide .
+29
+ This model has emerged in the case of some health data start-ups, 
+which  act  as  platforms  matching  data  from  patients  who  sign  up  with  interested  pharma 
+companies.
+30
+ Any  such  payments  to  individuals  would  be  small, compared  to  the  externalities 
+created by aggregating data - which is another way of restating the limitations of market-based 
+(monetary) transactions as a basis for valuing data. 
+The  assessment  of  future  income  or  profits  can  change  substantially  as  new  opportunities 
+emerge.  Technological  innovations  enable  new  ways  of  using  data  that  can  revalue  it.  For 
+instance, Arrieta Ibarra et al (2017) comment on the growing and future importance of machine 
+learning for data valuation, creating new potential uses and services and therefore new future 
+income  streams.
+31
+ The  value  of  any  asset  depends  on  an  estimate  of  future  returns,  so  this 
+characteristic is not unique to data assets; however, the barriers to new uses of data may be lower 
+than in the case of other assets. Market prices at any moment in time are unlikely to include the 
+full option value of the data.  
+Another limitation to market-based methods of valuation is that there are not many ‘thick’ data 
+markets with a sufficient number of buyers and sellers to ensure that the transaction prices are 
+closely  related  to  fundamental  economic  value.  Monetary  transactions  do  take  place,  with  an 
+active  landscape  of  data  broking  companies  selling  data  about  individuals  for  marketing 
+purposes, and indeed a market in illegal transactions for stolen data. There are thousands of data 
+brokers offering different types of data on individuals or companies for sale. However, as these 
+data  markets  are  complicated,  non-transparent  and  increasingly  concentrated,  the  prices  of 
+transactions in them do not seem to be a sound basis for valuation.
+32
+ A market study by the UK 
+Competition and Markets Authority expressed concern about whether consumers are getting a 
+fair deal in the data-driven online advertising market.
+33
+ Data brokers do not post prices, and there 
+is a wide range for estimates of the value of personal data to businesses involved in advertising-
+based  models  or  digital  marketing.  Estimates  based  on  prices  posted  on  the  dark  web,  where 
+                                                   
+28
+ E.g. E. Brynjolfsson et al., “Using massive online choice experiments to measure changes in well-
+being,” PNAS 116, no. 15 (2019): 7250-7255. Although note that algorithms may manipulate users’ 
+behaviour, see Morton, F.S., Bouvier, P., Ezrachi, A., Juliien, B., Kimmelman, G., Melamed, A.D., & 
+Morgenster, J. 2019. Report on the Study of Digital Platforms, Chicago Stigler Center for the Study of the 
+Economy and the State, May. 
+29
+ I. Arrieta Ibarra et al. “Should We Treat Data as Labor? Moving Beyond 'Free'.” Moving Beyond 'Free' 
+(December 27, 2017), American Economic Association Papers & Proceedings 1, no. 1 (2017). 
+30
+ S. Neville, “Patients take control of their medical data,” Financial Times, 23 April 2019. 
+31
+ I. Arrieta Ibarra et al. “Should We Treat Data as Labor? Moving Beyond 'Free'.” Moving Beyond 'Free' 
+(December 27, 2017), American Economic Association Papers & Proceedings 1, no. 1 (2017). 
+32
+ Federal Trade Commission, “Data Brokers - A Call for Transparency and Accountability,” (2014). 
+33
+ See: https://www.gov.uk/cma-cases/online-platforms-and-digital-advertising-market-study#interim-
+report 
+
+ 
+The Value of Data / policy implications - 20 
+ 
+hacked data is sold, range from around £1 for some retail website login details to around £200 
+for bank or PayPal details.
+34
+  
+The  alternative  cost-based  approach  is  used  in  estimating  the  aggregate  value  of  data  to  the 
+economy in the national accounts, as there are relatively few market sales of datasets, with most 
+being generated within the business in the process of providing other goods and services. The 
+figures currently used in the national accounts are defined to reflect the costs to businesses - 
+mainly labour costs - of preparing data in a useful format, but not of purchasing or producing the 
+underlying data in the first place. There is a debate among statisticians now about whether this 
+approach is too limited, given the explosion of data gathering and use. One approach would be 
+to  treat  firms’  creation  of  digitized  data  as  investment  in  an  asset,  which  would  increase  GDP 
+compared with the current treatment, and in turn would continue to be measured in terms of the 
+cost  of  creating  the  data  (although  a  limitation  is  that  value  can  clearly  exceed  cost).  An 
+alternative is to see data as generated by households and provided as a barter with businesses 
+in  return  for  free  services;  this  approach  would  specifically  apply  to  advertising-funded  social 
+media and search companies so its dependence on a particular business model is a drawback. 
+Organisations can also use a cost-based approach to valuing the data that they collect, either by 
+looking at the investment they put into collecting it, or by assessing the cost of replacing that 
+data  with  something  equivalent.  The  latter  approach  implies  that  unique  data  is  priceless, 
+whereas  the  value  of  data  from  things  that  can  be  observed  in  the  environment  (e.g.  satellite 
+imagery) is diminishing as the number of alternative sources increases. 
+Some of the research on market valuations illustrates the distinction between private and public 
+value. For example, one study found that monitoring drivers prompted them to drive more safely, 
+while  the  monitoring  data  enabled  their  insurance  company  to  make  a  higher  profit  while 
+reducing  the  premium  charged  to  safer  drivers.  However,  requiring  the  insurance  company  to 
+share the data would have reduced its incentive to invest in the monitoring and data collection 
+scheme.
+35
+ 
+This  highlights  the  broader  point  that  the  regulatory  environment  changes  market  valuations. 
+The market transactions currently observed are not capturing a fundamental reality; rather, the 
+market value of data is endogenous, depending on policy choices. There are likely to be many 
+trade-offs  between  creating  private incentives  to  invest  in  collecting  and  using  data,  and 
+capturing social benefits. The value of data will depend on the societal trade-offs, analogous to 
+those  in  the  domain  of  intellectual  property  where  there  is  a  trade-off  between  the  private 
+incentive to  invest  in  innovation  created  by  the  temporary  monopoly  provided  by  patent  or 
+copyright, and the social benefit of ensuring wide access to innovations as quickly as possible. 
+The heated debate about the economics of intellectual property in the digital economy suggests 
+that the policy choices will be no easier in the case of data. 
+ 
+                                                   
+34
+ A. Williams, “How much is your data worth to hackers?” Moneywise, 21 March 2018. Accessed at: 
+https://www.moneywise.co.uk/news/2018-03-21%E2%80%8C%E2%80%8C/how-much-your-data-worth-
+hackers 
+35
+ Y. Jin and S. Vasserman, “Buying Data from Consumers,” NBER Working Paper (2019).  
+
+ 
+The Value of Data / policy implications - 21 
+ 
+Existing non-market estimates 
+ 
+Market valuations thus provide useful information but do not capture the full social value of data. 
+A number of studies (in addition to those cited above concerning the value of ‘free’ services) have 
+provided  estimates  of  data  value  going  beyond  market  transaction  values,  mostly  using 
+contingent valuation methods.  
+A 2013 study of the impact of opening up Landsat data using this methodology estimated a value 
+of  $2bn/year,  based  on  surveying  different  groups  of  users  to  estimate  the  average  monetary 
+benefit to each group.
+36
+ This did not include the additional value to additional users provided 
+with services based on Landsat data. 
+In a 2017 study of TfL’s open data approach, Deloitte evaluated the cost savings and incremental 
+value to three groups – passengers and other road users, the London economy as measured by 
+job creation and commercial use of the data by firms, and TfL itself – generated from TfL’s £1m 
+a  year  investment  in  publishing  open  data.
+37
+ For  passengers,  they  estimated  £70m-£90m/year 
+cost savings through less time being wasted in adjusting routes in light of new information; they 
+also highlighted value arising from increased use of the public transport network particularly by 
+those with accessibility needs (£5.1m/year) and healthier lifestyles due to increased cycling and 
+walking. For the London economy, value arose from new companies using open data, amounting 
+to £14m a year in GVA and the generation of 500 direct and 230 indirect additional jobs. For TfL, 
+value  was  reflected  in  £1m  costs  saved  from  customer  support  services  they  would  otherwise 
+need to provide directly. 
+A  2019  report  on  the  value  of  Companies  House  Data  included  a  valuation for  intermediaries 
+such as credit reference agencies who use Companies House data as an input to their own data 
+products and services as well as people and organisations who access the information directly 
+from Companies House.
+38
+ Intermediaries attributed £23m/year of their revenues and £5m/year 
+of their costs to their use of Companies House data. They did not attempt to quantify the impact 
+of this data being absent, but described costs associated with removing functionality from their 
+products and services or collecting relevant data from businesses directly themselves. 
+When 2,416 individuals were asked how much they valued their data privacy, Angela Winegar 
+and Cass Sunstein found that willingness to pay for privacy was low (an average $5 a month) but 
+willingness  to  accept  loss  of  privacy  was  a  more  substantial  $80  a  month.
+39
+ Both  figures  are 
+                                                   
+36
+ H. M. Miller et al. “Users, uses, and value of Landsat satellite imagery—Results from the 2012 survey of 
+users,” U.S. Geological Survey Open-File Report 2013–1269, 51 (2013). Accessed at: 
+https://doi.org/10.3133/ofr20131269 
+37
+ Deloitte, “Assessing the value of TfL’s open data and digital partnerships” (2017). Accessed at: 
+http://content.tfl.gov.uk/deloitte-report-tfl-open-data.pdf. 
+38
+ UK Government (BEIS), “Companies House data: valuing the user benefits.” (2019) Accessed at: 
+https://www.gov.uk/government/publications/companies-house-data-valuing-the-user-benefits. 
+39
+ A. G. Winegar and C. Sunstein, "How Much Is Data Privacy Worth? A Preliminary Investigation,” Journal 
+of Consumer Policy 42, no. 3 (September 2019): 425-440. Advocates of data privacy rights challenge the 
+
+ 
+The Value of Data / policy implications - 22 
+ 
+higher than the amount indicated by calculations such as Facebook’s average profit per active 
+user (about $10)
+40
+ or - a different type of benchmark - the amount per individual implied by fines 
+for data breaches (around $5 per person affected implied by Equifax’s 2019 fine of some $800m 
+from  the  US  FTC,  £0.005  per  affected  user  implied  by  the  UK  ICO’s  2019  £500,000  fine  on 
+Facebook
+41
+).  
+While the different approaches each have limitations, all these studies highlight that valuation 
+of data in a wider societal context needs to consider different groups: 
+1. The  costs  and  benefits  (or  risks  and  options)  to  data  stewards  of  collecting,  using  and 
+sharing data; 
+2. The  costs  and  benefits  to  intermediaries  with  whom  data  is  shared,  and  the  wider 
+economic impact of the activity of those organisations (for example in providing jobs). 
+Each of the above studies highlights that products, services and entire businesses can be 
+brought into being due to data being available to them. For intermediaries, attributes of 
+data, such as quality and interoperability, are important for reducing costs and risks, as 
+are aspects of their relationship with the data steward, such as receiving notifications of 
+changes; 
+3. The  costs  and  benefits  to  end  users  or  consumers  who  use  the  products  and  services 
+provided by intermediaries. 
+ 
+  
+                                                   
+very notion of a price for privacy, reflecting the broader debate about the validity of contingent valuation 
+methods that seek to put monetary values on intrinsic goods. 
+40
+ Based on 2018 net income of $2.2bn and 2018 monthly active users of 2.2bn 
+https://investor.fb.com/investor-news/press-release-details/2019/Facebook-Reports-Fourth-Quarter-and-
+Full-Year-2018-Results/default.aspx  
+41
+ https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/10/facebook-issued-with-
+maximum-500-000-fine/ and 38m affected users; the figure is £0.50 if the minimum affected number of 
+UK users only is used. 
+
+ 
+The Value of Data / policy implications - 23 
+ 
+Creating value through open and shared data 
+ 
+A dataset holds information which needs to be analysed before it can be used in a product or 
+service to meet demand in a given context. Making data closed, shared or open means changing 
+the range of people who might analyse the digitally stored information, be able to turn it into a 
+product, or use it in different contexts.    
+The  public  good  character  of  data  and  the  prevalence  of  positive  externalities  create  a 
+presumption that more open access to certain types of data will increase social welfare. However, 
+there are several trade-offs to consider. 
+First, there is a trade-off due to the need to incentivise investment and innovation, and to cover 
+ongoing  costs  of  maintaining  data  securely.  This  is  similar  to  the  well-known  trade-off  in 
+intellectual property, where patent or copyright protection restricting access is needed to create 
+an incentive for investment in discovery and innovation to occur in the first place, but at the same 
+time limits the potential social welfare benefits of a new service or product. 
+This trade-off is most direct for organisations whose purpose and business model centres on data 
+collection and maintenance as opposed to those generating exhaust data as a consequence of 
+their activities. In the former case, the cost of generating data has to be met. In the latter case, 
+decision-making about the investment is driven by the benefits of providing the data-generating 
+service. 
+However, the need to provide more access to data can also disincentivise investment in products 
+and services that use data. Exclusive access to data can enable firms to gain a market advantage 
+for  the  services  they  offer,  such  as  providing  a  more  personalised  service  to  their  customers. 
+There are also competitive considerations: if that data is also available to other companies to 
+provide  an  improved  service,  then  that  private  advantage  is  lost  although  social  benefits  will 
+likely  be  enhanced.  Companies  may  also  rightly  worry  about  privacy,  data  breaches  or 
+unsanctioned uses if third parties have access to data. 
+So, for most organisations, providing access to certain types of data (individual or sensitive) is an 
+additional cost which may be difficult to meet. They are therefore likely to underinvest in the 
+provision of such data, if they do not charge for it. This may be particularly the case for public 
+sector organisations with limited budgets for this purpose or alternatively if they are required to 
+recoup some of their costs from charges. 
+A second trade-off applies to data that is personally or commercially sensitive. Individuals will 
+want  to  limit  access  to  certain  types  of  identifiable  information  about  themselves.  Companies 
+will  not  want  to  share  data  that  will  help  their  rivals.  So,  increasing  access  to  such  data  has 
+attractions   but   also   involves   complexities,   including   avoiding   negative   privacy-intruding 
+externalities.  
+A  final trade-off  concerns  the  requirement  for  an  evidence  base  before  investing  in  data  or 
+providing access to data. The option value of data - the fact that it is hard to predict how data 
+might  be  used  by  other  organisations  or  in  the  future  as  technologies  change  and  other  data 
+becomes  available - means  there  is  inherent  uncertainty  when  making  cost/benefit  trade-offs 
+
+ 
+The Value of Data / policy implications - 24 
+ 
+around  investments  in  improving  the  quality  of  or  access  to  data.  Even  the  work  needed  to 
+understand the potential realisable value of data in order to determine whether investing in it is 
+worthwhile is complex and costly in and of itself.  
+Moves  toward  open government data  have  been  motivated  by  the  publishing  of  public  sector 
+information  as  a  public  good.  That  motivation  comes  from  expectations  of  the  value  that  it 
+creates,  in  terms  of  transparency  and  accountability  of  democratic  institutions,  and  the 
+stimulation of innovation and economic growth.  Allowing citizens to have more access to the 
+information that the government holds can give them the opportunity to make more informed 
+decisions, while also analysing the data with skills that might not be available, or useful, to the 
+government. The government also collects substantial administrative data whose wider use could 
+also enable better decisions and improved services. As with any open data, government data can 
+be combined with private and shared data.  
+Estimates for the value of open data as a percentage of GDP have ranged from 0.08 percent to 
+7.19  percent,  derived  from  different  mixtures  of  sectors,  countries,  types  of  data,  potential 
+benefits, and other factors (Figure 5).
+42
+ A recent OECD report cites a range of 1 per cent to 2.5 
+percent of GDP.
+43
+ The range of estimates may be partly caused by the lack of research into the 
+effects  of  open  data in  comparison  with  properly  delineated  counterfactuals,  as  noted  by  the 
+2018 Open Data Barometer report.
+44
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                   
+42
+ European Data Portal, “Analytical Report 9: The Economic Benefits of Open Data” (2017): 17. Accessed 
+at: 
+https://www.europeandataportal.eu/sites/default/files/analytical_report_n9_economic_benefits_of_open_
+data.pdf. 
+43
+ OECD, Enhancing Access to and Sharing of Data: Reconciling Risks and Benefits for Data Re-use across 
+Societies (Paris: OECD Publishing, 2019).   
+44
+ Open Data Barometer, “Open Data Barometer: Leaders Edition, from Promise to Progress,” (2018). 
+Accessed at: https://opendatabarometer.org/?_year=2017&indicator=ODB. 
+
+ 
+The Value of Data / policy implications - 25 
+ 
+Figure 5: the value of Open Data as measured by different studies
+45
+ 
+ 
+ 
+The debate about the value of open public sector data has led to consideration of which datasets 
+might be of most value.
+46
+ The European Commission sees the value of public sector information 
+as  determined  by  its  potential  to  create  economic  and  other  benefits;  the  potential  for  the 
+creation  of  innovative  services;  how  many  people  can  use  it;  the  scope  for  revenue;  the 
+possibilities for re-combination; and the effects on public undertakings.
+47
+ These suggest six types 
+of  government  data  that  have  the  most  value:  geospatial,  earth  observation  and  environment, 
+meteorological, statistics, companies, and transport.
+48
+     
+                                                   
+45
+ European Data Portal, “Analytical Report 9: The Economic Benefits of Open Data” (2017): 18. Accessed 
+at:  
+https://www.europeandataportal.eu/sites/default/files/analytical_report_n9_economic_benefits_of_open_
+data.pdf; also see P. Kuzev (ed). Open Data The Benefits (2016), Accessed at:  
+https://www.kas.de/einzeltitel/-/content/open-data.-the-benefits1. 
+46
+ Open Knowledge Foundation, “What data counts in Europe? Towards a public debate on Europe’s high 
+value data and the PSI Directive” (2019). Accessed at:’ 
+https://blog.okfn.org/2019/01/16/what-data-counts-in-europe-towards-a-public-debate-on-europes-
+high-value-data-and-the-psi-directive/. 
+47
+ Ibid. 
+48
+ Ibid. 
+
+ 
+The Value of Data / policy implications - 26 
+ 
+However, creating public sector information and making it openly available is costly. Although 
+the amount spent on official statistics and other public data is low in per capita terms - and, as 
+noted above, there is almost certainly too little provision - governments often consider requiring 
+payments for publicly-held data to help cover the costs. What’s more, EU legislation has often 
+been interpreted to  require that all users are charged the same amount, from individuals to big 
+corporations, even though the economic calculation in terms of marginal cost and benefit faced 
+by different types of user differ greatly. Yet requiring payments for public sector data can impede 
+its  use  and  hence  the  value  that  can  be  derived  from  it;  research  for  the  Open  Data  Institute 
+found  that  making  the  most  useful  public  datasets  open  would  create  0.5  percent  more  GDP 
+growth per year for the British economy than making users pay for access to the data.
+49
+ A number 
+of our interviewees thought the government should not generally charge for public sector data 
+but were also concerned that it should capture some of the value created by the use of data to 
+generate new services or products. 
+Private sector organisations can also open the data that they hold.
+50
+ In the development of artificial 
+intelligence,  firms  can  adopt  business  models  that  make  their  algorithms  and  the  data  they 
+control more or less open, affecting how easy it is for them to collaborate with others and limiting 
+the costs they face in managing large datasets.
+51
+ However, many large datasets are held by the 
+private sector and are far less open than public data. At present there are relatively few incentives 
+or legal requirements for private sector companies to share their data (although in the UK the 
+Digital Economy Act provides a legal basis to mandate some limited sharing with the Office for 
+National Statistics). A mixture of regulation and institutional innovation is likely to be needed to 
+enable greater provision of data by the private sector for public benefit  - discussed further below. 
+There is significant potential for shared or open data to promote competition and innovation in 
+the economy, in contrast to the hoarding of data by digital companies with considerable market 
+power, as recently noted by the Digital Competition Expert Panel.
+52
+  
+  
+                                                   
+49
+ Open Data Institute, “Research: The economic value of open versus paid data” (2016). Accessed at: 
+ https://theodi.org/article/research-the-economic-value-of-open-versus-paid-data/. 
+50
+ See for example https://blog.google/technology/research/open-source-and-open-data/  
+51
+ Open Data Institute, “The role of data in AI business models” (2018). Accessed at: 
+https://docs.google.com/document/d/14g0p6KSyH1r1J_PrykJIXUX-
+rdeP1B4CLIffAyFPOnk/edit#heading=h.rcydy9gttjg4. 
+52
+ HM Treasury, “Unlocking digital competition Report of the Digital Competition Expert Panel” (2019). 
+Accessed at:  
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/7855
+47/unlocking_digital_competition_furman_review_web.pdf.  
+
+ 
+The Value of Data / policy implications - 27 
+ 
+Institutions for the data economy 
+ 
+There  is  a  vast  literature  on  the  appropriate  institutional  framework  for  provision  of non-rival 
+goods: what norms, regulations and laws, and what mix of market, collective and government 
+decisions  about  production  and  allocation  will  maximise  social  welfare?  These  questions  are 
+highly relevant to policy choices aiming to get the best out of the data economy. The amount of 
+data is rapidly growing as digitization  makes  it  possible  to  turn  many  goods  and  services  into 
+data records, and as behaviour is changing significantly shifting activities online. There are very 
+many data sets, collected in different ways by different public and private sector organisations, 
+with access restricted in varying degrees including by lack of interoperable technical standards. 
+The number of potential uses probably far exceeds the actual usage of data to create valuable 
+goods and services. The governance challenge is both to prevent misuse of sensitive data - where 
+much of the public policy focus has been to date - and to realise more of the potential from data, 
+ensuring the benefits are widely shared.  
+While this will involve traditional government regulation, discussed below, there is already some 
+institutional innovation and experimentation with regard to access to data. Two principles are 
+fundamental.  First,  in  order  to  increase  the  economic  value  of  data  to  society,  the  design 
+challenges  concern  establishing  terms  of  shared  access  that  enable  more  use,  and  capture 
+positive externalities while limiting negative ones.  
+Secondly,  the  trustworthiness  of  the  institutions  is  of  paramount  importance  as  they  will  be 
+determining  who  can  access  what  data  in  accordance  with  the  social  and  legal  ‘permissions’ 
+given. In other words, the governance and processes matter. As O’Neill has argued, the real or 
+perceived crisis of trust in many societies reflects suspicion of authority.
+53
+ In the case of data, the 
+suspicion  can  seem  well  warranted  by  frequent  security  breaches,  stories  of  manipulation  or 
+abuses  such  as  Facebook/Cambridge  Analytica.  Informed  consent,  especially  consent  given  to 
+long  and  obscure  terms  and  conditions  online,  is  inadequate  as  a  basis  of  trust.  Instead, 
+trustworthy  institutions  subject  to  intelligent  forms  of  accountability  (rather  than  the  target-
+based or tick box versions found in some institutions) are needed. As Benedict Evans has pointed 
+out, it is possible to discern an emerging societal consensus about who should be able to do what 
+with  different  data:  “Different  entities  have  permission  for  different  things.”
+54
+ Is  it  the 
+supermarket, a video streaming app, or the police? Do we trust an organisation with certain data 
+only as long as it is not too easy for them to use at speed or at scale, or too easy to join up with 
+other data?  
+Although data is in its economic characteristics almost the opposite of a ‘commons’ (which refers 
+to resources such as fish or grazing land that are rival in consumption), Elinor Ostrom’s framework 
+for the management of shared resources also offers some useful insights for data regulation and 
+                                                   
+53
+ O. O’Neill, “A Question of Trust,” BBC Radio 4 (2002). Accessed at: www.bbc.co.uk/radio4/reith2002/.  
+54
+ B. Evans, “Face Recognition and AI” (2019). Accessed at: https://www.ben-
+evans.com/benedictevans/2019/9/6/face-recognition. 
+
+ 
+The Value of Data / policy implications - 28 
+ 
+governance.
+55
+ Her work considered contexts where people need to reach agreement about rules 
+of access to a resource when some individuals will have to sacrifice private benefit for the greater 
+common good. Just as a farmer upstream could benefit from not sharing water for irrigation with 
+those downstream but will enable higher crop yields as a whole if they do participate, the holder 
+of data may sacrifice some private economic rents by sharing but will unlock potentially much 
+larger benefits for others.  
+She identified the conditions determining the way different goods are produced and allocated, 
+including - as well as the characteristics of the good itself - the prevailing social norms and trust, 
+the costs and benefits of different outcomes for different people, the information available and 
+the  technical  or  practical  conditions.  She  also  established  the  general  design  principles  for 
+collective  self-managing  institutions - set  out  here  with  implications  for  the  data  economy. 
+Within a data economy we need to consider three groups of people or organisations involved in 
+collaboration  around  data:  those  organisations  which  collect  and  share  data  (stewards);  those 
+that use data from those organisations; and those who are the subjects of data (i.e. the data is 
+about  them  or  is used  in  ways  that  affect  them).  These  groups  have  different  rights  and 
+capabilities,  and  there  will  be  asymmetries  of  information  between  them.  The  table  sets  out 
+Ostrom’s design principles and their data economy parallels: 
+ 
+| Ostrom’s principles        | Data economy parallel 
+There are clear boundaries and rules about who is 
+entitled to what 
+Clarity on the rights of different entities to control, 
+access, use and share data 
+Monitoring actions is feasible Transparency and auditability of how data is being 
+collected, used and shared 
+There are mechanisms for resolving conflicts Regulators who can enforce both mandating and 
+limiting access to data 
+Individual responsibilities and benefits broadly balance Transparency and better understanding of both rights 
+and how value from data returns to people and 
+organisations 
+Users themselves are responsible for monitoring and 
+enforcement 
+Transparency and contractual terms to enable 
+monitoring and auditing of data use and sharing; in a 
+data economy this may require agents who can act on 
+behalf of data subjects 
+Sanctions for abuse are possible and graduated, getting 
+progressively tougher 
+Enforcement of a range of consequences for the misuse 
+of data, ranging from the withdrawal of access 
+permissions to fines and other penalties 
+                                                   
+55
+ E. Ostrom, Governing the Commons: The Evolution of Institutions for Collective Action (Cambridge: 
+Cambridge University Press, 1990). 
+
+ 
+The Value of Data / policy implications - 29 
+ 
+Decisions are legitimated by the participation of users For individuals, consent and opt outs need to be 
+informed and viable (which requires competitive 
+alternative services). 
+ 
+Organisations need to engage actively with 
+communities for example through representative data 
+governance bodies and public participation exercises. 
+Decisions are also legitimated by government 
+recognition  
+A comprehensive data strategy and 
+institutional/regulatory framework 
+ 
+These principles are useful for assessing the new types of institution or regulatory framework 
+that  will  be  needed  to  govern  access  to  and  use  of  data.  They  speak  to  the  asymmetries  of 
+information and incomplete contracts characterising the data economy. Economic regulation in 
+other domains is built on the extensive institutional economics literature, and the same analytical 
+tools  need  to  be  brought  to  bear  here  in  designing  data  access  regulation - including  the 
+mandatory data access schemes under consideration in some jurisdictions as well as voluntary 
+sharing arrangements. 
+ 
+Data Infrastructure 
+These institutional and regulatory questions need to encompass the whole of data infrastructure. 
+Data infrastructure consists of: 
+● data assets such as datasets, identifiers and registers 
+● the standards and technologies used to curate and provide access to those data assets 
+● the guidance and policies that inform the use and management of data assets and the 
+data infrastructure itself 
+● the organisations that govern the data infrastructure 
+● the communities involved in contributing to or maintaining it, and those who are affected 
+by decisions that are made using it. 
+ 
+Schemes for sharing data previously kept closed for commercial or sensitivity reasons are starting 
+to become more common, aiming to create a club good for the parties involved.  
+However, data sharing may be limited by a coordination problem: “[D]ata producers only have an 
+incentive to make data available if they think there are enough users, and users need available 
+data to get value from it. But data producers don’t know how many potential users there are, and 
+
+ 
+The Value of Data / policy implications - 30 
+ 
+users don’t know the amount, variety or quality of data that is available. This mutual uncertainty 
+impedes data sharing.”
+56
+  
+Organisations considering sharing data with others face a number of other considerations:  
+● if the data in question contains personal information, there is a risk that a partner sharing 
+it will mistakenly disclose it and incur regulatory and reputational costs for all involved;  
+● the data could reveal insights into the workings of the firm and its intellectual property, 
+or provide an advantage to commercial rivals;  
+● if  the  future  use  of  the  data  being  shared  is  unpredictable,  whether  because  of  the 
+information it holds or as a result of its use being subject to novel technology, it is hard 
+to  determine  whether  a  partner  will  invest  sufficiently  before  the  fact,  or  exit  the 
+arrangement at an undesirable time later on.  
+ 
+These questions are examples of the classic problems of asymmetric or incomplete information, 
+principal-agent misalignments, and the difficulty of designing contracts under uncertainty.  
+Despite the barriers, a number of initiatives sharing data are under way. These schemes have the 
+potential  to  change  the  incentives  for  governing  data  access.  Schemes  for  shared  data  in  a 
+bounded  space  may  change  the  returns  on  investment  in  the  collection  and  cleaning  of  data, 
+complementary skills and assets. 
+Overcoming the barriers may also require international collaboration over data infrastructure.
+57
+ 
+Country surveys have revealed hesitation towards sharing sensitive data about citizens across 
+borders – more than 75 percent of surveyed internet users in Indonesia, China, India, Poland 
+and Mexico support the domestic storage of personal data – but accessing frontier skills for 
+creating value from data often involves working with organisations in artificial intelligence 
+hubs, like Berlin, Shanghai, and Toronto.
+58
+ To develop trustworthy data sharing relationships 
+across borders, national regulators could benefit from exchanging and testing ideas - the OECD 
+has recommended that they should do so early in the process of developing domestic 
+regulations - while companies can learn through facilitated market entry schemes, like the 
+fintech bridges run by the Financial Conduct Authority.
+59
+    
+                                                   
+56
+ London Economics, “Independent assessment of the Open Data Institute’s work on data trusts and on 
+the concept of data trusts,” Report to the Open Data Institute, 2019. Accessed at: https://theodi.org/wp-
+content/uploads/2019/04/Datatrusts-economicfunction.pdf. 
+57
+ Open Data Institute, “What are the links between data infrastructure and trade?” (2019). Access at: 
+https://docs.google.com/document/d/1NWhM50Vp_xpV4k8LmOr49VdURrRGIKqu2aVZXz1Gv5c/edit 
+58
+ CIGI and Ipsos, “83% of Global Internet Users Believe Affordable Access to the Internet Should be a 
+Basic Human Right” (2014). Accessed at: 
+https://www.cigionline.org/sites/default/files/documents/internet-survey-2014-factum.pdf. A. Goldfarb 
+and D. Trefler, “AI and International Trade” (2017). Accessed at 
+https://www.nber.org/chapters/c14012.pdf. 
+59
+ Financial Conduct Authority, “UK establishes FinTech Bridge with the Republic of Korea” (2016). 
+Accessed at: https://www.fca.org.uk/news/press-releases/uk-establishes-fintech-bridge-republic-korea. 
+
+ 
+The Value of Data / policy implications - 31 
+ 
+Data Trusts 
+One such approach to forming a data institution, data trusts, are being developed and trialled in 
+several  countries.  Schemes  such  as  data  trusts  involve  making  more  complete  the  contracts 
+between parties that have asymmetric data holdings or technology skills. 
+A data trust can take a number of different forms - such as the legal trust, contractual, corporate, 
+public, and community trust models. Arguments can be made for a plurality of approaches.
+60
+ They 
+have a number of aims in common:  
+● To enable data to be shared; 
+● To deliver public benefits as well as benefit to those sharing the data; 
+● To respect the interests of those with legal rights in the data; 
+● And ensure the data is used ethically and in accordance with the rules established by the 
+data trust; 
+● To ensure that whoever holds data subject to the trust rules does so safely and securely, 
+and that data is dealt with appropriately (for example by deletion) if the data trust ends; 
+● To manage individual rights and interests collectively (including any sharing of benefits 
+received by the data trust); 
+● To set standard rules to govern all data sharing; 
+● To act as custodian/steward making decisions on behalf of data providers/ data users;  
+● And to be able to evolve to have new purposes, governance and working methods. 
+ 
+Trustees  of  a  data  trust  may  need  to  have  powers  strong  enough  to  discourage  misuse  of  the 
+data, in line with Ostrom’s principles.
+61
+ Data trusts may be able to reduce transaction costs and 
+increase efficiency, by allowing one data sharing agreement between partners rather than their 
+having to negotiate several. They may be able to set conditions for the quality of data provided 
+by  members,  perhaps  reducing  information  asymmetries.
+62
+ Data  trusts  may  also  be  a  way  to 
+compensate for ‘missing markets’.
+63
+  
+                                                   
+OECD, “International Regulatory Co-operation: Addressing Global Challenges,” (2013). Accessed at: 
+https://www.oecd.org/gov/regulatory-policy/international-regulatory-co-operation-9789264200463-
+en.htm    
+60
+ S. Delacroix and N. Lawrence, “Bottom up Data Trusts: Disturbing the ‘One Size Fits All’ Approach to 
+Data Governance,” forthcoming in International Data Privacy Law. 
+61
+ Register Dynamics, “Putting the Trust in Data Trusts” (2019). Accessed at: https://www.register-
+dynamics.co.uk/data-trusts/. 
+62
+ P. Masons, “Data trusts: legal and governance considerations” (2019). Accessed at: 
+https://theodi.org/wp-content/uploads/2019/04/General-legal-report-on-data-trust.pdf. 
+63
+ London Economics, “Independent assessment of the Open Data Institute’s work on data trusts and on 
+the concept of data trusts,” Report to the Open Data Institute (2019). Accessed at: https://theodi.org/wp-
+content/uploads/2019/04/Datatrusts-economicfunction.pdf. 
+
+ 
+The Value of Data / policy implications - 32 
+ 
+The  Open  Data  Institute  has  piloted  data  trusts  based  on  contractual  relationships  between 
+parties for sharing energy and mobility data in London, data about the illegal wildlife trade, and 
+data about food waste; while Sidewalk Labs has used a data trust in its approach to the collection 
+and use of data in an area of Toronto.
+64
+  
+ 
+Other data sharing models 
+Other approaches have also been adopted, either directly sharing datasets, pooling data through 
+portals, or establishing platforms as mediators between providers and users of data.  
+One recent example is Databox, a multi-partner project funded by the EPSRC. It gives individuals 
+control  over  the  data  they  provide,  including  data  increasingly  being  generated  by  Internet  of 
+Things  devices  such as  smart  thermostats  and  meters.
+65
+ The  data  is  held  in  a  physical  device 
+controlled  by  the  individual,  rather  than  in  the  cloud,  using  ‘containerisation’  technology. 
+According to a Royal Academy of Engineering Report, “Consumers will be able to obtain insights 
+from their own data, while commercial organisations will have access to a greater range of data 
+sources  of  appropriate  type  or  granularity,  enabling  richer  and  more  accurate  analytics.”
+66
+ The 
+Databox  mediates  access  to  the  source  of  data  but  does  not  hold  it.  Individuals  can  give 
+permission to third party app developers to access specific data. When the developer has used 
+the data, the service can be provided to the individual without continuing to store data.  
+Data sharing in the UK energy industry has been mandated by the Government as part of the roll-
+out of smart meters. The Data Communications Company manages the smart meter infrastructure 
+including  data,  licensed  by  Ofgem.
+67
+ The  in-home  meter  is  linked  to  the  telecommunications 
+network enabling consumer data to be shared with competing energy suppliers, energy network 
+operators and other authorised parties, such as third party intermediaries that offer energy saving, 
+switching or load shifting services. Consumers are asked to authorise the use of their data. The 
+infrastructure  could  potentially  be  extended:  “Smart  metering  equipment  could  potentially  be 
+                                                   
+64
+ See Open Data Institute, “Greater London Authority and Royal Borough of Greenwich pilot: What 
+happened when we applied a data trust” (2019). Accessed at: 
+https://theodi.org/?post_type=article&p=7891; Open Data Institute, “Illegal wildlife trade pilot: What 
+happened when we applied a data trust” (2019). Accessed at: 
+https://theodi.org/?post_type=article&p=7890; Open Data Institute, “Food waste pilot: What happened 
+when we applied a data trust” (2019). Accessed at: https://theodi.org/?post_type=article&p=7889; 
+Sidewalk Labs, “An Update on Data Governance for Sidewalk Toronto” (2018). Accessed at: 
+https://www.sidewalklabs.com/blog/an-update-on-data-governance-for-sidewalk-toronto/. 
+65
+ Databox Project (2019), https://www.databoxproject.uk/.  
+66
+ Royal Academy of Engineering, “Databox: allowing individuals to control how they share data with 
+other parties.” Accessed on 20 January 2019 at: http://reports.raeng.org.uk/datasharing/case-study-1-
+databox/. 
+67
+ Data Communications Company, “What we do”, Accessed at: https://www.smartdcc.co.uk/.  
+
+ 
+The Value of Data / policy implications - 33 
+ 
+used  to  collect  property  information,  such  as  temperature  or  humidity  measurements,  to  spot 
+where there are health risks to vulnerable people.”
+68
+  
+Another  example  of  data  sharing  by  private  companies  required  by  government  followed 
+legislation  (the  2017  Bus  Services  Act
+69
+)  mandating  bus  operators  to  share  information.  The 
+Department  for  Transport  created  the  Bus  Open  Data  Portal  and  established  standards and 
+formats. 
+Instances of existing private data sharing models not mandated by legal or regulatory compliance 
+include a DAFNI, a database and model repository for infrastructure providers; examples of ‘open 
+innovation’  platforms  such  as  APROCONE  in  aerospace  or  Goldcorp’s  then-startling  (in  2000) 
+opening of its proprietary geological database to invite outsiders to help locate gold deposits; 
+and Strava Metro, which provides GPS tracking data from the Strava fitness app free to individuals 
+and  under  licence to  other  users.  In  these  examples,  the  incentives  for  data  sharing  vary,  but 
+there  are  clear  benefits  in  each  case  to  the  companies  sharing  data:  respectively,  lower  cost 
+monitoring  and  enhanced  resilience  of  infrastructure  assets,  design  improvements  along  the 
+supply chain, access to problem-solving resources, and building a reputation and customer base.  
+An  alternative  approach  is  Tim  Berners-Lee’s  initiative  Solid,
+70
+ which  centres  on  individuals 
+controlling their own data, including terms of access and storage, in a decentralized model, in 
+other  words  not  involving  any  centralizing  institutions.  Users  store  data  in  one  or  more  ‘pods’ 
+(personal online data stores) hosted by an entity they can select, and they can permit different 
+organisations to access data of different types. Solid’s focus is therefore on individuals owning 
+data they generate, and on safeguarding privacy. In other words, it is concerned with reducing 
+negative  data  externalities  from  loss  of  privacy;  to  capture  the  potential  social  value  from 
+realising  positive  externalities,  the  services  and  apps  using  data  need  to  accumulate  access 
+permissions from individual users. 
+Although  experience  over  time  of  using  models  of  sharing  may  enhance  trust  and  encourage 
+growing participation, many shared data spaces - including most of the examples above -  have 
+required regulatory intervention. If the benefits of sharing are asymmetric, if the costs of building 
+and  maintaining  a  pool  or  platform  are  high,  if  there  are  concerns  about  loss  of  competitive 
+advantage, or fears of regulatory or legal breaches due to handling sensitive individual data, a 
+policy intervention will be required. Enabling the creation and capture of value from data, from 
+new business opportunities and economic growth to improvements in public services and non-
+market gains, will require new policy approaches. 
+  
+                                                   
+68
+ Royal Academy of Engineering, “Smart Meters: Data Sharing in the Energy Industry,” Accessed at: 
+http://reports.raeng.org.uk/datasharing/case-study-7-smart-meters/  
+69
+ See: https://www.gov.uk/government/publications/bus-services-act-2017-new-powers-and-
+opportunities 
+70
+ See: https://solid.mit.edu/  
+
+ 
+The Value of Data / policy implications - 34 
+ 
+TRANSPORT 
+ 
+The  transport  sector  in  the  UK  illustrates  a  range  of  the  issues  discussed  here,  specifically  on 
+open and shared data, and models for public-private sector partnerships. These issues have had 
+different implications for value created and its distribution. 
+Some public transportation and geospatial data is open and free. For instance, Highways England 
+makes important data freely available to developers via an API.
+71
+  The Geospatial Commission 
+has launched a Single Data Exploration Licence (although users may need to purchase some of 
+the data they identify).
+72
+   
+With the public bus system,  it  has  been  a  question  of  enforcing  sharing  of  information.  In  the 
+early 2000s, the Department of Transport (DfT) required the use of company data to inform public 
+transit systems, improving services by providing users with more up to date information on buses’ 
+timetables,  routes  and  fares.  Bus  companies  had  to  share  access  to  their  real  time  operations, 
+which also could allow for more effective monitoring of their performance. Transport Direct was 
+set  up  as  a  distinct  entity  used  by  DfT  to  implement  the  opening  up  of  company  databases. 
+Opening the data also created opportunities for other companies to create interfaces to inform 
+the public about their transport options in real time.  
+Data does not have to be shared to improve outcomes for the public. For example, in response 
+to a daily congestion charge on private hire vehicles in central London, Uber introduced a model 
+in April 2019 that automatically adds £1 to every trip that passes through the congestion charge 
+zone, regardless of time of day. At Heathrow airport, airport management has discussed the use 
+of geo-fencing to regulate private vehicle use around Heathrow.
+73
+ Here, Uber has agreed to place 
+limits on drivers to avoid congestion around Heathrow itself, using its internal dynamic pricing 
+algorithm. In these two instances, Uber utilises its ability to adjust demand by altering the cost 
+to the user, responding to the user’s preferences. The end outcome on emissions and traffic is 
+achieved through efforts within a private company rather than public sector regulation.  
+However, this latter case shows the capture of value from the use of data which is not shared. 
+With  the  London  congestion  charge,  depending  on  the  number  of  rides  and  timing,  Uber  can 
+collect the difference between its internal £1 congestion charge per ride and TfL’s £11.50 charge 
+per day. The distribution of revenue between the private company and public sector is known to 
+Uber,  but  not  necessarily  to  TfL.  Similarly,  while  Uber  is  helping  Heathrow  Airport  manage 
+congestion, it alone is able to in effect implement a private congestion charge borne by drivers 
+and passengers.  
+                                                   
+71
+ See: http://webtris.highwaysengland.co.uk/api/swagger/ui/index  
+72
+ See: https://www.gov.uk/government/news/geospatial-commission-making-geospatial-data-more-
+accessible  
+73
+ Heathrow Press Release, “Heathrow Chairman: We can reduce freight emissions and still increase our 
+cargo capacity,” 12 October 2017. Accessed at: 
+https://mediacentre.heathrow.com/pressrelease/details/81/Corporate-operational-24/8878; G. Paton, 
+“Heathrow crackdown to beat minicab congestion,” The Times, 25 June 2019. Accessed at: 
+https://www.thetimes.co.uk/article/heathrow-crackdown-to-beat-minicab-congestion-fhzgfzlqk 
+
+ 
+The Value of Data / policy implications - 35 
+ 
+Yet private companies rely on the public sector to maintain the roads and public transport. The 
+public  sector  remains  responsible  for  the  base  map  and  road  infrastructure.  Importantly,  the 
+ordnance survey in the UK owns the coordinates system upon which transport services map their 
+activities.  Licences  are  required  to  use  this  base  map,  enabling  information  on  the  location  of 
+buses and so forth can be plotted. Nonetheless, the distribution of value, as private firms use data 
+to manage transport services or traffic, is not necessarily equally, or at all, shared with the public 
+sector.  Service  improvements  through  the  use  of  data  require  negotiation  not  only  about  how 
+information is shared but also how revenue is captured and distributed. 
+Issues around context, value capture and sharing data will become more pressing as the use of 
+data for transport evolves. Autonomous vehicles illustrate the point made earlier that use affects 
+the  marginal  cost  and  benefit  of  collecting  more  data.  Autonomous  vehicles  require  a 
+classification model to identify and respond to different objects; the amount of data required for 
+this model will reach a point at which diminishing returns set in. On the other hand, autonomous 
+vehicles  also  require  a  base  map  of  the  world  requiring  ever  more  accurate  and  detailed 
+information. Second, they show that sharing all data might not be needed to create value. Rather, 
+running  autonomous  vehicles  depends  on  access  to  specific  data  at  the  moment  when  it  is 
+needed.  Third,  they  also  reveal  some  of  the  challenges  around  interdependencies  and  the 
+distribution  of  value.  Autonomous  vehicles  will  rely  on  the  base  map  and  on  road  networks 
+maintained by the public sector. Regulation - to ensure that some of the cost of providing this 
+part of the data infrastructure is recouped by the public sector - will affect the market price of 
+use of autonomous vehicles.  
+ 
+ 
+GENERATING VALUE FROM DATA IN HEALTH  
+ 
+The use of data in the health sector in the UK highlights the debates around the potential costs 
+and benefits of data use.  
+There is a huge opportunity to use health sector data to improve social welfare. There are two 
+primary  areas  of  added  value:  1)  benefits  through  research  and  development;  and  2)  direct 
+benefits to clinical practice. These ends are often considered in relation to two supplementary 
+aims:  financial  benefits  to  health  providers,  and  commercial  benefits  to  the  private  sector. 
+Outcomes can be seen as complementary and feeding into one another, or they can be seen in 
+competition. In the UK, the National Health Service presents an important opportunity to harness 
+data to public welfare ends, providing a comprehensive, longitudinal patient dataset. Equally, it 
+faces key challenges to effectively realising value for the public.  
+There are important challenges tied to the processes and context in which data is made useful, 
+and  the  characteristics  of  the  data  itself.  Value  creation  often  lies  in  combining  datasets,  but 
+there are huge costs in linking up datasets, and transitioning the NHS to a consistent electronic 
+system.  In  England,  there  are  more  than  200  clinical  commissioning  providers  and  150  trusts. 
+Some  trusts  continue  to  rely  heavily  on  paper  records.  Further,  datasets  themselves  are  of 
+variable  quality,  differ  in  how  they  are  generated  and  recorded,  and  bring  important  concerns 
+about  sensitivity.  Access  rights,  often  couched  in  the  language  of  ownership,  are  central  in 
+thinking  about  the  creation  of  value,  and  the  role  of  different  actors  in  processes,  including 
+
+ 
+The Value of Data / policy implications - 36 
+ 
+patients,  clinicians,  researchers,  trusts,  and  private  firms.  Some  argue  patients  must  have 
+“meaningful agency” over data collected on them as individuals; value partially belongs to the 
+individuals  who  generate  it.
+74
+  Others  caveat  this.  Safeguarding  may  make  it  more  difficult  to 
+integrate sets of patient data, which could impact on the value created
+75
+. Additionally, data on 
+one individual has little value except in combination.  
+Making use of data in the health sector tends to work through partnerships. Commercial partners 
+play a role in the ecosystem of drug development. For example, Health Data Research UK has a 
+set  of  health  data  research  hubs  in  particular  disease  areas  that  involve  universities and 
+commercial  partners.  The  cost  and  procedural  requirements  for  cleaning,  anonymising  and 
+linking  health  data  mean  that  it  has  been  difficult  to  design  a  feasible  system  that  does  not 
+involve commercial firms in investment and process. The leeway of commercial firms to direct 
+data  use,  however,  is  limited.  In  mid-2019,  a  decision  was  taken  that  commercial  agreements 
+could not grant any one organisation exclusive use of raw data held by NHS organisations.  
+The role of partnerships also triggers debate over the distribution of value between private firms 
+and the NHS. These debates are driven by the examples that have already occurred in practice. 
+In some, the price of data access has been tied to willingness to pay. Intermediary companies, 
+which mediate access to clean and anonymise data after its approved release by a Trust, set a 
+price  for  access.  Others  argue  NHS  data  should  be  freely  available,  but  on  condition  that  the 
+products  produced  through  it  are  accessible  back  to  the  NHS.  Our  interviews  emphasised  the 
+importance of the public getting the benefits of value created from their data in the domain of 
+health in particular. 
+Currently, no single institution in the UK is responsible for governing how NHS data is used. The 
+Office of the Life Sciences supports research and industry development. NHSX and DHSC focus 
+on  patient  care.  NHSX  was  created  to  provide  overall  strategic  direction  for  efforts  to  digitise 
+healthcare. Finally, attention to trustworthy institutions, a wider finding in this report, will likely 
+remain a key concern when it comes to balancing trade-offs around value creation, capture and 
+distribution,  particularly  recognising  the  role  of  the  individual  patient  and  private  sector 
+companies the data and processes that generate value.  
+                                                   
+74
+ For example, J. Powles	and	H.	Hodson,	“Google	DeepMind	and	healthcare	in	an	age	of	
+algorithms”,	Health	and	technology	7,	no.	4	(2017):	351-367. 
+75
+ P. Groves, et al., "The 'big data' revolution in healthcare: Accelerating value and innovation," McKinsey, 
+Center for US Health System Reform, Business Technology Office (2016). 
+
+ 
+The Value of Data / policy implications - 37 
+ 
+Policy issues and recommendations 
+ 
+There  are  substantial  barriers  to  the  increased  provision  of  shared  data.  These  include  the 
+challenge of funding public goods with their cost structure of high initial but low marginal costs, 
+and the trade off between wide availability of data and incentives to invest in its creation and 
+provision,  in  both  public  and  private  sector.  Furthermore,  the  benefits  created  by  additional 
+provision and sharing may be asymmetric, or costs may be imposed on the data holder in terms 
+of  loss  of  commercial  advantage  or  additional  risks.  There  are  also  significant  concerns  about 
+privacy.  Finally,  regulation  and  the  design  of  an  appropriate  institutional  framework  needs  to 
+address significant asymmetries of information and principal-agent problems. 
+Yet the potential economic benefits to society as a whole - not just a handful of commercial firms 
+- of further data sharing and use are large. The basic economic principles point to the scope for 
+gains  from  additional  data  provision and  sharing  if  privacy  concerns  can  be  overcome,  and  a 
+trustworthy institutional and regulatory framework established. The possibility of demonstrable 
+widely-shared gains will be a precondition for trustworthiness.  
+We have analysed the social welfare value of data seen through two lenses: its basic economic 
+characteristics (pp4-7) and its contextual, informational content (pp8-13): 
+  
+ECONOMIC LENS INFORMATION LENS 
+Excludability Subject 
+Externalities (pos and neg) Generality 
+Increasing/decreasing returns Temporal coverage 
+Option value Quality 
+High fixed, low marginal costs Sensitivity 
+Complementary investments Interoperability/linkability 
+ 
+Both lenses need to be applied to understand the value of data. They provide the questions to 
+be posed in thinking about the specifics of any given dataset.  
+Our  analysis  of  the  actual  and  potential  social  welfare - society-wide  economic  value - in  the 
+data economy underlines the following principles: 
+ 
+
+ 
+The Value of Data / policy implications - 38 
+ 
+ Market transactions alone will not bring about the maximum social welfare from data, 
+given  its  economic  characteristics  of  (positive  and  negative)  externalities  and  non-
+rivalry; 
+  
+ A more fruitful framing of the policy debate in order to generate increased social welfare 
+from data, fairly shared, will be in terms of access rights and privacy protection, rather 
+than ownership of personal data; 
+  
+ Appropriate  institutional  and  regulatory  structures  will  be  vital  for  a  thriving  data 
+economy, regulating the permissions different types of entity have to access different 
+types  of  data  and  monitoring  and  enforcing  compliance.  Work  on  the  principles  and 
+structures of data governance for the maximum social welfare is in its early days and 
+much  more  thought  needs  to  be  given  to  the  specifics  of  regulatory  and  institutional 
+design; 
+  
+ New, trustworthy institutional structures are needed to develop to enable access to data 
+in  ways  that  make  possible  the  creation  of  both  commercial  and  wider  social  value, 
+building on a range of approaches and pilots currently under way;  
+  
+ Policymakers should recognise that the legal and regulatory framework they establish 
+will affect both market and non-market values of data - the value of data is endogenous 
+to the institutional framework; 
+  
+ Additional approaches to quantified economic valuations, incorporating social welfare 
+beyond  private,  market-based  valuations,  have  limitations  but  will  help  improve 
+understanding of the transactions taking place, particularly involving publicly-held data 
+transactions  with  commercial  organisations.  In  domains  such  as  transport  and  health 
+there is currently no public confidence that the terms of the deals will benefit the public. 
+In addition to greater transparency, better understanding of data value is necessary; 
+  
+ There are significant policy trade-offs including: between creating adequate incentives 
+to invest in creating and maintaining data and related services on the one hand and the 
+social value of widely diffused use on the other; and, for public bodies, between short-
+term financial gain from selling exclusive data access to the private sector, and long-
+term economic and social gain from more open access; 
+  
+ Contracts for data use are incomplete, and the regulatory framework should recognise 
+this, particularly that schemes for sharing data in a regulated way change the returns on 
+investment in collecting and cleaning data, and in complementary skills and assets. The 
+institutional  and  regulatory  economics  literature  has  many  potential  lessons  for  data 
+regulation. 
+ 
+
+ 
+The Value of Data / policy implications - 39 
+ 
+The detailed work required to flesh out these principles is beyond the scope of this report. The 
+table below sets out some of the policy detail needing to be addressed: 
+ 
+Trade-off between investment/innovation and 
+open/shared data 
+Are there parallels with IP frameworks - patent pools - 
+or is this too complex? Compulsory licensing or 
+franchising? Co-production rights? Is legal title to 
+‘personal data’ sufficient for privacy or are there better 
+ways to protect privacy? 
+Lessons from regulatory economics literature. 
+Financing data provision Business models in the private sector; commercial 
+models in the public sector. What charging mechanisms 
+incentivise provision and also maximise social welfare? 
+Are co-operative models relevant? 
+Enabling competition & growth Codes of conduct applied to APIs (Application 
+Programming Interfaces); common technical standards 
+needed. 
+What privately-held data sharing needs to be 
+mandated? 
+Regulatory thickets Clearer guidance on sharing sensitive data (by public 
+and private sectors) - overcoming the fear of breach of 
+GDPR, fines. 
+Models for communicating data use and access rights 
+e.g. is there a parallel with simplicity of Creative 
+Commons licences? 
+Terms of trade in public sector deals Should public agencies ever grant exclusive licences to 
+data? Data sharing as a licensing requirement e.g. for 
+ride shares, smart city data, autonomous vehicles. Time 
+limited licences. Are there lessons from spectrum 
+auctions?  
+Greater transparency needed for trust. 
+Mandating data provision/sharing by the private or 
+public sector?  
+When is this needed? To what extent is Open Banking a 
+model - for big tech companies? For NHS? Should 
+public sector reference data all be open? 
+Institutions Good models/metaphors? Trusts, pools, platforms, pods. 
+What regulation/legislation is needed to establish a 
+trustworthy framework. What forms of accountability 
+are needed in both public and private sectors?  
+ 
+This  report  has  set  out  a  framework  for  thinking  about  how  to  increase  value - in  the  broad 
+economic sense of social welfare - in the data economy. Social welfare will be maximised by the 
+ability to use data involving positive externalities and new options (while minimising negative 
+
+ 
+The Value of Data / policy implications - 40 
+ 
+consequences with regard to privacy), or in other words by identifying the potential for joining 
+up data, creating new uses. The two lenses described here - economic characteristics (pp4-7) and 
+information characteristics (pp8-13) - help identify which types of data may prove most valuable, 
+and why - and also the potential risks. One of the key lessons from this report is that data is very 
+far from being homogeneous; seeing different data through our two lenses will help understand 
+variations in value. 
+One of the concerns about the data economy is that big incumbent companies might continue to 
+capture as private profit a large proportion of the value being created. They certainly have the 
+greatest capacity to undertake the investment and deploy the specialist skills needed. However, 
+preventing them from using data to provide valued services would be counterproductive. A more 
+effective way of bringing about a more even sharing of the economic welfare created by data use 
+would  be  the  direct  approach  of  using  competition  policy to  open  the  data-driven  markets  to 
+other providers. Thinking about the potential social welfare arising from the use of data requires 
+consideration of the distributional issues, and while this is beyond our scope here, the lenses and 
+trade-offs we describe offer a way to begin to think about who may benefit from different types 
+of  data,  and  about  the  potential  public  good  that  could  be  generated.  In  the  absence  of  an 
+appropriate policy framework, the benefits are likely to be distributed unequally.  
+This  requires  policies  addressing  the  challenges  described  in  this  report  in  a  systematic  way. 
+Considerable work is needed to fill out the details of the framework set out here. Four avenues 
+for future research and development work stand out.  
+ 
+ One is attempting quantification, as sketched out here, in some specific data domains; 
+models from financial economics may be useful, or further work on contingent valuation 
+approaches. 
+  
+ A second is translating the economic and information lenses into a practical toolkit or 
+decision tree, particularly for the use of public sector organisations. 
+  
+ Third is the need to develop trustworthy institutional structures with public legitimacy, 
+and to consider how this relates to the legal framework in different jurisdictions. 
+  
+ Finally, the challenges of regulatory and institutional design in a context of information 
+asymmetries, principal-agent problems and pervasive externalities are a problem that 
+the  large  body  of  work  in  institutional  and  regulatory  economics  ought  to be  able  to 
+address. 
+ 
+These latter two in particular will help address the distributional consequences of investment in 
+data and its uses.  
+In this report we have identified that there are substantial challenges to creating a thriving data 
+economy: 
+
+ 
+The Value of Data / policy implications - 41 
+ 
+● how to fund data as a public good, when it may need large up front investment 
+● how to incentivise investment in data  
+● how the benefits that do arise from using data should be fairly distributed 
+● how to compensate those who steward data for the costs and risks they take  
+● how to gain value from aggregated personal data while respecting people’s privacy 
+● how to ensure data can be linked and combined to create positive externalities 
+● how to keep options open for potential future uses of data 
+ 
+Meeting these challenges calls for a strategic approach to data policymaking. 
+ 
+ Incentivise investment without disincentivising sharing 
+There is a trade-off between wider access to data and incentivising investment in the 
+creation  of  data  and  services.  Exclusive  access  can  give commercial  advantages. 
+Policymakers should re-examine existing legislation on intellectual property rights for 
+data and consider other approaches such as time-limited exclusive rights, patent pools 
+or compulsory licensing. 
+  
+ 
+ Limit exclusive access to public sector data 
+Selling exclusive data access to public sector data provides a short-term financial gain 
+but  more  open  access  will  usually  provide  greater  long-term  benefits.  Policymakers 
+should explore when exclusive access to public sector data is lawful and necessary. They 
+should build confidence that deals involving public sector data will benefit the public, 
+develop financial models that enable different types of users to access the data, and be 
+transparent about commercial deals. 
+  
+ 
+ Use competition policy to distribute value 
+Big incumbent companies currently capture a large proportion of the value of data as 
+private  profit.  They  can  invest  in  collecting  and  using  data  and  in  specialist  skills. 
+However,  preventing  them  from  using  data  to  provide  valued  services  would  be 
+counterproductive.  We  recommend  using  competition  policy  to  open  data-driven 
+markets to other providers. 
+  
+ 
+ Explore mandating access to private sector data 
+Policymakers  should  examine  areas  where  mandating  access  to privately  held  data 
+could enable innovation, competition and growth in priority policy areas. Public bodies 
+should  explore  increasing  access  to  data  through  procurement  contracts  and  when 
+issuing licences to operate services. Regulators should support and instigate initiatives 
+that standardise access to data, as they have with Open Banking. 
+  
+
+ 
+The Value of Data / policy implications - 42 
+ 
+ Provide a trustworthy institutional and regulatory environment 
+The value data has is dependent on the environment in which it exists. Institutions are 
+needed  to regulate  who  has  access  to  data,  monitor  impact,  and  enforce  compliance 
+with   regulation,   technical   standards   and   codes   of   conduct.   The   Information 
+Commissioner’s  Office,  sector-specific  regulators,  professional  bodies  and  industry 
+associations all have a role to play. New data institutions may also be needed to create 
+wider commercial and social value from data. 
+  
+ 
+ Simplify data regulation and licensing 
+Complex   and   overlapping   regulation   and   intricate   licensing   schemes   create 
+uncertainties  that  hold  back organisations  from  using  and  sharing  data.  Existing 
+regulation should be simplified, new regulation should be coherent, and clear guidance 
+should be provided. 
+  
+ 
+ Monitor impacts and iterate 
+Changing  the  institutional  and  regulatory  environment  for  data  will  also  change  the 
+return  on  investment  for  collecting  and  cleaning  data,  and  in  the  skills,  software  and 
+other  resources  etc  that  help  organisations  make  the  most  of  data.  These  knock-on 
+effects should be monitored. Experimentation in sectors or regions is useful for building 
+evidence of what works. 
+ 
+The  precautionary  principle  is  often  applied  when  there  are  unknown  future  risks.  In 
+data  policy,  where  there  are  unknown  future  opportunities, we  would  argue  an 
+optionality principle should also apply. As the UK develops its National Data Strategy 
+and makes investments in data, the data economy and AI, it should create the conditions 
+for  greater  access,  sharing  and  use  of  data,  within  a  framework of  regulation  and 
+trustworthy institutions. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+The Value of Data / policy implications - 43 
+ 
+Note on Methods 
+ 
+This report is based on: 
+13 semi-structured interviews, transcribed, and then coded using MaxQDA Qualitative Analysis 
+Software, and a coding scheme based on the project design plus axial coding to highlight 
+additional relevant insights (p44); 
+Three workshops with our advisory group (p44); 
+Feedback on the interim report from discussants and conference participants in a session on 
+data at the American Social Science Associations annual conference in San Diego, January 
+2020; 
+A literature review, available on the Valuing Data project page. 
+Our own analysis of the economic and information characteristics, drawing on large bodies of 
+relevant literature. 
+ 
+  
+
+ 
+The Value of Data / policy implications - 44 
+ 
+Advisory group members 
+ 
+Azeem Azhar, Exponential View 
+Joshua Ballantyne, DCMS 
+Claire Craig, Queens College, Oxford 
+Catherine Dennison, Nuffield Foundation 
+Ray Eitel-Porter, Accenture 
+Jonathan Haskel, Bank of England MPC 
+Herman Heyns, Anmut 
+Richard Heys, ONS 
+Ed Humpherson, Office of Statistics Regulation 
+Frank Kelly, University of Cambridge 
+David Knight, DCMS 
+Rannia Leontaridi, BEIS 
+Wendy Li,  US Bureau of Economic Analysis 
+Stephen Lorimer, Greater London Authority Sergi Martorell, glass.ai 
+David Nguyen, NIESR 
+Reema Patel, Ada Lovelace Institute 
+Charles Price, HM Treasury 
+Marshall Reinsdorf, IMF  
+Chris Riley, Mozilla Foundation 
+Eric Salem, Office for Life Sciences 
+Interviewees  
+ 
+Andrew Dilnot, Nuffield College, University of Oxford 
+Herman Heyns, Anmut 
+Richard Heys, ONS 
+Frank Kelly, University of Cambridge 
+Derek McAuley, University of Nottingham 
+Sergi Martorell, glass.ai 
+Richard Mortier, University of Cambridge 
+Eric Salem, Office for Life Sciences 
+Tom Smith, Data Science Campus, ONS 
+John Taysom, Privitar 
+Paul Taylor, UCL Institute for Health Informatics 
+Patrick Vallance, Government Chief Scientific Officer 
+Hal Varian, Google 
+
+ 
+The Value of Data / policy implications - 45 
+ 
+ 
+In  addition  to  our  advisors  and  interviewees,  we  are  grateful  to  the  following  people  for  their 
+helpful  comments  and  discussions:  Vasco  Carvalho,  Jennifer  Cobbe,  Bill  Janeway,  Brian  Kahin, 
+Michael Kenny, Louise Sheiner, and participants at a discussion hosted by Anmut.  
+ 
+ 
+ 
+We are grateful to the Nuffield Foundation for funding this project, Valuing Data: Foundations 
+for Data Policy under grant number WEL/43956. 
+The Nuffield Foundation is an endowed charitable trust that aims to improve social well-being 
+in  the  widest  sense.  It  funds  research  and  innovation  in  education  and  social  policy  and  also 
+works to build capacity in education, science and social science research. The Nuffield Foundation 
+has  funded  this  project,  but  the  views  expressed  are those  of  the  authors  and  not  necessarily 
+those of the Foundation. More information is available at www.nuffieldfoundation.org. 
+ 
+ 
+  
+
+ 
+ 
+About the Bennett Institute for Public Policy 
+The Bennett Institute for Public Policy, established in 2018, conducts high-level academic and 
+policy research, as well as expanding the portfolio of public policy education and training 
+offered at the University of Cambridge. The institute aims to become a world-leader in 
+achieving successful and sustainable solutions to some of the most pressing problems of our 
+time. bennettinstitute.cam.ac.uk 
+About the ODI 
+The Open Data Institute is an independent, non-profit, nonpartisan company headquartered in 
+London. The ODI was co-founded in 2012 by the inventor of the web Sir Tim Berners-Lee and 
+Artificial Intelligence expert Sir Nigel Shadbolt to advocate for the innovative use of data to 
+affect positive change across the globe. The ODI works with companies and governments to 
+build an open, trustworthy data ecosystem, where people can make better decisions using data 
+and manage any harmful impacts. theodi.org 
+About the Nuffield Foundation 
+The Nuffield Foundation is an independent charitable trust with a mission to advance social 
+well-being. It funds research that informs social policy, primarily in Education, Welfare, and 
+Justice. It also funds student programmes that provide opportunities for young people to 
+develop skills in quantitative and scientific methods. The Nuffield Foundation is the founder 
+and co-funder of the Nuffield Council on Bioethics and the Ada Lovelace Institute. The 
+Foundation has funded this project, but the views expressed are those of the authors and not 
+necessarily the Foundation. nuffieldfoundation.org 
+ 
+ 
+The Bennett Institute for Public Policy 
+Department of Politics and International Studies 
+Alison Richard Building 
+7 West Road 
+Cambridge, CB3 9DT 
+ 
+ 
+ 
+ 

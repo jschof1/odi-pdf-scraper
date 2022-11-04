@@ -1,0 +1,726 @@
+
+
+
+
+Contents
+Contents
+Why should we map data ecosystems?
+Example ecosystem map
+Methodology
+Defining the goal of mapping the data ecosystem
+Mapping your data ecosystem
+Writing up and improving your map
+Next steps
+Additional tips for facilitators of data ecosystem mapping
+Running a workshop
+Before the workshop
+During the workshop
+Running interviews
+How to provide feedback on the methodology
+Who to contact for more information
+Appendix 1: Example ecosystem maps
+Example 1: Transport for London release of transport data
+Example 2: Leeds Bins app
+Example 3: School energy-saving application
+Example 4: The role of sharing data in supply chain optimisation
+Example 5: Public health data challenge ecosystem for snakebite
+Example 6: The FCA Digital Sandbox
+Appendix 2: Further reading
+Related tools
+Open Data Institute v2, updated in April 2022 / Mapping data
+ecosystems
+This text is licensed under a Creative Commons
+Attribution ShareAlike 4.0 – International License
+How can it be improved?We welcome feedback and
+comments.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems2
+
+Why should we map data
+ecosystems?
+Data infrastructureis made up of data assets, standards,technologies, policies and
+the organisations that steward and contribute to them.
+Astrong data infrastructurewill be as open as possibleand designed to benefit
+everyone. It will support an ecosystem of organisations that collaborate to ensure
+that the infrastructure issustainably funded, istrusted and trustworthyand
+maximises the creation ofvalue from its data assets.
+Data infrastructure can be hard for people to visualise and understand. We need
+tools to help us understand how data is being accessed, used and shared across
+organisations and communities.
+A data ecosystem consists of all the people, communities, and organisations that
+are stewarding data, creating things from it, deciding what to do based on it,
+influencing any of those activities, or are affected by any of those activities. A data
+ecosystem map illustrates the data and other value exchanges in an ecosystem.
+Creating a map of a data ecosystem can help us to understand and explain where
+and how the use of data creates value. It can help to identify the key organisations
+collecting, stewarding and using data, the relationships between them and the
+different roles they play. Representing ecosystems in detailed maps can be
+particularly useful when contexts are complex, not well understood or not yet fully
+developed.
+A data ecosystem map can be used to describe how data is being shared across
+The Data Spectrum. A map can show how open data isbeing used to deliver a
+service, or how data is beingshared in more limitedways, for example, to enable
+access to personal data to support research, or internally within an organisation, or
+between a specific group of stakeholders.
+There are benefits to be gained not only from having a map of a data ecosystem,
+but also from the process of drawing it.
+Mapping requires you to consider different people, organisations, relationships and
+ideas in the system, and can generate useful insights and talking points. As a
+collaborative process it can build understanding of a data ecosystem across
+different stakeholders. The end product is useful as a communication and planning
+tool to support engagement and implementation of a data project across the data
+ecosystem.
+Data ecosystems can be mapped to support different objectives. Primarily we see
+this tool used to map an ecosystem that describes the data and value flows in a
+particular sector, place (country, city, etc.) or around a particular challenge that
+needs to be solved (for example climate change), with the aim to improve the
+ecosystem to solve common challenges, including business or societal challenges.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems3
+
+We also see ecosystem mapping around the data held or used by a single
+organisation with the goal of improving an organisational strategy to use and share
+data within its wider ecosystem. For these objectives and potential others, the
+following methodology will provide useful guidance all the same.
+We have found that creating data ecosystem maps of existing systems can help to:
+●
+develop a shared understanding of the variety of ways in which participants
+currently create value from data
+●
+identify gaps and opportunities to improve the data ecosystem by creating
+additional value and ensuring the ecosystem distributes value equitably
+●
+identify the potential impacts of changing how data is accessed, used and
+shared
+●
+identify the potential users and communities who might benefit from the
+creation of new data infrastructure in a sector
+●
+clarify roles and responsibilities to help improve an ecosystem
+●
+help adopt best practices such as:
+○
+identifying where standards could add value and support data flows
+○
+setting up organisations to steward data on behalf of others, such as
+data institutions
+○
+implementing innovation schemes to foster data use and support a
+new group of data users
+●
+support engagement, eg by identifying key stakeholders
+We have also found that the benefits of mapping data ecosystems can vary
+depending on the organisations involved. For example:
+●
+Businesses can look to see how data can improve services or reduce costs,
+benefitting their bottom line, or to plan and communicate the impact of their
+environmental, social and governance efforts.
+●
+Charities, nonprofits and academia can map data ecosystems of their
+problem or research area to understand who else is working on the
+problem, find partners and funding sources, and plan their own use of data
+●
+Government agencies, public bodies and regulators can use data
+ecosystem mapping to find efficiencies in internal operations, understand
+how end users are receiving value from services, or plan data infrastructure
+interventions
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems4
+
+Example ecosystem map
+Here is an example of a data ecosystem map that we have developed at the ODI.
+An ecosystem map can be a quick sketch or a more polished illustration.
+UsingKumu, we have mapped the data ecosystem forOpen Climate Fix, a
+not-for-profit research and development lab that focuses on tackling climate
+change, to improve forecasting for the generation of electricity from solar energy
+sources.
+This diagram shows how individual organisations often don’t have all the data
+necessary to address a problem. But working together to collect, share and use
+data can help to grow markets, improve decision making and adapt to changing
+environments.
+A data ecosystem map is able to illustrate:
+●
+data assets that are being accessed, used and shared
+●
+relationships and roles of the various people, organisations and technologies
+involved in the ecosystem
+●
+flows of value besides just data, including insights, money, and products
+and services.
+●
+opportunities to improve the data ecosystem through changes in the data
+infrastructure such as creating adata institutionor launching adata access
+initiative.
+For a short video tutorial on mapping data ecosystems, our free webinar ‘Data
+ecosystem mapping: plotting the journey from data to value for your business’ is
+available online. Please note this webinar is publicly available but is not openly
+licensed. Registration is required to access the recorded webinar.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems5
+
+The PassivSystems and Open Climate Fix data ecosystem
+BysharingPVcelldatawithOpenClimateFix,PassivSystemsaimstoreceiveinsightson
+howtobemoreenergyefficient,makingrenewableenergyfinanciallysustainable.Explorethe
+map here.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems6
+
+Methodology
+There are different ways to map out your data ecosystem, each of which has
+benefits and drawbacks, but this works best as a collective exercise, enabling
+knowledge sharing and collaboration:
+●
+On your own, or with some colleagues
+If you have a good knowledge of the data flows in an ecosystem, you can
+use this methodology by yourself – all you need is a pen and paper, or digital
+drawing software. This can be especially useful when it is difficult to get
+participants together. The drawbacks of this are that it is harder to verify
+whether your drawing is an accurate representation of the data flows. One
+way to overcome this is to share the map you create with other stakeholders
+in the ecosystem as a starting point for discussion, and then use their
+comments and queries as a way to explore the ecosystem in more detail.
+●
+In a workshop setting
+If you can bring together a group of three to 10 people who are involved in
+different areas in the ecosystem, and have facilitators in the room, you can
+draw the ecosystem map together in a workshop setting. Ideally, you will
+need one to two hours of workshop time to draw the ecosystem map, with
+two to three rounds of written follow-up after the workshop to develop a
+shareable ecosystem map.
+●
+Online
+If you are unable to convene a group in-person, data ecosystem mapping
+still works very well online. Similarly to a workshop, gather no more than 10
+people from different roles to create a digital map. This can be done via
+collaborative drawing programmes, or with a mapper screen sharing to get
+input from the team. It is best to have video conferencing capabilities to
+make the setting more comfortable and dynamic.
+We loosely follow the methodology ofrich picturing.This means that your drawings
+don’t have to follow a set structure or format, but they should contain as much
+detail as you think you need to understand the ecosystem. Maps can get very busy,
+very quickly, once you start drawing out the ecosystem, so we suggest focusing on
+the main value exchanges in a specific use case rather than trying to be completely
+comprehensive (at least at first).
+If you are starting this exercise without a strong understanding of the important
+stakeholders and relationships, you can begin by selecting key stakeholders that
+you know have involvement or interest in your use case and conduct interviews with
+them.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems7
+
+Defining the goal of mapping the data ecosystem
+Identify the problem/process/opportunity/use case you want to understand
+Be clear about what the outcome of the ecosystem mapping exercise should be.
+This can be understanding an existing ecosystem or considering how an ecosystem
+might change, for example if new data was available. A useful tip is to clearly define
+the scope of the exercise to a particular use case and start from there. By having
+clarity before you start, you’ll be able to capture all the relevant information with the
+right level of detail. It could be helpful to frame this in the form of a question, such
+as: “What data do I need to build a forecasting model for solar availability in the
+UK?” or “How can I leverage existing data infrastructure in the sector to reach new
+users of my service?”. Be as clear as possible.
+Mapping your data ecosystem
+Before you start
+Make sure you have the right supplies
+You do not necessarily need anything specific when drawing out an ecosystem map
+by yourself or with others – you could draw it in a notebook or use a drawing
+package. If you are drawing with a few people you may find it easier to use bigger
+paper or a whiteboard, with different coloured pens and/or sticky notes. You can
+use online tools like Miro, Google Jamboard and kumu.
+We have created adata ecosystem toolwhich can bedownloaded and printed at
+home as both anA1 fold to A5, and as anA4 in English,FrenchandGerman, to
+help organise your mapping activities.
+Map the actors and technologies
+Start with the part of the ecosystem you know best
+As you draw, start with the part of the ecosystem you know best. We recommend
+thinking about the most relevant organisations to your use case, including your own.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems8
+
+Using sticky notes or drawing circles, plot all the people, organisations or services
+that are linked in some way to the data. It may help to think of the organisations and
+groups you need data from, partner with, are supplied by or you provide services to,
+as there are likely data flows in that relationship. Stay with very specific examples as
+it encourages the representation to be realistic.
+Think about:
+●
+“What role does your organisation play?”
+●
+“Who are your users, customers, suppliers, service providers and partners?”
+●
+“Who are the relevant actors from the public, private or third sectors?”
+●
+“Where does data innovation – the creation and application of new
+knowledge to improve the world using data – take place in the ecosystem?”
+●
+“Who else plays a key role in governing access, use or sharing of data in
+your ecosystem?”
+Our example ecosystem map includes a variety of different actors, including data
+providers,data intermediaries, service providersand customers.
+Map the ‘formal’ value exchanges
+Now that we have some of the actors, we’re going to start mapping the flows and
+exchanges in the ecosystem. Start with the data that is shared or used by different
+actors, drawing lines and adding labels to indicate what data is being shared or
+used. What types of value are these data flows powering? Draw similar lines for
+exchanges of services and money.
+Think of other types of exchange. Do the actors within the ecosystem provide
+documents, services or physical goods? Is there an exchange of money, eg fees for
+services? Add additional arrows for each of these to populate your map.
+Think about:
+●
+“What data does your organisation and other organisations access, use and
+share?”
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems9
+
+●
+“How is data shared? (eg via downloads, APIs, portals...)”
+●
+“Is data shared reciprocally?”
+●
+“Who is funding what? What services are being provided?”
+Tangible value could include:
+●
+Data– Which datasets are you mapping? What is thesource?
+●
+Reports and documents – Are there relevant reportsand documents that
+support the data ecosystem?
+●
+Physical goods– Are there physical goods associatedwith the data
+ecosystem?
+●
+Services– What services are relevant to the dataecosystem? Eg transport,
+bank accounts etc.
+●
+Money– Are there fees or charges related to the dataand its storage or
+sharing?
+●
+Certificates– What certification relates to the dataecosystem? Eg data
+licences, operating licences or safety certificates.
+In our example ecosystem map, PassivSystems provides data on solar panel use to
+Open Climate Fix through academic partner University of Sheffield. Open Climate
+Fix also ingests data from EUMETSAT and OpenStreetMap to provide its software
+services to National Grid.
+Services and money are exchanged throughout the ecosystem between customers
+and various companies in the energy sector supply chain, including solar panel
+provider PassivSystems, as well as energy suppliers and regional system operators.
+Draw these connections and continue with the organisations or teams you interact
+with, including those involved in a process before and after, focusing on how data is
+used across the ecosystem. Add different actors one by one and add lines to
+connect them, specifying the relationship between them and adding arrows for
+direction whenever possible.
+Aim to capture the actors involved and how they collaborate, the types of data
+used, the role of standards and the flow of funding, if relevant. Using symbols and
+icons can make it easier and more intuitive to follow. Use different coloured markers
+for different flows, such as data and money. It can be useful to define how data is
+shared across the ecosystem according to theDataSpectrum, describing when
+data is being published under an open licence or being shared in more restrictive
+ways.
+If you make any assumptions, or there are important points around the narrative or
+storyline of the ecosystem, add these to the map as you go – they will be helpful
+when writing up your ecosystem later!
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems10
+
+Map the ‘soft’ value exchanges
+Data supports decision-making with insight and knowledge. Organisations can
+support each other with advice or feedback.
+Add these less tangible types of value exchange to your map. It will help you
+understand more about the connections and relationships between organisations.
+We suggest using different dotted lines to distinguish them.
+Think about:
+●
+“What insights and advice do your organisation and others need, use and
+share?”
+●
+“How is intangible value shared? (apps, email, etc.)”
+●
+“What networks is your organisation and others connected to?”
+●
+“What policies and regulations does your organisation adhere to?”
+‘Soft’ value could include:
+●
+Insights– The insight gained from the data ecosystem,for example when
+to travel, or how to manage a budget.
+●
+Knowledge– Are there knowledge networks that wouldbe useful to note?
+For example, a professional network or community of enthusiasts
+●
+Support– What support is required to help maintainthe data infrastructure?
+This could be financial or structural.
+●
+Feedback– What feedback mechanisms are used withinthe data
+ecosystem?
+●
+Advice– What advice do actors within the ecosystemprovide?
+●
+Network– Is there a wider network associated withthe data ecosystem?
+●
+Policy– What policies relate to the data or otherassets within the data
+ecosystem?
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems11
+
+In our example ecosystem map, Open Climate Fix shares insights generated from
+machine learning analytics with academic partner University of Sheffield, data
+provider PassivSystems, and strategic ecosystem partner National Grid.
+Note on ‘traditional knowledge’:
+Traditional knowledge, indigenous knowledge and local knowledge generally refer to
+knowledge systems embedded in the cultural traditions of regional, indigenous, or
+local communities. According to the World Intellectual Property Organization and
+the UN, traditional knowledge and traditional cultural expressions are both types of
+indigenous knowledge. The differentiation between ‘formal’ and ‘soft’ value
+regarding data vs. traditional knowledge may not be helpful in this context, and may
+indeed be harmful by replicating colonial logics of ‘Western scientific knowledge’ as
+superior to ‘traditional knowledge’.
+Find opportunities
+Now you have your ecosystem mapped out, what does it tell you? How does value
+flow in the ecosystem? Are there potential future opportunities to share value in
+other ways, for example, to make data more open or to offer new kinds of support?
+You can draw those onto the ecosystem map in a different colour or style.
+Think about:
+●
+“Where are there blockers to data access or where is data being shared
+inefficiently that improvements to the data infrastructure could address?”
+●
+“What data is your service missing that would have a big impact on your
+stakeholders?”
+●
+“Are a lack of data standards inhibiting use of existing data in the
+ecosystem?”
+●
+“Are there blockers to data sharing that could be addressed by setting up
+independent organisations to steward data on behalf of others?”
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems12
+
+Below are some potential future opportunities you could consider:
+●
+Improving data flow– What methods could be used toimprove data flows
+between actors in an ecosystem?
+●
+Identifying impacts– What are the impacts of changinghow data is
+accessed, used and shared?
+●
+Creating new benefits– Which potential users andcommunities could
+benefit from new data infrastructure in a sector?
+●
+Creating new standards– Where could data standardsadd value and
+bring clarity to the ecosystem?Tip:standards.theodi.orghas a helpful guide.
+●
+Finding new stakeholders– Which new stakeholdersshould be involved?
+For example people or organisations who would be needed to help create a
+new data standard.
+Note:The ecosystem map will inevitably become messy,as no formal structure is
+followed. This is not a problem and in fact allows you to capture as much
+information as possible.
+Our example ecosystem map shows the potential new and improved value that can
+be provided to the energy sector if Open Climate Fix has access to necessary data
+for its solar forecasting services. This helps potential partners, funders and end
+users understand the impact Open Climate Fix’s plans could have to help
+decarbonise the UK.
+Writing up and improving your map
+This section is relevant whether you are creating an ecosystem by yourself, with a
+couple of people, or through a workshop setting.
+Write up narrative
+Once you have finished drawing the ecosystem, it can be useful to write up the
+narrative in text in a few paragraphs (maximum of two pages), based on the
+ecosystem map and the narrative notes. If you ran a workshop, or created the map
+with others, share the write-up and picture of the ecosystem map with the relevant
+stakeholder contacts so they can review the content, add any missing information,
+or clarify questions.
+Share the ecosystem map
+While you might create an ecosystem to help your own understanding of value
+flows, sharing this more widely with others can help to clarify whether the maps are
+accurate and explain how processes work. This can include other actors involved in
+the process, to challenge assumptions and help you arrive at a more accurate
+picture. It can also include external stakeholders who may benefit from
+understanding the ecosystem. It can be useful to print the ecosystem maps on
+posters to encourage discussion.
+Design ecosystem map using tools and icons
+If the ecosystem map is to be shared with a wider audience, a cleaner and more
+intuitive design may be useful. Be aware that a very “finished” look may discourage
+people from challenging the maps, so we recommend creating and sharing less
+polished ecosystem maps, to encourage discussion. Make sure to explain the
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems13
+
+scope of the ecosystem, the purpose of mapping it, the narrative behind it, and
+clearly label the icons, arrows and other drawings you have used. Useful tools
+includeKumu,draw.io, andMiro.
+Returning to your map after some time to look at it with fresh eyes can help bring
+greater clarity or important additional information to your map that you may have
+missed the first time. This can be especially helpful if you have not shared your map
+with others yet.
+Next steps
+Once your ecosystem map is finalised, you have various possibilities to make it as
+useful and as up to date as possible.
+The data ecosystem map can be used to drive different types of actions:
+●
+Improve understanding of an ecosystem
+○
+Help people understand an ecosystem, where change may be
+required, and what effects changes might have
+●
+Explore new partnerships
+○
+Identify where an organisation sits in an ecosystem, and identify who
+to collaborate directly with for organisational/ecosystem change
+○
+Identify where an individual or an organisation is required to take
+action to enact a desired change in the ecosystem
+●
+Access or share data
+○
+Find new sources of data to improve internal operations
+○
+Tap into existing data flows to develop new products, services or
+policies, or improve existing ones
+○
+Use the map to help you understand how you can share data to
+solve industry or broader societal challenges
+●
+Improve services, projects or policies
+○
+Inform a project that is building a data-enabled service
+○
+Identify where initiatives or projects are repetitive, where gaps are,
+and how to reach better impact through wider initiatives
+●
+Increase impact
+○
+Identify long term impact of data and value exchanges on a whole
+ecosystem
+○
+Contribute to wider societal impact creation
+Data Ecosystem Mapping can be used as a step in a broader process of
+understanding the data landscape in a particular sector, place or around a societal
+or business challenge. It is featured as thesecondplayin the ODI’sData
+Landscape Playbook. The Data Landscape Playbook supportsorganisations
+working on data access initiatives, helping them tackle common challenges by
+conducting a ‘data landscape review’ - a broad range of activities that we know will
+help organisations launching data access initiatives understand better the context
+they operate in, and the ways they can use data most effectively.
+Following the Playbook, other next steps that you can take after mapping your data
+ecosystem include:
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems14
+
+●
+Conductingdata ethicsassessments around the use cases that have been
+mapped, or regarding some of the identified connections
+●
+Creatingdata inventoriesto understand what relevantdata is currently being
+collected, shared or managed
+●
+Adopting or buildingopen standards for data, so thatdifferent organisations
+within an initiative or across a sector can interoperate better
+●
+Designinglogic modelsto help initiatives move frominitial inputs and
+activities to the ultimate impact they are trying to achieve
+When working on new initiatives based on an ecosystem map, be aware that this
+map may need to be updated in the future. It may be useful to check if new
+stakeholders or new exchanges have emerged.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems15
+
+Additional tips for facilitators of data ecosystem
+mapping
+Running a workshop
+Before the workshop
+Identify people who could contribute
+Get a range of different stakeholders from across the data ecosystem in the room or
+online to ensure a balanced perspective of processes and links. If that is not
+possible, do not worry – even a few people can produce a useful ecosystem map.
+The table in the scoping section lists some of the likely roles.
+Note:Be aware of the political context and the environmentyou are working in. In
+certain situations, for someone to publicly declare in a workshop that a certain
+organisation/stakeholder is managing their data badly or is refusing to share could
+be difficult. The facilitation of the workshop needs to reflect this particular context,
+making it possible for people to share their knowledge in a safe environment.
+Prepare the workshop
+To run your workshop you will need:
+a.
+ideally, two facilitators to guide the workshop – Facilitator 1 should
+explain the methodology, ask questions and draw the map.
+Facilitator 2 sense-checks the answers given, asks additional
+questions and captures the narrative alongside the drawing. If you
+only have one facilitator, we suggest:
+i.
+recording the workshop and listening to it afterwards to
+make sure the narrative around the ecosystem map is
+captured;
+ii.
+asking members of the group to take notes on sticky notes
+as you go through the exercise
+b.
+participants from across your data ecosystem
+c.
+a big enough room, with a whiteboard and different coloured
+markers (it works best if drawings can be erased and corrected
+during the workshop), or a suite of products that ideally allows for
+videoconferencing (possibly with breakout rooms), presenting slides,
+and collaborative drawing.
+d.
+sticky notes and pens
+During the workshop
+Explain the process (15 mins)
+Introduce everyone, explain what the goal of the workshop is, give a short
+introduction to ecosystem maps, explain to stakeholders that they are here to draw
+the ecosystem map together. Answer any questions.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems16
+
+Draw the ecosystem map (30–90 mins)
+Facilitator 1: Start by asking participants about what they know, typically about their
+organisations, or the service they are trying to better understand. We recommend
+following the previous steps. Start with the most relevant actors and data
+exchanges and then add applications and related value flows such as services and
+funds. In our experience, it works best to use a very specific example that most
+participants are familiar with, as it encourages the representation to be realistic.
+Suggested questions:
+●
+“What role does your organisation play in the data sharing ecosystem?”
+●
+“What data do you need?”
+●
+“What data do you use?”
+Draw them on the whiteboard and then continue with the organisations or teams
+they interact with, including those involved in a process before and after, focusing
+on how data is used across the ecosystem. Add different players one by one and
+add lines to connect them, specifying the relationship between them and adding
+arrows for direction whenever possible.
+Suggested questions:
+●
+“Who provides the data, how do you access it?”
+●
+“What data do you release, who uses it and for what?”
+●
+“Is data shared reciprocally, what value is exchanged for data? (for example
+services or subscription fees)”
+Aim to capture the actors involved and how they collaborate, the types of data
+used, the role of standards and the flow of funding, if relevant. Using symbols and
+icons can make it easier and more intuitive to follow – for example, labelling data
+exchanges in some way to add a bit more context, perhaps by using thicker lines
+for key data exchanges, or a marker to indicate open (versus shared or closed) data
+sharing, or using different coloured markers for different flows, such as data and
+money. It can be useful to clearly define how data is shared across the ecosystem
+according to theData Spectrum.
+Suggested questions:
+●
+“What format is data released/used in?”
+●
+“Are there any data standards in place?”
+●
+“Who is funding what?”
+Encourage stakeholders in the room to clarify anything you do not understand, to
+add detail or to correct anything that is misrepresented, by asking them questions.
+It will be more difficult to remember details after the workshop. Go through the list of
+actors and flows defined in step 4 to make sure you cover the most relevant
+aspects.
+Note:The ecosystem map will inevitably become messy,as no formal structure is
+followed. This is not a problem and in fact allows you to capture as much
+information as possible.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems17
+
+Capture the storyline (30–90 mins, in parallel to drawing the ecosystem)
+Facilitator 2 (if present): As the ecosystem map is drawn, use the sticky notes or
+online tools to capture the storyline. Write down in as much detail as possible the
+process and relationships explained on the ecosystem map. Encourage
+stakeholders in the room to clarify anything that is unclear, to add detail or to correct
+anything that may be misrepresented, by asking them questions. Go through the list
+of actors and flows to make sure you cover the most relevant aspects.
+Information may not be provided in a chronological or structured way, so moving
+sticky notes around as needed will help you to capture the explained process as
+accurately as possible.
+Cross-check that content was captured correctly (15 mins)
+Facilitators 1 and 2: Summarise the explained process using the ecosystem map
+and storyline back to the participants and check that it was captured correctly. Take
+note of anything that was misunderstood and note down any areas where follow-up
+is needed after the workshop. If ecosystem mapping in person, take pictures of the
+ecosystem map and notes; the appsTiny ScannerandPost-it Pluswork well. We
+recommend sharing photos and online drawings with participants for transparency.
+Identify one of the stakeholders from each part of the ecosystem to be the contact
+person for follow-up questions.
+Running interviews
+If you are having trouble organising a workshop, you can also get useful information
+from a few interviews with subject matter experts to get a better sense of the
+ecosystem. You should try and interview people with different perspectives on the
+ecosystem, as you would have in a cross-functional workshop.
+You can begin by using thisinterview templatewhichoutlines some questions that
+may help you obtain useful information from your interviewee. Not all of the
+questions may be relevant and the order of questions may need to be switched
+based on how the interview is progressing. After the first interview, you may have
+some further contacts and information in order to progress.
+How to provide feedback on the methodology
+We are looking for feedback on how this tool works for you. In particular, we are
+keen to learn more about:
+●
+thoughts on the methodology we have outlined and how we can improve it
+●
+how the tool is being used in different contexts and countries
+●
+how useful do people find the tool, and where we can improve it
+●
+different (physical or online) tools people can use to design their ecosystems
+●
+different examples of ecosystem maps you have created
+Please leave comments on this document, or send any other feedback you
+have tofeedback@theodi.org
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems18
+
+Who to contact for more information
+Contactbizdev@theodi.orgto discuss how the ODI canhelp you understand the
+ecosystems you are part of, as well as how our other tools can support you to use
+data better.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems19
+
+Appendix 1: Example
+ecosystem maps
+Example 1: Transport for London release of
+transport data
+This is a polished example of an ecosystem map. It is based on a case study
+described in our report onusing open data for publicservices.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems20
+
+Example 2: Leeds Bins app
+This is a sketch of the data ecosystem that exists around the Leeds Bins app.
+Similarly to the TfL example, it is based on a case study described in our report on
+using open data for public services.
+Example 3: School energy-saving application
+This map illustrates the data ecosystem that supports an application that helps
+schools to be more energy efficient. This map has beendrawn using Kumu.ioto
+make it easier to explore online.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems21
+
+Example 4: The role of sharing data in supply chain
+optimisation
+BysharingengineeringdatasecurelyacrosstheAPROCONEplatform,Airbusis
+significantlyreducingtimespentinthedesignprocess,optimisingthesupplychain
+and reducing costs.Explore the map here.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems22
+
+Example 5: Public health data challenge ecosystem
+for snakebite
+A data ecosystem map showing how combining existing data on snakebite
+incidence and envenoming with related data such as climate, ecology, and
+urbanisation could help better predict the level of snakebite incidence and
+envenoming and the resources that need to be allocated for snakebite
+management.Explore the map here.
+Example 6: The FCA Digital Sandbox
+A data ecosystem map showing how the Digital Sandbox innovation platform uses
+synthetic data, expert advice and code testing technology to help FinTechs improve
+their product offering, thus providing better value to their customers.Explore the
+map here.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems23
+
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems24
+
+Appendix 2: Further
+reading
+Related tools
+●
+TheData Landscape Playbookcan help you understandthe wider context
+of the ecosystem you are mapping, and provides tools to support a data
+access initiative.
+●
+TheData Ethics Canvashelps identify and manage ethicalissues at the start
+of a project that uses data, and throughout, and can help mitigate risks
+identified in the data ecosystem map.
+●
+TheSustainable Data Access Workbookhelps organisationsthat steward
+data to make better decisions about their revenue models to improve their
+data ecosystem.
+●
+TheTrustworthy Data Stewardship Guidebookhas beencreated to help
+organisations assess, build and demonstrate both their trust and their
+trustworthiness amongst other stakeholders in the data ecosystem.
+●
+TheData and Public Services Toolkithelps peopledesigning and delivering
+public services to use data more effectively to improve their data ecosystem.
+Open Data Institute v2, updated in April 2022 / Mapping data ecosystems25

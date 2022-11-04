@@ -1,0 +1,1194 @@
+
+
+Open data in government: how to bring about change | Open Data Institute 20151
+
+Open data in government: how to bring about change | Open Data Institute 20152
+
+Open data in government: how to bring about change | Open Data Institute 20153
+Executive summary 
+Governments around the world are increasingly looking for ways to harness the potential of open 
+data for improved policy-making, and social, economic and environmental benefit. A lot of work 
+has been done to familiarise governments with open data and help them to publish open data. 
+There has been less focus on the longer-term process of embedding open data as standard 
+practice and how that might happen. Ensuring your open data initiative is sustainable is 
+essential to realising the impact of open data. 
+The  Open  Data  Institute  (ODI)  is  exploring  how  organisational  change  within  government  
+happens to support and sustain open data in the long-term. Through extensive interviews and 
+examination  of  the  literature  surrounding  organisational  change  management,  the  ODI  has  
+developed  guidance  for  policy-makers  who  have  been  tasked  with  implementing  their  own  
+open data initiatives. Thinking about the process of change management from the beginning 
+of your initiative will be essential to realising the social, environmental and economic benefits 
+of open data. 
+The result: 12 recommendations to help governments sustain open data 
+change and realise its impact
+1. Articulate your vision, with clear examples of benefits open data will bring.
+Start with a vision of the problem open data can help you solve, or the benefits you want to 
+produce: think beyond simply releasing open data. Being able to connect your release of open 
+data to a tangible benefit you would like to achieve can help people connect to the initiative 
+and understand its value.
+2. Secure support for your open data initiative from both senior/political leadership and 
+government officials within departments before launch.
+Build in mechanisms to educate government officials about open data, and explain its benefits, 
+from the very beginning of your open data initiative. Fostering support for the change before 
+launching an initiative will help encourage early uptake.
+3. Combine top-down leadership for your open data initiative with support for individual 
+or frontline champions in government. 
+While senior buy-in is important to maintain open data as a priority, frontline champions are 
+important to growing the initiative from the bottom up, and driving implementation of your open 
+data vision.
+
+Open data in government: how to bring about change | Open Data Institute 20154
+4. Build open communication and mechanisms for feedback into your open data initiative 
+from the outset, both inside and outside government.
+These could be formal mechanisms, like advisory groups, online feedback forms and regular 
+meetings, and informal mechanisms, like social media outreach. Invite feedback and be open 
+with your department(s) about the transition to using and producing open data, and how their 
+work could be affected. This will ensure employees are more engaged and satisfied with the 
+change.
+5. Set out some quick wins for your open data initiative – like releasing a certain number 
+of datasets as open data, or supporting a pilot use-case – but make sure these are part 
+of a long-term goal for open data, which each department can align progress with. Linking 
+quick wins to long-term goals can help maintain momentum for change.
+6. Be flexible and responsive to the strengths and needs of different departments and 
+teams.
+Be clear on your long-term vision for open data, but be careful not to get locked into one 
+transition plan for open data from the beginning. Look for examples of best practice in managing 
+the transition to using and producing open data, and use these to help other departments. 
+Being agile and responsive helps ensure the transition continues to align with any public sector 
+reform and changing technologies.
+7. Consolidate your change management efforts: use  your  emergent  leaders  as  peer  
+educators and innovators. Keep building on your incremental quick wins as part of your 
+long-term open data strategy. Consolidating efforts helps to make each element of change 
+management more effective, and helps identify gaps in strategy. 
+8.  Ensure  there  are  people  with  responsibility  for  change  management  –  supporting  
+departments and coordinating feedback – as part of your open data team. 
+Quite often, we think of a ‘change team’ as being set up to deliver open data objectives: build a 
+portal, release datasets and stimulate reuse. Change management is an equally important part 
+of the process, and can increase initial buy-in for the initiative, as well as a sense of ownership 
+within departments of their open data efforts. 
+9.  Seek  out  and  foster  stories  of  the  impact  of  open  data, to  help  illustrate  its  value  
+for government implementers. Adjust your impact narrative or ‘business case’ for different 
+departments,  so  it  makes  sense  in  terms  of  their  overall  visions,  capacities  and  existing  
+processes. 
+
+Open data in government: how to bring about change | Open Data Institute 20155
+10. Foster external support within industry, civil society and academia to drive continued 
+demand for open data. External support can help to maintain political will to support open 
+data, and be a source of ongoing learning and dialogue.
+11. Introduce opportunities for civil servants to take part in ongoing learning about open 
+data.
+This could be through open data training, secondments to ‘best practice’ teams working with 
+open data or regular workshops. It will help you continue to improve and expand the reach of 
+your open data initiative.
+12.  Build  metrics  to  regularly  evaluate  your  open  data  activities. This  will  help  you  to  
+measure progress, benchmark success and identify areas for improvement.
+The guidance is not absolute; some principles will be applied differently in different contexts. 
+However, the principles for managing open data change that are set out in this paper should 
+provide a useful framework or template for long-term thinking. 
+This paper is the starting point for a deeper exploration of how change happens in government 
+to support open data. Over the next 12-18 months, we will look to build on the themes and 
+scope of this paper, through ongoing research and discussion with global leaders.
+
+Open data in government: how to bring about change | Open Data Institute 20156
+Table of contents
+Open data in a global context7
+Understanding the structure of this paper7
+10 principles for successful change management10
+The seven countries interviewed: an overview of open government data12
+1. Getting started: preparing to launch an open data initiative
+Developing a shared vision and strategy
+Building agreement for change
+Combining top-down and bottom-up approaches to change
+Getting a change team together
+14
+2. Following launch: harnessing enthusiasm for open data
+Maintaining open communication and trust
+Making chance sustainable and finding quick wins
+Being agile and responsive
+21
+3. Embedding open data into normal government practice
+Making change permanent
+Learning from success stories
+Maintaining the political will to support open data
+Encouraging ongoing learning
+Evaluating open data outcomes
+28
+Conclusion
+33
+About the Open Data Institute and the Partnership for Open Data
+35
+What do you think?
+36
+Appendix 1
+37
+
+Open data in government: how to bring about change | Open Data Institute 20157
+Open data in a global context 
+Open data has been embraced as a key transforming initiative by global government institutions. 
+The introduction of the Open Government Partnership
+1
+ in September, 2011, aligned open data 
+with a broader global commitment to open government. In 2013, G8 countries endorsed the G8 
+Open Data Charter, committing to making public sector data ‘open by default’. Since then, the 
+G8 Open Data Charter has been the foundation for other governments’ open data initiatives; 
+for the promotion of open data principles in other international fora; and for the development 
+of a potential international Open Data Charter.
+The growth of the Open Government Partnership has been accompanied by an increase in 
+projects designed to support and evaluate open data initiatives taking place internationally, 
+which include the Partnership for Open Data. The World Bank Open Government Data 
+Working Group introduced Open Data Readiness Assessments to help countries assess 
+their preparedness to design and implement open data initiatives. The Web Foundation and 
+International Development Research Centre (IDRC) are coordinating the Open Data Research 
+Network, designed to help open data researchers around the world connect and share their 
+experiences. The Open Data Barometer has provided a means of benchmarking different open 
+data initiatives worldwide. 
+This energy has fueled increasing awareness of open data around the world. Transforming 
+open data from being something novel to normal for governments is the next challenge. The 
+extent of the value that can be unlocked by open data will depend on the sustainability of 
+each government’s open data initiative. The role of global organisations can be to ensure that 
+such normalising is assessed and supported in the long-term to ensure sustainable benefits.
+Understanding the structure of this paper
+This paper focuses only on the organisational change aspect of implementing open data: what 
+comes after its announcement or the first burst of excitement around it. It does not evaluate 
+the impact of existing open data. Nor does it try to establish the criteria to make it successful, 
+which is hard to define and will be different from country to country.
+It is intended to prompt and frame discussion and future work in this area for the ODI and others. 
+1 Open Government Partnership website: http://www.opengovpartnership.org 
+
+Open data in government: how to bring about change | Open Data Institute 20158
+In future, we would like to expand our list of countries surveyed to at least 10, and increase 
+the number of interviewees for each country. We will continue to explore ways to build on this 
+first paper, and welcome feedback and suggestions. 
+One clear insight from the interviews captured so far has been that that organisational change 
+to support open data happens differently in different contexts. What worked in Estonia, for 
+example, may not work in Chile. How the organisational change guidance offered by this 
+paper can be applied will, to some extent, depend on the country context and the context of 
+the public sector agency.   
+The challenges inherent in structuring change management guidance for open data are reflected 
+in the structure of this paper. We began with 10 common principles for change management, 
+which we tested through interviews with government officials involved in open data initiatives. 
+From these, we reached with our recommendations for open data change management. The 
+resulting paper is separated into three parts: 
+Part 1 - Getting started: preparing to launch your open data initiative
+Part 2 - Following launch: harnessing enthusiasm for open data
+Part 3 - Embedding open data into normal government practice
+Several of the common principles for change management are important factors at more than 
+one stage of an open data initiative. Where there is overlap, we have summarised all of the 
+change management guidance that could apply. 
+The interviews we undertook represent a small sample of the shift towards open data taking 
+place within governments and organisations around the world. This paper is intended to 
+support the work of policy-makers, and prompt a wider conversation about how governments 
+can change their organisational practices to support open data. We look forward to building 
+on our work on this area in 2015. 
+How we came up with our guidance on sustaining open data change 
+1. We started with a literature review
+Over the past 50 years, a rich literature exploring organisational change management has 
+emerged. Building on this work, this report aims to identify an organisational change framework 
+that governments can apply in the context of open data. 
+
+Open data in government: how to bring about change | Open Data Institute 20159
+While  much  has  already  been  written  about  how  to  lead  large  organisational  cultural  
+transformation  initiatives,  the  vast  majority  of  guidance  that  exists  comes  from  the  private  
+sector.
+2
+ Organisational culture in the public sector can vary from the private sector considerably, 
+so we approached private sector knowledge on organisational change with some caution. 
+In search of guidance for public sector leaders, we drew on a wide range of literature, including 
+traditional business management models, public sector reform theory and case studies on 
+previous public sector digital transformation initiatives.
+Drawing on this existing change management literature, we identified 10 common principles 
+for change management to be tested through interviews and adapted for an open data context. 
+2. We tested our literature review findings through interviews
+All of those interviewed in each country were government officials tasked with helping to make 
+the transition to using and producing open data. To identify a limited number of countries to 
+survey, we considered the countries ranked highest in their region in the Open Data Barometer, 
+2013. To this list, 2-3 countries were added that had recently undertaken significant open data 
+activities, to ensure that countries from every region were represented. Within each country, 
+one ‘visionary’ and one ‘implementer’ were identified to be interviewed. The ‘visionary’ was 
+someone within or outside government who initiated, influenced and/or shaped interest in 
+open data. The ‘implementer’ was someone in government who had been involved in carrying 
+out the open data initiative.
+In the first instance, we interviewed government officials from seven countries:
+ 
+• The UK
+• Estonia
+• Republic of Korea
+• Kenya
+• Mexico
+• Chile
+• Macedonia
+ 
+2 Burke, W. W., & Litwin, G. H. (1992) ‘A causal model of organisational performance and change’, Journal of Management, 
+18(3), 523-545; Kotter, P. (1995) ‘Leading change: Why transformation efforts fail’, Harvard Business Review, 73(2), 59-67; 
+Ackermann Anderson, L., & Anderson, D. (2010) Beyond change management: How to achieve breakthrough results through 
+conscious change leadership, John Wiley & Sons.
+
+Open data in government: how to bring about change | Open Data Institute 201510
+In the UK, we looked at open data change management on two levels: i) within an individual 
+department – in this case, police.uk – and ii) across government, as part of the UK’s broader 
+open data agenda, coordinated by the Cabinet Office. The first iteration of police.uk preceded 
+the adoption of open data as official UK Government policy, and is considered an early open 
+data success story.
+ 
+Comparing open data initiatives at these two levels gave us some interesting insights into how 
+different change management principles worked in different contexts. In any future iteration of 
+this paper, it would be useful to expand on police.uk with comparisons of other departmental 
+open data initiatives in the UK and elsewhere. 
+10 principles for change management
+These are the principles that were drawn from our review of the literature surrounding change 
+management,  and  which  provided  a  starting  point  for  examining  change  management  in  
+the context of open data. These principles were tested through interviews with government 
+officials in seven countries. Based on the principles and interviews, we came up with our own 
+recommendations for managing organisational change to support open data.
+The common principles we began with were as follows. 
+1. Build agreement for change
+Build a “constituency for change”
+3
+ to help prepare the organisation for the change ahead. 
+Anticipate barriers, plan training and develop supportive communications. 
+2. Develop a shared vision and strategy
+Share a vision that aligns with the ethos of the organisation. Involve staff in developing the 
+vision, and communicate it often using different mediums and platforms. 
+3. Get a ‘change team’ together to guide the change process 
+The change team should be diverse, both in terms of skills and representation, with respected 
+civil servants (‘insiders’) to ensure broad buy-in and solicit feedback. An external advisory 
+group can also be helpful. 
+4. Combine top-down and bottom-up leadership styles
+Strong leadership and commitment from top levels of management should drive the vision 
+3 Kelman, S. (2005) Unleashing Change: A study of organisational renewal in government, Brookings Institution Press
+
+Open data in government: how to bring about change | Open Data Institute 201511
+and initiate the change process, combined with an emergent style which harnesses bottom-
+up knowledge and expertise.
+5. Make change sustainable and find quick wins
+To ensure you have long-term support for the transformation, plan for tangible results that 
+can be achieved quickly and early. 
+6.  Human  resources  and  structure  are  enablers,  not  barriers,  for  supporting  
+transformation 
+Modify structures, policies and incentives regarding hiring, job titles, rewards and skill-sets 
+to align with the needs of your initiative. Incentivise behavioural change and leadership, allow 
+staff to innovate, and empower individual agencies to develop their own open data solutions.
+7. Maintain open communication and trust
+Create an environment which supports two-way communication (via internal and external 
+channels), so that critics and supporters have equal voice, and employees understand the 
+objectives of the initiative and can make a serious contribution to the programme.
+8. Become a learning organisation
+Track progress and commitment to change, and demonstrate a readiness to admit mistakes 
+publicly. Iterate and make changes quickly (“fail fast, fail cheaply”), while continually reviewing 
+success metrics. 
+9. Be agile and responsive
+Embrace experimentation and innovation through rapid design and piloting before scaling-
+up. Place ‘users’ at the core of any project design, and adjust plans based on regular user-
+testing and reviews.
+10. Monitor long-term change
+Crowdsource stories from frontline data-users in different contexts to inspire your vision 
+for how open data can bring benefits. Tap into external sources of support to encourage 
+long-term engagement.
+See Appendix 1 for full descriptions of these starting principles.
+
+Open data in government: how to bring about change | Open Data Institute 201512
+3.  From  our  literature  review  and  interviews,  we  developed  our  recommendations  to  
+sustain open data change
+By testing our ‘10 common principles for change management’ against interviews with 
+government officials in countries where open data initiatives had already been introduced, we 
+have developed guidance to help policy-makers manage the transition to using and producing 
+open data. Whether change is a linear process that should be followed step-by-step, or whether 
+it  is  multi-directional,  is  a  question  that  divides  the  literature  around  organisational  change  
+management.
+4
+ 
+Based on our interviews and literature review, we believe that the best approach may be to 
+manage change as a number of interrelated elements, like having senior level leadership and 
+internal feedback mechanisms, which can be applied in different combinations and at different 
+times.
+5
+ Given the size and nature of the public sector, as well as some unique characteristics 
+of open data (being cross-departmental, frequently coordinated by one central agency, with 
+a high degree of IT involvement), it is unlikely that there will be opportunities to implement 
+change management guidance in a strict sequence, progressing from step A to B to C.
+The seven countries interviewed: an overview of open government
+data
+Mexico
+Datos.gob.mx, the Mexican government’s official open data portal, was launched in July, 2014, 
+with the help of the Partnership for Open Data, which brings together the World Bank, the 
+Open Data Institute and Open Knowledge. The portal launched with 100 datasets: 10 from 
+each of 10 selected government departments. Mexico is ranked 25th in the world and 3rd in 
+the Americas in the Open Data Barometer, 2013. Open geographic and socio-economic data 
+have allowed the National Council for the Evaluation of Social Development Policy (CONEVAL) 
+to produce interactive maps showing how poverty and disadvantage are distributed across 
+Mexico, so anyone can understand how their region compares to others.
+4 Kotter, P. (1995) Leading change: Why transformation efforts fail, Harvard Business Review, 73(2), 59-67; Hiatt, J. M. 
+(2006), ADKAR: A model for change business, government and our community, Prosci Research; Burke, W. W., &. Litwin, G. 
+H. (1992) A causal model of organisational performance and change, Journal of Management, 18(3), 523-545
+5 Ibid all
+
+Open data in government: how to bring about change | Open Data Institute 201513
+Estonia
+Estonia’s Public Information Act mandates that data be made available in an open and machine-
+readable form from 1 January, 2015, and a data portal has been piloted (opendata.riik.ee) 
+to provide access to this data. While the portal is in its pilot phase, access is only available 
+to a small number of datasets. However, a substantial amount of data is available via direct 
+connection to Estonian government databases. In 2011/12, the Ministry of Economic Affairs and 
+Communication estimated that there were around 20,000 datasets. The Ministry of Economic 
+Affairs and Communications is responsible for the portal, and for coordinating the process 
+of making data from other Ministries’ available openly. In the Open Data Barometer, 2013, 
+Estonia’s open data performance is ranked 14th in the world and 9th in Europe.
+Republic of Korea (South Korea)
+South Korea’s open data portal, data.go.kr, is managed by the National Information Society 
+Agency and provides access to over 11,000 data files. The portal was introduced in 2011, the 
+same year South Korea joined the Open Government Partnership, with the goals of empowering 
+citizens, increasing transparency and harnessing new technologies for stronger governance 
+and greater innovation. South Korea is ranked 12th in the world and third in the Asia-Pacific 
+by the Open Data Barometer, 2013.
+Kenya
+In July, 2011, the Kenya Open Data Initiative was launched by President Mwai Kibaki, making 
+key government data freely available to the public through a single online portal, opendata.
+go.ke. By November, 2011, there were 390 datasets available through the portal. Open data in 
+Kenya aims to drive innovation, generating economic and social value, to enable data-driven 
+decision-making by parliamentarians and policy-makers, and to improve transparency and 
+accountability. The Ministry of Information and Communications and the ICT Authority are 
+responsible for the portal. Kenya was ranked 1st in Africa and 22nd in the world by the Open 
+Data Barometer, 2013. 
+Chile
+Chile’s open data portal, datos.gob.cl, was launched in 2012, alongside a presidential mandate 
+committing the state to publishing data in open and reusable formats. At the time, officials 
+and Ministers cited the benefits for the community through access to information on traffic, 
+health service and schools, as well as for the strength of democracy in Chile. The Ministry of 
+the Secretary General of the Presidency (MINSEGPRES) was responsible for setting up the 
+portal, working with other departments to add new datasets. The portal now provides access 
+to 1,180 datasets. In the Open Data Barometer, 2013, Chile’s open data performance was 
+ranked 25th in the world and 4th in the Americas.
+
+Open data in government: how to bring about change | Open Data Institute 201514
+Macedonia
+Macedonia’s open data portal, opendata.gov.mk, was launched  in 2012 as part of the process 
+of becoming a member of the Open Government Partnership, an international community of 65 
+countries committed to making government more transparent, accountable and responsive to 
+citizens. In addition to the Open Government Partnership, Ministers highlighted the potential for 
+open data to drive innovation, leading to economic benefits in Macedonia. The portal currently 
+hosts 154 datasets and is managed by the Ministry for Information Society and Administration.
+UK (Cabinet Office)
+The UK’s open data portal, data.gov.uk, was launched in 2009 by then Prime Minister Gordon 
+Brown, to provide opportunities for business, increase transparency and empower consumers. 
+The Cabinet Office was responsible for implementing the portal and coordinating other 
+departments’ contributions. Today, data.gov.uk includes 15,888 published datasets.The UK 
+was ranked number one in the Open Data Barometer, 2013, both within Europe and globally. 
+Applications of open data in the UK include transport mapping apps, flood alert services and 
+rankings of many services, including schools, GPs and dentists.
+UK (police.uk and data.police.uk)
+In 2009, the UK’s National Policing Improvement Agency launched maps.police.uk – the first 
+time policing data had been made available via an application programming interface (API) to 
+developers. This service evolved into data.police.uk, and has since grown to include over 19 
+million rows of data. The Home Office now publishes the data, coordinating data provided by 
+43 police forces across England, Northern Ireland and Wales, as well as the Ministry of Justice.
+Part 1
+Getting started: preparing to launch an open data initiative 
+An open data initiative can begin in many different ways. It could be initiated by a directive from 
+the President or Prime Minister, following a meeting of the Open Government Partnership. It 
+could be prompted by pressure from developers and startups for the government to release 
+data for use to build services and apps. Alternatively, it could stem from an obligation to release 
+open data as part of a regional or international agreement, like transposition of the European 
+Union’s Directive on Reuse of Public Sector Information 2013 (PSI) by EU member states. 
+Whatever the reason, the policy-maker tasked with transitioning a government department – or 
+all government departments – towards publishing the data they hold as open by default will 
+come up against some organisational culture resistance. While there are significant potential 
+
+Open data in government: how to bring about change | Open Data Institute 201515
+social, economic and environmental benefits to be unlocked with this transition, policy-makers 
+often need to convince government of the importance of open data first. 
+This section examines how to build in change management into any open data project from 
+the outset. 
+Developing a shared vision and strategy
+A common failing in change programmes noted in the organisational change management 
+literature is the lack of a long-term vision for change.
+6
+ Such a vision should be an anchor for 
+performance improvement objectives, and to formulate specific initiatives (Ostroff 2006). This 
+also involves carefully articulating the mission, to guide the transformation effort and remind 
+staff of that mission as the project progresses.
+7
+ 
+We  found  from  our  interviews  that  more  support  can  usually  be  gained  for  open  data  
+implementation in countries where open data was introduced as part of a vision for solving 
+a clearly-defined problem, or tied to a specific political goal or concern on the government’s 
+agenda. 
+In Macedonia, for example, open data was framed as a way to kickstart “innovative potential, 
+job creation and economic value”. In Kenya, open data was presented as a way to address 
+youth unemployment and social engagement. 
+“One of the things we’ve learned is that we have to make an argument that works [for] 
+the government[...] It’s a question of just finding what is the best place to start out as an 
+organisation for a different audience, and how to package it for each audience.” Kenya
+“This agenda will wither and die if it is seen as just an add-on or an additional burden for 
+people. I think we need to make it fundamentally relevant to what people are doing [...] 
+It seems to me that the only ways we develop are by requiring departments to use their 
+own open data, to consume their own open data, otherwise there’s no incentive to make 
+it any better [...]” UK (Cabinet Office)
+Sometimes, what might begin as a short-term project with a specific vision can evolve into a 
+longer-term vision with broader impact. This vision may also adapt as the problems and goals 
+6 Page, J., Pearson, J., Jurgeit, B., & Kidson, M. (2012) Transforming Whitehall departments, Institute for Government; 
+Ostroff, F. (2006) Change management in government, Harvard Business Review, 84(5) pp. 141-7;Fernandez, S., Rainey, H.G. 
+(2006) Managing successful organisational change in the public sector, Public Administration Review, March/April, 168-176.
+7 Ibid.
+
+Open data in government: how to bring about change | Open Data Institute 201516
+of government change over time, such as a shift of focus from transparency towards economic 
+growth or efficiency, especially if a new administration takes over. The vision underpinning an 
+open data project does not have to be rigid, but it should be meaningful and measurable for 
+different stakeholders engaged in its implementation. The evolution of open data publication 
+by police.uk offers an interesting example of how a vision for open data can evolve over time.
+Case study: The evolution of open data within police.uk
+“We actually started this journey a long time ago, before the open data movement really 
+got going. Twitter was new, and the Twitter API was available and lots of people were 
+building things off of it. So we thought, ‘What if we could do the same with the maps.police.
+uk data?’ If we made this available via an API, people could build great things with it [...] 
+No one within the organisation was that interested, because at the time the whole open 
+data movement didn’t really exist [...] There was quite a lot of interest though from the 
+public, from developers, some newspapers – the Guardian in particular – so, from outside 
+the organisation it was very well received.
+Then [after a short while] the Chief Constable in charge of neighbourhood policing came 
+to the team with the task of making more information publicly accessible. Some research 
+had been done about the public’s fear of crime, that it was increasing while crime levels 
+were actually decreasing. We started discussions with the deputy Chief Constable about 
+how more release of information about crime could be coordinated across the 43 local 
+forces in England and Wales. We wanted to give people more meaningful information 
+about what crime was happening in their areas, and hopefully combat those fears. 
+From the beginning, it wasn’t just about giving access to open data. At first, back before 
+open data was really a concept, we were thinking in terms of its commercial potential, 
+ways the developer community could build on it. Then it became about giving people 
+meaningful interpretations of that data and educating them on crime. What’s the role 
+government should play ultimately? Is it simply about releasing the information for anyone 
+to play with, and build on, or is it about explaining it to the public as well? The success of 
+police.uk was partly because accessibility for the public, and a vision of how open 
+data would help them, was built in from the beginning – it was part of providing a 
+service, a cornerstone of standard police service.” UK (police.uk)
+Where there was no clear vision of the problems open data could help us to respond to, and 
+which benefits it might realise, interviewees spoke of facing apathy from within the public sector 
+towards the initiative, and difficulties faced during the publication of open data. Visions that 
+
+Open data in government: how to bring about change | Open Data Institute 201517
+simply focused on the publication of a certain target number of datasets (seeing open data 
+as an end in itself, rather than a means to an end), quickly ran into difficulties. 
+“As a presidential mandate obliged the institution to publish five datasets, the Open 
+Data Portal grew exponentially in its number of datasets within six months. But the 
+same mandate didn ́t oblige institutions to keep those datasets up-to-date, so a lot of 
+institutions didn ́t do it. The challenge now is working with those institutions that have 
+already published once and updating the datasets, knowing that the person in charge 
+of publishing has probably changed, due to the change in presidency last year.” Chile
+Recommendation: Articulate your vision. Start with a vision of the problem open data can 
+help you solve, or the benefits you want to produce. Think further than simply releasing 
+open data. Being able to connect your release of open data to a tangible benefit you’d like to 
+achieve can help people connect to the initiative and understand its value.
+Building agreement for change
+A common principle across the literature around organisational change management is to 
+‘foster change readiness’: build agreement for a constituency for change as a first step of 
+creating the change movement in an institution (Kelman, 2005). One interesting aspect of the 
+adoption of open data policies in many countries surveyed – and a common factor in public 
+sector reform – is the introduction of a mandate by external political leadership. There may 
+be no time to foster change readiness ahead of the announcement of the open data initiative. 
+“The presidential election brought a change of government. The new President believed 
+in the importance of opening up data as part of what we call ‘government 3.0’. The new 
+policy meant sharing and collaborating on information held by government.” South Korea
+Several officials interviewed in countries including Kenya, Macedonia, the Republic of Korea, 
+Chile and Mexico talked about their open data policies being initiated on instructions from 
+the President or a senior Minister. For some, the impetus for open data change was their 
+country joining or hearing about the Open Government Partnership. Every country interviewed, 
+regardless of whether the idea of open data came from their political leadership, agreed that 
+getting senior level buy-in for the initiative was the first, and most important, step towards 
+establishing an open data initiative in their organisation.
+“It’s about getting the politicians onside.” Kenya 
+“There’s a multi-layer approach to open data: you need the political figure who will make 
+
+Open data in government: how to bring about change | Open Data Institute 201518
+the commitment, the Minister or President, who understands what the concept is and its 
+benefits, and who can give the green light. Then you have the second layer of important 
+people in each institution, who are usually the heads of departments or heads of units, 
+who know what data their institution generates.” Macedonia
+This top-down approach can leave little time to foster change readiness within the wider civil 
+service, ahead of introducing the open data initiative. This is to a great extent simply part of 
+the nature of public sector change, there is often no way to avoid it. But being prepared to 
+combine that senior or political level support for change with outreach across departments can 
+be crucial to the initiative’s long-term success. In the literature around organisational change 
+management, several authors including Cameron, Kotter, Armenakis et al
+8
+  state  that  a  key  
+part of preparing for change in institutions is identifying potential barriers to success early on, 
+and designing training or other orientation programmes accordingly to pre-empt resistance.
+“There are a lot of people who just don’t know what open data is, so if a mandate comes 
+and says you have to open your data and these are the ways you’re going to do it, they 
+just don’t get it. We think you have to work first on getting everybody or most people 
+understanding what you’re talking about, and then maybe come up with a mandate.” Chile
+The most common barriers to change identified by all interviewees were a lack of buy-in or 
+understanding of open data within government departments – in essence, a lack of ‘change 
+readiness’.
+Recommendation: Secure  support  for  your  open  data  initiative  from  both  senior/
+political leadership and government officials within departments before launch. Build in 
+mechanisms to educate government officials about open data, and explain its benefits, from 
+the very beginning of your open data initiative. Fostering support for the change ahead of its 
+launch is important for early uptake of the initiative.
+Combining top-down and bottom-up approaches to change
+Generally, approaches to change can be classified as top-down or planned (either responding 
+to external influences, or to achieve a desired objective), or bottom-up or emergent (dynamic, 
+continuous and arising from existing practice and knowledge).
+9
+ The literature in our organisational 
+8 Cameron, E., Green, M. (2004) Making Sense of Change Management, Kogan Page Publishers;
+Kotter, P. (1995) Leading change: Why transformation efforts fail, Harvard Business Review, 73(2), 59-67; Armenakis et. al, 
+(1999) Organisational change: A review of theory and research in the 1990s,  Journal of Management, 25(3), 293-315
+9 Kelman, S. (2005) Unleashing change: A study of organisational renewal in government, Brookings Institution Press; 
+
+Open data in government: how to bring about change | Open Data Institute 201519
+change management literature review broadly advocates combining both planned and emergent 
+approaches. This can help you to encourage front-line innovation by departments implementing 
+their open data obligations, while sustaining top-down support for the change agenda. Even in 
+the public sector, where change can be driven by external political forces, there can be space 
+during implementation of the change to innovate and adapt.
+“It can be extremely top-down. The direction and priorities come from Ministers. What 
+we have started getting better at doing is, even when there is that top-down direction on 
+something, trying to reverse-engineer user engagement.” UK (police.uk)
+Crucially, the team behind police.uk’s open data initiative made securing top-down support 
+for the transition a key focus ahead of any public outreach. A Chief Constable leading police.
+uk was given responsibility for liaising with senior members of the force and convincing them 
+of the initiative’s importance. A communications/public relations role complemented this with 
+a focus on the front lines, encouraging individual police forces to provide access to their data, 
+understand any blockers and address any concerns. 
+Identifying and fostering open data champions within government to grow the initiative from 
+within (emergent leadership) and deliver on its promise is essential. Every country interviewed 
+indicated that simply having top-down leadership on open data hadn’t been sufficient. Ensuring 
+government departments have enough flexibility or agility to lead from within on implementation 
+of open data, and help shape its development, can be key to long-term sustainability of the 
+agenda. 
+“There’s an equilibrium that you need to have, because the political will or the political 
+mandate sometimes might come through a law or a presidential instruction, and that’s top-
+down. But you actually have to be working [with] the people from [all levels of government]. 
+You have to find an equilibrium and I’m working on that.” Chile
+Recommendation:  Combine  top-down  leadership  for  your  open  data  initiative  with  
+support for individual or frontline champions. While senior buy-in is important to maintain 
+open data as a priority, frontline champions are important to grow the initiative from the bottom 
+up, and drive implementation of your open data vision.
+Getting a change team together
+Fernandez, S., Rainey, H.G., (2006) Managing successful organisational change in the public sector, Public Administration 
+Review, March/April, 168-176.
+
+Open data in government: how to bring about change | Open Data Institute 201520
+Assembling a team to administer the government’s open data initiative was a common priority 
+within all countries surveyed. The size of that team and extent of its function depended on 
+the role it saw itself playing in the transition to open data. In Chile, for example, the central 
+agency’s coordination team was very small, and its functions were separate from those of the 
+individual departments with responsibility for publishing data. The coordination team focused 
+on developing the government’s open data policy and building an open data portal.
+In the Republic of Korea, there are several teams involved in open data policy. The open data 
+centre has three teams: open data planning, open data utilisation and the open data core/
+technical team. Their Big Data Centre also deals with open data. Again, each of the teams play 
+a central coordination role and encourage the release of open data by individual departments. 
+While all of the countries surveyed assembled a task force or team to manage the open data 
+process – developing a policy, building a portal, stimulating reuse of open data – few countries 
+also focused on relationship management within government as part of their ‘change team’ 
+responsibilities. The organisational change management literature suggests convening a 
+change team, who are responsible for soliciting feedback from within and outside government, 
+monitoring performance and identifying obstacles, and participating in the design or redesign 
+of activities.
+10
+ 
+The country surveyed that did indicate some focus on relationship management as part of its 
+‘change team’ was the UK: 
+“There has been, since the beginning, a transparency and open data team. It hasn’t always 
+been structured in exactly the same way, but probably similar functions performed over 
+time. You have a group of people who are relationship managers, and they provide the 
+support to different departments. Each of those people have a portfolio of departments 
+they look after, and they’re responsible for making sure those departments are meeting 
+their open data commitments. They’re sort of on call to help them out, they attend each 
+department’s sector transparency board meetings and so on. Alongside relationship 
+management,  the  team  does  things  like  policy  formulation,  engagement  in  the  Open  
+Government Partnership (OGP) and separately has technical experts working on data.
+gov.uk.” UK (Cabinet Office)
+Recommendation: Ensure the core open data team includes people with responsibility 
+for change management – supporting departments and coordinating feedback – as part of 
+your open data team. Quite often, we think of a ‘change team’ being set up to deliver open 
+10 Kotter, P. (1995) Leading change: Why transformation efforts fail, Harvard Business Review, 73(2), 59-67
+
+Open data in government: how to bring about change | Open Data Institute 201521
+data objectives: build a portal, release a target number of datasets and stimulate reuse. Change 
+management is an equally important part of the process, and can increase initial buy-in for 
+the initiative, as well as a sense of ownership within departments of their open data efforts.
+Part 2
+Following launch: harnessing enthusiasm for open data
+Maintaining open communication and trust
+In the early stages of an open data initiative, generating interest in and enthusiasm for open 
+data among other parts of the public service is essential; as is fostering interest from the private 
+sector and citizens. Encouraging internal participation and consultation can play an important 
+role  when  making  the  case  for  organisational  change,  mitigating  resistance  and  creating  
+psychological ownership.
+11
+ Nearly every country interviewed mentioned ways in which – as 
+part of their open data initiative – they tried to foster an environment of open communication 
+and trust. 
+“There’s  a  push  for  civil  servants  to  be  more  innovative,  to  reach  out  of  their  typical  
+comfort zones and not be people who just sit at their desks, in front of their computers. 
+It’s  important  to  get  out  there,  to  work  out  what  the  current  conversation  is,  work  out  
+where the energy is and how people are thinking. Create or identify useful networks of 
+reformers and innovators who can help you advance the agenda.” UK (Cabinet Office)
+Several initiatives have quickly introduced mechanisms to support dialogue between public 
+sector organisations releasing data, and the wider reuse community. This dialogue can help 
+government departments prioritise data for release based on user demand, respond to feedback 
+about data quality or format issues, and understand how their data is being used. In Chile, 
+what was originally intended as a one-off meeting between government data publishers and 
+members  of  the  wider  reuse  community  is  being  reconsidered  as  a  regular  opportunity  to  
+share experiences:
+“Recently we held a meeting with open data publishers across government institutions, 
+journalists, NGOs and universities so they could explain to government what they were 
+doing with open data and see the potential of this work. Often, governments don’t actually 
+get to see what’s getting done with data their portals. Afterwards we asked the civil 
+11 Nadler, D. A. (1998) Champions  of  change:  How  CEOs  and  their  companies  are  mastering  the  skills  of  radical  
+change, Jossey-Bass; Nadler, D.A. et.al (1998) Navigating change: How CEOs, top teams, and boards steer transformation, 
+Harvard Business School Press; Johnson, G., Leavitt, W. (2001) Building on Success: Transforming organisations through an 
+appreciative inquiry, Public Personnel Management, 30(1), pp. 129 – 136
+
+Open data in government: how to bring about change | Open Data Institute 201522
+servants questions like, ‘Did you know there were journalists using your data?’ and ‘Did 
+you know there were students and NGOs who were using your data?’ – and they didn’t 
+know, they hadn’t thought about it.
+“[...] It makes the work more rewarding, because they’re not just going through a mechanical 
+process, but someone is actually doing something with the data. Now we’re trying to 
+make those meetings happen every two months, so the government can continue to see 
+the potential of their release of data as open data.” Chile
+In the UK, a formal voice for the open data user was established by the Cabinet Office in 2012, 
+called the Open Data User Group (ODUG). Comprising members from across the UK open 
+data community, both non-commercial and commercial, ODUG provides advice to the Cabinet 
+Office on funding for open data, undertakes research to build a business case for open data 
+and provides a mechanism for open data users to request and prioritise the release of data 
+by government. A formal request mechanism is one way to establish a line of communication 
+between organisations releasing open data, and those interested in using it. 
+Case study: The UK Open Data User Group data request process
+The request process, launched in October 2012, has accumulated 564 requests for release 
+of datasets as open data, as well as 330 confidential requests.
+12
+ Citizens or businesses 
+making requests set out the data they would like released, the barriers they had experienced 
+accessing this data and what they would do with the data. The Cabinet Office Transparency 
+Team manages initial receipt of the requests, filtering out and responding to requests which 
+are misguided (for example, those that are not requests for a dataset); or outside the scope 
+of the request mechanism (because the data is not held by a publicly funded body). Where 
+the request is for data that is already available as open data, but there are issues accessing it, 
+the transparency team will raise these issues with the data publisher. Issues might include the 
+dataset not being up to date, the link being broken or poor data quality. If there is a request 
+for data that is not available as open data, the transparency team consults with ODUG and 
+departments to understand if it can be released. 
+Structured mechanisms for dialogue between government and the reuse community, like data 
+user groups and data request processes, can contribute to an environment of trust and open 
+communication. Transparency about these kinds of mechanisms – about decisions made, 
+discussions that take place and genuine opportunities for engagement – will be key to their 
+success. 
+12 Data.gov.uk data requests: http://data.gov.uk/data-request, accessed on 2014-12-18
+
+Open data in government: how to bring about change | Open Data Institute 201523
+Governments should not stop at creating formal mechanisms, but consider ways to embed 
+a culture of open communication across open data service delivery in general. There is no 
+one-size-fits-all mechanism to capture perspectives and feedback from outside government. 
+As one interviewee observed of the UK data request process, 
+“Our data request process is probably a great illustration of the fact that government isn’t 
+best-placed to identify what data people want. An early request was from a surf report 
+and beach weather website, who wanted data on which days the Ministry of Defence 
+(MoD) would be using beaches for firing practice. Having this information would help them 
+best advise users on safety, planning their trips and would also save the MoD time having 
+to move surfers from the water before beginning practice. We were able to release this 
+data, proving that individuals can make direct approaches to government so we hear their 
+needs as well as what the open data community is interested in.” UK (Cabinet Office)
+Ensuring government policies and services are set up more generally to encourage and receive 
+external feedback is important. In the case of the specific open data initiative from police.uk,
+“One challenge for government departments has been the policy barriers that can prevent 
+them from engaging in the different types of conversations going on – through social 
+media, for example. We need to make sure that other departmental policies don’t work 
+against them getting the feedback that they need.” UK (police.uk)
+Sometimes a key barrier to encouraging open communication between government and the 
+open data community can be that the community simply doesn’t know what government holds. 
+Encouraging public sector organisations to be transparent about their data holdings from the 
+outset of an open data initiative can help engender ongoing trust. Potential collaborators and 
+developers can more readily engage with governments when they have an understanding of 
+the types of data that institutions hold from the outset. 
+While nearly all of the initiatives examined through interview have considered ways to encourage 
+trust and open communication between the reuse community and public sector organisations, 
+it is less clear whether similar mechanisms have been put in place within the public sector 
+organisation itself, or across departments. In their evaluation of change initiatives in six 
+Australian public sector agencies, Stewart & Kringas
+13
+ found a correlation between the degree 
+of consultation and acceptance of change. Establishing an internal steering committee could 
+13 Stewart, J., & Kringas, P. (2003) Change management: Strategy and values in six agencies from the Australian public 
+service, Public Administration Review, 63(6), pp 675-688
+
+Open data in government: how to bring about change | Open Data Institute 201524
+help  share  information  about  open  data  changes,  and  provide  a  mechanism  for  employee  
+feedback. 
+Every open data initiative surveyed in this paper, with the exception of police.uk, was coordinated 
+by central government departments for implementation by the wider public sector. This 
+coordinating role may make implementing similar mechanisms for internal, cross-departmental 
+feedback difficult. It is unclear from the interviews whether departments coordinating open 
+data initiatives also implemented internal mechanisms for communication. In the UK, there are 
+sector transparency boards for several sectors (health, justice and environment) who provide 
+advice and communicate directly with departments. Other internal mechanisms may simply 
+not have been raised in the interviews, and may warrant further exploration.
+Recommendation: Build open communication and mechanisms for feedback into your 
+open data initiative from the outset, both inside and outside government. These could be 
+formal mechanisms – like advisory groups, online feedback forms and regular meetings – and 
+informal mechanisms, like social media outreach. Inviting feedback and being open with your 
+department(s) about the transition to open data and how their work practices could be affected 
+can increase the likelihood of open data reuse, employee engagement and satisfaction with 
+the change. 
+Making change sustainable and finding quick wins
+The literature tells us that taking a ‘big bang’ approach to open data could end badly.
+14
+ Instead, 
+there is general consensus that taking an incremental approach to organisational change around 
+open data – focused on tangible results that can be achieved quickly – is important to long-
+term success. Every initiative we surveyed demonstrated a focus on quick wins in open data. 
+For several countries, quick wins involved getting a data portal up and running, with some 
+useful government data sets published on it. Opendata.go.ke, the Kenyan Government open 
+data portal, was proposed, developed and launched by a government task force in less than 
+three months.
+“What happened was that we went and saw the permanent secretary, [who said the data 
+was there and went to the President, who said]  ‘OK good, I’ll launch it on May 7th’ and 
+that was literally six weeks out [...] So we started, and I can tell you we ran like hell.” Kenya
+14 Osborne, D., Plastrik, P. (1997) Banishing Bureaucracy: The five Strategies for Reinventing Government, Addison 
+Wesley
+
+Open data in government: how to bring about change | Open Data Institute 201525
+Quick wins that give structure to an open data initiative and a tangible output can be key to 
+sustaining energy for open data. 
+“You know the problem with governments in general is that [they] suffer from inertia, and 
+the only way to break inertia is by getting something started. So one of the things that 
+happened is, based on the fact that we launched opendata.go.ke [...], the next year we 
+were in campaign mode, and the electoral commission then started publishing data relating 
+to the elections, because now they had an example [to look to].” Kenya
+One  challenge  associated  with  establishing  a  government  data  portal  is  how  to  maintain  
+momentum. To ensure new datasets continue to be added, existing datasets are updated, 
+quality continues to improve and, ultimately, an active reuse community thrives around it with 
+social, economic and environmental benefit. For several interviewees, setting up an open data 
+portal for central government was very much a quick win, but seen as part of a wider public 
+sector open data strategy, it could equally be described as a big bang. 
+In contrast, recommendations from police.uk are to “start small”:
+“Start small, get something out there, prove a minimum viable pilot, get people using it, 
+get the feedback and build momentum from there. My only advice would be start small, 
+do something quick and dirty. You don’t need a big team to do it.” UK (police.uk)
+Several countries surveyed who established government wide open data portals early on (a 
+big bang), only to lose momentum, are now focused on improving data quality and ensuring 
+departments continue to publish open data. 
+“The idea was to get the portal started and to start talking about open data in government, 
+because it was really new – it’s still something new – for many public institutions. So that 
+goal was achieved. They wanted an open data portal, they wanted institutions to start 
+to publish, and they did a really good job in getting around 200 institutions publishing in 
+a couple of months. The thing is because they didn’t work in culture change, that didn’t 
+evolve into a living open data portal. You have a couple of institutions that are doing 
+really good work, and then you have a couple of institutions that only published what was 
+required by law and then stopped.” Chile
+Having  a  clear  plan  for  quick  wins  as  part  of  a  broader,  phased  approach  to  open  data  is  
+important. Plan ahead – pick your low hanging fruit, and consult your plan on how to climb 
+higher. This incremental approach to quick wins as part of a longer-term strategy has been 
+implemented in Mexico. The Estrategia Digital Nacional, or ‘National Digital Strategy’ has 
+
+Open data in government: how to bring about change | Open Data Institute 201526
+created a structured approach to implementing their open data initiative, via Data Squads.
+Case study: Mexico’s Data Squads
+In Mexico, the Office of the President formed a programme called Data Squads to accelerate 
+the roll-out of open data across government. Data squad members deliver intensive training 
+to targeted government departments to rapidly introduce open data principles. In 42 days, 
+the squads successfully opened 100 datasets across 10 federal agencies, demonstrating the 
+power of this intensive approach. The Data Squads are focused on quick wins – selecting 
+achievable targets within agencies that could provide tangible examples of success. The focus 
+now is on making sure the Data Squads programme is sustainable. Currently, National Digital 
+Strategy is considering a ‘train the trainer’ approach to continue to proliferate Data Squads 
+across government and manage squad member turnover. 
+Recommendation: Set out some ‘quick wins’ for your open data initiative, like releasing 
+a certain number of datasets as open data, launching a portal or supporting a pilot use case - 
+but make sure these are part of a long-term goal for open data, that each department can 
+align progress with. Linking quick wins to long-term goals can help you maintain momentum 
+for change. 
+Being agile and responsive
+A lean ‘agility’ approach to government has emerged as a key aspect of public service delivery, 
+particularly in the digital sphere.
+15
+ Being agile means having the space to innovate and adapt. 
+The UK Institute for Government’s recent work on reforming Whitehall
+16
+ recommends a hybrid 
+approach to organisational change, which emphasises flexibility and adaptability (‘innovation’) 
+while retaining a commitment to scale and collaboration across government. Both of these 
+aspects are present in the central government open data initiatives surveyed. They all began 
+with  a  commitment  to  scale  across  government  and  have  tried  to  facilitate  collaboration  
+between and within departments, to progress an open data initiative.
+17
+A key challenge for several of the countries surveyed has simply been the size of government. 
+Change takes time, and it is difficult if not impossible to reach every stakeholder in each 
+15 Page, J. et. al (2011) System error: Fixing the flaws in government IT, Institute for Government
+16 Page, J. et. al (2012) Transforming Whitehall: Leading major change in Whitehall departments, Institute for Government
+17 With the exception of police.uk: www.police.uk, which still incorporated scalability but across police.uk and 
+departments with complementary data assets.
+
+Open data in government: how to bring about change | Open Data Institute 201527
+department and agency who has a role to play in an open data initiative. 
+Where an open data initiative has been coordinated by a central agency (like the Prime Minister 
+or President’s office) flexibility is something that, to a certain extent, can only be encouraged of 
+other departments. Central agencies coordinating an initiative for the whole of government may 
+not have a publishing role. The central agency is essentially playing a relationship management 
+role, coaxing departments to release more data and become more agile to maintain a data-
+user focus, review and iterate often and respond to reuser feedback. This made it difficult to 
+draw specific examples of how a lean, agile approach had assisted with organisational change 
+management to support open data from the interviews. Nonetheless, several interviewees 
+commented  on  how  evolution  and  adaptation  of  their  plans  in  response  to  feedback  was  
+important. In Chile, as one interviewee commented,
+“Plans can change a lot. We’ve just finished planning for next year, and I know there [are] 
+some things we’re planning that may not get done because things change. You have 
+to be able to improvise and come up with other solutions. For example, if the people in 
+charge of publishing data had told me that [the] first meeting we held with them and the 
+reuser community [hadn’t worked], we would have to change our approach. Thankfully 
+we have the opposite problem – they want more. We have a strategy of course, but we 
+have to be able to innovate within our own strategy.” Chile
+Police.uk, being an agency-specific open data initiative, was able to build agility and 
+responsiveness into its service delivery more directly. From the outset, user feedback was a 
+key element of platform development.
+“There were feedback questionnaires on the website from day one. We used social media, 
+went to town hall meetings [and held] outreach sessions. We couldn’t deliver on all 
+demands, but tried to respond to many. Lots of the developments on police.uk were the 
+result of this feedback, like greater accuracy of data and greater granularity. We started 
+incorporating different datasets to add points of interest – like shopping centres, car 
+parks and cinemas – to build up a richer picture of the data. We also started adding more 
+support and advice for people using the data.” UK (police.uk)
+Recommendation: Do  not  get  locked  into  one  transition  plan  for  open  data  from  the  
+beginning. Be clear on your long-term vision, but be flexible and responsive to the strengths 
+and needs of different departments and teams. Look for examples of best-practice managing the 
+transition to open data and use these to help other departments. Being agile and responsive helps 
+ensure the transition continues to align with any public sector reform and changing technologies. 
+
+Open data in government: how to bring about change | Open Data Institute 201528
+Part 3
+Embedding open data into normal government practice
+It is difficult to sustain the same level of energy and enthusiasm for any policy change, let 
+alone open data, as time passes. Eventually, the open data initiative has to become a part of 
+normal government practice. Few countries are at this stage yet with open data, because open 
+data is relatively new everywhere. The literature review findings indicate that there are several 
+elements that could support long-term sustainability of an open data initiative and broader 
+organisational change movement, including:
+• consolidating change over time, institution by institution; and
+• building on ongoing learning and reflection.
+From the interviews, we found considerable support for these concepts, but due to the relative 
+‘newness’ of open data, few examples of these being put into practice. There are high levels of 
+support for rolling out ongoing education and training programmes for civil servants in order 
+to broaden the support base for open data. Learning approaches that involve demonstrations 
+and crowd-sourcing practical examples of use of open data appear to be most effective.
+Making change permanent 
+There are various ways of consolidating organisational change, and reducing cultural barriers. The 
+Organisation for Economic Cooperation and Development (OECD) has suggested highlighting 
+the economic value-add of open data, crowdsourcing the experience of civil servants and local 
+governments  working  with  open  data  at  the  frontline,  and  building  new  capabilities  that  aid  
+implementation of open data.
+18
+ Another recommended approach is to facilitate exchange visits 
+or short-term secondments by staff to high-performing institutions already using open data, to 
+promote learning and overcome resistance.
+19
+Several interviewees emphasised the importance of consolidating quick wins to prove the open 
+18 Ubaldi, B. (2013) Open  government  data:  Towards  empirical  analysis  of  open  government  data  initiative, OECD 
+Working Papers on Public Governance, No. 22, OECD Publishing; Yui, C., Fink, S. (2013) Smaller, Better, Faster, Stronger: 
+Remaking government for the digital age, Policy Exchange
+19 Ostroff, F. (2006) Change management in government, Harvard Business Review, 84(5), pp.141-147
+
+Open data in government: how to bring about change | Open Data Institute 201529
+data concept and foster long-term support. For example, police.uk leveraged the success of 
+their earlier maps.police.uk open data project to collect feedback and make the case for scaling 
+up activities:
+“It was hugely important to have a quick win [maps.police.uk open data project]. We built 
+data.police.uk, [about] three and a half, maybe even four years after the launch of the 
+original API. And you know, people had built applications based on it, people had built 
+websites using it, we had people building businesses around it and selling on the data. 
+So, when it came to [making] the decision to rebrand all of that as data.police.uk, and 
+[putting] more time and resources into it, we had a huge amount of evidence that it was a 
+good idea from a policy point of view, but also that it was useful to people. People were 
+using it, and there was going to be a lot of uptake for it.” UK (police.uk)
+Ensuring quick wins are consolidated and built on as part of a long-term open data strategy is 
+one of the recommendations reached in Part 1 of this paper. This consolidation of quick wins 
+can help win support, scale-up activities and advance permanent organisational change.
+20
+Occasionally,  however,  the  deeper  cultural  change  aspects  are  overlooked  in  the  course  of  
+pursuing quick wins or following the black-letter law. Failing to deal with cultural change can 
+compromise the overall quality and sustainability of the open data initiative in the long-term.
+All of the initiatives surveyed are still in the emergent phase, and grappling with how to begin to 
+embed long-term sustainable open data practice. As a result, there is no consensus regarding 
+the most effective way of consolidating change. The literature, however, does offer some 
+recommendations regarding capacity building and offering incentives and rewards to staff 
+based on innovation and impact. These could be topics for further exploration as open data 
+intitatives evolve. 
+Learning from success stories
+An ongoing challenge when seeking to consolidate change and scale up an initiative can be to 
+spread understanding and support to diverse ministries and institutions. The literature suggests 
+that linking to stories of impact and success is an important part of longer-term consolidation of 
+change efforts.
+21
+ Stories of impact and success can flow from fostering ongoing communication 
+with the reuse community and other areas of government.
+20 Colville, I. et al (1993) Developing and understanding cultural change in HM Customs and Excise, Public Administration, 
+71(4) pp.549 - 565. Colville, I. et al (1993) found that a series of small, continuing efforts at making improvements within HM 
+Customs & Excise was an effective at focusing attention on the need to solve bigger problems.
+21 Kotter, J.P. (1996) Leading change, Harvard Business School Press.
+
+Open data in government: how to bring about change | Open Data Institute 201530
+In Macedonia, for example, the aim is to develop 10-15 applications to showcase and sell 
+the value of open data to other institutions. Realising there is a gap currently, Macedonia is 
+collaborating with the World Bank to develop a formula to help estimate open data impact for 
+different institutions and sectors. Collecting real-life examples of the impacts of open data 
+continues to be a challenge. 
+“There need to be real use-cases and actual examples: how there was an NGO or a company 
+that was able to access data, build a service on top of it and make money out of it. We are 
+missing real, simple examples of good use cases.” Estonia
+Both interviewees and the literature suggest that in linking to stories of impact and success, 
+it is important to make a contextualised business case (“institution by institution”), and make 
+it often. This business case should be adapted for each different department or institution so 
+it makes sense in terms of their overall vision, capacity and existing business processes. The 
+open data story will be different for each country and public sector culture.
+Recommendation: Seek out and foster stories of the impact of open data to help illustrate its 
+value for government implementers. Adjust your impact narrative or ‘business case’ for different 
+departments, so it makes sense in terms of their overall vision, capacity and existing processes. 
+Maintaining the political will to support open data
+During the consolidation phase, one barrier faced by many countries is sustaining the political 
+will to keep open data a priority. Some authors suggest taking advantage of new election 
+mandates, external influences and pressure and citizen or user demand.
+22
+ Our interviews suggest 
+having a political window is important not just during launch of an open data initiative, but also 
+to continuing the change programme. Estonia, Chile, South Korea, Macedonia and the UK all 
+reported that the Open Government Partnership has been a helpful tool for holding the focus 
+on open data. 
+That said, international commitments alone may not be sufficient to lock in change. While Kenya 
+is a part of the Open Government Partnership, political interest in open data at the national 
+level is currently waning. Following national elections and a change of administration, the open 
+data community has had to start again to win over the new government and entrench more 
+internal capacity for open data capacity. 
+22 Abramson, M., Lawrence, P.  (2001) The Challenge of transforming organisations: lessons learned about revitalising 
+organisations, Rowman & Littlefield
+
+Open data in government: how to bring about change | Open Data Institute 201531
+Tapping  into  external  sources  of  support  from  within  civil  society,  media  and  the  business  
+community to maintain momentum and political will is another tactic suggested by the literature.
+23
+ 
+Some countries that were interviewed seemed to be having more success with this approach 
+than others (e.g. Chile and the UK). In Chile, for example, they are reaching out to civil society 
+and regional governments to create enthusiasm for scaling-up open data efforts, through 
+hosting an open data regional meeting attracting 800 participants and hackathons with civil 
+society organisation partners. This approach may not work for every country. Chile, for instance, 
+has a strong civil society with a long history of working on transparency and accountability. 
+Countries without such an established open data community, high internet connectivity, or a 
+history of state-civil society engagement on transparency would potentially find it more difficult.
+Building political will and tapping into external support may be important, but not sufficient, 
+to institutionalise open data change. It requires proactive, as opposed to reactive, supply of 
+open government data. As one interviewee from Estonia put it:
+“The most important part is that it’s a law now, so you have to have a very good excuse if 
+you haven’t put the data up there. The problem in Estonia is that the market doesn’t try 
+our open data initiatives, so there is no market demand for open data. We treat this as a 
+problem, we understand that not all of the roads in Estonia are widely used, but we need 
+roads everywhere. Open data is the same, even though it’s not widely used. It has to be 
+there, because you never know when somebody wants to use that data [...] We don’t have 
+a problem with technical knowledge – there’s no question of technical capacity. But if there 
+is no market demand then [civil servants] start asking why [open data is] needed.” Estonia
+Recommendation: Foster external support within industry, civil society and academia to 
+drive continued demand for open data. External support can help to maintain political will 
+to invest in open data and be a source of ongoing learning and dialogue.
+Encouraging ongoing learning
+The literature on cultural change emphasises readiness to reflect, admit mistakes and make 
+changes quickly. This goes hand-in-hand with ongoing monitoring of progress against success 
+metrics to evaluate errors. Several interviewees also emphasised the importance of “learning 
+by doing”, and being prepared to admit mistakes and adapt plans as necessary. As one official 
+from the UK explained:
+23 Cabinet Office (2012) Open Data: Unleashing the potential, Cabinet Office
+
+Open data in government: how to bring about change | Open Data Institute 201532
+“I suppose you just learn as you go along about what goes well and what doesn’t go well. 
+As opposed to having a plan that you can adapt and amend, you just get a sense of what 
+works.” UK (Cabinet Office) 
+Another strong theme emerging from the interviews is the importance of reflection throughout 
+the process of design and implementation. In the race to launch open data portals when trying 
+to secure a quick win, or in the face of strong external pressure (as discussed in Part 2), often 
+not enough time or consideration is put into learning or capacity building around open data. 
+Realising that a lack of basic understanding of open data potentially slows down progress, 
+several  countries  are  now  reverse-engineering  organisational  learning  programmes  for  civil  
+servants. 
+Various approaches to ongoing learning are being explored within the countries surveyed. 
+These include hosting regular presentations and workshops with institutions implementing open 
+data, journalists, NGOs and university ICT or innovation departments to share experiences and 
+challenges of working with open data. Along with employing the similar idea of a data literacy 
+camp, the Kenyan Government is also employing a more direct approach, talking through 
+concerns over open data amongst government officials and offering reassurances.
+Recommendation:  Introduce  opportunities  for  civil  servants  to  take  part  in  ongoing  
+learning about open data. This could be through open data training, secondments to ‘best 
+practice’ teams working with open data or regular workshops. This will help you continue to 
+improve and expand the reach of your open data initiative. 
+Evaluating open data outcomes
+A key departure from the literature in countries surveyed is the lack of focus on monitoring 
+and evaluation. Given the relatively early stage of most open data initiatives surveyed, we 
+encountered few references to how leaders are monitoring and measuring their success. This 
+could be a reflection of how the open data initiative was launched. As was the case in Kenya 
+and Chile, open data initiatives are often launched rapidly in response to top-down pressure, 
+without time to develop a detailed strategy for implementation that include defined success 
+metrics, and a plan for monitoring and evaluation. In other cases, open data initiatives unfold 
+in an organic or opportunistic fashion. In these situations, little attention is sometimes paid at 
+the design stage to defining metrics to measure wider cultural change.
+The Open Data Research Network is beginning to think more about defining metrics to measure 
+progress and evaluate initiatives, both in terms of cultural change and external impacts on 
+
+Open data in government: how to bring about change | Open Data Institute 201533
+society.
+24
+ More work needs to be done in terms of action learning and evaluation of open data 
+initiatives – including organisational aspects – to understand how change happens. It is too 
+early to say whether using ‘blunt levers’ such as introducing domestic legislation will have a 
+trickle-down effect on organisational cultural change. Qualitative research such as surveying 
+civil servants, for example, could help to track how attitudes and behaviour evolve over time 
+in response to open data.
+Recommendation: Build in metrics to regularly evaluate your open data activities. This 
+will help you to measure progress, benchmark success and identify areas for improvement. 
+Conclusion
+Government open data initiatives – whether cross-departmental or within a department – will 
+only work well if the government can transition easily to publishing and using open data. 
+Integrating  organisational  change  management  into  an  initiative  from  the  outset  can  help  
+embed a sustainable open data culture. It can also help to maximise the potential impacts of 
+open data for economic growth, improved policy-making and social and environmental benefit. 
+The public sector is large, and open data is generally cross-departmental, coordinated by one 
+central agency, with a high degree of IT involvement. This means that government transition 
+to using and producing open data will not be an incremental, step-by-step process, but more 
+multifaceted. 
+The interrelated recommendations set out in this paper could be therefore be applied in different 
+combinations and at different times to help bring about lasting change. These range from 
+articulating a vision for how open data can solve problems, finding quick wins and securing 
+high-level support to engaging grassroots champions, encouraging feedback and being flexible 
+and responsive to the needs of different departments. 
+This paper is the starting point for a deeper exploration of how change happens in government 
+to support open data. Over the next 12-18 months, we will look to build on the themes and 
+scope of this paper, through the forthcoming International Leaders Network and other global 
+forums.
+ 
+There  are  still  areas  to  be  further  explored  around  organisational  change  management  to  
+24 See www.opendataresearch.org for details of research projects on these topics.
+
+Open data in government: how to bring about change | Open Data Institute 201534
+support open data. For example, making sure that hiring and organisational structure practices 
+and policies do not stop change from happening was one of the 10 common principles for 
+change management derived from the literature, but was not raised in any of the interviews. 
+This could be perhaps because this aspect of change management has not been acted on, or 
+because the open data initiatives are still too relatively new.  As a result, no recommendations 
+on human resources and organisational structure are made in this paper.
+ 
+The next edition of this paper might also explore in greater detail how organisational change 
+guidance might differ for a central agency coordinating open data policy across government, 
+as compared with a headline initiative from an individual department. The ODI will continue to 
+explore ways to build on this first paper.
+
+Open data in government: how to bring about change | Open Data Institute 201535
+About the Open Data Institute and the Partnership for Open Data
+This paper is part of a series produced by the Open Data Institute, as part of the Partnership 
+for Open Data (POD), funded by the World Bank.
+What is open data?
+Open  data  is  data  that  is  made  available  by  governments,  businesses  and  individuals  for  
+anyone to access, use and share. 
+What is the Open Data Institute?
+The Open Data Institute (ODI) is an independent, non-profit and non-partisan company based in 
+London, UK. The ODI convenes world-class experts from industry, government and academia 
+to collaborate, incubate, nurture and explore new ideas to promote innovation with open data. 
+It was founded by Sir Tim Berners-Lee and Professor Sir Nigel Shadbolt and offers training, 
+membership, research and strategic advice for organisations looking to explore the possibilities 
+of open data.
+In its first two years, the ODI has helped to unlock over US$55m in value through the application 
+of open data. With 24 nodes around the world, the ODI has trained more than 500 people 
+from over 25 countries. In 2014, the ODI trained officials from countries including Botswana, 
+Burkina Faso, Chile, Malaysia, Mexico, Moldova, Kyrgyzstan and the UK on the publication 
+and use of open data. 
+What is the Partnership for Open Data?
+The Open Data Institute has joined Open Knowledge and the World Bank in the Partnership 
+for Open Data (POD), a programme designed to help policy-makers and citizens in developing 
+countries to understand and exploit the benefits of open data. The partnership aims to: support 
+developing countries to plan, execute and run open data initiatives; increase reuse of open 
+data in developing countries; and grow the base of evidence on the impact of open data for 
+development. The initial funding comes from The World Bank’s Development Grant Facility 
+(WB DGF).
+25
+Under POD, the ODI has carried out open data readiness assessments, strategic advice, 
+25 Partnership for Open Data website: http://theodi.org/odp4d
+
+Open data in government: how to bring about change | Open Data Institute 201536
+training and technical assistance for low- and middle-income countries across four continents. 
+In 2015, POD will merge with the Open Data for Development (OD4D) network. As part of this 
+new, larger network, the ODI will continue to take a lead in supporting the world’s government 
+leaders in implementing open data, and in doing so will continue to publish practical guides 
+and learning materials such as this series of reports.
+What do you think?
+The  ODI  will  continue  to  explore  ways  to  build  on  this  paper,  and  encourages  feedback  and  
+comments from the open data and global development communities. Get in touch with fiona.
+smith@theodi.org to share your thoughts.
+
+Open data in government: how to bring about change | Open Data Institute 201537
+Appendix 1
+The ‘10 principles for change management were identified through a synthesis of literature 
+on organisational change management. They provide a starting point for examining change 
+management in the context of open data. Based on these principles and interviews with 
+government officials in seven countries, we came up with our own recommendations for 
+managing organisational change to support open data. The common principles were:
+1. Build agreement for change
+The literature review seeks to secure broad agreement on the need to change from the status 
+quo position, which Kelman refers to as building a “constituency for change.”
+26
+ Preparing 
+the organisation to embrace change also involves anticipating potential barriers, such as a 
+lack of will. It may also be important to develop compelling messaging to mitigate resistance.
+2. Develop a shared vision and strategy
+Articulate a vision that aligns with the original values and ethos of the organisation (such as 
+delivering effective services), and communicate the vision frequently using different mediums. 
+A clear vision provides the anchor for a long-term strategy, which should ideally include 
+specific policy-oriented goals, and incorporate cultural, technical, economic, social, legal, 
+institutional and implementation aspects. Where possible, there should be opportunities for 
+civil service staff to participate in the strategy development process to enhance ownership 
+and support for the transformation initiative.
+3. Get a change team together to guide the change process 
+A change team needs diverse representation from across the agency, including respected 
+long-time civil servants (‘insiders’) to ensure broad buy-in, solicit feedback, identify issues 
+requiring most urgent attention, and participate in design/re-design activities. Along with an 
+internal change team, convening an external advisory group or seeking ongoing stakeholder 
+engagement – with civil society, the ICT and business communities – may also help to inform 
+design and ensure relevance to society’s needs. 
+4. Combine top-down and bottom-up leadership styles 
+Strong leadership and commitment from top levels of management is needed to drive the 
+26 Kelman, S. (2005) Unleashing change: A study of organisational renewal in government, Brookings Institution Press
+
+Open data in government: how to bring about change | Open Data Institute 201538
+vision, and set the change process in motion. Top-down leadership should be combined 
+with  an  emergent  style  which  harnesses  bottom-up  knowledge  and  expertise,  and  taps  
+into ‘pro-change’ forces. 
+5. Make change sustainable, and find quick wins
+To sustain support for the transformation, plan for tangible results that can be achieved quickly 
+and early. Demonstrate the benefits of open data through pilot projects, phased roll-out, or 
+learning exchanges between city councils and local government branches.
+6. Human resources and structure are enablers, not barriers, for supporting transformation
+Modify structures, policies and incentives regarding hiring, job titles, rewards and skill sets 
+to align with the needs of open data. Provide incentives for behavioural change and reward 
+employees based on expertise, leadership, increased responsibility, their contribution to the 
+mission and innovation. To increase motivation, give staff explicit permission to innovate, and 
+empower individual agencies to develop and test their own solutions.
+7. Maintain open communication and trust
+Create an environment which supports two-way communication (via internal and external 
+channels), so that critics and supporters have equal voice. Provide ongoing opportunities for 
+participation and consultation so that employees understand the objectives of the initiative, 
+and can make a serious contribution to the programme.
+8. Become a ‘learning organisation’
+Collect data to track the progress and commitment to change within the public sector 
+agency. Evaluate activities and programmes for continuous learning (“learning by doing”), 
+and demonstrate a readiness to admit mistakes, including making admissions to the public. 
+Iterate and make changes quickly (“fail fast, fail cheaply”), while continually reviewing success 
+metrics for relevancy. 
+9. Be agile and responsive
+Embrace experimentation and innovation through rapid design and piloting before scaling-up 
+(especially where new technology is involved). Place ‘data users’ at the core of any project 
+design to ensure what is delivered meets their needs. Adjust project design and transition 
+plans based on regular user-testing and reviews.
+10. Monitor long-term change
+Crowdsource stories from frontline users in different contexts to inspire the vision for how this 
+change can bring benefits – to service delivery, for example – to find new solutions. Depending 
+on the context, tap into external sources of support, such as citizen or business demands, or 
+“political windows”, to sustain enduring support beyond central government election cycles.
+
+Open data in government: how to bring about change | Open Data Institute 201539

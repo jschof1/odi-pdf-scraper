@@ -1,0 +1,992 @@
+
+
+ 
+
+ 
+Contents 
+Executive summary 
+Introduction 
+The growth of data collection in the private sector 
+Supporting sharing of data across the private sector 
+The role of the private sector in data ecosystems 
+Data as an enabler of new business models 
+Data as enabler for existing business models 
+Cross-cutting challenges driving the sharing of data 
+Changing regulatory environment 
+Increasing need for collaboration 
+Increasingly competitive markets 
+Demands for more data to harness new technologies 
+Climate and environmental challenges 
+How can sharing data create value? 
+Improving market reach 
+Benchmarking and insights 
+Open innovation 
+Benefits of regulated sharing 
+Supply chain optimisation 
+Addressing sector challenges 
+Building trust 
+Recommendations 
+Appendix: Methodology 
+Discovery 
+Alpha 
+ 
+  
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About 
+This report was produced as part of a three-year innovation programme funded by 
+Innovate UK. The views in this report are those of the authors. 
+ 
+This report has been researched and produced by the Open Data Institute (ODI), 
+and was published in March 2020. The lead authors are Josh D’Addario, Leigh 
+Dodds, Walter Brown, James Maddison; ODI.  
+ 
+To share feedback by email or to get in touch, contact the private sector data-sharing 
+project lead, ​Josh D’Addario​. To share feedback in the comments, highlight the 
+relevant piece of text and click the ‘Add a comment’ icon on the right-hand side of 
+the page. 
+ 
+ 
+ 
+How can it be improved? We welcome suggestions from 
+the community in the comments. 
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   3 
+
+ 
+Executive summary 
+ 
+Businesses can create value by using third-party data to develop new products and 
+services. But our research has shown that they can unlock more value by sharing 
+data they have collected. 
+ 
+A changing landscape of consumer and citizen rights, and expectations over privacy 
+and data portability, require businesses to improve how they access, use and share 
+data. This creates both new challenges and new opportunities. 
+ 
+Increasingly competitive markets and complex supply chains require businesses to 
+rethink how they drive innovation; they can no longer expect competitive solutions to 
+solely come from their internal teams. 
+ 
+Use of artificial intelligence and machine learning is leading to increased demands for 
+data, which can be costly for individual organisations to collect and maintain. The 
+changing climate puts pressure on businesses across sectors, requiring them to 
+adapt to common challenges. 
+ 
+This report summarises our research exploring how businesses across a range of 
+sectors are sharing data in ways that directly and indirectly deliver value.  
+ 
+Sharing data can assist companies in increasing revenue, reducing direct costs, and 
+improving efficiency in operations. Our research has highlighted seven key business 
+benefits of sharing data: improving market reach; supporting benchmarking and 
+insights; driving open innovation; driving supply chain optimisation; embracing 
+regulated data sharing; addressing sector challenges; and building trust. Further 
+research may identify additional benefits. 
+ 
+In this report we explore how commercial organisations participate in data 
+ecosystems, the variety of challenges facing businesses, and describe the seven 
+types of value creation. A series of case studies provide real-world examples of 
+businesses that have successfully adopted each approach. 
+  
+Supporting businesses to unlock the value of data – in ways that will help address a 
+variety of social, environmental and economic problems – requires action by a range 
+of stakeholders. 
+ 
+Businesses must work together to create a stronger data infrastructure that supports 
+the data sharing across sectors. There is a role for professional bodies and industry 
+groups to convene businesses and explore the benefits of sharing data and 
+encourage collaboration. Governments need to continue to explore ways to both 
+incentivise and require businesses to increase access to data that can create wider 
+benefits. 
+ 
+In short, businesses, governments and professional associations need to work 
+together to build an open, trustworthy data ecosystem that maximises the value of 
+data, while mitigating potential harms.  
+ 
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   4 
+
+ 
+Introduction 
+ 
+Businesses around the world are rushing to unlock value from ever increasing 
+volumes of data. 
+ 
+The European Commission has estimated that the European Union (EU) data 
+economy was worth €300bn in 2016, and estimates that this will increase to €739bn 
+in 2020. McKinsey has projected that data-enabled applications of artificial 
+1
+intelligence (AI) will generate $13tn in new global economic activity by 2030. 
+2
+ 
+The routine collection of data from digital services and products, cheap sensors, 
+increasing connectivity, and easy access to large-scale computing platforms, are 
+enabling businesses of all sizes to create new products and services, and become 
+more data-informed. However, skills and expertise are becoming limiting factors. 
+The growth of data collection in the private sector  
+ 
+Historically, this ability to collect detailed data about our society, economy and 
+environment was restricted to national governments and agencies. But this capability 
+is now accessible to many businesses, through routine data collection from their 
+products and services, or by collecting and combining data from multiple sources.  
+ 
+Google and Apple are now creating ​some of the world’s most accurate and widely 
+used maps, outstripping the capabilities of national mapping agencies. The Weather 
+3
+Company, among others, is competing with national meteorological services for a 
+share of ​the weather data market​. Social networks and digital advertising networks 
+4
+are collecting large amounts of demographic data about individuals, including 
+profiling their social and economic activities.  
+5
+ 
+Analysis of the growth of the data economy and, in particular, the potential impacts of 
+the open data movement, have tended to focus on the untapped potential of 
+government data, with the private sector playing a role in unlocking that value. For 
+example: 
+ 
+1
+ European Commission (2017), ‘Final results of the European Data Market study measuring the size and trends 
+of the EU data economy’, 
+https://ec.europa.eu/digital-single-market/en/news/final-results-european-data-market-study-measuring-si
+ze-and-trends-eu-data-economy 
+2
+ ​McKinsey (2018), ‘Notes from the AI frontier: Modeling the impact of AI on the world economy’, 
+https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-modeling-the-
+impact-of-ai-on-the-world-economy#part1 
+3
+ Open Data Institute (2018), ‘The UK’s geospatial data infrastructure: challenges and opportunities’, 
+https://docs.google.com/document/d/17tPPEi4HHkSkSiLfhp7FkMakx11sIHAoo58v729yU7k/edit#heading
+=h.iajg2z7wdbnj  
+4
+ ​Open Data Institute (2017), ‘The state of weather data infrastructure – white paper’, 
+https://theodi.org/article/4021/  
+5
+ The Guardian (2018), ‘Are you ready? Here is all the data Facebook and Google have on you’, 
+https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-priv
+acy#  
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   5 
+
+ 
+●The $3tn per year valuation of the open data market by McKinsey in 2013 centred 
+on the value of combining open government data with shared data held by 
+businesses.  
+6
+●In 2014, Lateral Economics estimated that the potential value of open data to the 
+G20 would be around $2.6tn a year, contributing to aggregate the group’s 
+cumulative gross domestic product (GDP) of around 1.1% from 2014–2019, or 
+55% of the G20’s 2% additional growth target. 
+7
+●In 2020, the European Data Portal estimated that the value of open data for the 
+EU28+  was €184bn in 2019, and forecast it to reach between €199.51 and 
+€334.21bn by 2025. The report also looked at employment figures, with 1.09 
+million open data employees in 2019 and 1.12 to 1.97 million open data 
+employees forecast by 2025. 
+8
+●Transport for London has reported that use of its open data has allowed private 
+sector companies to contribute between £12m and £15m per year to the London 
+economy. 
+9
+ 
+With private sector collection of data now outstripping that of governments, greater 
+attention is being paid to the need to increase access to data held by commercial 
+organisations. 
+ 
+Continued growth of the data economy requires increased sharing of data between 
+businesses, and between businesses and government. Data needs to flow across all 
+actors, in order that its use can create economic, social and environmental value. 
+Supporting sharing of data across the private 
+sector 
+ 
+To facilitate access to data, governments are exploring ways to address the need to 
+increase access to private sector data.  
+ 
+One approach has been through regulation, for example, open banking and related 
+10
+regulations in the banking and finance sectors. Policymakers in cities around the 
+world are looking to introduce regulations that allow them to access data held by 
+ride-sharing companies, to inform transport policies. 
+11
+ 
+But, while regulation can require sharing of data, other approaches are needed to 
+ensure that sharing data can be routinely carried out under beneficial terms, while 
+ensuring it is used in safe, ethical ways that minimise harms. 
+ 
+6
+ McKinsey Global Institute (2013), ‘Open data: Unlocking innovation and performance with liquid information’, 
+https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/open-data-unlocking-innovati
+on-and-performance-with-liquid-information  
+7
+ Lateral Economics (2014), ‘Open for Business: How Open Data Can Help Achieve the G20 Growth Target’, 
+https://www.omidyar.com/sites/default/files/file_archive/insights/ON%20Report_061114_FNL.pdf  
+8
+ European Data Portal (2020), ‘The Economic Impact of Open Data: Opportunities for value creation in 
+Europe’, ​https://www.europeandataportal.eu/sites/default/files/the-economic-impact-of-open-data.pdf  
+9
+ ​Transport for London (2017), ‘​TfL’s free open data boosts London's economy​’ 
+https://tfl.gov.uk/info-for/media/press-releases/2017/october/tfl-s-free-open-data-boosts-london-s-econo
+my  
+10
+ Financial Times (2019), ‘Open banking: the quiet digital revolution one year on’, 
+https://www.ft.com/content/a5f0af78-133e-11e9-a581-4ff78404524e  
+11
+ ​NYU Wagner (2019), ‘E-Hail Regulation in Global Cities’, 
+ ​https://wagner.nyu.edu/impact/research/publications/e-hail-regulation-global-cities 
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   6 
+
+ 
+Some businesses are routinely sharing data with each other. A 2015 ​study of 270 UK 
+companies by the Open Data Institute (ODI)​ showed that about half used data from 
+non-government sources, including other companies. A 2019 EU consultation of 
+12
+nearly 1,000 small businesses found that a third acquire data from other companies.  
+13
+ 
+However, many businesses are still struggling to see the value of sharing data. A 
+report by the Lloyd’s Register Foundation highlighted that businesses in the 
+14
+engineering and construction sectors are still cautious about sharing data. Issues 
+include commercial and legal risks around sharing data, and a lack of clarity around 
+the benefits of sharing data. 
+ 
+The ODI’s experience of engaging with our commercial partners, and our user 
+15
+research on what organisations need in order to share more data, reflects this wider 
+16
+uncertainty on both strategic and operational issues. 
+ 
+Frameworks to support legal, ethical and trustworthy sharing of data are clearly 
+necessary. The EU is currently developing guidance to help build confidence around 
+approaches to sharing data across the private sector. The draft guidance includes 
+17
+five principles for business-to-business sharing of data, covering transparency, 
+shared value creation, respect for commercial interests, ensuring undistorted 
+competition, and minimising data lock-in.  
+18
+ 
+The EU-funded Data Pitch project was intended to develop practical insights and 
+drive innovation around sharing data between businesses. 
+19
+ 
+A UK government discussion paper on the economic value of data identified five 
+challenges for the UK economy, and recommended the enabling of safe, legal data 
+20
+sharing, in part by developing repeatable terms for sharing data between businesses, 
+under mutually beneficial agreements.  
+ 
+Other approaches involve exploring the use of a wider set of ​data access models​, 
+21
+like ​data trusts​. Data trusts, inspired by legal trusts, enable people or organisations 
+22
+to share data with others, with data governance decisions made by ‘trustees’ with 
+fiduciary responsibilities. They represent one kind of ‘data institution’; an organisation 
+with some level of responsibility for stewarding data. 
+23
+12
+ ​Open Data Institute (2015), ‘Open data means business’, 
+https://theodi.org/article/open-data-means-business/  
+13
+ European Commission (2019), ‘SME panel consultation – B2B Data Sharing’, 
+https://ec.europa.eu/digital-single-market/en/news/sme-panel-consultation-b2b-data-sharing  
+14
+ ​Lloyd’s Register Foundation (2019), ‘Insight report on sharing engineering data’, 
+https://www.lrfoundation.org.uk/en/news/insight-report-on-data/ 
+15
+ ​Open Data Institute (2017), ‘The value of open data for the private sector’, 
+https://theodi.org/article/the-value-of-open-data-for-the-private-sector/ 
+16
+ ​Open Data Institute (2018), ‘What organisations need in order to share more data: our research’, 
+https://theodi.org/article/what-organisations-need-in-order-to-share-more-data-our-research/ 
+17
+ ​European Commission (2019), ‘Guidance on private sector data sharing’, 
+https://ec.europa.eu/digital-single-market/en/guidance-private-sector-data-sharing 
+18
+ ​European Commission (2018), ‘Staff Working Document – Guidance on sharing private sector data in the 
+European data economy’, 
+https://ec.europa.eu/digital-single-market/en/news/staff-working-document-guidance-sharing-private-sect
+or-data-european-data-economy 
+19
+ ​Data Pitch (2020), ‘Data Pitch Impact Assessment: our learnings’, 
+https://datapitch.eu/news/data-pitch-impact-assessment-our-learnings/ 
+20
+ ​HM Treasury (2018), ‘The economic value of data: discussion paper’, 
+https://www.gov.uk/government/publications/the-economic-value-of-data-discussion-paper 
+21
+ Open Data Institute (2019), ‘Mapping the wide world of data sharing’, 
+https://theodi.org/project/the-data-access-map/  
+22
+ Open Data Institute (2019), ‘Data trusts: lessons from three pilots (report)’, 
+https://theodi.org/article/odi-data-trusts-report/  
+23
+ Open Data Institute (2020), ‘What do we mean by data institutions?’, 
+https://theodi.org/article/what-do-we-mean-by-data-institutions/  
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   7 
+
+ 
+But, there is also a need to clearly articulate the business benefits of sharing data. 
+This is the goal of this report. 
+ 
+We explore how businesses are generating value by sharing data with others, 
+including suppliers, partners and even competitors.  
+ 
+We also look at how private sector businesses can unlock value by sharing data.  
+ 
+In the following sections we provide some background on the roles that commercial 
+businesses play in data ecosystems, and the cross-cutting challenges faced by 
+businesses across a range of sectors.  
+ 
+We then document seven ways in which companies create direct bottom-line benefits 
+by sharing data they have collected. 
+ 
+  
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   8 
+
+ 
+The role of the private sector 
+in data ecosystems 
+ 
+The concept of a​ business ecosystem​ has been defined as ‘an economic 
+community supported by a foundation of interacting organizations and individuals’.  
+24
+ 
+The network of organisations in an ecosystem includes suppliers, distributors, 
+customers, competitors, government agencies, and other organisations involved the 
+delivery of a specific product or service through both competition and cooperation. 
+25
+ 
+The ODI has defined a ​data ecosystem​ as consisting of ​data infrastructure – such 
+26
+as data assets, standards, technologies, policies – and the people, communities and 
+organisations that benefit from the value created by it.  
+27
+ 
+The two terms are closely aligned. The increasing importance of data in 
+business-to-business interactions makes it an important element in understanding 
+the changing forms of value exchange and interactions within ecosystems. An 
+28
+emphasis on data helps bring focus to how the flow of data is essential to value 
+creation. 
+ 
+While businesses can play a variety of roles in a data ecosystem, they broadly fall 
+29
+into one or more of the following: 
+ 
+●Consumer​. Directly benefiting from consuming third-party data or insights, to 
+improve their products, services and business processes. 
+●Intermediary​. Aggregating and sharing data sourced from third parties, to provide 
+data products or insights to downstream consumers of data. Data intermediaries 
+are organisations and individuals located in a data supply chain. 
+30
+●Provider​. Publishing data and sharing data with other businesses, communities, 
+individuals or government agencies, to provide insights or enable innovation and 
+collaboration. 
+ 
+To properly understand the value to the private sector of sharing data, we need to 
+consider each of these roles and how use of data enables both new and existing 
+business models. 
+ 
+  
+24
+ ​Moore (1996), ‘The death of competition: leadership and strategy in the age of business ecosystems’ 
+25
+ ​Investopedia, ‘What is a business ecosystem?’, 
+https://www.investopedia.com/terms/b/business-ecosystem.asp  
+26
+ ​Open Data Institute (2016), ‘What is data infrastructure?’, ​https://theodi.org/topic/data-infrastructure/  
+27
+ Open Data Institute (2018), ‘Mapping data ecosystems: methodology’, 
+https://theodi.org/article/mapping-data-ecosystems/  
+28
+ Gartner (2017), ‘8 Dimensions of Business Ecosystems’, 
+https://www.gartner.com/smarterwithgartner/8-dimensions-of-business-ecosystems/  
+29
+ ​Open Data Institute (2018), ‘Mapping data ecosystems: methodology’​, 
+https://theodi.org/article/mapping-data-ecosystems/  
+30
+ Web Foundation (2015), ‘Open data intermediaries in developing countries’, 
+http://webfoundation.org/docs/2015/08/ODDC_2_Open_Data_Intermediaries_15_June_2015_FINAL.pdf 
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   9 
+
+ 
+Data as an enabler of new business models 
+ 
+A data business is a private sector organisation that uses, produces, or otherwise 
+invests in data as a key element of their business model. Accessing, sharing and 
+publishing data are key focuses of their operational activities. 
+ 
+Our research into open data businesses has identified a variety of business models, 
+31
+including: 
+ 
+●Creating value through publishing​. Cities promote companies like BikeCitizens 
+and Green City Solutions because of the value of the data that they generate and 
+share or publish as a result of their main business of providing bike share 
+programmes and reducing air pollution, respectively. 
+●Generating revenue through publishing​. Data businesses can use freemium and 
+cross-subsidy models to generate revenue from publishing open data. Freemium 
+models grant access to open data while introducing premium paid tiers for certain 
+types of access or value-added services. Cross-subsidy models use free open 
+data services to attract customers to other paid-for services, or to generate leads 
+for other business opportunities. 
+●Combining data from multiple sources​. Data businesses often rely on various 
+data sources, internal and external, open and shared, to be combined in 
+innovative ways to help customers solve problems. 
+ 
+Business models that have proved to be successful for open source are also relevant 
+to data businesses. For example, service provision, freemium models, collaborative 
+management and cross-subsidies. 
+32
+ 
+A taxonomy of data-driven business models developed by the University of 
+Cambridge identifies six categories: 
+33
+ 
+●Free data collector and aggregator​ – creation and distribution of aggregated 
+data collected from primarily public and open sources. 
+●Analytics-as-a-service ​– providing analysis of data provided by customers, with 
+insights delivered as data to be used by customers. 
+●Data generation and analysis​ – creation of new data assets for reuse by others. 
+●Free data knowledge discovery​ – provision of insights, including 
+recommendations, monitoring and analytics, using public and openly available 
+data. 
+●Data-aggregation-as-a-service​ – aggregation of internal sources of data, for 
+example about customers, across an organisation. 
+●Multi-source data mash-up and analysis​ – combining shared, public and open 
+data to provide analytics and insights. 
+ 
+Taxonomies and analyses of this type are particularly helpful in identifying new 
+opportunities and business models within the broader data economy. They are 
+particularly relevant for startups and small businesses developing new products and 
+services within the data economy. But how do we understand the role of publishing 
+and sharing data within existing business models? 
+31
+ Open Data Institute (2018), ‘Data entrepreneurship: exploring successful business models with open data’, 
+https://theodi.org/wp-content/uploads/2018/03/ODI_ODINE-2018-1-3.pdf  
+32
+ Jeni’s Musings (2012), ‘Open data business models’, 
+https://www.jenitennison.com/2012/08/20/open-data-business-models.html  
+33
+ University of Cambridge (2014), ‘Big data for big business? A taxonomy of data-driven business models used 
+by start-up firms”, 
+https://cambridgeservicealliance.eng.cam.ac.uk/resources/Downloads/Monthly%20Papers/2014_March_D
+ataDrivenBusinessModels.pdf  
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   10 
+
+ 
+Data as enabler for existing business models 
+ 
+Many companies will not see themselves as ‘data businesses’, because their primary 
+focus – for example the provision of fitness classes, designing aircraft or delivering 
+manufactured components – is not centred on the collection or publication of data. 
+But data is becoming an increasingly important part of their daily operations. 
+ 
+The growth of data-related roles in the private sector, such as the Chief Data Officer 
+(CDO), and the continued increase in demand for data scientists, shows that many 
+3435
+businesses are moving to improve their use, management and governance of data in 
+order to improve decision making and drive innovation. 
+ 
+A 2015 study into the use and application of analytics within businesses identified 
+three levels of maturity across organisations that were driving competitive advantage 
+and innovation. ‘Analytical Innovators’ were identified as being ‘more strategic in 
+36
+their application of analytics, place a high value on data, and have higher levels of 
+data management and analytical skills’.  
+ 
+An updated report by the same authors in 2017 further explored the use of analytics 
+as a source of business innovation, using the same model. They found that 
+37
+‘Analytical Innovators’ were using data and analytics to explore incremental 
+innovation in existing products, services and processes, as well as creating new 
+products, services and business models. 
+ 
+The authors noted that organisations with a high ability to innovate were sharing data 
+both internally and beyond company borders at much higher levels than other 
+organisations. Making data ‘shareable by default’ is therefore important to enabling 
+38
+innovation within businesses and across their ecosystems. 
+ 
+The focus of our analysis and of the case studies presented in this report has been on 
+exploring the benefits to individual organisations of sharing data with their 
+ecosystems. 
+ 
+  
+34
+ Gartner (2019), ‘Gartner Research Board identifies the Chief Data Officer 4.0’, 
+https://www.gartner.com/en/newsroom/press-releases/2019-07-30-gartner-research-board-identifies-the-
+chief-data-officer-4point0  
+35
+ TechTarget (2019), ‘Demand for data scientists is booming and will only increase’, 
+https://searchbusinessanalytics.techtarget.com/feature/Demand-for-data-scientists-is-booming-and-will-in
+crease 
+36
+ Ransbotham, Kiron, Prentice (2015), ‘Minding the analytics gap”, 
+https://sloanreview.mit.edu/article/minding-the-analytics-gap/  
+37
+ ​Ransbotham, Kiron (2017), ‘Analytics as a source of business innovation’, 
+https://sloanreview.mit.edu/projects/analytics-as-a-source-of-business-innovation/ 
+38
+ ​Thomson Reuters, Open Data Institute (2016), ‘Shareable by default: creating resilient data ecosystems’, 
+https://theodi.org/article/white-paper-shareable-by-default-creating-resilient-data-ecosystems/ 
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   11 
+
+ 
+Cross-cutting challenges 
+driving the sharing of data 
+ 
+Businesses across a range of sectors are facing a number of common challenges 
+that are driving them to explore the value of sharing data. 
+ 
+Changing regulatory environment 
+ 
+Changing expectations around privacy and data protection mean that companies are 
+having to re-evaluate their approach to collecting, managing and sharing data. 
+General Data Protection Regulation (GDPR) and similar regulations include data 
+portability provisions that require businesses to share more data with their customers 
+and users.  
+ 
+Sector-specific regulation, aimed at creating fairer markets, is also increasingly aimed 
+at ensuring businesses share more data with regulators and their broader ecosystem. 
+ 
+Increasing need for collaboration 
+ 
+Platform business models, complex supply chains and service delivery models, and 
+opportunities to deliver complementary products and services, are requiring 
+businesses to share more information, business intelligence and insight. 
+ 
+Increasingly competitive markets 
+ 
+Globalisation and increased use of digital products and services means that 
+businesses are facing an increasingly competitive marketplace. Sharing and using 
+data internally can help to drive innovation within existing business processes and 
+services, and can help to reduce costs; as can sharing data across supply chains, for 
+example. 
+ 
+The ability to access more competitive intelligence on market size is leading to 
+organisations sharing data with analytics firms. 
+ 
+Demands for more data to harness new technologies 
+ 
+New technologies such as AI and machine learning require access to large volumes 
+of data. These technologies are being used to innovate in existing sectors and are 
+driving the growth of emerging sectors, for example autonomous vehicles.  
+ 
+Without sharing data, businesses face the cost of collecting and labelling data. By 
+engaging in pre-competitive collaboration with others in their sector to collect 
+necessary data, companies may be able to share costs and reduce time to market. 
+ 
+Climate and environmental challenges 
+ 
+The challenges presented by a changing environment are an issue for businesses in 
+all sectors.  
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   12 
+
+ 
+How can sharing data 
+create value? 
+After analysing over 80 examples of data sharing across a range of business 
+ecosystems, we have identified seven categories of value generation. These are 
+outlined in the following section, along with links to illustrative case studies. 
+ 
+ 
+​This image is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 
+4.0 International License 
+ 
+ 
+Improving market reach 
+ 
+Increasing access to data can promote products and services to a wider range of 
+customers. By making information about products and services findable and 
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   13 
+
+ 
+accessible to a new audience – one that is not being served by current sales and 
+marketing efforts – businesses can generate new sales and opportunities.  
+ 
+Sharing and opening data about their products and services allows businesses to 
+work with third parties that can:  
+ 
+●widen their pool of potential customers​ by supporting the creation of new 
+discovery tools, such as tailored search engines and recommendation systems, 
+that are designed around the needs of specific communities  
+●develop complementary products and services​ that will support specific 
+customers, while driving revenue to existing product lines. 
+ 
+Businesses in a wide range of sectors have long been sharing data and information 
+as a means to increase their market reach. Our research has found that by sharing 
+reference data about available products, coupled with data and application 
+programming interfaces (APIs) that support creating transactions (purchasing a 
+product, placing a booking), businesses can generate additional revenue and reach a 
+broader market. Availability of this information might also help them better engage 
+with their existing customer base.  
+Benchmarking and insights 
+Increasing access to data for benchmarking against other organisations can provide 
+useful insight to inform and shape decision making. Companies can use 
+benchmarking against cross-industry metrics and best practices to: 
+ 
+●drive investment decisions ​by understanding how competitors are investing in 
+new technologies, like AI 
+39
+●increase efficiency and productivity ​by comparing spending and performance 
+with similar organisations to drive operational changes 
+40
+●improve equality and diversity​ in the workplace by benchmarking salaries to 
+create fairer pay banding and improve hiring practices 
+41
+●address health and safety issues​ by understanding frequency of accidents and 
+acting to address potential issues 
+42
+●improve sales processes ​by understanding more about patterns of procurement.
+  
+43
+ 
+Sharing data is fundamental to successful benchmarking to allow for comparison 
+across a range of organisations working in the same industry. But businesses are 
+reluctant to share data directly with their competitors. Individual competitor 
+organisations can, however, share data with cross-industry organisations, who then 
+pool the data to create aggregate datasets that can be analysed to deliver individual 
+insights. 
+ 
+39
+ McKinsey Digital (2017), ‘Building efficient IT organizations: Insights from our benchmarks’, 
+https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/building-efficient-it-organizati
+ons-insights-from-our-benchmarks 
+40
+ ​Designing Buildings Wiki (2019), ‘Project benchmarking’,. 
+https://www.designingbuildings.co.uk/wiki/Project_benchmarking 
+41
+ UK Gender Pay Gap Service (nd), ​https://gender-pay-gap.service.gov.uk/  
+42
+ ​Health and Safety Executive (2019), ‘PABIAC 2015-2019 Strategy’ 
+https://www.hse.gov.uk/paper/pabiac-strategy.htm 
+43
+ Spend Network (nd), ​https://www.spendnetwork.com/  
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   14 
+
+ 
+Case study: HiLo Maritime Risk Management 
+ 
+Our benchmarking and insights case study describes how competitor 
+organisations in the maritime sector are sharing data with HiLo Maritime Risk 
+Management, enabling it to deliver insights to improve safety in the shipping 
+industry. 
+ 
+Read the case study 
+Open innovation 
+Increasing access to data for effective collaboration between businesses can allow 
+companies to apply external ideas and technology to help find new solutions to their 
+business challenges.  
+ 
+Sharing data is essential to building effective collaborations that can deliver impact 
+through an outsourced research and development process. Sharing operational data 
+can help external organisations explore, analyse and use that data to provide 
+insights, identify efficiency savings or demonstrate the value of new technologies. 
+ 
+Data Pitch​, an EU-funded open innovation programme, was designed to support 
+corporate and public sector organisations in sharing data with startups and small and 
+medium-sized enterprises (SMEs) to solve sector- and business-level challenges.  
+44
+ 
+ 
+Case study: Greiner Packaging International and OBUU 
+ 
+Our open innovation case study focuses on one example in the Data Pitch 
+programme, where Greiner Packaging International (GPI) shared data with 
+logistics intelligence company OBUU to help monitor the resilience and 
+efficiency of its supply chain. 
+ 
+Read the case study 
+Benefits of regulated sharing 
+Increasing access to data to go beyond simple regulatory compliance can realise 
+additional benefits. Regulatory compliance is necessary for companies to continue 
+operating within their industry, but rather than an unwelcome obligation, the need to 
+comply with regulation can be an opportunity to re-engage with customers and to 
+drive innovation. 
+ 
+Clear and visible support for data protection regulation can help ​build trust with 
+consumers​. Embracing data sharing provisions in regulation specifically, for 
+45
+44
+ Data Pitch (nd), https://datapitch.eu/  
+45
+ ​Open Access Government (2018), ‘The five key business benefits of GDPR’, 
+https://www.openaccessgovernment.org/the-five-key-business-benefits-of-gdpr/44554/  
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   15 
+
+ 
+example, the data portability right included in GDPR, can ​allow companies to explore 
+new ways to attract and retain customers​. 
+46
+ 
+Regulation intended to increase market competition can create opportunities for 
+existing providers, and not just new entrants. 
+ 
+ 
+Case study: Barclays  
+ 
+Our regulated data sharing case study describes how Barclays saw extra 
+potential in the implementation of open banking regulations in the UK to 
+provide new services, and build confidence with new and existing customers. 
+ 
+Read the case study 
+Supply chain optimisation 
+Increasing access to data can help to optimise and improve a supply chain in a 
+variety of ways:
+,
+ 
+4748
+ 
+●Improve the speed and accuracy of product design and distribution ​by 
+communicating key information on design specifications and logistics in real time. 
+●Improve collaboration and trust among supply chain partners​ by sharing and 
+adopting best practices and insights, while helping to reduce administrative costs. 
+●Improve flexibility of operations down the supply chain ​by having the most up 
+to date information on supply, demand, and external factors such as weather. 
+●Improve overall cost management​ by providing more insight into inventory 
+levels, price fluctuations, distribution networks, transport capacity and more. 
+●Improve the transparency and provenance of the supply chain to ensure 
+ethical operations​ by understanding the means of sourcing raw materials, 
+building components, and transporting goods and materials. 
+ 
+Increased access to real-time engineering data between organisations in a supply 
+chain allows for much faster and more accurate product design, improving overall 
+efficiency of delivery and contributing towards supply chain optimisation. 
+ 
+ 
+Case study: Airbus  
+ 
+Our supply chain optimisation case study explores how Airbus is sharing 
+engineering data on its airplane concepts with supply chain partners in order 
+to improve the efficiency and accuracy of their product design. 
+46
+ ​Open Data Institute (2017), ‘The EU General Data Protection Regulation: opportunities for grocery retail,, 
+https://theodi.org/article/the-eu-general-data-protection-regulation-opportunities-for-grocery-retail/ 
+47
+ MobilityWork (2019), ‘Data sharing: What are the prospects for the supply chain?’, 
+https://www.mobility-work.com/blog/data-sharing-supply-chain  
+48
+ McKinsey (2016), ‘Supply Chain 4.0 – the next-generation digital supply chain’, 
+https://www.mckinsey.com/business-functions/operations/our-insights/supply-chain-40--the-next-generati
+on-digital-supply-chain  
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   16 
+
+ 
+ 
+Read the case study 
+Addressing sector challenges 
+Increasing access to data can help in tackling sector-wide issues in a competitive 
+industry that cannot be solved by a single organisation alone. Common challenges 
+cover a range of issues, including a need to: 
+ 
+●develop a collective response to common organisational issues, ​for example 
+by improving health and safety in the workplace, developing skills or improving 
+productivity 
+●adapt to regulatory changes​ that, for example, might require operational 
+changes to how businesses deliver services and share information 
+●respond to social and environmental issues, such as climate change or adapting 
+to the needs of an ageing population 
+●build the market for a new sector,​ through collaboration, and creating shared 
+resources, data and standards 
+●test and apply new technologies ​that may change how services are delivered.  
+ 
+Often these challenges will require collaboration across a sector in order to improve 
+conditions for the industry as a whole.  
+ 
+ 
+Case study: PassivSystems and Open Climate Fix 
+ 
+In our addressing sector challenges case study we look at how PassivSystems 
+and Open Climate Fix are working to address some of the challenges involved 
+in “decarbonising” the UK energy sector and the shift to more renewable 
+energy sources. 
+ 
+Read the case study 
+Building trust 
+Increasing access to data can build trust among consumers, partners and 
+governments. When companies have trusted brands, they are more likely to have 
+better sales, and more opportunities for collaboration could become available. 
+ 
+Businesses are increasingly collecting data not just about their direct business 
+activities, but also their workforce, customers and environment. Reducing 
+unnecessary data collection, and ensuring that data is used and shared in ethical 
+ways, is already fundamental to building a trusted business. Sharing data, in ways 
+that protect privacy and deliver value back to consumers, citizens and society, is also 
+becoming increasingly important. 
+  
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   17 
+
+ 
+Recommendations 
+Our case studies demonstrate that sharing data can have direct benefits to individual 
+businesses and sectors, as well as having broader social, environmental and 
+economic impacts.  
+ 
+We have shown that businesses increase access to data for a variety of reasons, 
+relating to specific challenges and opportunities relevant to their business 
+ecosystems. We have initially identified seven broad categories of value creation, but 
+believe further analysis would identify additional benefits.  
+ 
+To further explore this area, we have identified a number of recommendations, for 
+individual businesses, industry bodies, as well as governments and regulators. 
+Unlocking the full benefits of an open, trustworthy data ecosystem will require 
+collaboration across a range of stakeholders. 
+ 
+Businesses wanting to increase access to data that they hold should: 
+ 
+●review our case studies​ to help develop understanding of the range of ways in 
+which data sharing can benefit business 
+●design internal skills and learning programmes to build an understanding of 
+the value of data ​at all levels of the organisation 
+●engage with internal stakeholders and potential partners ​to explore how key 
+business challenges may be addressed through better use of data 
+●participate in innovation programmes​ and accelerators, like ​Data Pitch​, or 
+academic partnerships, as a means of getting facilitated support on sharing data 
+that will help to address a business need or opportunity 
+●review current approaches to sharing data, both internally and with suppliers and 
+partners, to​ identify and explore new approaches to data sharing 
+●develop a data strategy ​that will help to improve data governance and develop 
+the internal data literacy required to make business-held data ‘shareable by 
+default’  
+49
+●address internal concerns about the risks of data sharing, by ensuring there are 
+appropriate policies that support ethical and legal sharing of data​. 
+ 
+Businesses wanting to take a lead in their sector should: 
+ 
+●document and share successes​ to build on these case studies and invite more 
+opportunities to benefit from further data sharing  
+●convene an ecosystem of partners, suppliers and customers ​to explore ways 
+to increase access to data that will create business benefits, while respecting 
+privacy and minimising harms. 
+ 
+Professional associations, industry bodies and sector initiatives should: 
+ 
+●convene businesses within their networks​ to help map out current and future 
+data ecosystems that will unlock value for all participants 
+●document and share insights ​around the benefits of increasing access to data 
+around specific sector challenges 
+49
+ ​Thomson Reuters, Open Data Institute (2016), ‘Shareable by default: creating resilient data ecosystems’, 
+https://theodi.org/article/white-paper-shareable-by-default-creating-resilient-data-ecosystems/ 
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   18 
+
+ 
+●develop codes of practice, guidance and training​ that will help businesses 
+within a sector to share data, while respecting privacy and minimising harms. 
+ 
+Governments and regulatory bodies should: 
+ 
+●run innovation programmes​, like ​Data Pitch​, that will help to facilitate open 
+innovation around sharing of data, to deliver value within specific sectors  
+●fund and support work to scope and incubate new data access initiatives​, 
+like data trusts, that will help organisations within a sector to share data in ways 
+that will preserve privacy and increase trust 
+●ensure that data shared as part of regulatory changes is made as open as 
+possible​, to help develop open, trustworthy data ecosystems 
+●build requirements for increasing access to data into funding agreements​ for 
+activities that deliver on industrial strategies, such as the UK Sector Deals and 
+Grand Challenges 
+●support the development of legal frameworks and guidance​ that will help 
+support ethical, legal and trustworthy sharing of data across a range of sectors. 
+ 
+Organisations of all types within the engineering, manufacturing and construction 
+sectors may also want to endorse our manifesto for increasing access to engineering 
+data. 
+50
+  
+50
+ ​Open Data Institute (2019), ‘A manifesto for sharing engineering data’, 
+https://theodi.org/article/engineering-data-for-the-public-good-a-manifesto/ 
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   19 
+
+ 
+Appendix: Methodology 
+To explore the benefits that private sector organisations receive from increasing 
+access to data that they hold, the ODI undertook the following activities across the 
+discovery and alpha phases of our project. 
+Discovery  
+Desk research 
+We started the project with desk research that mapped over 80 examples of private 
+sector organisations that share data. From these examples, we analysed and 
+grouped the various types of business value we observed.  
+ 
+Our analysis explored different characteristics of the commercial environment of data 
+sharing, such as: 
+ 
+●Did the data sharing initiative seek to increase revenues, decrease costs, or both? 
+●Was the data sharing focused on direct tangible benefits, such as measurable 
+cost reductions, or indirect benefits such as reputation improvement? 
+●What sector or industry did the businesses operate in and how was this linked to 
+the data sharing initiative? 
+●Did the competitiveness of the industry have an observable effect on the nature of 
+data sharing? 
+ 
+At the end of this initial desk research period, we reached out to businesses in our 
+network to verify these business values. 
+ 
+Interviews  
+To validate the findings from the desk research, we conducted discovery interviews 
+with seven companies from a variety of sectors, such as travel, finance and 
+engineering. These interviews aimed to identify whether interviewees recognised 
+these business values in their own work, and if there were any additional business 
+values to consider. 
+Alpha 
+Commissioned reports 
+We leveraged research commissioned for other programmes we have supported, 
+such as the ​London Economics impact report for the ​Data Pitch​ open innovation 
+51
+programme, and the Frontier Economics impact report on open standards, which 
+includes ​OpenActive. This informed some of the ecosystem benefit analysis in the 
+52
+report and case studies. 
+ 
+ 
+ 
+51
+ London Economics (2019), ‘Data Pitch evaluation’, 
+https://datapitch.eu/wp-content/uploads/2020/01/London-Economics-Data-Pitch-evalu
+ation-FINAL-PDF.pdf  
+52
+ OpenActive (nd), ‘Helping physical activity reach everyone’, https://www.openactive.io/  
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   20 
+
+ 
+Interviews 
+We conducted additional interviews with 10 stakeholders from a range of companies 
+who exhibited the realisation of the business values that we had identified in the 
+discovery phase. The interviews aimed to understand the following: 
+ 
+●The data sharing process itself, including the technologies and actors involved. 
+●The purpose of sharing data from the organisation’s own perspective. 
+●The financial and non-financial benefits that the organisation has seen so far, or 
+expects to see. 
+●The wider ecosystem implications of the data sharing initiative, including what 
+other organisations are involved or impacted, and the benefits they receive. 
+ 
+ 
+Open Data Institute 2020 / ReportSharing data to create value in the private sector   21 

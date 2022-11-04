@@ -1,0 +1,2480 @@
+
+
+
+
+ 
+ 
+ 
+ 
+Executive summary 
+  
+ 
+Opendatacanbereleasedandusedtosupportsustainableglobaldevelopmentin             
+countlessways.Hereweprovideatoolforprioritisingwhichopendatatoreleaseto               
+addresschallengesacrosssixsectors:​education,health,transportation,        
+environment,sanitationandwaste,​andgovernance​.Theresourceisavailableasa            
+Google spreadsheet​, ​on the web​ and as a ​download​.  
+ 
+By2014therewerealreadyover3billioninternetusersworldwide,two-thirdsofwhom              
+werebasedindevelopingcountries.Mobile-cellularpenetrationisevenmorepervasive;           
+1
+indevelopingcountriesitisestimatedat90%(69%inAfrica).Withinthiscontext,open               
+2
+dataande-governancehaveemergedasglobaltrends.Over46countriesand200states,              
+regions or cities have introduced formal open data programmes. 
+3
+ 
+Herewehighlighthowgovernmentsapplyopendataaroundtheworldtohelppromote              
+sustainabledevelopment.Foreachsector,wemapoutrelevantdatasetsandexamplesof             
+real-worldopendataapplicationandtools.Wethenofferastartingpointandamenuof                
+options to help policy-makers choose datasets to release as open data.  
+ 
+Weselectedthedatasetsbasedonarigorous,multi-methodmethodology,inwhichwe             
+collectedmorethan100use-cases.Inmappingkeydatasetsagainstthesixsectors,we              
+foundthat​openspatialdataplaysacentralroleinglobaldevelopment.Thisincludes              
+mapsalongwithgeocodedlocationsofsector-specificfacilitiessuchasschoolsor            
+healthcareproviders.Forexample,inKenya,‘FindMySchool’​
+,
+usesaninteractivemap             
+45
+toplotschoollocationdata,allowingcitizenstofindoutaboutnearbyschools.Other              
+tools focus on transportation, helping citizens to avoid congestion and save time.  
+ 
+Otherkeyopendatasetsfocuson​budgets,spendingandcontracting​.Increasing           
+transparencyandaccountabilityingovernancecanleadtohighercitizenengagementand            
+improvedefficiencyingovernmentspending.AnexampleisBudgiTinNigeria,which            
+6
+enablesaccesstogovernanceandbudgetinformationfor174millioncitizensinAfrica’s             
+largest economy. 
+7
+ 
+1
+ International Telecommunication Union (2014) ​The World in 2014: ICT facts and figures​, Statistics Division 
+Telecommunication Development Bureau ITU. Available at 
+http://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2014-e.pdf​,​ accessed on 2014-12-20 
+2
+ Ibid. 
+3
+ Data.gov, ​Open Government,​ ​https://www.data.gov/open-gov​, accessed on 2015-01-05  
+4
+ Find My School Kenya, ​http://findmyschool.co.ke​, accessed on 2015-01-16 
+5
+ A critical study on the impact of open data in Kenya is: Mutuku, L., & Mahihu, C. (2014) ​Understanding the 
+impacts of Kenya open data applications and services​. Open data in developing countries. iHub Research. 
+Available at ​http://www.opendataresearch.org/sites/default/files/publications/ODDC%20Report%20iHub.pdf​, 
+accessed on 2015-01-17 
+6
+ BudgiT, ​http://www.yourbudgit.com​, accessed on 2015-01-15  
+7
+ ​Budget data is widely used,​ in Mejabi, O. V., Azeez, A.L., Adedoyin, A. & Oloyede, M. O. (2014) Case Study 
+Report on Investigation of the Use of the Online National Budget of Nigeria. University of Ilorin. Available at 
+http://www.opendataresearch.org/sites/default/files/publications/Investigation%20of%20Open%20Bud​get%20
+Data%20in%20Nigeria-print.pdf​, accessed on 2015-01-17 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+2 
+
+ 
+ 
+ 
+ 
+Thereisgrowingevidenceofopendatabeingusedindevelopingcountries,aswe              
+highlightbelow.Policy-makerscandrawonthistoimproveandsupporttheiropendata              
+initiatives to address development challenges.  
+ 
+Foradditionalguidanceonhowtobringaboutorganisationalchangetosupportand             
+sustainopendatainthelong-term,seetheODI’swhitepaper‘​Opendataingovernment:               
+how to bring about change.’ 
+8
+ 
+Open data is data that anyone can access, use and share​. It 
+supports global development by stimulating business innovation and 
+economic growth, improving transparency and accountability, and 
+increasing efficiencies in government and third sector organisations. 
+ 
+  
+8
+ Open Data Institute (2015) ​Open data in government: how to bring about change​, available at 
+http://theodi.org/open-data-in-government-how-to-bring-about-change​, accessed on 2015-03-03 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+3 
+
+ 
+ 
+ 
+ 
+Contents 
+  
+ 
+ 
+Introduction ​5 
+Our methodology in brief ​8 
+Tool: mapping datasets to global development goals10 
+Findings: what data is useful for development goals?12 
+1. Education: promoting access, information and inclusivity 
+2. Health: promoting access, quality and disease prevention 
+3. Transport: promoting access, efficiency and safety 
+4. Environment: addressing climate change, pollution and sustainability 
+5. Sanitation and waste: improving access, management and recycling 
+6. Governance: promoting transparency, justice and the economy 
+Conclusion34 
+About the ODI, POD and DaPaaS35 
+Appendix I: Methodology36 
+Appendix II​: ​Full list of identified sectors43 
+Appendix III​: ​Datasets used for the expert-driven mapping45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+4 
+
+ 
+ 
+ 
+ 
+Introduction 
+ 
+ 
+Thisreportgivespracticalguidancetosectorleadersandpolicy-makersonhowtouse              
+opendatatoaddressglobaldevelopmentchallenges.Weofferconcretereal-world           
+examplesofsuccessfulinterventions,alongwiththetypesofdatasetsthatneedtobe              
+available for people to replicate them. 
+ 
+Opendatacanhelptargetaidmoneyandenhancedevelopmentprogrammes.Ithelps             
+trackprogress,preventcorruptionandcontributestoinnovation,jobcreationand           
+economicgrowth.Over46countriesandover200statesorregionsnowhaveformal              
+opendataprogrammes.
+​
+AnanalysisofthelatestOpenGovernmentPartnershipaction  
+ 
+         
+9
+plansreveals142specificopendataactionsamongthe48membercountriesthathave              
+10
+sofarsubmittednationalactionplans.WhiledevelopedcountriessuchastheUSA,the              
+UKandFrancehavebeenearlyleaders,manydevelopingcountrieshavenowalso             
+establishedopendataprogrammes,includingBrazil,BurkinaFaso,Ghana,         
+111213
+Indonesia,KenyaandMoldova.Othercountries,despitenothavingaformal           
+141516
+programme, have made some of their data available. 
+ 
+Specialistsinsomesectorsareestablishinginternationalpolicyandtechnicalstandards​–            
+includingopenbudgets,aidtransparency,extractivestransparencyandopen         
+171819
+contracting​–aswellasoverallassessmentsofnationalperformanceincludingtheOpen             
+20
+Data Index
+​
+ and the Open Data Barometer. 
+2122
+ 
+Whilethesearepositivesteps,achievingrealimpactdependsonreleasingtherightdata              
+andturningthatdataintousefulservicesorcivicaction.Manyopendataprogrammes              
+haveunderperformedbecauseeitherorbothofthesefactorsaremissingor            
+underdeveloped.Forexample,theOpenDataBarometerpointsto“onesided[opendata]             
+initiatives[...]wheregovernmentactiontopublishselecteddatasetsisnotmatchedby             
+civilsocietycapacityandfreedomtoengagewiththedata,norbyprivatesector              
+involvement in the open data process”. 
+9
+ Data.gov, ​Open Government,​ ​https://www.data.gov/open­gov​, accessed on 2015­01­05  
+10
+ ​Open Government Partnership action plans, ​http://goo.gl/hwXobK​, accessed on 2015­01­05  
+11
+ Portal Brasiliero de Dados Abertos, ​http://dados.gov.br​, accessed on 2015­01­14 
+12
+ Open Data Burkina Faso, ​http://data.gov.bf​, accessed on 2015­01­14 
+13
+ Data Portal Ghana, ​http://data.gov.gh​, accessed on 2015­01­14 
+14
+ Data Portal Indonesia, ​http://data.go.id​, accessed on 2015­01­14 
+15
+ Kenya Open Data, ​https://www.opendata.go.ke​, accessed on 2015­01­14 
+16
+ Portalul Guvernamental al Datelor Deschise, ​http://www.date.gov.md​, ​accessed on 2015­01­14 
+17
+ Open Budget Survey, ​The Open Budget Index, ​http://survey.internationalbudget.org/#rankings​, 
+accessed on 2015­01­05 
+18
+ International Aid Transparency Initiative, ​http://www.aidtransparency.net​, accessed on 2015­01­05  
+19
+ Extractive Industries Transparency Initiative, ​https://eiti.org​, accessed on 2015­01­05 
+20
+ Open Contracting Data Standard, ​http://standard.open­contracting.org​, accessed on 2015­01­05  
+21
+ Open Knowledge, ​Global Open Data Index​, ​http://index.okfn.org​, accessed on 2015­01­05  
+22
+ ​Open Data Research Network (2013) ​Open Data Barometer 2013 global report​, available at 
+http://www.opendataresearch.org/barometer​, accessed on 2015­01­05 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+5 
+
+ 
+ 
+ 
+ 
+ 
+However,whenusedaspartofastructuredintervention,opendatacanbeverypowerful.               
+For example: 
+ 
+-Aprogrammetoimprovehealthcarethroughacombinationofquantitativedataon            
+performanceandcommunityparticipationhelpedtoreduceinfantmortalityin          
+ruralUgandabyaroundonethird​,whereasstimulatingsimilarparticipation          
+withoutperformancedatahadlittleimpactonhealthworkers’behaviourorthe            
+quality of healthcare 
+23
+-Trainingjournalistsintheuseofdataraisedawarenessandprompted​official            
+actiononsanitationinKenyanschools​,althoughthedataitselfhadalready            
+been in public view 
+24
+-Check-My-SchoolinthePhilippineshasusedofficialdata,crowd-sourced         
+verificationandcommunitymonitoringto​increasetransparencyandsocial         
+accountabilityinthePhilippineeducationsectorbytrackingtheprovisionof           
+services in public schools 
+25
+ 
+Opendatahasthebestimpactwhenappliedaspartofaprocesstoachievechange.The                 
+use cases in this paper show some of the ways in which this works. These include: 
+ 
+-empoweringindividualsandcommunitiestopresslocalprovidersfor         
+improvements in their local public services 
+-improvingthetransparencyandaccountabilityofofficialsandserviceproviders          
+throughoutthedeliverychain,andthereforeputtingmorepressureoneachof            
+them to improve 
+-improvingtheefficiencyofmarketsandprovidingagreaterbalanceofeconomic            
+power between suppliers, middlemen and consumers 
+ 
+Sectorspecialistsoftenfinditdifficulttoseetherelevanceofopendatatotheirarea.One                 
+purposeofthisreportistoinvertthisview.Bytakingdevelopmentsectorsasastarting                
+point,weprovideabasisforpolicy-anddecision-makerstonavigatethelandscapeof              
+data in their own sectors that can help address their goals. We cover: 
+ 
+-Relevantexperiencesofothers​,notasexamplestobepreciselycopied,butasa              
+toolkitofpossibleinterventionsfordesigningnewprojectsinspecificdevelopment           
+situations. 
+23
+ World Bank (2014) ​Information is power: experimental evidence on the long­run impact of community 
+based monitoring, Volume 1, ​available at ​http://go.worldbank.org/BKF1LUKR20​, accessed on 
+2015­01­05 
+24
+ Butler, P. (2012) Data “bootcamp” helps Kenyan reporter expose school sanitation woes. ​International 
+Center for Journalists​,​ ​available at 
+http://www.icfj.org/news/data­%E2%80%9Cboot­camp%E2%80%9D­helps­kenyan­reporter­expose­sch
+ool­sanitation­woes​, accessed on 2015­01­05 
+25
+ World Bank (2013) ​Philippines: Check­My­School: Monitoring made easy with dedicated volunteers 
+and ICT tools​, available at 
+http://www.worldbank.org/en/news/feature/2013/02/06/check­my­school­monitoring­made­easy­with­dedi
+cated­volunteers­and­ict­tools​, accessed on 2015­01­05  
+ 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+6 
+
+ 
+ 
+ 
+ 
+-Theprecisetypesofsector-specificdatathatcanleadtoresults​.Tobe             
+actionable,thedatausedneedstoberelevantandsufficientlydetailed​–even             
+though different organisations may have arranged their data in different ways. 
+-How such data has been used in practice​ to give results in each specific sector. 
+-Priorities​.Manydevelopmentchallengestakealongtimetosolveduetolimited             
+resourcesandcapacities.Basedonwhatdataisavailable,wesuggestdatasetsto             
+prioritise releasing the widest possible impacts. 
+ 
+Relevantdatadoesnotexistinaccessible,digitalformsinmanycontextswithinglobal              
+development.Inothers,itdoesnotexistatall.However,itisbecomingmorecommonfor                
+developmentprojectstoincorporatedatacollectionandmanagementcomponentstofill           
+thisgapfortheproject'sownneedsorforofficialdatatobecombinedwith               
+crowdsourceddata.Thekeytypesofdataidentifiedherecouldalsobeusefulin              
+designing and prioritising these processes. 
+ 
+  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+7 
+
+Our methodology in brief
+The primary objective of this research is to support people in addressing specific civic                            
+and development challenges through the release and application of open data. Our                       
+guidance and use cases therefore highlight key sectors, their specific challenges and the                              
+data that could be released to help solve them. 
+The remainder of this report is based on the following main components: 
+1.A list of development sectorsand their corresponding civic and development                            
+challenges
+2.A list of open datasets​ with potential relevance to these challenges
+3.Specific challenges​ mapped to requisite open datasets
+4.An extensive database of use casesillustrating and providing evidence for these                   
+mappings
+Figure 1 provides a summary of the​seven stages of the research process​, which are                           
+described in more detail in the ​appendix​. 
+Figure 1. Summary of the research process 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+8 
+
+ 
+ 
+ 
+ 
+Howwechosesixdevelopmentsectorsand18subgoalsto          
+support with open data 
+ 
+Thestartingpointforchoosingthesectorsandsubgoalsforwhichopendatacouldhave               
+thegreatestimpactswastoreviewsevenexistingdevelopmentandpolicyframeworks.            
+AmongthemweretheWorldBankdevelopmentprogrammes,theUNMillenium           
+DevelopmentGoalsandtheUN2014OpenWorkingGroupproposalforSustainable            
+Development Goals (see the appendix for the full list.) 
+ 
+Wemappedtheframeworksandformedclustersofsectors,goalsandthemeswithin             
+them,whichwerethenaggregated,deduplicatedanditerated.Thisprocessidentified11            
+development sectors, each with three subgoals.  
+ 
+Ourresearchfoundalargenumberofrelevantopendatausecases.However,because              
+theywerenotevenlydistributed,wenarrowedthesectoralfocustothosewithinwhich              
+opendatawasmorecommonlyused.Byexcludingsectorshere,wedidnotundermine              
+theimportanceoftheopendatausedwithinthem.Ifmoreusecasesappearinthe                
+excludedsectorsinfuture,themethodologyofthisresearchcanbeappliedtothose              
+sectors as well.  
+ 
+Theresultswerecross-validatedagainsttheprioritiesidentifiedbytheWorldBankand             
+theUNaswellasourownexpert-drivensectormapping(seeappendixformore              
+information).  
+ 
+Thisselectionprocessultimatelyidentifiedsixsectors​,whichare:​education,health,           
+transport, environment, sanitation and waste, and governance. 
+ 
+ 
+  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+9 
+
+Tool: Mapping datasets to global development 
+goals
+Based on the results of our research, we developed a decision-making tool to help map                                       
+the six development sectors to a number of high-impact open datasets. It is designed to                               
+help policy-makers establish which datasets to prioritise releasing at a national level,                 
+depending on the development challenges they seek to address. It can be used to identify                                      
+datasets which are likely to have an impact across multiple sectors. 
+The tool is based on an evidence-driven research approach, validated through the                         
+expert-driven mapping. Over 100 use cases have been identified and referenced to                               
+demonstrate the potential impact of key dataset release. 
+Figure 2 below shows a visual extract of the tool, implemented in a tabular form online.                                
+The resource is available as a ​Google spreadsheet​, ​on the web​ and as a ​download​.  
+Figure 2. Screenshot of the online tool (showing the tooltip of the first cell) 
+The tool is straightforward to use​: development areas and their subgoals are listed in                            
+columns and research-driven datasets are listed in rows. Hovering over the datasets                           
+provides a description of the types of data that may be included. The use of an open                                                   
+dataset to address a development subgoal is represented by ‘X’​– hovering over each ‘X’                                 
+will bring up information about this use, listing key use cases. 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+10 
+
+ 
+ 
+ 
+ 
+ 
+Findings: what data is useful for development goals?  
+ 
+Thissectionhighlightsdatasetsthatarerelevanttosixglobaldevelopmentsectors,drawn             
+fromthedatasetmappingtool.Theycanbeusedindividuallyorcollectivelyby             
+policy-makersanddevelopmentgroupstoexplorethevalueofusingandreleasing            
+datasets in specific areas. 
+ 
+The global development sectors examined in this report are: 
+ 
+1.Education 
+2.Health 
+3.Transport 
+4.Environment 
+5.Sanitation and waste 
+6.Governance 
+ 
+Foreachsector,thedatasetsaremappedagainstthreeidentifiedsubgoals.Each            
+intersectionisgivenanidentifyingnumberanddefinedbelow,withanexplanationofthe              
+dataitmayinclude.Wehighlightusecasesfromdeveloping(andsomedeveloped)             
+countries, and describe how the data might impact on a particular development subgoal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+11 
+
+ 
+ 
+ 
+ 
+ 
+1. Education: promoting access, information and inclusivity 
+ 
+Data 
+Access to 
+education 
+Information and 
+decision-making 
+in education 
+Inclusivity of 
+education 
+Education provider performance data  1.1  
+Education provider location data 1.2 1.3  
+Education provider census  1.4  
+Education provider sanitation data  1.5  
+National library bibliography 1.6  1.7 
+Library location data 1.8   
+Planimetric maps 1.9   
+Budget, spending and contracting data  1.10  
+ 
+Which kinds of data are useful? 
+ 
+Education provider performance data 
+Dataontheperformanceofeachschool,suchasaggregateexaminationresultsobtained             
+atallrelevantlevelsofeducationincluding,wherepossible,typesofexams,qualifications             
+and courses offered. 
+ 
+Education provider location data 
+Geocodedlocationsofschoolsandothereducationproviderswhichmayincludenational            
+grid references, addresses and/or latitude/longitude coordinates. 
+ 
+Education provider census 
+Dataonvarioustypesofeducationprovidersandaggregatepupilcharacteristicsforeach             
+ofthem,whichmayincludeproviderclassification,numberofpupils,capacity,language            
+and religious character (if any). 
+ 
+Education provider sanitation data 
+Dataonthestateofthesanitationfacilitiesforeacheducationproviderandschool,such               
+as clean water accessibility and type and number of toilet facilities. 
+ 
+National library bibliography 
+Acatalogueofitemsavailableinanation’slibraries,includingmetadataonbothphysical              
+and online holdings. 
+ 
+Library location data 
+Geocodedlocationsofanation’slibrarieswhichmayincludenationalgridreferences,            
+addressesand/orlatitude/longitudecoordinatesandadditionalinformationonopening         
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+12 
+
+ 
+ 
+ 
+ 
+times, accessibility and programmes of events where possible. 
+ 
+Planimetric maps  
+Georeferencedplanimetricmapsfeaturingtransport,waterandbuildinginfrastructure         
+provided, where possible, at a suitable resolution (such as 1:25,000). 
+ 
+Budget, spending and contracting data 
+Dataonpublicsectorfinancesforeducation,whichmayincludepublicsectorspending             
+byschoolandbytypeofexpenditure(teachers,books,maintenance,etc),andeducation             
+department budget, grant and contract data. 
+ 
+How can the data be used? 
+Access to education 
+1.2
+ 
+Citizenscanfindandlocateschoolsusingtoolssuchas‘OurSchools,OurData’(Burkina               
+Faso),Check-My-School(Philippines),Pickaskool(Singapore),FindMySchool        
+262728
+(Kenya), eduPOA (Brazil) and Mtawjh (Morocco). 
+293031
+ 
+1.6
+ 
+Citizenscanaccesslibraries'cataloguesofitemsusingtoolssuchasLibraries@SG            
+(Singapore). 
+32
+ 
+1.8
+ 
+Citizens can find and locate libraries using tools such as Libraries@SG (Singapore). 
+ 
+1.9
+ 
+Citizenscanidentifyschoolswhicharemostaccessibleforthemorplanthemostefficient               
+routetoaspecificschoolbyusingtoolssuchasFindMySchool(Kenya)andPickaskool                
+(Singapore), which have been adapted to enable route planning. 
+ 
+Information and decision-making in education 
+1.1
+ 
+26
+ Open Data Institute (2014) ​Burkina Faso launches open data initiative with mentoring from the ODI 
+and funding from the World Bank, ​available at 
+http://theodi.org/news/burkina-faso-launches-open-data-initiative-with-mentoring-from-the-odi-and-fun
+ding-from-the-world-bank​, accessed 2015-03-09 
+27
+ Checkmyschool, ​http://www.checkmyschool.org​, accessed 2015-03-09 
+28
+ BasicMove Consultancy (2013) ​Pickaschool (Ver 1.0),​ retrieved from 
+https://itunes.apple.com/sg/app/pickaskool/id629971312​, accessed 2015-03-09  
+29
+ Find my school, ​http://findmyschool.co.ke​, accessed 2015-03-09 
+30
+ Petro Dutra (2014​) eduPOA (Ver 1.0)​, retrieved from 
+https://itunes.apple.com/us/app/edupoa/id929910545?mt=8​, accessed 2015-03-09  
+31
+ Open Data Institute (2014) ​Morocco’s first open data hackathon, ​available at 
+http://theodi.org/blog/moroccos-first-open-data-hackathon​, accessed 2015-03-09 
+32
+ Ken Toa (2015) ​Libraries@SG (Ver 1.0.6)​, retrieved from 
+https://play.google.com/store/apps/details?id=com.kentoh.librariessg​, accessed 2015-03-09  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+13 
+
+ 
+ 
+ 
+ 
+Citizenscanidentifyandcomparetheacademicresultsobtainedatdifferentschools            
+and/orgeographicalareasusingtoolssuchasFindMySchool(Kenya),CourseBoard            
+(Morocco), Mineduc Móvil (Chile), EduSG (Singapore) and Skills Route (UK).  
+33343536
+ 
+1.3
+ 
+Citizenscanidentifyandcomparethedistancestodifferentschoolsusingtoolssuchas              
+‘OurSchools,OurData’(BurkinaFaso),FindMySchool(Kenya),Pickaskool(Singapore),            
+iTutor (Singapore), eduPOA (Brazil) and Mtawjh (Morocco). 
+ 
+1.4
+ 
+Citizenscanidentifyandcomparethenon-academiccharacteristicsandfacilitiesof           
+differentschoolsusingtoolssuchAlfaMD(Moldova),EduSG(Singapore),illustreets(UK)          
+37
+ and Mtawjh (Morocco). 
+38
+ 
+1.5
+ 
+Citizenscanidentifyandcomparethelevelofsanitationandthefacilitiesofferedby              
+differentschoolsand/orgeographicalareasusingtoolssuchasStateofSchoolSanitation             
+Infographic(Nepal,India),‘OurSchools,OurData’(BurkinaFaso)andNTVKenya            
+39
+(Kenya). 
+40
+ 
+1.10 
+Citizenscantrack,monitorandviewreportsoneducationbudgetimplementation,           
+enablingthemtoholdtheirgovernmenttoaccountanddemandimprovedserviceusing             
+toolssuchastheEducationBudgetTracker(Nigeria),Check-My-School(Philippines)          
+4142
+and Big Results Now (Tanzania). 
+43
+33
+ Open Data Institute (2014) ​Morocco’s first open data hackathon, ​available at 
+http://theodi.org/blog/moroccos-first-open-data-hackathon​, accessed 2015-03-09 
+34
+ Ministerio de Educación (2012​) Mineduc Móvil (Ver 1.6)​, retrieved from 
+https://play.google.com/store/apps/details?id=cl.tide.mineduc&hl=es​, accessed 2015-03-09 
+35
+ ITDaddy (2013) ​EduSG (Ver 1.1.0.0)​, retrieved from 
+http://www.windowsphone.com/en-us/store/app/edusg/803f3b5c-0348-459b-9c76-cacd0f6fd502​, 
+accessed 2015-03-09 
+36
+Nesta (2014) ​Skills Route shows the way for next generation of education open data apps, 
+http://www.nesta.org.uk/blog/skills-route-shows-way-next-generation-education-open-data-apps​, 
+accessed 2015-03-09 
+37
+ Alfa.md, ​http://afla.md/​, accessed 2015-03-09 
+38
+ Illustreets, ​http://illustreets.co.uk​, accessed 2015-03-09 
+39
+ Open Nepal (2013) ​An infographic for state of school sanitation in Nepal 
+http://data.opennepal.net/content/infographics-state-school-sanitation-nepal​, accessed 2015-03-09.  
+40
+ International Center for Journalists (2012) ​Data “boot camp” helps Kenyan reporter expose school 
+sanitation woes, ​available at 
+http://www.icfj.org/news/data-%E2%80%9Cboot-camp%E2%80%9D-helps-kenyan-reporter-expose-
+school-sanitation-woes​, accessed 2015-03-09 
+41
+ Global Partnership for Education (2014). ​Nigeria: Tracking the education budget with technology, 
+available at ​http://www.globalpartnership.org/blog/nigeria-tracking-education-budget-technology​, 
+accessed 2015-03-09 
+42
+ ​World Bank (2013) ​Philippines: Check­My­School: Monitoring made easy with dedicated volunteers 
+and ICT tools​, available at 
+http://www.worldbank.org/en/news/feature/2013/02/06/check­my­school­monitoring­made­easy­with­dedi
+cated­volunteers­and­ict­tools​, accessed on 2015­01­05 
+43
+ World Bank (2014) ​How Tanzania plans to achieve "big results now" in education, ​available at 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+14 
+
+ 
+ 
+ 
+ 
+ 
+Inclusivity of education 
+ 
+1.7
+ 
+Accesstolibraries'resourcescanbeextendedbeyondthoseintraditionaleducation            
+using tools such as Libraries@SG (Singapore). 
+ 
+ 
+  
+http://www.worldbank.org/en/news/feature/2014/07/10/how-tanzania-plans-to-achieve-big-reforms-no
+w-in-education​, accessed 2015-03-09 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+15 
+
+ 
+ 
+ 
+ 
+2. Health: promoting access, quality and disease prevention  
+ 
+Data 
+Access to 
+healthcare 
+Quality of 
+healthcare 
+provision 
+Preventing the 
+spread of 
+disease 
+Healthcare provider location 2.1
+ 
+2.2
+ 
+ 
+Healthcare delivery statistics 2.3
+ 
+2.4
+ 
+ 
+Clinical and medical practice guidelines 2.5 2.6 2.7 
+Disease,vaccinationandprescription    
+statistics 
+  2.8 
+Planimetric maps 2.9  2.10 
+Weather data 2.11  2.12 
+Pollution data 2.13   
+Budget, spending and contracting data  2.14  
+ 
+Which kinds of data are useful? 
+ 
+Healthcare provider location 
+Geocodedlocationsofregisteredhealthcareproviders(doctors’practices,clinics,         
+hospitals,pharmacies,dentalsurgeries)whichmayincludenationalgridreferences,          
+addressesand/orlatitude/longitudecoordinatesandadditionaldetailsontheservices          
+provided, specialisms and practitioners where possible. 
+ 
+Healthcare delivery statistics 
+Measuresofthequalityofspecifichealthcareservicesbasedonrelevantperformance            
+measures and opinion surveys. 
+ 
+Clinical and medical practice guidelines 
+Up-to-date medical information on health issues and treatments. 
+ 
+Disease, vaccination and prescription statistics 
+Statisticalinformationontheprevalence,riskandtreatmentofdiseasesandillnesses,            
+where possible, by locality. 
+ 
+Planimetric maps  
+Georeferencedplanimetricmapsfeaturingtransport,waterandbuildinginfrastructure         
+provided, where possible, at a suitable resolution (such as 1:25,000). 
+ 
+Weather data 
+Real-timeandhistoricobservationaldata,andforecastdata,whichmayincludeweather            
+states, temperatures, rainfall and wind speed. 
+ 
+ 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+16 
+
+ 
+ 
+ 
+ 
+Pollution data 
+Dataonvarioustypesofpollutionincluding,butnotlimitedto,apollutioninventory              
+(regulatedandotherwise),pollutantconcentrationandarealocationaldataandemissions           
+of air, land and water pollutants. 
+ 
+Budget, spending and contracting data 
+Dataonpublicsectorfinancesforhealth,whichmayincludepublicsectorspendingby              
+locality and health care provider, and health department budget, grant and contract data. 
+ 
+How can the data be used? 
+Extending access to healthcare 
+2.1 
+Citizenscanlocateandusethenearesthealthcareprovidersusingtoolssuchas             
+FarmaciasdeTurnoChile(Chile),MOHiHealthSG(Singapore),HealthFacilities           
+4445
+(Ghana) and Onde ser Atendido (Rio de Janeiro, Brazil). 
+4647
+ 
+2.3
+ 
+Citizensareabletomakechoicesbetweenhealthcareprovidersbasedonquality,which             
+mayencouragetheuseofhealthcarefacilities,byusingtoolssuchasTemporadaDe              
+Passes (Uruguay) and Find the Best Hospital (UK).  
+4849
+ 
+2.5
+ 
+Citizensarebetterabletounderstandillnessesandtreatments,allowingthemtomake             
+informeddecisionsaboutseekingappropriatemedicationandcare,whenusingtools           
+such as MedAfrica (Africa), InfoVacunas (Chile) and Iodine (USA). 
+505152
+ 
+2.9 
+Medicalpractitionersareabletolocatepatientsfasterusingtheoutputsofmapping             
+projects such as Humanitarian Openstreetmap Team and MSF Missing Map Project. 
+5354
+44
+ Apps Path (2014) ​Farmacias de Turno Chile (Ver 1.6), ​retrieved from 
+https://play.google.com/store/apps/details?id=com.appspath.farmaciasdeturnocl​, accessed 
+2015-03-09  
+45
+ Ministry of Health, SIngapore (2014) ​MOH iHealth Sg (Ver 3.0.2), ​retrieved from 
+https://play.google.com/store/apps/details?id=gov.moh.sg.ihealth.search&hl=en​, accessed 2015-03-09  
+46
+ Health Facilities in Ghana, 
+https://www.google.com/fusiontables/DataSource?docid=1xxX5BkwVc8uSfRbY04WGMcQbZDPTSj8M
+cMLsz7A#map:id=3​, accessed 2015-03-09  
+47
+ Onde ser Atendido, ​http://www.rio.rj.gov.br/web/sms/onde-ser-atendido​, accessed 2015-03-09  
+48
+ 180 Ciencia y data, ​Temporada De Passes,​ ​http://mutualistas.datauy.org/departamento​, accessed 
+2015-03-09  
+49
+ Find the Best, ​Hospital comparison, ​http://hospitals.findthebest.co.uk​, accessed 2015-03-09  
+50
+ MedAfrica, ​http://www.medafrica.org/index.php​, accessed 2015-03-09  
+51
+ Jorge Diaz Villegas (2014) ​InfoVacunas (Ver 1.2), retrieved from 
+https://play.google.com/store/apps/details?id=cl.ceisufro.infovacunas​, accessed 2015-03-09  
+52
+ Iodine, ​http://www.iodine.com​, accessed 2015-03-09  
+53
+ OpenStreetMap, ​Humanitarian OpenStreetMap team, ​http://hot.openstreetmap.org​, accessed 
+2015-03-09  
+54
+ Medicins sans Frontieres, ​Missing Maps project,​ ​http://www.msf.org.uk/missing-maps-project​, 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+17 
+
+ 
+ 
+ 
+ 
+2.11 
+Citizensandpolicy-makerscanbemadeawareofforecastedandcurrentextreme            
+weatherevents,whichmayincreasetheirabilitytoidentify,planandimplementmeasures             
+to mitigate the effects of these on health.  
+ 
+2.13 
+Policy-makersmayidentifyandplanhealthcareinterventionsandpreventionmeasures           
+usingtoolswhichrelatelevelsandsourcesofpollutiontoincidencesofdiseaseand              
+illness. 
+ 
+Improving the quality of healthcare provision 
+2.2
+ 
+Citizensareabletolocatethemostrelevanthealthcareproviderandservice,encouraging             
+theefficientandeffectiveuseofhealthcareresources,usingtoolssuchasFarmaciasde              
+TurnoChile(Chile),MOHiHealthSG(Singapore),HealthFacilities​(Ghana)andOndeser             
+Atendido (Rio de Janeiro, Brazil). 
+ 
+2.4
+ 
+Citizensareabletoidentifyandchallengeproviderstoincreasethequalityofhealthcare              
+provision using tools such as Temporada De Passes (Uruguay). 
+ 
+2.6
+ 
+Medicalpractitionersareabletoprovideefficientandeffectivecareusingeasy-to-access            
+medicalandclinicalreferenceinformationviatoolssuchasHealtheVillages(Worldwide)            
+55
+and AMREF mHealth (Africa). 
+56
+ 
+2.14 
+Citizensandpolicy-makersareabletocomparethelevelofinvestmentandoutcomesof              
+regionalhealthcaresystems,informingthefuturedistributionoffundsortheneedfor             
+greater efficiency, using tools such as healthcare spending visualisations in Kenya. 
+57
+ 
+Preventing the spread of disease 
+2.7 
+Citizensareabletobetterunderstandthespreadofdisease,thebestpreventative             
+measures,symptomsandwhentoseekcareusingtoolssuchasMedAfrica(Africa)and              
+InfoVacunas (Chile). 
+ 
+2.8 
+Responsestodiseaseandillnessfromgovernmental,thirdsectorandintergovernmental           
+accessed 2015-03-09  
+55
+ Health eVillages, ​http://www.healthevillages.org​, accessed 2015-03-09  
+56
+ Amref, ​The Mobile (R)evolution, ​http://amref.org/news/news/the-mobile-revolution​, accessed 
+2015-03-09 
+57
+ Kenya Open Data, ​Health, ​https://www.opendata.go.ke/page/health​, accessed 2015-03-09 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+18 
+
+ 
+ 
+ 
+ 
+actorscanbecoordinatedandtargetedusingplatformssuchasHealthmap(Worldwide)            
+58
+and Humanitarian Data Exchange (HDX) (Worldwide). 
+59
+ 
+2.10 
+Intergovernmentalandnon-governmentalactorsareabletorespondmorerapidlyto           
+outbreaksusingtheoutputsofmappingprojectssuchasHumanitarianOpenstreetmap           
+Team (Worldwide) and the MSF Missing Map Project (Worldwide). 
+ 
+2.12 
+Researchersareabletodevelopcomputermodelstobetterunderstanddiseasepatterns,            
+whichcaninformgovernmentsandthirdpartiesofwhereandhowdiseasewillspreadto               
+improveresourceallocationandpreventativemeasuresinprojectssuchasQWeCI           
+(Africa). 
+60
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+58
+ HealthMap, ​http://healthmap.org/en​, accessed 2015-03-09  
+59
+ Humanitarian Data Exchange, ​https://data.hdx.rwlabs.org​, accessed 2015-03-09  
+60
+ University of Liverpool, ​QWeCI, ​http://www.liv.ac.uk/qweci​, accessed 2015-03-09  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+19 
+
+ 
+ 
+ 
+ 
+3. Transport: promoting access, efficiency and safety 
+ 
+Data 
+Access to 
+transport 
+Efficiency of 
+transport 
+Safety of 
+transport 
+Planimetric maps 3.1
+ 
+3.2
+ 
+ 
+Public transport timetables 3.3
+  
+ 
+Publictransportstops/routeslocation    
+data 
+3.4   
+Traffic flow information  3.5  
+Traffic incident location data   3.6 
+Budget, spending and contracting data  3.7  
+ 
+Which kinds of data are useful? 
+ 
+Planimetric maps  
+Georeferencedplanimetricmapsfeaturingtransport,waterandbuildinginfrastructure         
+provided, where possible, at a suitable resolution (such as 1:25,000). 
+ 
+Public transport timetables 
+Timetablesforvariousformsofpublictransportation(trains,buses,trams,ferries,etc)            
+including, where possible, real-time data or additional information such as prices.  
+ 
+Public transport stops/routes location data 
+Geocodedlocationforroutes,stopsandterminalsforthevariousformsofpublic             
+transportwhichmayincludenationalgridreferences,addressesand/orlatitude/longitude          
+coordinates and additional information on the facilities available where possible.  
+ 
+Traffic flow information 
+Flowratesoftrafficatspecificlocations,including,wherepossible,real-timeinformation            
+on traffic flow, for example via traffic camera video. 
+ 
+Traffic incident location data 
+Anonymisedgeocodedlocationsoftrafficincidentswhichmayincludenationalgrid           
+references,addressesand/orlatitude/longitudecoordinatesandadditionaldetailson         
+severity and type where possible. 
+ 
+Budget, spending and contracting data 
+Dataonpublicsectorfinancesfortransport,whichmayincludepublicsectorspendingby              
+locality and by project, and transport department budget, grant and contract data. 
+ 
+ 
+ 
+ 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+20 
+
+ 
+ 
+ 
+ 
+How can the data be used? 
+Access to transport 
+3.1 
+Awarenessandusageoftransportinfrastructure,suchaspublicfootandcyclepaths,             
+maybeincreasedwiththeuseoftoolssuchasCyclestreets(UK),whichcanalsoinform                
+61
+policy and planning around this infrastructure. 
+ 
+3.3 
+Theuseofpublictransportissimplifiedandpromotedbystaticandlivetimetabletools,               
+suchasOmnibusInterior(Uruguay)andPróximaBarca(RiodeJaneiro,Brazil)and            
+6263
+RailYatri (India), which can save citizens time and effort. 
+64
+ 
+3.4 
+Publictransportusers,includingcitizenswithmobilitybarriers,areabletoplanefficient             
+routesofpublictransportationusingtoolssuchasKIRI(Jakarta,Indonesia),SoloBus            
+65
+(Montevideo, Uruguay) and Transport Urban (Romania). 
+6667
+ 
+Efficiency of transport  
+3.2
+ 
+Motoristsareabletoplanmoreefficientroutes,whichmaydecreasecongestion,byusing              
+tools such as Galactio SG GPS (Singapore).  
+68
+  
+3.5 
+Theefficiencyofroadtransportcanbeimprovedbymakingmotoristsawareof             
+congestionandimprovingaccidentresponseusingtraffic-responsiverouteplanningtools          
+suchasGalactioSGGPS(Singapore)andtrafficcamerabroadcastssuchasTrânsitona              
+Ponte (Rio de Janeiro, Brazil) and SG Traffic Cam (Singapore). 
+6970
+ 
+3.7 
+Citizensandpolicy-makersareabletoensuretheefficientandeffectiveutilisationof             
+61
+ CycleStreets.net, ​http://www.cyclestreets.net​, accessed 2015-03-09  
+62
+ Pilundain (2015) ​Omibus Interior (Ver 1.8), retrieved from 
+https://play.google.com/store/apps/details?id=pilu.horariosbus​, accessed 2015-03-09  
+63
+ PróximaBarca, ​http://proximabarca.com.br​, accessed 2015-03-09  
+64
+ RailYatri, ​http://www.railyatri.in​, accessed 2015-03-09  
+65
+ KIRI, ​http://kiri.travel​, accessed 2015-03-09  
+66
+ SoloBus (2014) ​SoloBus Montevideo (Ver 1.1.0),​ retrieved from 
+https://play.google.com/store/apps/details?id=com.pisco.solobus​, accessed 2015-03-09  
+67
+ Transport Urban, ​http://www.transporturban.ro​, accessed 2015-03-09  
+68
+ Quantum Inventions (2015) ​Galactio SG GPS Navigation Map (Ver m8-1.3.0), ​retrieved from 
+https://play.google.com/store/apps/details?id=com.galactio.mobile.sg&hl=en​, accessed 2015-03-09  
+69
+ Trânsito na Ponte, ​Câmeras da ponte Rio-Niterói, ​http://transitonaponte.com/cameras/​, accessed 
+2015-03-09 
+70
+ Megapixel Solutions::Jerry Lim (2014) ​SG Traffic Cam (Ver 0.86), ​retrieved from 
+https://play.google.com/store/apps/details?id=com.megapixel.jerry.trafficcam&hl=en​, accessed 
+2015-03-09  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+21 
+
+ 
+ 
+ 
+ 
+governmentresourcesbyincreasingtheaccountabilityoftransportinfrastructureprojects          
+through budget, contract and spending transparency tools. 
+ 
+Safety of transport 
+3.6 
+Saferoadusagecanbepromotedthroughincreasedawarenessoftrafficaccidentsusing             
+toolssuchasMontevideotrafficaccidentmap(Montevideo,Uruguay)andBangalore           
+71
+accident map (Bangalore, India), which can also inform transport policy design. 
+72
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+71
+ Cobalys, ​Mapa de los puntos con mayor cantidad de accidentes de Transito, 
+http://cobalys.com/reporteaccidentes​, accessed 2015-03-09  
+72
+ Rohith B R, (2014) Experts map accident spots across Bangalore, ​Times of India​, retrieved from 
+http://timesofindia.indiatimes.com/city/bengaluru/Experts-map-accident-spots-across-Bangalore/articl
+eshow/34614055.cms​, accessed 2015-03-09  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+22 
+
+ 
+ 
+ 
+ 
+4.Environment:addressingclimatechange,pollutionand       
+sustainability  
+ 
+Data 
+Preservation of 
+the environment 
+Resilience to 
+climate change 
+and natural 
+disasters 
+Sustainability 
+and pollution 
+Planimetric maps  4.1
+ 
+ 
+Topographic maps 4.2
+  
+4.3 
+Hydrographic data 4.4 4.5
+ 
+ 
+Forest and deforestation data 4.6 
+ 
+ 
+Weather data 
+ 
+4.7 
+ 
+Pollution data 
+ 
+ 4.8 
+Soil data 4.9 
+ 
+4.10 
+Mining and mineral production data 4.11 
+ 
+ 
+Waste disposal site location data   4.12 
+Cadastral map 4.13   
+ 
+Which kinds of data are useful? 
+ 
+Planimetric maps  
+Georeferencedplanimetricmapsfeaturingtransport,waterandbuildinginfrastructure         
+provided, where possible, at a suitable resolution (such as 1:25,000). 
+ 
+Topographic maps 
+Topographicmapsfeaturingbasicnaturalinfrastructurefeatures,suchasriversand           
+forests provided, where possible, in a standard format such as shapefiles or geoJSON.  
+ 
+Hydrographic data 
+Dataonthestateofriversandoceans,suchasreal-timeriverandsealevelsandflow                 
+data,floodzonelocationaldata,real-timefloodwarnings,historicalflooddataandwater             
+quality data. 
+ 
+Forest and deforestation data 
+Dataonthestateofforestsanddeforestationofanation’strees,whichmayincludetree                
+typedata,numbersoftrees,real-timesatellitedetectiondata,legalandknownillegal             
+wood processing sites and quantitative site production data. 
+ 
+Weather data 
+Real-timeandhistoricobservational,andforecastdata,whichmayincludeweather           
+states, temperatures, rainfall and wind speed. 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+23 
+
+ 
+ 
+ 
+ 
+ 
+Pollution data 
+Dataonvarioustypesofpollutionincluding,butnotlimitedto,apollutioninventory              
+(regulatedandotherwise),pollutantconcentrationandarealocationaldataandemissions           
+of air, land and water pollutants. 
+ 
+Soil data 
+Dataonthestateofsoil,suchascontaminatedlandlocationaldata,expectedsoil              
+conditionsandnutrients,outlinedsuitabilityfordifferentuse,groundmovementdata,pipe            
+corrosion and chemical leach. 
+ 
+Mining and mineral production data 
+Dataonminingandmineralproductionprocesses,includinglegalID,permissionor            
+applicationstatus,thestageorstateoftheproductionandotherdatasuchasnameof                
+the exploration company, year started and mineral substance explored. 
+ 
+Waste disposal site location data 
+Geocodedlocationsonwastedisposalsiteswhichmayincludenationalgridreferences,            
+addressesand/orlatitude/longitudecoordinatesandalsodatasuchasaccessibilityand           
+types of waste disposed where possible.  
+ 
+Cadastral map 
+Amapthatshowsthepreciselocation(usingGPScoordinates),dimensions,boundaries            
+andownershipoflandparcels,whichmayalsoincludeadditionaldetailssuchasunique              
+identifyingnumbers,certificateoftitlenumbers,positionsofexistingstructuresandland            
+use. 
+ 
+How can the data be used? 
+Preservation of the environment 
+4.2 
+Citizensareabletostudy,understandandplantopreservebiodiversityandhabitatusing              
+tools such as PlanteAqui (Brazil) and Birdwatching Singapore (Singapore). 
+7374
+ 
+4.4 
+Citizenscanbeempoweredtopromotethepreservationofanation’sseaandriversby               
+having access to information on the levels and causes of its pollution. 
+ 
+4.6 
+Citizenscanbeprovidedwithinformationonthestateoftheirnation’snaturalhabitats              
+andresources,suchasforests,suchashowtheyarebeingdegradedandhowtocombat                
+any degradation using tools such as InfoAmazonia (Brazil) and PlanteAqui (Brazil). 
+75
+73
+ Plante Aqui, ​http://www.planteaqui.org​, accessed 2015-03-09  
+74
+ Wild Bird Singapore, ​Birdwatching hotspots in Singapore, 
+http://wildbirdsingapore.nss.org.sg/Default.aspx​, accessed 2015-03-09  
+75
+ InfoAmazonia, ​http://infoamazonia.org​, accessed 2015-03-09  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+24 
+
+ 
+ 
+ 
+ 
+4.9 
+Citizensareabletounderstandwhichsoilsitesarelikelytobemosteffectiveforthe                
+(re)planting of trees using tools such as PlanteAqui (Brazil). 
+ 
+4.11 
+Citizensandpolicy-makerscanaccessdetailedinformationonminingactivityusingtools            
+such as InfoAmazonia (Brazil) to allow them to track and promote sustainable practices. 
+ 
+4.13 
+Citizensandpolicy-makerscanidentifylanduseandlandusepermissionstoensurethat              
+protectedlandisnotbeingusedillegallyortotheexcessivedetrimentoftheenvironment               
+using tools such as Oil in Yasuní, which are based on cadastral maps. 
+76
+ 
+4.1 
+Coordinatingandtaskingvolunteersinresponsetonaturaldisasterscanbebasedupon             
+transportinfrastructureduringprojectssuchastheHumanitarianOpenstreetmapTeam          
+(Worldwide). 
+ 
+4.5 
+Citizenscanbemadeawareoftheriskoffloodingandbeprovidedwithemergencyalerts                
+when flooding is imminent using tools such as Shoothill GaugeMap (UK).  
+77
+ 
+4.7 
+Expertscanforecasttheriskofnaturaldisastercausedbytheweathersystemand              
+providecriticalalertstocitizenswhenthereisahighriskofdisasterusingtoolsand                
+projectssuchastheUniversityofCaliforniaSantaBarbara’sClimateHazardsGroup            
+(US/EastAfrica),theTrans-AfricanHydro-MeteorologicalObservatory(US/Sub-Saharan       
+78
+Africa), Shoothill GaugeMap (UK) and Resurgence (UK).  
+7980
+ 
+Sustainability and pollution 
+4.3 
+Citizensandpolicy-makerscanbeinformedonclimatechange,sustainabilityand           
+pollutionissuesthroughdetailedinformationandevidenceprovidedbytoolssuchas            
+MapStory (US). 
+81
+ 
+ 
+ 
+76
+ InfoAmazonia, ​Oil in Yasuní, 
+http://infoamazonia.org/maps/galileu_05/#!/story=post-7275&loc=-1.8673451129219134,-77.00317382
+8125,7​, accessed 2015-03-09  
+77
+ Shoothill, ​GaugeMap, ​http://www.gaugemap.co.uk​, accessed 2015-03-09  
+78
+ University of California Santa Barbara, ​Climate Hazards Group,​ ​http://chg.geog.ucsb.edu​, accessed 
+2015-03-09 
+79
+ Trans-African Hydro-Meteorological Observatory, ​http://tahmo.org​, accessed 2015-03-09  
+80
+ Resurgence, ​http://www.resurgence.io​, accessed 2015-03-09  
+81
+ MapStory, ​http://mapstory.org​, accessed 2015-03-09  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+25 
+
+ 
+ 
+ 
+ 
+4.8 
+CitizensareabletoidentifythelevelofairpollutionintheirareausingtoolssuchasWeb                  
+GIS (Moldova), Pollution (UK) and Spare the Air (US). 
+828384
+ 
+4.10 
+Citizensareabletoviewandreportthelevelsofpollutioninsoilatspecificsites,allowing                 
+them to use the land accordingly using tools such as Soil Site Reporter (UK). 
+85
+ 
+4.12 
+Citizensandpolicy-makersmaybeabletoidentifyrootcausesofpollutionfromwaste              
+disposal and inform the selection of appropriate sites for the disposal of waste.  
+  
+ 
+  
+82
+ Portalul Guvernamental al Datelor Deschise, ​Identificarea residuurilor si cartografierea zonelor 
+poluate, 
+http://data.gov.md/ro/aplicatii/identificarea-residuurilor-si-cartografierea-zonelor-poluate​, accessed 
+2015-03-09  
+83
+ aMobileFuture (2009) ​Pollution (Ver 1.5),​ retrieved from 
+https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=304218687&mt=8​, accessed 
+2015-03-09  
+84
+ Spare the Air, ​http://www.sparetheair.org​, accessed 2015-03-09  
+85
+ National Soil Resources Institute, ​Soils Site Reporter, ​https://www.landis.org.uk/sitereporter​, 
+accessed 2015-03-09  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+26 
+
+ 
+ 
+ 
+ 
+5.Sanitationandwaste:improvingaccess,managementand        
+recycling 
+ 
+Data 
+Access to 
+sanitation 
+Waste 
+management 
+Recycling 
+Planimetric maps  5.1  
+Pollution data 5.2 5.3  
+Waste disposal site location data  5.4  
+Toilet facility location data 5.5   
+Recycling point location data   5.6 
+Budget, spending and contracting data 5.7   
+ 
+Which kinds of data are useful? 
+ 
+Planimetric maps  
+Georeferencedplanimetricmapsfeaturingtransport,waterandbuildinginfrastructure         
+provided, where possible, at a suitable resolution (such as 1:25,000). 
+ 
+Pollution data 
+Dataonvarioustypesofpollutionincluding,butnotlimitedto,apollutioninventory              
+(regulatedandotherwise),pollutantconcentrationandarealocationaldataandemissions           
+of air, land and water pollutants. 
+ 
+Waste disposal site location data 
+Geocodedlocationsonwastedisposalsiteswhichmayincludenationalgridreferences,            
+addressesand/orlatitude/longitudecoordinatesanddatasuchasaccessibilityandtypes           
+of waste disposed where possible.  
+ 
+Toilet facility location data 
+Geocodedlocationsoftoiletfacilitieswhichmayincludenationalgridreferences,           
+addressesand/orlatitude/longitudecoordinatesanddataonthetypeoftoiletfacilities            
+available where possible. 
+ 
+Recycling point location data 
+Geocodedlocationsofrecyclingpointswhichmayincludenationalgridreferences,           
+addressesand/orlatitude/longitudecoordinatesandthetypeofrecyclingavailablewhere           
+possible. 
+ 
+Budget, spending and contracting data 
+Dataonpublicsectorfinancesforsanitationandwaste,whichmayincludepublicsector              
+spending by locality, and departmental budget, grant and contract data. 
+ 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+27 
+
+ 
+ 
+ 
+ 
+How can the data be used? 
+Access to sanitation 
+5.2 
+Citizenscanbeinformedofunhygienicorharmfulwatersources,andthereforeavoid             
+using them, using pollution data. 
+ 
+5.5 
+CitizenscanidentifyandlocateasuitabletoiletneartothemusingtoolssuchasToilet                
+Square (Philippines) and Cablet (Philippines). 
+8687
+ 
+5.7 
+Citizensandpolicy-makersareabletoassesstheperformanceofsanitationimprovement            
+schemesandholdthemtoaccountusingtoolssuchastheGreatIndianToiletTracker               
+(India) and Sanitation Investment Tracker (Worldwide). 
+8889
+ 
+Waste management 
+5.1 
+Policy-makerscanbetterdesignandpositionwastemanagementfacilitieswithrespectto            
+nearbybuildingsandwatersources,andcitizenscanbebetterinformedoftheseplans              
+using planimetric maps. 
+ 
+5.3 
+Citizensandpolicy-makerscanidentify,monitorandbenchmarktheeffectsofwaste            
+management practices on the wider environment using pollution data.  
+ 
+5.4 
+Citizenscanidentifyandlocatewastedisposalsites,allowingthemtosafelyandcleanly              
+disposeofdifferentformsofwasteusingtoolssuchasLimPOA(Brazil),DescartarNet              
+90
+(Brazil) and mGreen Handbook (Singapore). 
+9192
+ 
+ 
+ 
+86
+ Burhan Rasool (2013) ​Toilet Square (Ver Alpha), ​retrieved from 
+https://play.google.com/store/apps/details?id=com.toilet.square​, accessed 2015-03-09  
+87
+ Sanitation Hackathon, ​Cablet, ​http://www.sanitationhackathon.org/cablet​, accessed 2015-03-09  
+88
+ data.gov.in, ​The Great Indian Toilet Tracker, 
+http://data.gov.in/community-application/great-indian-toilet-tracker​, accessed 2015-03-09  
+89
+ Tremolet (2013)​ An introduction to the Sanitation Investment Tracker (SIT) mobile app, 
+http://tremolet.com/publications/introduction-sanitation-investment-tracker-sit-mobile-app​, accessed 
+2015-03-09  
+90
+ Philip Alvarenga (2014) ​LimPOA (Ver 1.0)​, retrieved from 
+https://itunes.apple.com/br/app/limpoa/id895973608?ls=1&mt=8​, accessed 2015-03-09  
+91
+ Descartar.net, ​http://matehackers.github.io/descartar​, accessed 2015-03-09  
+92
+ MDTC (2011) ​mGreenHandBook (Ver 1.2), ​retrieved from 
+https://play.google.com/store/apps/details?id=com.activity.mGreenHandBook​, accessed 2015-03-09  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+28 
+
+ 
+ 
+ 
+ 
+Recycling 
+5.6 
+Citizenscanlocatethenearestrecyclingsitesbasedonthewastetheyintendtodispose               
+usingtoolssuchasRecycleRJ(RiodeJaneiro,Brazil),EcoFinder@SG(Singapore)and             
+9394
+Where Can I Recycle? (Montevideo, Uruguay). 
+95
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+93
+ Recicle RJ, ​http://windcom.com.br/reciclerj/about.php​, accessed 2015-03-09  
+94
+ Tan Jia Hao (2012) ​ecoFinder@SG (Ver 1.2.0.0), ​retrieved from 
+http://www.windowsphone.com/en-sg/store/app/ecofinder-sg/4691e020-8673-42e7-9719-e7e6bdd6e4
+4b​, accessed 2015-03-09  
+95
+ Open Data Research Network (2014) ​Open cities: The case of Montevideo, ​available at 
+http://www.opendataresearch.org/sites/default/files/publications/Opening%20Montevideo-a%20case
+%20studyfinalII.pdf​, accessed 2015-03-09  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+29 
+
+ 
+ 
+ 
+ 
+6. Governance: promoting transparency, justice and the economy 
+ 
+Data 
+Transparency, 
+accountability 
+and citizen 
+engagement 
+Crime and justice 
+Economy and 
+finance 
+Planimetric maps 6.1   
+Crime location data  6.2  
+Budget, spending and contracting data 6.3  6.4 
+Electoral data 6.5   
+Polling station location data 6.6   
+Company register   6.7 
+Legislation 6.8 6.9  
+Cadastral map  6.10 6.11 
+Market price data   6.12 
+Information on taxes and tariffs   6.13 
+ 
+Which kinds of data are useful? 
+ 
+Planimetric maps  
+Georeferencedplanimetricmapsfeaturingtransport,waterandbuildinginfrastructure         
+provided, where possible, at a suitable resolution (such as 1:25,000). 
+ 
+Crime location data 
+Anonymisedgeocodedlocationsofcrimeswhichmayincludenationalgridreferences,           
+addressesand/orlatitude/longitudecoordinatesandadditionaldatasuchasthetypeof            
+crime and an outcome (e.g. an arrest) where possible. 
+ 
+Budget, spending and contracting data 
+Dataonpublicsectorfinances,whichmayincludepublicsectorspendingforeachsector,              
+bylocalityandbypublicbody(atanindividualpaymentlevel),andbudget,grantand               
+contract data by department.  
+ 
+Electoral data 
+Electoraldataonpoliticalpartydirectories,candidates,constituenciesandpreviouslocal           
+and general/national election results by constituency and by candidate. 
+ 
+Polling station location data 
+Geocodedlocationsofpollingstationswhichmayincludenationalgridreferences,           
+addresses and/or latitude/longitude coordinates. 
+ 
+Company register 
+Dataonallregisteredcompanies,whichmayincludecompanyorbusinessnumber,            
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+30 
+
+ 
+ 
+ 
+ 
+trading status, legal type, incorporation date, jurisdictions and named directors. 
+ 
+Legislation 
+Textofnationallaws,statutesandconstitutionspublishedinfull,including,where            
+possible, in a machine-readable format. 
+ 
+Cadastral map 
+Amapthatshowsthepreciselocation(usingGPScoordinates),dimensions,boundaries            
+andownershipoflandparcels,whichmayalsoincludeadditionaldetailssuchasunique              
+identifyingnumbers,certificateoftitlenumbers,positionsofexistingstructuresandland            
+use. 
+ 
+Market price data 
+Dataonthemarketpriceofcommoditiesandcommonly-tradedgoods,whichmay            
+includedailywholesalemaximumprice,minimumpriceandmodalpricedata,localityby             
+locality. 
+ 
+Information on taxes and tariffs 
+Detailed,up-to-dateinformationontaxandtariffratesleviedonindividualsand            
+companies, including, where possible, historic tax and tariff rates. 
+ 
+How can the data be used? 
+Transparency, accountability and citizen engagement 
+6.1 
+Citizensareabletoidentifytheadministrativeandpoliticalboundariesinwhichtheylive              
+usingplanimetricmapsandboundarydata,withtoolssuchasTheyWorkForYou(UK)            
+96
+and Land Layer (UK). 
+97
+ 
+6.3 
+Citizensareabletoseehowandwherepublicmoneyisspent,improvingeconomic              
+transparency,usingtoolssuchasBudgIT(Nigeria),BudgetAtYourFingertips(Brazil),            
+9899
+BudgetBadger(Philippines),BudgetStories(Moldova)andCaringForMy          
+100101
+Neighbourhood (Sao Paulo, Brazil). 
+102
+ 
+96
+TheyWorkForYou, ​http://www.theyworkforyou.com​, accessed on 2015­03­09  
+97
+ Land Layer, ​http://www.landlayer.com​, accessed on 2015­03­09.  
+98
+ Indigo Trust (2013) ​BudgIT Nigeria – Making budget data understandable​, 
+http://indigotrust.org.uk/2013/03/08/budgit-nigeria-making-budget-data-understandable​, accessed on 
+2015­01­14  
+99
+ Orçamento ao seu Alcance, ​http://orcamento.inesc.org.br/2013​, accessed 2015-03-09  
+100
+ Open Data Research Network (2014). ​Budget badger app holds promise for budget monitoring, 
+available at 
+http://www.opendataresearch.org/content/2014/580/budget-badger-app-holds-promise-budget-monit
+oring​, accessed 2015-03-09  
+101
+ Budget Stories, ​http://www.budgetstories.md​, accessed 2015-03-09  
+102
+ Cuidando do meu Bairro, ​http://cuidando.org.br​, accessed 2015-03-09  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+31 
+
+ 
+ 
+ 
+ 
+6.5 
+Citizenscanlearnaboutlocalcandidates,identifypoliticalpartiesandfindoutaboutthe              
+democraticprocess,boostingtransparencyandengagementinthepoliticalprocess,          
+usingtoolssuchasCitizen'sElectionPortal(Nepal,India),GotToVote(Kenya)and            
+103104
+GotToVote (Malawi). 
+105
+ 
+6.6 
+Citizensareabletoidentifyandlocatevoterregistrationcentresandpollingstationsto              
+empowerthemtotakepartinelectionsusingtoolssuchasGotToVote(Kenya)and              
+GotToVote (Malawi). 
+ 
+6.8 
+Citizensareabletounderstandandprotecttheirbasicrights,increasingengagementand             
+accountability, using tools such as the Nigerian Constitution App (Nigeria). 
+106
+ 
+Crime and justice 
+6.2 
+Citizenscanidentifythelocations,numbersandtypesofcrimesthathavebeen             
+committedintheirareas,usingtoolssuchasCrimeBot(Jamaica),andSpotCrime            
+107
+(USA).  
+108
+ 
+6.9 
+Citizensareabletoeasilyaccesspubliclegalinformation,increasingtheirknowledgeof             
+legislationandpromotingtheruleoflaw,usingtoolssuchasKenyaLaw(Kenya),              
+109
+Congreso de La Republica de Columbia (Columbia) and DJPP (Indonesia). 
+110111
+ 
+6.10 
+Landownersareabletoresolvelanddisputesandlegalproceedingsmoreeasilyusing             
+open cadastral data and property ownership details. 
+ 
+ 
+ 
+ 
+103
+ OpenNepal, ​Citizen's Election Portal, ​http://data.opennepal.net/content/citizens-election-portal​, 
+accessed 2015-03-09  
+104
+ GotToVote, ​http://gottovote.co.ke​, accessed 2015-03-09  
+105
+ Malawi Election Information Centre, ​GotToVote!​ ​http://gottovote.malawivote2014.org​, accessed 
+2015-03-09  
+106
+ Pledge51 (2012) ​Nigerian Constitution (Ver 2.1.2.1), ​retrieved from 
+https://play.google.com/store/apps/details?id=com.pledge51.nigerianconstitution&hl=en​, accessed 
+2015-03-09.  
+107
+ World Bank (2014) ​Open data on the ground: Jamaica’s crimebot, 
+http://blogs.worldbank.org/opendata/open-data-ground-jamaica-s-crimebot​, accessed 2015-03-09  
+108
+ SpotCrime, ​http://spotcrime.com​, accessed 2015-03-09  
+109
+ Kenya Law, ​http://kenyalaw.org/kl​, accessed 2015-03-09  
+110
+ Senado de la Republica de Colomia, ​http://www.senado.gov.co​, accessed 2015-03-09  
+111
+ DJPP, ​http://ditjenpp.kemenkumham.go.id/database-peraturan.html​, accessed 2015-03-09  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+32 
+
+ 
+ 
+ 
+ 
+Economy and finance 
+6.4 
+Policy-makerscanhelpmakegovernmentprocurementprocessesmoreefficientby          
+analysingbudgetandpublicspendingdatamadeaccessiblebytoolsandservicessuch             
+as Spend Network (UK), Supervizor (Slovenia) and Open Spending (Worldwide). 
+112113114
+ 
+6.7 
+Citizensareabletoeasilyaccessimportantinformationonregisteredcompanies,           
+fosteringeconomictransparencyandtrust,usingtoolssuchasOpenCorporates(UK)           
+115
+and DueDil (UK).  
+116
+ 
+6.11 
+Investorsandpotentiallandownerscanbemorecertainoflandandpropertyownership             
+by using cadastral data, which may increase investment and efficiency in business. 
+ 
+6.12 
+Citizensandfarmerscanfindpricesofkeygoodsandcommodities,encouragingmore             
+transparentandefficientmarkets,usingtoolssuchasTradenet(SriLanka),M-Farm            
+117
+(Kenya), Kisan (India) and Market Watch (India). 
+118119120
+ 
+6.13 
+Citizens,companyownersandinvestorsareabletoeasilyanticipate,calculateandpay             
+theirtaxbillswhentheycanaccessdetailedinformationontaxesandtariffs,boosting              
+business transparency and investment. 
+ 
+ 
+  
+112
+ Spend Network, ​https://spendnetwork.com​, accessed on 2015­01­05 
+113
+ Supervizor, ​http://supervizor.kpk-rs.si​, accessed on 2015­01­05 
+114
+ Open Spending, ​https://openspending.org​, accessed on 2015­01­05 
+115
+ Open Corporates, ​https://opencorporates.com​, accessed on 2015­01­05 
+116
+ DueDil, ​https://www.duedil.com​, accessed on 2015­01­05  
+117
+ International Research and Training Centre for Rural Education (INRULED), ​Tradenet case study​, 
+http://www.inruled.org/iERD/Cases/Tradenet.pdf​, accessed on 2015­01­05  
+118
+ M-Farm, ​http://www.mfarm.co.ke​, accessed on 2015­01­05 
+119
+ metalwihen (2015) ​Gramseva: Kisan (Mandi Prices) (Ver B-2), ​retrieved from 
+https://play.google.com/store/apps/details?id=com.metalwihen.gramseva.kisan&hl=en​, accessed on 
+2015­01­05 
+120
+ Market Watch (2013) ​Market watch - price in India (Ver 1.2.4), ​retrieved from 
+https://play.google.com/store/apps/details?id=com.mocioun.marketprice&hl=en​, accessed on 
+2015­01­05 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+33 
+
+ 
+ 
+ 
+ 
+Conclusion 
+ 
+Over100real-worldexamplesthatlinksixdifferentdevelopmentsectorstoexistingopen             
+datasetsunderpinthisreport.Policy-anddecision-makerscanlearnfromthese,use            
+themtoimprovetheiropendatainitiativesandsupportthereleaseofopendatato               
+address specific development goals.  
+ 
+Manyusecasescanbenefitfromthereleaseoftwooverarchingtypesofdata:​spatial               
+data​,particularlyplanimetricandtopographicmaps,and​dataonpublicsectorfinances            
+suchasbudget,spendingandcontracting.Withuseofthesetypesofdataso              
+widespread,weproposethatthereleaseofmorespatialdataandbudget,spendingand              
+contracting data should be prioritised to help drive global development. 
+ 
+Despitethenumerousexamplesofusecasesintheseareas,theyremainindicativeand              
+arenotaquantitativeevaluationoftheimpactofopendatainaddressingcommon              
+developmentgoals.Futureempiricalstudiesmayseektomeasuretheimpactofopen             
+dataindevelopingcountriesinspecificdomains,potentiallywithapolicyevaluation            
+methodology. 
+121
+ 
+Thereisplentyofanecdotalevidencesupportingthebeneficialimpactsofopendataon              
+transparency,businessinnovationandeconomicgrowth.Thereisapowerfultheoretical           
+economiccaseformakingdatapublishedontheinternetfree,sincethemarginalcostof               
+distributioniseffectivelyzero.​Atthesametime,opendatamustbeseenasameansto                 
+122
+anend.Forexample,policy-anddecision-makersmayfocusononeofthesubgoalsfrom               
+the six development sectors we focus on in order to prioritise what open data to release. 
+ 
+Opendataisarecentphenomenon,evenindevelopedcountries.However,in            
+123
+conductingthisanalysiswehavefoundthat​opendataisalreadyhavingpositive             
+impacts across development sectors and internationally​. 
+ 
+Forthoselookingtodevelopsustainableopendataculturewithintheirorganisations,the             
+ODI’swhitepaper‘​Opendataingovernment:howtobringaboutchange’​offersguidance              
+onhoworganisationalchangewithingovernmenthappenstosupportandsustainopen            
+data in the long-term.  
+124
+121
+ For some existing studies please refer to the evolving work led by the World Wide Web foundation: 
+Exploring the emerging impacts of open data in developing countries, 
+http://www.opendataresearch.org/emergingimpacts​, accessed on 2015-01-17  
+122
+ For example, see: Pollock, R. (2009) ​The economics of public sector information​. University of 
+Cambridge, Faculty of Economics. 
+123
+ Heimstädt, M., Saunderson, F., & Heath, T. (2014) From Toddler to Teen: Growth of an Open Data 
+Ecosystem. ​eJournal of eDemocracy and Open Government​, 6(2), 123-135 
+124
+ Open Data Institute (2015) ​Open data in government: how to bring about change​, available at 
+http://theodi.org/open-data-in-government-how-to-bring-about-change​, accessed on 2015-03-03. 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+34 
+
+ 
+ 
+ 
+ 
+About the Open Data Institute, the Partnership for Open Data and DaPaaS 
+ 
+ThispaperispartofaseriesproducedbytheOpenDataInstitute,aspartofthe                 
+PartnershipforOpenData(POD),fundedbytheWorldBank.Ithasalsobeenpart-funded               
+byDaPaaS,adata-and-platform-as-a-serviceapproachtoopendatapublicationand          
+consumption,​fundedbytheEuropeanUnion'sSeventhFrameworkProgrammefor          
+research,technologicaldevelopmentanddemonstration,undergrantagreementno.         
+610988.  
+ 
+What is the Open Data Institute?  
+ 
+TheOpenDataInstitute(ODI)isanindependent,non-profitandnon-partisancompany            
+basedinLondon,UK.TheODIconvenesworld-classexpertsfromindustry,government            
+andacademiatocollaborate,incubate,nurtureandexplorenewideastopromote            
+innovationwithopendata.ItwasfoundedbySirTimBerners-LeeandProfessorSirNigel               
+Shadbolt,andofferstraining,membership,researchandstrategicadvicefor          
+organisations looking to explore the possibilities of open data.  
+ 
+Initsfirsttwoyears,theODIhashelpedtounlockoverUS$55minvaluethroughthe                 
+applicationofopendata.With26nodesaroundtheworld,theODIhastrainedmorethan                
+1,000peoplefromover25countries.In2014,theODItrainedofficialsfromcountries              
+includingBotswana,BurkinaFaso,Chile,Malaysia,Mexico,Moldova,Kyrgyzstanandthe           
+UK on the publication and use of open data.  
+ 
+What is the Partnership for Open Data?  
+ 
+TheOpenDataInstitutehasjoinedOpenKnowledgeandtheWorldBankinthe              
+PartnershipforOpenData(POD),aprogrammedesignedtohelppolicy-makersand            
+citizensindevelopingcountriestounderstandandexploitthebenefitsofopendata.The              
+partnershipaimsto:supportdevelopingcountriestoplan,executeandrunopendata             
+initiatives;increasereuseofopendataindevelopingcountries;andgrowthebaseof              
+evidenceontheimpactofopendatafordevelopment.TheinitialfundingcomesfromThe               
+World Bank’s Development Grant Facility (WB DGF). 
+125
+ 
+UnderPOD,theODIhascarriedoutopendatareadinessassessments,strategicadvice,             
+trainingandtechnicalassistanceforlow-andmiddle-incomecountriesacrossfour           
+continents.OneexampleisourworkinBurkinaFaso,supportingthelaunchoftheiropen               
+data initiative and providing technical assistance to construct an open data portal.  
+ 
+In2015,PODwillmergewiththeOpenDataforDevelopment(OD4D)network.Aspartof                
+thisnew,largernetwork,theODIwillcontinuetotakealeadinsupportingtheworld’s                
+governmentleadersinimplementingopendata,andindoingsowillcontinuetopublish              
+practical guides and learning materials, such as this series of reports. 
+ 
+ 
+125
+ Find more on the Partnership for Open Data at http://theodi.org/odp4d 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+35 
+
+ 
+ 
+ 
+ 
+What is the DaPaaS project? 
+ 
+DaPaaS(Data­and­Platform­as­a­Service)isaresearchprojectfundedbytheEuropean          
+Union’sSeventhFrameworkProgrammeforresearch,technologicaldevelopmentand         
+demonstration,undergrantagreementno.610988.Itwilldeliveraplatformwithassociated             
+toolsandservicesformakingpublishing,hostingandconsuminglinkedopendataeasier.             
+DaPaaSwillgivepublishersthetoolstheyneedtocreatehighqualitylinkeddataandwill                
+givedeveloperscommercialgradetools,cleanandefficientAPIsandbetter           
+documentation, so that they can reliably work with large datasets.  
+126
+ 
+Pleasecitethispaperas‘OpenDataInstitute(2015)Prioritisingopendatatodriveglobal               
+development.ODIwhitepaperODI-WP-2015-003.London,UK.Availableat         
+http://theodi.org/guides/prioritise-open-data-to-drive-global-development​.  
+ 
+Appendix I: Methodology 
+ 
+ 
+Theprimaryobjectiveofthisresearchistosupportpeopletoreleaseandapplyopendata                
+tohelpsolvespecificcivicanddevelopmentchallenges.Figure1summarisestheseven             
+stages of the research process, described in more detail below. 
+ 
+Figure 1. Summary of the research process 
+126
+ Find more on DaPaaS at http://project.dapaas.eu 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+36 
+
+ 
+ 
+ 
+ 
+ 
+Stage 1: Establishing sectors from existing development frameworks 
+ 
+Firstly,existingdevelopmentandpolicyframeworkswerescopedinordertogaina             
+holisticunderstandingofcurrentdevelopmentchallengesandsurroundingliterature.This          
+resulted in the identification of seven distinct frameworks: 
+ 
+-World Bank sectors and project themes 
+127128
+-WorldBankGlobalMonitoringReport2014/2015:EndingPovertyandSharing          
+Prosperity 
+129
+-UN Millenium Development Goals  
+130
+-UN 2014 Open Working Group proposal for Sustainable Development Goals 
+131
+127
+ World Bank, ​Projects and operations by sector, ​http://www.worldbank.org/projects/sector​, accessed 
+on 2015­01­05 
+128
+ World Bank, ​Projects and operations by theme, ​http://www.worldbank.org/projects/theme​, accessed 
+on 2015­01­05  
+129
+ World Bank (2014) ​Global monitoring report 2014/2015: Ending poverty and sharing prosperity, 
+available at ​http://www.worldbank.org/en/publication/global­monitoring­report​, accessed on 2015­01­05  
+130
+ United Nations, ​Millenium Development Goals, ​http://www.un.org/millenniumgoals​, accessed on 
+2015­01­05 
+131
+United Nations (2014)​ Open Working Group proposal for Sustainable Development Goals, a​vailable at 
+http://sustainabledevelopment.un.org/index.php?page=view&type=400&nr=1579&menu=35​, accessed 
+on 2015­01­05 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+37 
+
+ 
+ 
+ 
+ 
+-UN High-Level Panel on the Post-2015 Development Agenda report 
+132
+-MYworldUNconsultationonpost2015SustainableDevelopmentGoals(partof           
+133
+the World We Want) 
+134
+-LSE Cities 'Going Green' Report 
+135
+ 
+Theframeworksprovedtobediverseinbothgranularityandscope.Theirdifferences             
+werereconciledinordertodevelopacommonsetofapproximatelyequaldevelopment             
+sectors.Todothis,theframeworksweremappedvisuallyagainstoneanotherbeforethe              
+following actions were carried out: 
+ 
+1.Commonsectors,goals,wordsandthemesfromallsourcesweredrawntogether            
+to form clusters 
+2.From each cluster, the high-level sector was identified (e.g. transport) 
+3.Withineachcluster,subgoalsthatwererepeated(exactly,bysynonymorin            
+essence)wereamalgamatedandspecificsubgoalsweresubsumedintomore          
+general ones 
+4.Fromthisprocess,threelowerlevelsubgoalsforeachsectorwereidentified(e.g.             
+efficiency of transport) 
+5.Thelistofsectorswascross-checkedwiththeinterestsandspendingpatternsof             
+the World Bank (see above) to ensure significant sectors have been considered 
+6.A standardised wording was developed for consistency and comparability 
+7.The process was iterated and cross-checked between multiple researchers 
+ 
+Thisprocessidentified11developmentsectors,eachwiththreesubgoals.Thefulllistof              
+these sectors and subgoals is documented in Appendix I. 
+ 
+Stage 2: Reducing, regrouping and aggregating strategic datasets  
+ 
+Existinglistsofstrategicgovernmentdatasetswerecollectedtoidentifykey,orcore,             
+datasetsthatexistacrossnationsandtheirgovernments.Anumberoflistswere             
+identified,ascompiledbyopendataexperts,foravarietyofpurposes.Thosedeemed              
+significant were: 
+ 
+-G8 Open Data Charter Technical Annex 
+136
+-Global Open Data Index 
+137
+132
+ UN High­Level Panel on the Post­2015 Development agenda (2014) ​A new global partnership: 
+eradicate poverty and transform economies through sustainable development, a​vailable at 
+http://www.beyond2015.org/sites/default/files/HLPReport.pdf​, accessed on 2015­01­05 
+133
+ MYWorld2015, ​Data,​ ​http://data.myworld2015.org/​, accessed on 2015­01­05 
+134
+ World We Want 2015, ​http://www.worldwewant2015.org​, accessed on 2015­01­05 
+135
+ LSE Cities (2013) ​Going green: how cities are leading the next economy.​ LSE Cities, London School 
+of Economics and Political Science, London, UK, available at 
+http://files.lsecities.net/files/2013/06/Going-Green-Final-Edition-web-version.pdf​, accessed 2014-12-22 
+136
+ Cabinet Office (2013) ​G8 Open Data Charter and Technical Annex​, available at 
+https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-a
+nnex#technical-annex​, accessed 2014-12-22 
+137
+ Open Knowledge, ​Global Open Data Index​, ​http://index.okfn.org/​, accessed on 2015­01­05  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+38 
+
+ 
+ 
+ 
+ 
+-Open Data Barometer 
+138
+-ODI National Information Infrastructure datasets 
+139
+-Good Basic Data for Everyone 
+140
+ 
+Anextensivelistofdatasetswascompiledusingthesesources.However,thislist             
+containeddatasetrepetition,country-specificidiosyncrasiesandvaryinglevelsof         
+granularity. To address these issues: 
+ 
+1.The number of datasets was reduced by removing clear repetitions/duplication 
+2.Datasets which referred to country specific features were repurposed 
+3.Datasetswhichdescribeddifferentfacetsofanalogousphenomenawere         
+aggregated 
+ 
+Thisprocessgeneratedalistofkeydatasetswhicharesuitablyuniversalandgranular.              
+This refined list was extensive, containing 105 datasets, and can be found in Appendix II. 
+ 
+ 
+Stage 3: Mapping data to sectors with expert guidance 
+ 
+Weperformedaconceptualmappingofthe11identifiedhigh-leveldevelopmentsectors            
+againstthelistof105datasets.Inthisexpert-drivenapproach,opendataresearchers             
+completed the mapping based on their knowledge and experience. 
+ 
+Theconceptualmappingassumedpracticalfeasibility;researcherswereencouragedto          
+maketheassumptionthatthedatasetsidentifiedwerepublishedaccuratelyandinfull.             
+Likewise,theassumptionwasmadethattherewouldbeasuitablyresourceddeveloper             
+communitytousethedata.Themappingwasalsocarriedoutatarelativelyhighlevelof                 
+scope,thatis,tosectorsandnotsubgoals.Thisallowedformoregeneralinferencesto               
+be made. 
+ 
+Intotal,fiveopendataresearcherscompletedthematrix.ExceptforResearcher4,the              
+numberofinteractionsbetweendatasetsanddevelopmentssectors,or“Xs”inthematrix,             
+wasroughlyconstantataround250(seeTable1).In80%ofcases,threeormore                
+researchersagreedontheirmapping.Weusedtheoutputofthismappingtovalidate              
+141
+thecompletenessoftherangeofapplications,casestudiesandreports(comparefurther             
+stage 7). 
+ 
+138
+ Open Data Research Network (2013) ​Open Data Barometer 2013 Global Report​, available at 
+http://www.opendataresearch.org/barometer​, accessed on 2015­01­05 
+139
+ ​https://github.com/theodi/shared/wiki/National-Information-Infrastructure-Datasets​, accessed on 
+2015­01­05 
+140
+ Danish Government (2012) ​The eGovernment Strategy 2011-2015: Good basic data for everyone - a 
+driver for growth and efficiency, a​vailable at 
+http://uk.fm.dk/publications/2012/good-basic-data-for-everyone/~/media/Publikationer/Imported/2012/
+Gode%20grunddata%20til%20alle/BasicData_UK_web_2012.10.08.ashx​, accessed on 2015­01­05  
+141
+ More sophisticated statistics on inter-rater reliability are available on request 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+39 
+
+ 
+ 
+ 
+ 
+Table1.Expert-drivenmapping:numberofinteractionsbetweendatasets(105)and           
+developments sectors (11) 
+ 
+Researcher 1 255 
+Researcher 2 232 
+Researcher 3 262 
+Researcher 4 153 
+Researcher 5 250 
+ 
+Stage 4: Gathering an evidence base of applications, case studies and reports 
+ 
+Wethenundertookaprocessofextensiveevidencegathering;firstbydividingthe11              
+developmentsectorsbytheindividualexpertiseofmembersoftheresearchteam.Each             
+researchercompletedextensiveresearchtogatherexamples(“usecases”)oftheuseof             
+open data in each of their sectors.  
+ 
+The key resources used to develop this evidence base were: 
+ 
+-ODI Pinboard, a collection of online resources by the Open Data Institute 
+142
+-World Bank open data use cases 
+143
+-Open Data Research Network projects and literature 
+144
+-Application/tools showcase sections of data portals, such as data.rio 
+145
+-Data journalism resources, such as the Guardian datablog 
+146
+-Wider desk research 
+ 
+Manyusecaseswerealsoidentifiedthroughdiscussionwithexpertsandsector            
+specialists. 
+ 
+Themethodologybehindgatheringtheevidencebasecenteredaroundcaseselection.           
+Forexample,Gerring(2007)andFlyvbjerg(2006)exploreindetailthepossible            
+147148
+strategiesforselectingputativecases.Forthisresearchweadoptedaparadigmatic            
+selection:“todevelopametaphororestablishaschoolforthedomainthatthecase               
+concerns”.Inparticular,thecasesselectedcovermostsectorsofourinterest,containthe              
+142
+ ODI Pinboard, ​https://pinboard.in/u:theodi​, accessed on 2015-01-06  
+143
+ World Bank Group Finances, ​Open data use cases & solutions - survey responses​, 
+https://finances.worldbank.org/Reference/Open-Data-Use-Cases-Solutions-Survey-Responses/hibh-z4
+ax​, accessed on 2015­01­06 
+144
+ Open Data Research Network, ​http://www.opendataresearch.org/​, accessed on 2015­01­05 
+145
+ Data.rio, ​Aplicativos​ ​http://data.rio.rj.gov.br/aplicativos​, accessed on 2015­01­05  
+146
+ Guardian datablog, ​http://www.theguardian.com/data​, accessed on 2015­01­05 
+147
+ Gerring, J. (2007) ​Case study research: principles and practices​. New York, NY: Cambridge 
+University Press 
+148
+ Flyvbjerg, B. (2006) Five Misunderstandings about case study research. ​Qualitative Inquiry​, 12(2), 
+219–245. doi:10.1177/1077800405284363 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+40 
+
+ 
+ 
+ 
+ 
+greatestamountofrelevantinformationandarethereforebestsuitedinshowcasing            
+trends in the use of open data to address development challenges. 
+ 
+Theinclusionoftheusecases(tools,applicationsandcasestudies)documentedinthis              
+report was based on three criteria. Each of the cases must be:  
+ 
+1.Dependent​;thesuccessofthecaseshoulddependontheuseofgovernment             
+data 
+2.Relevant​;therelationshipbetweenthecaseandatleastonedevelopmentsector            
+should be evident 
+3.Replicable​; the case should be applicable to a wide range of developing countries 
+ 
+Evidenceofhoweachusecasemetthesecriteriawasgenerallyconsideredtobeexplicit               
+and/orimplicitinthesupportingdocumentation.Whereevidenceofthecriteriawasnot             
+available,theresearcherswereabletomakejudgementsbasedontheirownexperience             
+and knowledge of open data use cases. 
+ 
+Inadditiontothespecifiedcriteriaforindividualusecases,twoconsiderationsweremade              
+oftheoverallevidencebase.First,thecasesshouldbegeographicallydiverseto             
+demonstrateabroadapplicabilityofopendatatodevelopmentsectors.Second,they            
+should provide new and interesting uses. 
+ 
+Includingusecasesfromdevelopednationswassometimesjustified.Theyeither           
+providedsupplementaryvalueorofferedoutstandingexamplesthattheresearchers          
+identified as replicable and scalable within many developing country contexts. 
+Stage 5: Selecting sectors underpinned by evidence 
+ 
+Ourresearchyieldedalargenumberofrelevantusecases.Despitethis,thesecaseswere               
+notevenlydistributedacrossthe11identifiedsectors.Inordertocompletea             
+well-evidenceddatasetmappingprocess(describedbelow),weconcentratedonselected          
+sectors. 
+ 
+Anumberofcriteriawerereviewedandconsideredtonarrowthesectoralfocus,withthe               
+numberofsuitableusecasesavailablebeingtheprimarydriveroftheselectionprocess;              
+thosesectorswithtoofewsuitableusecasesformappingwerethereforeexcludedfrom              
+furtherresearch.Inaddition,wereferredtotheexpert-drivenmappingofdatasetsto             
+developmentsectorsandthesectorsoftheexpert-identifiedstrategicdatasets.This           
+ensuredthosesectorsdeemedsignificantbyexpertopinionwereincludedinthe            
+evidence-based mapping process. 
+ 
+Whataretheimplicationsofexcludingasector?Ingeneral,anexclusiondoesnot              
+diminishtheimportanceofthesector.Opendatamaystillhaveamajorimpact.However,               
+thereareinsufficientestablishedusecasestoconsiderthemfurtherinthisresearch.If              
+futureusecasesappearintheexcludedsectors,themethodologyofthisresearchcanbe               
+applied to those sectors as well.  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+41 
+
+ 
+ 
+ 
+ 
+ 
+Adevelopmentsectorof‘economicprosperity’isincludedinAppendixI.Whileeconomic             
+prosperityisavitaldevelopmentgoal–sometimestheprimarydevelopmentgoal–itwas               
+difficulttotreatitasaseparate‘sector’inouranalysisbecauseimprovementinother               
+sectorscontributetoeconomicprosperity.Wedidhoweveridentifyanumberof            
+cross-cuttingcomponentsofeconomicprosperitywhichwerenotcoveredinourworkon             
+othersectors.Ofthese,transparencyandefficiencywerethereforesubsumedintoan            
+economyandfinancesubgoalwithinthesectorofgovernance.Wealsoconsideredthe             
+cross-cuttingcomponentsofemployment,inequalityorinnovation;butwecouldnot           
+identifysufficientusecasesatthisstagetotakethemforwardintothesubsequentstages               
+of our work. 
+ 
+Inaddition,theresultsofthisselectionprocesswerecross-validatedagainstthepriorities             
+identifiedinWorldBankspendingandtheMyWorldUNpost-2015consultation.This            
+149150
+ensuredthatthesectorcoveragealignedsuitablywiththewiderprioritiesofeminent             
+development organisations. 
+ 
+Asaresultofthisprocess,weidentifiedsixsectorsforevidence-drivenmapping.These              
+were: 
+ 
+1.Education 
+2.Health 
+3.Transport 
+4.Environment 
+5.Sanitation and waste 
+6.Governance 
+ 
+Stage 6: Evidence-driven mapping 
+ 
+Eachexampleofopendatausethatwefoundlinkedthesixkeydevelopmentsectorsand                
+their subgoals to existing open datasets, following a process of:  
+ 
+1.Identifying ​which​ use cases from the evidence base related to each sector 
+2.Identifying​howeachusecaserelatedtoeachsector,i.e.whichsubgoal(s)the             
+case affects 
+3.Identifyingtheexactdatasets,andthetypesofdatatheyinclude,usedineachuse               
+case 
+4.Completinganiterativeapproachofapproximating/reconcilingtheseexact        
+datasetstotheexpert-identifieddatasetlistandexpandingthedataset          
+descriptions(thedifferencebetweenthetwolistswasthelevelofdataset            
+granularity;thisevidence-drivenmappingfocusesonspecificusecasesacross          
+developingcountries,whereasthoseexpert-identifieddatasetscoverbroader        
+149
+ World Bank (2014) ​Annual report 2014​, ​http://www.worldbank.org/en/about/annual-report​, accessed 
+on 2014-11-20, p. 59 
+150
+ ​MYWorld2015, ​Data,​ ​http://data.myworld2015.org/​, accessed on 2014-11-20 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+42 
+
+ 
+ 
+ 
+ 
+geographic and sectoral range) 
+5.Cross-validatingthisnewdatasetlistwiththeavailabledatasetsofcountriessuch            
+asUSA,KenyaandIndiatoensurethattheconceptualdatasetswereboth             
+151152153
+practical and universal 
+ 
+Theresultofthisprocesswasalistof35proposeddatasets,eachwithadetailed                
+descriptionofthetypesofdatatheymayinclude,mappedagainstthesixdevelopment              
+sectorsandtheirsubgoalsusingrealusecases.Over60differentdenotationsdescribe             
+the relationship between the datasets and the development sectors. 
+ 
+Stage 7: Combining expert guidance with evidence 
+ 
+Inthefinalstageofthemethodology,wecombinedthetwoapproachesoutlinedinsteps               
+3and6:buildingonexpertguidancewithdata-drivenevidence.Thisprocessused             
+expert-drivenmappingtohighlightanyputativemissingrelationshipsofthe          
+research-driven mapping process and to cross-validate plausibility of listed use cases. 
+ 
+Insummary,theevidence-drivenmappingprovedtobeastrongresourceonitsown.In               
+mostcases,theusecasespreemptedthehypothesisedrelationshipbetweendatasets           
+anddevelopmentsectors.Inafewcases,suchaspollutiondata,theexpert-driven             
+mapping stimulated additional research. 
+ 
+Appendix II 
+ 
+Full list of identified sectors  
+ 
+1.Transport 
+a.Access to transport 
+b.Efficiency of transport 
+c.Safety of transport 
+ 
+2.Health  
+a.Access to healthcare 
+b.Quality of healthcare 
+c.Preventing the spread of disease 
+ 
+3.Education 
+a.Access to education 
+b.Information and decision-making in education 
+c.Inclusivity of education 
+151
+ Data.gov, ​http://www.data.gov​, accessed on 2015-01-06  
+152
+ Kenya Open Data, ​https://www.opendata.go.ke/​, accessed on 2015-01-06  
+153
+ Open Government Data (OGD) Platform India, ​http://data.gov.in/​, accessed on 2015-01-06  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+43 
+
+ 
+ 
+ 
+ 
+ 
+4.Environment and natural resources management  
+a.Preservation of the environment 
+b.Resilience to climate change and natural disasters 
+c.Sustainability and pollution 
+ 
+5.Sanitation and waste management 
+a.Access to sanitation 
+b.Waste management 
+c.Recycling 
+ 
+6.Governance 
+a.Citizen engagement and responsiveness 
+b.Transparency and accountability 
+c.Crime and violence 
+ 
+7.Economic prosperity 
+a.Innovation and entrepreneurship 
+b.Employment and unemployment 
+c.Trade and investment 
+ 
+8.Food and water 
+a.Access to affordable and healthy food 
+b.Access to clean water 
+c.Sustainable agriculture 
+ 
+9.Human settlements 
+a.Ability to house citizens 
+b.Ability to manage urbanisation 
+c.Access to infrastructure 
+ 
+10.Social development 
+a.Social equality 
+b.Gender equality 
+c.Social and financial security 
+ 
+11.Energy 
+a.Access to electricity 
+b.Efficiency in the delivery of energy 
+c.Reliability of energy in homes 
+ 
+ 
+  
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+44 
+
+ 
+ 
+ 
+ 
+ 
+Appendix III 
+ 
+Datasets used for expert-driven mapping 
+Dataset name 
+Company/business register 
+GP/hospital/dentists/clinical reference data 
+Information about local processes/administration 
+Legislation 
+Maps of transport infrastructure 
+Rural land register 
+School Census 
+Spatial information 
+Spend reports 
+Weather forecast and observational data 
+Broadband coverage 
+Cadastre 
+Central government procurement 
+Contracts (framework and otherwise) 
+Court listings 
+Crime statistics 
+Disaster risk map 
+Hydrographic data 
+Information about food businesses such as hygiene ratings 
+Information about power stations 
+Locations of stops/routes of public transport systems 
+Medicines 
+Mobile phone coverage 
+Monitoring determinants 
+National population projections 
+Parliament 
+Planning applications 
+Police station locations 
+Police workforce 
+Polling stations 
+Power network 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+45 
+
+ 
+ 
+ 
+ 
+Protected areas 
+Public sector bodies 
+Public spending statistics 
+Public transport timetables 
+Rail timetables 
+Regulated pollutants  
+River network 
+Road traffic and congestion 
+Social housing 
+Street level crimes 
+Taxes such as VAT 
+Vehicle register 
+Wards 
+Waste and recycling centres 
+Weather observation points 
+A&E weekly data 
+Aggregated hospital episode statistics 
+Average energy efficiency homes 
+Basic company data 
+Benefits statistics 
+Business activities (standard industrial classification) 
+Business plans for central government departments 
+Business population estimates 
+Business: activity, size and location 
+Car parking information 
+Cereal stocks 
+Citizenship statistics 
+Coastguard stations 
+Commercial and market intelligence of key suppliers to government 
+Consumer price indices 
+Cost of organised crime 
+Court locations 
+Critical care bed capacity 
+Departmental energy consumption 
+Departmental organograms 
+Employment and earnings 
+Fire incidence response times 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+46 
+
+ 
+ 
+ 
+ 
+Fire stations 
+Fishing activity data 
+Govt construction strategy strategic supplier data 
+Grants register 
+Higher education statistics 
+Historical data for meteorological stations 
+Hospital activity data 
+House price index 
+Housing market 
+Immigration statistics 
+Import licence applications 
+Indicators of natural disasters 
+Insolvency statistics 
+Job centres 
+Justice statistics 
+Locations, inventory of museums 
+Locations, inventory of public libraries 
+National coach services 
+National parks 
+Police (boundaries) 
+Police powers and procedures 
+Political parties 
+Pollution measuring points 
+Practice prescribing data 
+Prison population 
+Privately-funded providers of higher education (HE) 
+Public roles and salaries 
+Public sector finances 
+Real time energy usage 
+Real time rail performance 
+Small and medium sized enterprise statistics (SME) 
+Special advisers number and costs 
+Stolen vehicle data 
+Traffic camera video 
+Types of court 
+Waste disposal site records 
+Water well archive 
+ 
+ 
+Prioritising open data to drive global development ​ | Open Data Institute 2015 
+47 
+

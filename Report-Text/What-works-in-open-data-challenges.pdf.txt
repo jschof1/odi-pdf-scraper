@@ -1,0 +1,1103 @@
+
+
+What works
+in open data
+challenges
+Method report
+ODI-WP-2017-001
+January 2017
+
+2 What works in open data challenges | Open Data Institute 2016
+Table of contents 
+Executive summary 3
+Introduction: Challenge prizes and open data in a global context 6
+Why run an open data challenge? 11
+What benefits can you expect? 12
+Risks and issues to consider 14
+Four foundations for delivering effective open data challenges 16
+1. The principles of leading a challenge 16
+Principle 1: Invest in relationships 16
+Principle 2: Work openly and collaboratively  17
+Principle 3: Respect intellectual property and investment 17
+Principle 4: Minimise barriers to participation 18
+2. Designing your programme and activities 18
+3. Providing resources and inputs 21
+4. Creating incentives for participants 22
+Conclusion and recommendations 25
+About this report 28
+Appendix                                                                                                             29
+Glossary                                                                                                          29
+Examples of open data challenges 30
+Bibliography                                                                                                        33
+Author: Briony Phillips
+Editors: Anna Scott and Amanda Smith
+Designer: Christie Brewster
+With thanks to Eun A Jo for conducting the literature review,  
+and Marta Tondera for research support.
+
+3 What works in open data challenges | Open Data Institute 2016
+Executive summary
+This report reviews current theory and practice behind open data challenges as a mechanism 
+for driving open data improvement, engagement and innovation. Its main purpose is to equip 
+and  enable  organisations,  governments  and  community  organisers  to  deliver  high-quality  
+open data challenges while helping them to recognise nuances within their local contexts.
+ 
+Open data challenges are a derivation of challenge prizes or inducement prizes, which have a 
+long history reaching back to the Longitude Prize in the 1700s.
+1
+ While the theory and history of 
+challenge prizes is well documented by Nesta’s Centre for Challenge Prizes amongst others,
+2
+ 
+open data challenges were not widely recognised until the 2000s.  
+Open data challenges offer a mechanism that demonstrates the potential of open data, drives 
+its  improvement  and  enables  entrepreneurs  to  innovate  with  it.  They  have  typically  been  
+implemented  in  contexts  where  open  data  publication  and  use  are  already  advanced,  but  
+are  now  also  contributing  to  innovation  and  economic  development  in  developing  country  
+contexts (as an alternative to hackathons).
+  
+The number of countries, governments and organisations releasing data openly has increased 
+significantly in the past few years. However, their motivations remain mixed. While some may 
+see  releasing  data  as  an  opportunity  to  increase  accountability  and  transparency,  others  
+have realised its potential to support new business growth and innovation. For those with the 
+ambition  to  support  and  strengthen  a  sustainable  data  infrastructure,  open  data  challenges  
+provide a framework through which to expedite this.
+  
+This report draws on an extensive review of literature on the economics and management of 
+innovation contests, which was used to map over 25 open data challenges. Further qualitative 
+insights were drawn from nine interviews that were conducted with organisers of open data 
+challenges, representing seven geographic regions and five scales of operation. 
+The  report  explores  the  case  for  implementation,  explains  the  key  attributes  of  a  challenge  
+prize  and  provides  seven  recommendations  for  prize  delivery  to  help  others  design,  deliver  
+and evaluate open data challenge prizes effectively. 
+1     See     http://longitudeprize.org/history.
+2     See     http://www.nesta.org.uk/sites/default/files/challenge-prizes-design-practice-guide.pdf.
+
+4 What works in open data challenges | Open Data Institute 2016
+1. Set clear objectives that reflect the primary interests of all core stakeholders. 
+Organisers should only conduct an open data challenge where it is appropriate 
+and will contribute to their overarching goals. While open data challenges often 
+help demonstrate the power of data that has already been released, the timelines 
+they work to are often  insufficient to drive the release of new open data. Effective, 
+collaborative, open design and marketing of challenge objectives will ensure that 
+they reflect goals that all key stakeholders subscribe to.
+2. Design a bespoke challenge structure that reflects these primary objectives 
+throughout. As this report illustrates, subtle and significant changes to challenge 
+design will determine whether or not and to what degree its core objectives are 
+achieved. While keeping resource, infrastructure and organisational constraints in 
+mind, organisers should take time, utilise expertise and employ creative license to 
+design a challenge that best reflects what they are trying to achieve in their unique 
+context.  Every  challenge  should  start  with  a  call  to  action  focused  on  a  clear  
+challenge question and culminate in the award of one prize to an overall winner 
+who is committed to sustaining their product or service. 
+3. Commit to open design principles and be prepared to iterate or adjust plans as 
+you go. To deliver a successful challenge, organisers will need to:
+ operate with uncertainty and unknowns as a core element of design
+ invest in relationship building (with partners, participants and volunteers)
+ work as collaboratively and openly as they would expect others to 
+ engage stakeholders in design and delivery
+ respect participants’ intellectual property and level of investment
+ minimise barriers to participation and have clear incentives
+4. Sustain focus on open data from launch to completion. Support participants 
+to understand, access and use open data. A challenge cannot succeed unless 
+sufficient, high-quality and relevant data are available. Challenges are much more 
+likely  to  succeed  when  data  infrastructure,  access  and  resources  are  carefully  
+prepared  and  maintained.  Organisers  should  recognise  that  many  of  their  
+participants  will  not  be  open  data  experts  and  will  need  support  in  accessing  
+and using it. Understanding what data is available and how it can be used can 
+be a significant barrier in creating ideas. Further, if every opportunity is taken to 
+support data’s improvement and that of the surrounding ecosystem, a challenge 
+prize can add significant value for the open data community, including publishers 
+and users. This must be actively built into challenge design.
+
+5 What works in open data challenges | Open Data Institute 2016
+5. Take time to plan, deliver and review each stage of the challenge process. 
+Challenges   often   look   straightforward   when   observed   from   an   outsider’s   
+perspective. However, a challenge is only simple when sufficient thought and 
+expertise is invested in its design and execution. Assembling a team with suitable 
+expertise is no easy task, but experts in business modelling, facilitation, judging 
+and impact assessment will be essential to the success of the challenge.
+6. Do not stop at one challenge. To optimise their return on investment, challenge 
+prize  organisers  should  consider  running  multiple  challenges  over  an  extended  
+period.  This  additional  upfront  commitment  will  create  an  opportunity  to  build  
+momentum  with  participants  and  supporters,  and  ensure  lessons  are  recorded  
+and iterated quickly. The investment needed to launch and deliver a successful 
+challenge is significant, but once initial design, launch and awareness building 
+is complete, much of the hard work is done and the reward will be greater from 
+delivering  multiple  challenges.  A  community  of  innovators,  policy  experts  and  
+entrepreneurs is easier to sustain than to create for a single open data challenge.
+7. Undertake an impact and process evaluation and share it.  As  a  community  
+committed  to  working  collaboratively  and  openly,  we  owe  it  to  one  another  to  
+share the lessons and experiences that lead to both the successes and failures in 
+our work. Too few process and impact evaluations exist in relation to open data 
+challenges. Together, we have the opportunity to change this.
+
+6 What works in open data challenges | Open Data Institute 2016
+Introduction:  
+Challenge prizes and open data in a global context
+The history of challenge prizes
+Challenge  prizes  in  some  form  have  been  recorded  throughout  history,  dating  back  as  far  
+as 1714, and are defined by Wikipedia as “a competition that awards a cash prize for the 
+accomplishment  of  a  feat,  usually  of  engineering.  Inducement  prize  challenges  are  typically  
+designed to extend the limits of human ability” (Wikipedia, (2016b).
+Nesta’s  Centre  for  Challenge  Prizes  further  explains  that  “challenge  prizes  (also  called 
+‘inducement’ prizes) offer a reward to whoever can first or most effectively meet a defined 
+challenge. They act as an incentive for meeting a specific challenge, rather than as a reward 
+for past achievements” (Nesta, 2014).
+The difference between hackathons and pure challenge prizes
+All open innovation techniques, such as hackathons and challenge prizes, all share common 
+objectives. Specifically, they will all raise the profile of a given brand, topic, issue or resource, 
+and engage a community of participants or specialists. However, hackathons and challenges 
+are often conflated, leading to creative interpretations of both and a poor understanding of the 
+design principles for a successful challenge. 
+The table below shows the differences between the two event types, when they should be 
+used and what outcomes can be expected.
+3
+HackathonChallenge Prize
+DefinitionAn event in which programmers/
+software development 
+specialists (e.g. graphic 
+designers and project managers) 
+collaborate intensively on 
+software projects (Wikipedia, 
+2016a).
+A series of activities leading to a 
+reward for whoever can first or 
+most effectively meet a defined 
+challenge. The incentive is 
+awarded for meeting a specific 
+challenge, not to reward past 
+achievements.
+
+7 What works in open data challenges | Open Data Institute 2016
+Goals and objectives
+Develop prototypes to test an 
+input or platform.
+• Quickly develop new software 
+technologies
+• Locate new areas for 
+innovation and funding
+• Test resources such as data 
+integrity/functionality of API
+• Attendees learn new skills and 
+build professional networks
+Create sustainable products or 
+services that solve a specific 
+issue.
+ 
+• Raise awareness about and 
+give momentum to the open 
+data movement
+• Teach participants specific 
+skills
+• Prioritise the development of 
+products/services 
+• Support participants to 
+expedite product development
+• Seek to generate socially, 
+economically and 
+environmentally responsible 
+solutions
+ParticipantsPrimarily those with technical 
+skills (computer programmers, 
+software developers, graphic 
+designers etc)
+Entrepreneurs, startups, big 
+business, academic institutions 
+and SMEs
+Outputs• Working prototypes/minimum 
+viable product
+• Demonstration of potential
+• Minimal commitment required 
+by participants
+• Innovative and sustainable 
+products and services
+• Tested business model
+• Committed, engaged teams
+Outcomes• Refined and tested inputs 
+(data, API etc)
+• Offers of employment/new 
+jobs
+• Improved awareness of a 
+specific issue
+• Personal and professional 
+networks and development
+• Increased engagement 
+between data publishers and 
+users
+• Network of knowledgeable 
+people engaged with the 
+brand/issue and data source
+• Increased profile for/
+awareness of challenge issue
+• Connect with talented 
+potential future employees
+Time investmentPrep: 3 months (often less)
+Delivery: 1–2 days
+Prep: 2-3 months per stage
+Delivery: 3 months to 5 years
+Cost (£-£££)£££££
+Potential impactPrimary impact on organisation 
+and data users
+Broader impact including social 
+and environmental
+
+8 What works in open data challenges | Open Data Institute 2016
+The underlying research that informs this report assessed 25 selected open data challenges, 
+some  of  which  might  be  strictly  defined  as  hackathons,  particularly  those  that  prioritise 
+“learning” as their primary objective. 
+Open data and challenge prizes
+Open data is data that anyone can access, use and share. Open data lends itself to challenge 
+prizes  particularly  well  because  it  shares  central  principles  with  a  well-run  challenge  prize,  
+since both rely equally on collaboration, openness and building symbiotic relationships.
+Putting open data at the centre of a challenge prize has a number of key benefits. It brings 
+a  challenge  prize  concept  to  a  new  audience  (open  data  specialists),  increasing  the  pool  
+of  potential  participants  who  are  passionate  and  knowledgeable.  Including  open  data  in  a  
+challenge prize also exposes this core resource to a new audience, increasing awareness and 
+understanding for those sector specialists who are knowledgeable about the challenge topic 
+but not yet aware of relevant data that is publicly available.
+Stipulating  the  use  of  open  data  within  products  and  services  in  this  way  helps  to  create  
+demonstrable examples of the power of open data in a business context. When done well, this 
+encourages greater interaction between users and publishers, thereby increasing the quality 
+and availability of data, and helping countries and organisations to create a mature open data 
+ecosystem.
+History of open data challenge prizes
+In recent history, since the advent of the X Prize
+4
+ in 1996 and the establishment of the Centre 
+for Challenge Prizes at Nesta in 2012, challenge prize methodology has blossomed beyond 
+the realms of engineering to encompass the open data sector. In particular, significant steps 
+forward have been observed since the launch of the Open Data Challenge Series by Nesta and 
+the Open Data Institute in 2013.
+5
+ 
+4     See     https://www.xprize.org.
+5     See     http://opendatachallenges.org.
+
+9 What works in open data challenges | Open Data Institute 2016
+The application of challenge prize methodology to the open data sector can be traced 
+back to two main points of origin:
+ The  growing  expectation  that  hackathons  should  deliver  more  sustainable,  
+quantifiable  outputs:   Event   commissioners   often   seek   a   simpler,   more   
+cost-effective  mechanism  through  which  to  deliver  sustainable  innovation 
+and  settle  on  a  hackathon-challenge  hybrid.  In  2008,  the  UK  Government  
+invited citizens to find innovative ways to use the masses of data that it has 
+collected  in  health,  criminal  justice  and  education.  At  the  time,  the  activity  was  
+described as a ‘data mash-up’ competition, offering an example of challenge 
+prize   and   open   innovation   theory   working   in   combination   (BBC,   2008). 
+ The design and delivery of the Open Data Challenge Series (ODCS) by Nesta and 
+the Open Data Institute: This series of seven challenges was conducted largely 
+in  the  open  and  heralded  as  a  success,  thanks  to  an  independent  assessment  
+by  PWC,  which  projected  its  return  on  investment  to  be  5–10-fold  (Nesta  and  
+the ODI, 2015. The ODCS released process and impact evaluations along with a 
+handbook (including a summary of its methodology) openly to support others to 
+adopt and adapt the model (Nesta and the ODI, 2015b). ODCS is frequently cited 
+by organisations as the inspiration and/or basis for their own model and approach. 
+One such example is Ukraine’s EGAP challenge.
+6
+ EGAP is designed to drive the 
+creation and implementation of new electronic democracy tools to help citizens 
+receive new high-quality services, interact with the government effectively, have a 
+direct impact on it and help it to reach a new level of transparency and efficiency.
+ 
+Core features of open data challenge methodology
+Open  data  challenges  have  evolved  in  a  variety  of  ways.  Challenge  structure  has  generally  
+morphed to reflect more the priorities of the organiser than the core features of a challenge 
+method. A project that delivers against the following core questions is technically classified as 
+an open data challenge prize:
+ Does the challenge address a specific and ambitious question that will require 
+significant innovation?
+ Is  a  timeline  clearly  communicated  in  which  the  number  of  qualifying  entries  
+gradually reduces to a small number of winners? Does the process culminate in 
+a significant cash incentive (or equivalent)? 
+ Are  participants  expected  to  deliver  a  product/service/prototype  that  they  are  
+6     See     http://egap.in.ua/komponent-3-e-demokratiya/egap-challenge-framework.
+
+10 What works in open data challenges | Open Data Institute 2016
+committed to in the medium to long term, in order to deliver sustainability? 
+ Are all participants required to use open data in their proposition?
+Global context for challenge prizes
+To  date,  challenge  prizes  have  been  used  most  in  well-resourced  contexts.  More  recently,  
+open data challenge prizes have been increasingly considered and implemented to contribute 
+to innovation and economic development in capacity-constrained contexts (as an alternative 
+to hackathons), such as India and South Africa.
+In capacity-constrained contexts, our research highlighted the need to build collaboration into 
+the programme design to overcome capability gaps frequently experienced by participants. 
+As  these  countries  release  a  greater  volume  of  higher  quality  open  data,  there  is  a  growing  
+expectation that it should be used. Effective challenge prizes enable organisers and government 
+officials to have greater visibility about who is using their data and how, while fostering open 
+channels of communication to improve the usability of the data. 
+
+11 What works in open data challenges | Open Data Institute 2016
+Why run an open data challenge?
+Organisations  that  design  and  run  open  data  challenge  prizes  range  from  governments  to  
+commercial  organisations,  data  publishers  to  activists.  Each  will  of  course  have  their  own  
+motivations.  However,  the  first  indication  of  success  for  a  challenge  will  come  from  how 
+effectively they distil these motivations into clear, measurable objectives. 
+Both the secondary evidence that was considered and the challenges that were assessed to 
+inform this work suggest that challenges are generally organised to achieve a primary objective. 
+These objectives are broadly organised into three main categories – learning, innovation and 
+sustainability (Adamczyk, 2012).
+1. Professional development and learning: Challenges that aim to raise awareness 
+about and give momentum to the open data movement and teach participants 
+specific skills. Literature widely focuses on the benefits of challenges to develop 
+teamwork,  time  management,  budgeting  and  communication  skills
+ 
+(Adamczyk, 
+2012). These challenges provide an opportunity for participants to apply scientific 
+concepts to real-life situations, such as using data to address specific problems 
+(Kimmel, 1992).
+ Used  primarily:  by  academic  institutions  or  organisations  dedicated  to  
+education.
+ Example:  Convergence  Innovation  Competition  (CIC)  at  Georgia  Tech  –  an  
+annual competition in which students are provided category-specific resources 
+by industry sponsors to employ towards developing a prototype and business 
+case. It includes a rigorous workshop schedule and support system to drive 
+learning agenda (Piller et al, 2004).
+ Prize: Contracts of employment and opportunities to commercialise products. 
+2. Innovative  outputs:  Challenges  that  prioritise  the  development  of  products/
+services  and  support  participants  to  expedite  product  development  (Piller  et  
+al,  2004). These challenges offer a cost-effective method to attract numerous 
+dispersed  communities  of  committed  innovators,  often  intended  to  kick-start  a  
+new market (e.g. private space flight) or adoption of a new resource (open data). 
+User-made ideas are often comparable to those of internal experts and provide 
+a  compelling  platform  to  integrate  internal  and  external  experts  toward  the  
+innovation cause thereby driving collaboration and open innovation approaches 
+(Poetz et al, 2012).
+ Used primarily: within the industry.
+
+12 What works in open data challenges | Open Data Institute 2016
+ Example:  NASA  Centennial  Challenge  –  designed  to  engage  a  diverse  
+community  including  the  public  and  particularly  citizen-inventors  in  NASA’s  
+research   and   development.   The   Centennial   Challenge   drives   forward   
+innovation,  opportunity  and  communication  by  finding  innovative  solutions 
+through  competition  and  cooperation,    enabling  challenge  competitors  to  
+develop and expand their business models and business base, and providing 
+a forum for public outreach.
+ Prize: Prize purse from US$25,000–5 million.
+3. Sustainability   and   community:   Challenges   that   seek   to   generate   socially,   
+economically  and  environmentally  responsible  solutions.  In  the  case  of  open  
+data, this may apply in two ways. Firstly, a socially motivated challenge question 
+will ensure open data challenges deliver socially beneficial products and services 
+(Belz et al, 2007); secondly, effective open innovation techniques and fostering 
+engagement  between  participants  and  data  owners  will  facilitate  a  sustainable  
+and mature open data infrastructure.
+ Used primarily: by governments, charities and not for profit organisations.
+ Example: The Open Data Challenge Series run by Nesta and the Open Data 
+Institute. The seven challenges each prioritised a specific theme and social 
+need  which  was  defined  in  collaboration  with  sector  experts.  Challenge 
+participants  were  assessed  according  to  how  well  their  product  or  service  
+responded to the social need, their use of open data, the level of innovation 
+and the strength of their business model.
+ Prize: Prize purse from £45,000–55,000 per challenge. 
+As we will see later, the selection and articulation of objectives will have direct implications for the 
+design of the challenge prize and should not be overlooked. The effective, collaborative construction 
+of  objectives  is  a  process  that  should  be  invested  in  by  all  stakeholders,  ranging  from  domain  
+experts to funders and data owners. It provides an opportunity to air and agree primary measures 
+of success and to establish core principles which will guide challenge design and delivery. 
+What benefits can you expect?
+Open  data  challenges  are  particularly  appealing,  both  to  corporations  and  governments,  
+because innovative solutions can emerge at a far lower cost than through traditional research and 
+development practices in closed organisational settings (Lampel et al, 2012). Challenges often 
+deliver a number of benefits to the organising group, ranging from increased engagement with 
+specific datasets and a wide spectrum of specialists, to access to a community of advocates 
+
+13 What works in open data challenges | Open Data Institute 2016
+and innovators who are invested in a brand or cause. Rapid shifts in innovation demands and 
+the rising costs of maintaining internal resources make open innovation methods increasingly 
+attractive (Hossain and Kauranen, 2015).
+Economic benefits
+ Return on investment for data release or investment is clearer, more significant 
+and measurable. It is not always easy to demonstrate the benefits of releasing 
+open  data.  Many  organisations  are  unaware  of  the  degree  of  their  open  data’s  
+use, which makes estimating the return on their investment difficult. A challenge 
+prize  can  require  that  a  participant  should  keep  the  organiser  informed  of  their  
+progress and success, thereby giving some indication of impact.
+ Foster  activity  on  a  broad  topic  and  potentially  invest  in  a  new  market. 
+Challenges  are  particularly  useful  where  groups  are  unlikely  to  risk  developing  
+ideas themselves because there is not a proven market for them, or the high cost 
+of developing products or services puts them off.
+Environmental benefits
+ Limited environmental impact.  Challenge  prizes  are  largely  delivered  remotely  
+which reduces the requirement for travel or the impact of a physical event. Online 
+platforms  such  as  YouNoodle
+7
+ and Collabfinder
+8
+  provide  functionality  for  team  
+recruitment, submission and judging.
+ Target  and  overcome  specific  environmental  challenges. Challenge  prize  
+questions  can  be  specifically  designed  to  target  environmental  needs  and 
+improvements. For example, a challenge question could read “How can we use 
+open data to increase the number of people generating their own energy?”
+Social benefits
+ Discover new, innovative solutions to entrenched social (and other more technical) 
+problems which respond to the challenge definition. For example, solutions to 
+food waste, social mobility, public engagement and housing.
+ Improve recruitment and community building by identifying talent in communities 
+and building a network of knowledge and expertise.
+ Encourage collaboration between participants. There is an option to incentivise 
+deeper collaboration and partnerships through the challenge design by requiring 
+academics to submit in partnership with experienced entrepreneurs, for example.
+ Improve awareness of existing innovation, specialists and open data resources, 
+7     See     https://www.younoodle.com.
+8     See     http://collabfinder.com.
+
+14 What works in open data challenges | Open Data Institute 2016
+strengthening open data practice and prompting greater use of open data.
+ Develop ongoing symbiotic relationships – data providers, publishers and users 
+are encouraged to collaborate more effectively. The quality, availability, use and 
+breadth of data improves as a result.
+While open data challenges provide an efficient platform for organisers to seek innovative 
+solutions, participants will also often benefit greatly from their involvement. 
+Personal professional development
+ Build  professional  networks  related  to  a  topic  of  interest,  meet  like-minded  
+participants and become part of an expert community.
+ Test and learn new skills in a stimulating, supportive environment.
+ Access wide-ranging resources including data, user insight reports, research and 
+publications.
+Product development
+ Get access to expert facilitation, peer support and industry sponsorship.
+ Agile and intense process to quickly research and develop in secure environment.
+ Bring visibility to themselves, their work and their projects. 
+ Enter markets that are otherwise difficult to penetrate.
+In addition to the broad benefits set out above, the challenge process can be designed to 
+support specific outcomes for the participants in line with the overarching objectives. For 
+example, if learning is a priority, organisers may wish to provide a professional development 
+package  alongside  the  challenge  milestones.  This  package  may  include  training,  in  person  
+or online, or mentoring on topics such as user research, open data, project management or 
+business models. This will provide an extra bundle of benefits to participants and will have the 
+additional benefit of improving the quality of submissions. 
+Risks and issues to consider 
+For colleagues working in capacity-constrained contexts, our research identified four specific 
+challenges  that  are  vital  to  consider  during  the  programme  design  and  execution  of  the  
+challenge. First and foremost, data science capacity and capability – the success of open 
+data challenge participants depends on their ability to extract, interpret, analyse and apply data. 
+If an existing community of potential participants with the necessary skills and capacity cannot 
+be found and engaged, investment will need to be made in training and expert mentorship for 
+participants who lack these skills. 
+
+15 What works in open data challenges | Open Data Institute 2016
+Second, adequate data and legal infrastructure will need to be in place. Not only should 
+relevant,  quality  data  be  available  for  participants  at  the  launch  of  the  challenge,  but  also  
+investment should be made to ensure the infrastructure supports participants to access and 
+digitise information and locate and manage datasets. 
+Organisational  fragmentation  and  lack  of  collaboration  were  also  reported  as  issues.  
+Organisers must identify clear roles and responsibilities for all stakeholders and make sufficient 
+investment into stakeholder relationships (e.g. work together to set common objectives and 
+design principles). 
+Finally, though it may not seem an obvious priority, it is essential that organisers commit in the 
+long term to their challenge process and prioritise open data. This requires that organisers 
+invest  in  the  full  assessment  of  the  quality  of  submissions  (including  user  accessibility  and  
+impact of open data use), not just in the number of submissions themselves. Organisers are 
+recommended to monitor participants progress beyond the final winner’s award and evaluate 
+the long-term outcomes and impacts of the challenge process. 
+
+16 What works in open data challenges | Open Data Institute 2016
+Four foundations for delivering effective  
+open data challenges
+There are four foundations for the design and delivery of an open data challenge:
+1. The principles of leading a challenge 
+2. Designing your programme and activities
+3. Providing resources and inputs 
+4. Creating incentives for participants
+1. The principles of leading a challenge
+The  objectives  agreed  between  key  organising  partners  will  greatly  determine  the  nature  of  
+the  challenge  outputs.  In  order  to  further  increase  the  likelihood  of  success,  organisers  are  
+encouraged to consider to what degree they will adopt the following guiding principles. These 
+principles are derived from our research and experience in open data challenge delivery.
+Principle 1: Invest in relationships 
+Whether  between  partner  organisations,  individuals  within  a  team  or  competing  teams,  
+relationships are a core foundation for the success and sustainability of an open data challenge. 
+An early investment in building open, collaborative relationships with all stakeholders will pay 
+dividends.  In  the  short  term,  organisers  can  expect  an  increased  likelihood  of  collaboration  
+or pro bono support, deeper understanding of the challenge question and theme, and more 
+collaboration between participants. 
+When the foundations are set right, this investment can lead to more significant relationships 
+and involvement between parties in the longer term, ranging from permanent employment and 
+freelance support to collaborative product design and delivery.
+Capacity-constrained  contexts.  Investing  in  building  relationships  within  the  open  data  
+ecosystem is particularly important where the level of open data maturity is nascent, or where 
+the financial rewards for involvement in this specific event are more limited. This enables future 
+partnerships to develop over the longer term.
+
+17 What works in open data challenges | Open Data Institute 2016
+Principle 2: Work as openly and collaboratively as you  
+expect others to 
+An open data challenge is one example of an open innovation technique, as such its success 
+is dependent on the degree to which it is designed, managed, judged and evaluated openly. 
+An open data challenge invites participants to submit their innovations in the open – the quality 
+of these submissions can be improved by clarity of judging criteria and shared insight into the 
+user needs that motivate the challenge question. 
+Capacity-constrained  contexts. Aligning   organisations   with   similar   objectives   and   
+complimentary  skillsets  may  be  more  challenging  where  there  is  competition  for  limited  
+resources such as donor funding. Working openly can be perceived as a risk to organisational 
+intellectual property, however, in this case, the benefits far outweigh the risks. 
+Principle 3: Respect participants’ intellectual property and 
+level of investment
+It  is  imperative  that  participants  have  clarity  regarding  their  intellectual  property  throughout  
+the challenge process. All challenges will require participants to make a level of investment in 
+their submissions prior to entry, and teams can incur reputational and other risks as a result. 
+To support their involvement and comfort with the process, clarity should be provided through 
+written terms and conditions with a clear judging timeline and matrix. 
+The openness of the challenge process requires that participants both compete and collaborate 
+with one another. Creating conditions that support both behaviours, and being clear on the 
+expectations that you hold for participants, will enable them to benefit from the process to the 
+greatest degree possible.
+Capacity-constrained  contexts. Encouraging  collaboration  is  highly  beneficial 
+for the experience and outcomes of the process but this approach may conflict 
+with  cultural  norms.  Finding  a  suitable  balance  that  both  optimises  collaboration  
+while  encouraging  competition  should  be  considered  on  a  case-by-case  basis  
+and  reflected  in  the  challenge  design.  For  example,  meetups  will  encourage 
+collaboration while the judging process will drive competition.
+
+18 What works in open data challenges | Open Data Institute 2016
+Principle 4: Minimise barriers to participation 
+Challenges,  particularly  those  with  a  lower  prize  range,  are  frequently  the  pursuit  of  small  
+businesses, entrepreneurs and individuals. These participants are likely to be time-constrained 
+and working on tight margins or in their own time so it is vital that they feel their time is suitably 
+rewarded through professional development, a comfortable environment and a suitable prize. 
+A challenge that will have greatest appeal to a wide and well-suited audience is one which has 
+considered and attempted to overcome barriers to participation. Organisers may wish to do 
+this through provision of:
+ Challenge  question  and  definition.  A  narrative  to  explain  how  and  why  the  
+challenge  question  has  been  selected  and  what  impact  is  anticipated  from  
+submissions.
+ User research and insights help participants to understand the challenge question 
+more fully and target their submissions to specific audiences. 
+ User   centred   design   and   universal   design   principles   or   other   suitable   
+requirements to guide submissions and put user needs at the centre of innovation 
+process.
+ Data.  A  central  curated  repository  for  relevant  data  to  include  metadata  and  
+guidance thereby supporting efficient idea creation and innovation.
+Tips for implementation: The more guidance and research that can be centralised, 
+the  less  burden  on  participants.  Organisers  should  consider  how  to  work  
+collaboratively with experts in their field to provide these resources.
+2. Designing your programme and activities
+As  Nesta’s  Centre  for  Challenge  Prizes  has  established,  challenge  prizes  can  be  designed  
+to  achieve  a  number  of  outcomes  –  whether  to  solve  big  problems  and  achieve  major  
+breakthroughs,  to  make  progress  towards  ambitious  goals  or  to  create  new  markets.  
+9
+Irrespective of the overarching goal, there are some elements of overarching challenge design 
+that  are  consistent  across  best-in-class  open  data  challenge  prizes.  A  standard  challenge  
+process can be simplified as follows:
+9     See     http://www.nesta.org.uk/sites/default/files/challenge-prizes-design-practice-guide.pdf.
+
+19 What works in open data challenges | Open Data Institute 2016
+Key:
+Black text: discovery and challenge definition
+Orange text: significant communications milestones
+Purple text: participant focused activities
+Green text: assessment and judging
+Defining the challenge: the discovery phase
+The discovery phase for any challenge will set up participants, key stakeholders and champions 
+to  engage  most  effectively  with  the  challenge  process.  Organisers  may  wish  to  consider 
+additional activities such as:
+ Roundtable  discussions  and  interviews.  Bring  together  specialists  to  better  
+understand  underlying  issues  that  could  present  potential  challenge  questions/
+themes and specific areas of focus.
+ Comprehensive data review. Review available open data and curate a data guide 
+to help data novices understand what is available, how frequently it is updated, 
+the quality and completeness of the data, and how the data could relate to the 
+challenge question.
+ User research. Undertake or commission user research activities to expose user 
+needs. Both secondary and primary research can be highly valuable and encourage 
+data specialists who may lack thematic or sector expertise to participate.
+Setting communications milestones
+The impact and degree of engagement with a challenge can be significantly increased through 
+effective communication. While the main milestones that should be prioritised are the launch 
+of the challenge and the announcement of the winner, there are specific activities that can be 
+employed to increase their hit-rate:
+ Share  openly.  Participants  and  observers  will  benefit  greatly  from  access  to 
+informal, anecdotal information as the challenge progresses. Collaborative note-
+taking tools such as Hackpad, blog posts and social media activity are all useful 
+ways to share progress, collect input and engage potential participants. 
+ Commit in the long term. The most sellable stories come long after the culmination 
+
+20 What works in open data challenges | Open Data Institute 2016
+of the challenge, once participants have launched, often pivoted, and had some 
+successes. By making a commitment to the winner in the medium to long term, 
+or running multiple challenge prizes consecutively, an organiser will benefit from 
+a multiplier effect. 
+Setting activities for your participants
+While the preparation, communication and assessment of the challenge are all vital logistical 
+elements, the participant activities form the main focus of the process. In its simplest form, a 
+challenge will require participants to submit an idea or concept, develop that concept and then 
+launch it into the market. At each stage, the number of participants will decline and the focus 
+of support will increase. Participant activities can be supported through:
+ Online submission platform. Organisers may wish to use a submission platform 
+such as YouNoodle or Collabfinder to manage initial participant submissions. The 
+selection of a platform is a difficult process and all options should be considered. 
+For  example  some  platforms  will  support  the  judging  process  as  well  as  
+submissions but will not support participants to find teammates. An initial online 
+submission provides the opportunity to assess and shortlist suitable participants 
+to engage in the next phase.
+ Meetups.  Physical  interaction  between  participants  can  be  hugely  beneficial, 
+particularly in the early stages when idea generation is the focus, and later when 
+teams will benefit from being exposed to specific skills and techniques through 
+training and support. 
+ Creation Weekend. Many open data challenge prizes will require all participants 
+to attend and pitch at a weekend long event. This is a dedicated time period for 
+development and refinement of the product or service before live pitching in front 
+of  a  panel  of  judges.  The  Creation  Weekend  structure  can  itself  be  adjusted  to  
+prioritise primary objectives and outcomes. 
+
+21 What works in open data challenges | Open Data Institute 2016
+Assessment and judging
+Transparency in assessment will improve both the volume and quality of submissions. Where 
+a participant can easily see what they are being judged on, by whom and how, they can more 
+easily improve their scores and achieve even greater success.
+ Share judging information early. Communicate the judge’s names, judging criteria 
+and matrix as early as possible in the process to help participants understand what 
+is required of them at each stage and how their submissions will be assessed. 
+ Communicate scores and feedback openly. To broaden the benefits and impact 
+of  a  challenge  process,  organisers  should  share  feedback  with  all  participants  
+at  all  stages  regardless  of  the  degree  of  success  they  achieve.  Supporting  all  
+participants to achieve success will ensure the greatest possible impact for the 
+challenge process.
+3. Providing resources and inputs 
+The submissions made in response to a challenge question are primarily a reflection of the 
+resources,  experiences  and  knowledge  of  the  participating  team.  Teams  are  often  drawn  
+from a range of open data expertise levels, a variety of different sectors and across different 
+levels  of  seniority,  depending  on  the  size  and  draw  of  the  incentive.  To  improve  the  quality  
+of submissions, a number of challenges have found great benefit from crowdsourcing and 
+openly sharing resources to expedite the idea and product development. 
+With  open  data  being  a  relatively  new  and  nuanced  discipline,  expertise  and  knowledge  in  
+the  entrepreneurial  sphere  is  limited.  Challenge  organisers  have  benefited  from  asking  an 
+independent  data  scientist  to  contribute  to  the  provision  of  two  types  of  open  data-related  
+material. This includes an introduction to open data, including information about the concept, 
+requirements and availability, and also an outline of the main data providers and key datasets 
+that relate to the sector or challenge question. Those who have a basic understanding of open 
+data will also benefit from a second, more thorough, interactive audit and quality assessment. 
+This  document  will  rate  the  openness  of  the  data  and  provide  clear  documentation  to  help  
+potential participants identify the datasets that will best support their idea at a glance, and help 
+data publishers to see where their data sits amongst their peers. 
+With participating teams often resource-constrained and limited to specific areas of expertise, 
+user research and user centred design principles can be overlooked. One simple way to set 
+this expectation is to suggest teams refer in some way to user needs and user feedback in 
+their pitch. A solution which will offer benefits far beyond the parameters of the challenge is 
+
+22 What works in open data challenges | Open Data Institute 2016
+the preparation of a user insight guide by a researcher. Organisers may wish to commission 
+specialists to create a user insight report to include user profiles of the types of users that 
+teams should develop their products for, an exploration of user needs, analysis of secondary 
+research and interviews with sector specialists.
+The Creation Weekend and prototype development phases offer an opportunity to provide 
+specialist  support  to  the  teams.  Experts  can  work  with  the  teams  directly  to  challenge,  
+coach and advise them regarding specific areas of focus stipulated in the judging criteria, such 
+as use of open data, brand and concept.     
+4. Creating incentives for participants
+The nature, volume and enthusiasm of participants is commonly influenced by their commitment 
+to the cause and equally by the size and type of the incentive. This is a very important aspect 
+of challenge design and the literature is exhaustive on the subject, particularly in relation to the 
+amount or type of reward (Piller et al, 2010), whether to offer single or multiple prizes (Glazer and 
+Hassin, 1988), whether to offer fixed or proportional prizes (Cason et al, 2010), and monetary 
+prizes versus proprietary rights (Che et al, 2015). All 25 open data challenges involved some 
+form of monetary reward. Observably, the size of their cash prizes differed significantly, ranging 
+from $500 to $1,000,000. Open data challenges with simple context structures, single-stage, 
+single-award, often employed one-off, larger-sum prizes, while those with complex structures, 
+multi-stage, multi-module, or both, tended to link each stage or module with a smaller-sum 
+prize. 
+While  a  professional  development  programme  of  learning  and/or  recruitment  opportunity  
+may be more than enough incentive for a university student, it will not encourage seasoned 
+entrepreneurs to participate in the challenge. It is therefore essential that the organisers explore 
+and test suitable incentives with their intended participant community before committing. 
+According  to  one  interviewee,  the  prevalence  of  monetary  award  could  be  attributed  to  
+convention and convenience, because “setting up a monetary prize is the most straightforward 
+and  proven  thing  to  do  in  terms  of  reward”.  While  most  interviewees  were  positive  about  
+cash  prizes,  one  noted  their  limitations  in  a  longer-term  challenge:  “We call it a prize as if 
+it’s a reward, but you must recognise that in order to win that prize, they probably put far 
+more than £50,000 worth of investment into the product or service in terms of their time, the 
+technological developments, the user research sessions they’ve run, and so on. Effectively, we 
+are not actually even covering their costs for the time they’ve spent.” 
+
+23 What works in open data challenges | Open Data Institute 2016
+Besides the size and variety of monetary rewards, many challenges focused on the “honour” 
+aspect  of  winning  their  open  data  challenges.  For  instance,  the  D4D  Senegal  Challenge  
+highlighted  that  winners  will  win  the  opportunity  to  present  at  an  international  conference  
+NetMob  2015,  held  at  the  Massachusetts  Institute  of  Technology  in  Boston.  Similarly,  the  
+Jakarta Provincial Government announced that winners will meet the Vice Governor of Jakarta, 
+who will also take part in the evaluation process. The Data Innovation Challenge organised by 
+the United States Department of Transportation publicised that the awardees will be honored 
+by the Transportation Secretary in a “special session where awardees will present their concept 
+for senior officials from across the US Department of Transportation, Challenge judges and 
+other members of the DoT staff”.
+10
+Incentive TypeAudience attracted
+Implications for 
+challenge design
+Cash
+£1k–250k
+£250–1m
+£1m+
+Students, small business 
+entrepreneurs
+Experienced business owners
+Research institutions, big 
+business
+A cash prize is best offered 
+when in combination with seed 
+funding for multiple shortlisted 
+finalists.
+Smaller seed funding should 
+be offered after the Creation 
+Weekend. 
+Guaranteed contractExisting experienced businesses 
+working in the sector
+The degree of competition 
+increases and collaboration and 
+openness is often diminished. 
+Intellectual property is a major 
+concern particularly where the 
+contract holder is represented 
+on the judging panel.
+Opportunity to pitch 
+for new clients
+Free exhibition ticket 
+for sector conference
+Personal introduction 
+to potential clients
+Small/medium/new businesses 
+hoping to penetrate new 
+markets. Entrepreneurs.
+Focus is less on the product or 
+service developed and more on 
+the team skills and experience. 
+Much less traditional challenge 
+prize approach.
+10   For more information on the Data Innovation Challenge, see: https://www.transportation.gov/mission/challenges/
+datachallenge-rules.
+
+24 What works in open data challenges | Open Data Institute 2016
+Press coverage
+Brand association 
+with organisers or 
+sponsors
+Small/medium/new businesses 
+hoping to penetrate new 
+markets. Entrepreneurs.
+Significant pressure on the 
+success of communications 
+initiatives which cannot be 
+guaranteed. 
+More effective if led by 
+communications specialists.
+Engagement with 
+users/user feedback
+Small/medium/new businesses 
+hoping to penetrate new 
+markets. Entrepreneurs.
+Should be built into the 
+challenge process as it is not a 
+reward for delivery so much as a 
+benefit of the process.
+Access to startup 
+incubation 
+programme
+Early stage startups with very 
+limited experience
+Incubation programme replaces 
+the prototype development 
+phase and so finalists are 
+selected early and the whole 
+challenge process is shorter.
+
+25 What works in open data challenges | Open Data Institute 2016
+Conclusion and recommendations
+The  challenge  prize  or  inducement  prize  concept  has  achieved  great  gains  across  a  wide  
+variety of sectors since its inception in the early 1700s – whether in private spaceflight or 
+determining  a  ship’s  longitude.
+11
+  So  far,  in  the  few  years  since  its  application  to  the  open  
+data  sector  in  the  late  2000s  we  have  already  seen  the  growth  of  a  new  market  of  product  
+and service-led businesses that use open data to solve specific social, environmental and 
+economic challenges. 
+While its definition is still subject to misconceptions, the open data challenge prize approach 
+is gaining traction across regions, demographics and communities internationally. Designed 
+to  incentivise,  engage  and  support  the  growth  of  a  burgeoning  market  of  products  and  
+services that use open data, open data challenge prizes are increasingly considered the best 
+mechanism with which to:
+ demonstrate potential applications for open data,often for social good
+ increase the use of open data 
+ improve the quality and availability of open data 
+However, in order for an open data challenge prize to deliver positive impact on the open 
+data ecosystem, startup market and open data infrastructure, we must invest fully and deliver 
+them  to  the  best  of  our  ability.  A  challenge  prize  should  only  be  embarked  upon  if  all  core  
+stakeholders  share  the  ambition  to  achieve  long-term  sustainable  products  and  services  
+which use open data, and to do so by incentivising participants to solve a specific, ambitious 
+challenge question. 
+For  the  best  chance  at  success,  the  following  recommendations  are  set  out  for  open  data  
+challenge prize organisers.
+1. Set clear objectives that reflect the primary interests of all core stakeholders. 
+Organisers should only conduct an open data challenge where it is appropriate 
+and will contribute to their overarching goals. While open data challenges often 
+help demonstrate the power of data that has already been released, the timelines 
+they work to are often  insufficient to drive the release of new open data. Effective, 
+collaborative, open design and marketing of challenge objectives will ensure that 
+they reflect goals that all key stakeholders subscribe to.
+11   See   https://en.wikipedia.org/wiki/Inducement_prize_contest.
+
+26 What works in open data challenges | Open Data Institute 2016
+2. Design a bespoke challenge structure that reflects these primary objectives 
+throughout. As this report illustrates, subtle and significant changes to challenge 
+design will determine whether or not and to what degree its core objectives are 
+achieved. While keeping resource, infrastructure and organisational constraints in 
+mind, organisers should take time, utilise expertise and employ creative license to 
+design a challenge that best reflects what they are trying to achieve in their unique 
+context.  Every  challenge  should  start  with  a  call  to  action  focused  on  a  clear  
+challenge question and culminate in the award of one prize to an overall winner 
+who is committed to sustaining their product or service. 
+3. Commit to open design principles and be prepared to iterate or adjust plans as 
+you go. To deliver a successful challenge, organisers will need to:
+ operate with uncertainty and unknowns as a core element of design
+ invest in relationship building (with partners, participants and volunteers)
+ work as collaboratively and openly as they would expect others to 
+ engage stakeholders in design and delivery
+ respect participants’ intellectual property and level of investment
+ minimise barriers to participation and have clear incentives
+4. Sustain focus on open data from launch to completion. Support participants 
+to understand, access and use open data. A challenge cannot succeed unless 
+sufficient, high-quality and relevant data are available. Challenges are much more 
+likely  to  succeed  when  data  infrastructure,  access  and  resources  are  carefully  
+prepared  and  maintained.  Organisers  should  recognise  that  many  of  their  
+participants  will  not  be  open  data  experts  and  will  need  support  in  accessing  
+and using it. Understanding what data is available and how it can be used can 
+be a significant barrier in creating ideas. Further, if every opportunity is taken to 
+support data’s improvement and that of the surrounding ecosystem, a challenge 
+prize can add significant value for the open data community, including publishers 
+and users. This must be actively built into challenge design.
+5. Take time to plan, deliver and review each stage of the challenge process. 
+Challenges   often   look   straightforward   when   observed   from   an   outsider’s   
+perspective. However, a challenge is only simple when sufficient thought and 
+expertise is invested in its design and execution. Assembling a team with suitable 
+expertise is no easy task, but experts in business modelling, facilitation, judging 
+and impact assessment will be essential to the success of the challenge.
+
+27 What works in open data challenges | Open Data Institute 2016
+6. Do not stop at one challenge. To optimise their return on investment, challenge 
+prize  organisers  should  consider  running  multiple  challenges  over  an  extended  
+period.  This  additional  upfront  commitment  will  create  an  opportunity  to  build  
+momentum  with  participants  and  supporters,  and  ensure  lessons  are  recorded  
+and iterated quickly. The investment needed to launch and deliver a successful 
+challenge is significant, but once initial design, launch and awareness building 
+is complete, much of the hard work is done and the reward will be greater from 
+delivering  multiple  challenges.  A  community  of  innovators,  policy  experts  and  
+entrepreneurs is easier to sustain than to create for a single open data challenge.
+7. Undertake an impact and process evaluation and share it.  As  a  community  
+committed  to  working  collaboratively  and  openly,  we  owe  it  to  one  another  to  
+share the lessons and experiences that lead to both the successes and failures in 
+our work. Too few process and impact evaluations exist in relation to open data 
+challenges. Together, we have the opportunity to change this.
+What do you think?
+If you have insights into open data or challenge prizes that you would like to share, we want to 
+hear from you. Get in touch with amanda.smith@theodi.org or tweet us at @ODIHQ. 
+
+28 What works in open data challenges | Open Data Institute 2016
+About this report
+The  Open  Data  Institute  (ODI)  connects,  equips  and  inspires  people  around  the  world  to  
+innovate with data. It is independent, nonprofit and nonpartisan, founded in 2012 by Sir Tim 
+Berners-Lee and Sir Nigel Shadbolt. From its headquarters in London and via its global
+network  of  startups,  members  and  nodes,  the  ODI  offers  training,  research  and  strategic 
+advice for organisations looking to explore the possibilities of open data.
+This report was supported by the Open Data for Development (OD4D) programme. OD4D is a 
+global network of leading organisations that are creating locally-driven and sustainable open 
+data ecosystems in in Latin America, the Caribbean, Africa, and Asia and East Europe. The 
+OD4D network builds knowledge and provides support  to governments and policy-makers in 
+key issues such as policies, standards, innovation and skills development.
+OD4D  is  managed  by  Canada’s  International  Development  Research  Centre  (IDRC),  and  it  
+is  a  donor  partnership  with  the  World  Bank,  United  Kingdom’s  Department  for  International  
+Development (DFID) and Global Affairs Canada (GAC). OD4D focuses on building up the supply 
+of quality open data, and also on improving the use of that data by leaders in government, civil 
+society, the media, and business so that it furthers public interest and improves people’s lives.
+A partnership funded by
+
+29 What works in open data challenges | Open Data Institute 2016
+Appendix 
+Glossary 
+Challenge prize / Inducement prize
+Challenge prizes, also called inducement prizes, offer a reward to whoever can first, or most 
+effectively, meet a defined challenge. They act as an incentive for meeting a specific challenge, 
+rather than an award for past achievements (prizes that do this are referred to as recognition 
+prizes). 
+Challenge prizes landscape review (2012). Available at:  
+https://www.nesta.org.uk/sites/default/files/challenge_prizes_landscape_review.pdf
+Open data 
+Open data is data that anyone can access, use and share.
+http://theodi.org/what-is-open-data
+User centred design 
+User-centered design (UCD) or user-driven development (UDD) is a framework of processes 
+(not restricted to interfaces or technologies) in which the needs, wants and limitations of end 
+users of a product, service or process are given extensive attention at each stage of the design 
+process.
+https://en.wikipedia.org/wiki/User-centered_design
+Universal design principles
+The 7 Principles of Universal Design were developed in 1997 by a working group of architects, 
+product designers, engineers and environmental design researchers, led by the late Ronald 
+Mace  in  the  North  Carolina  State  University.  The  purpose  of  the  Principles  is  to  guide  the  
+design of environments, products and communications. According to the Center for Universal 
+Design in NCSU, the Principles “may be applied to evaluate existing designs, guide the design 
+process and educate both designers and consumers about the characteristics of more usable 
+products and environments”.
+ Principle 1: Equitable Use
+ Principle 2: Flexibility in Use
+ Principle 3: Simple and Intuitive Use
+ Principle 4: Perceptible Information
+ Principle 5: Tolerance for Error
+ Principle 6: Low Physical Effort
+ Principle 7: Size and Space for Approach and Use
+http://universaldesign.ie/What-is-Universal-Design/The-7-Principles
+
+30 What works in open data challenges | Open Data Institute 2016
+Examples of open data challenges
+Open Data Challenge Series
+12
+, Nesta and ODI, UK (2013–2015)
+Funded by: Department for Business, Innovation and Skills.
+Format: Two phase open data challenge. Challenge definition, data sharing, submission, selection 
+of semi finalists, creation weekend, selection of finalists, incubation, selection of winner
+Topic: Range of seven social issues ranging from education to heritage and culture.
+Incentive: £5,000 for semi finalists + mentoring, £40-50,000 for final winner
+Goal: To  develop  sustainable,  innovative  products  and  services  using  open  data  for  social  
+good. To engage entrepreneurs and innovators in open data.
+Learning: It is very valuable of investing in evaluation of impact and process, and to commit 
+to multiple challenges in a series to allow for the process to be iterated immediately, and for 
+marketing reach to accumulate over time.
+Longitude Prize
+13
+, Nesta, Global (2014–2019)
+Funded by: InnovateUK.
+Format: Three phase challenge. Challenge question researched and selected from six options 
+by public vote. Registration, application, judging (Prize Advisory Committee), testing, judging 
+(Longitude  Committee),  winner  declared.  If  necessary,  this  cycle  will  be  completed  multiple  
+times until a winner is identified and verified.
+Discovery awards available to provide seed funding to develop an idea.
+Topic: How can we prevent the rise of resistance to antibiotics? (On average antibiotics add 
+20 years to each person’s life. The development of antibiotics has been vital to our survival, yet 
+the rise of antimicrobial resistance is threatening to make them ineffective in the future.)
+Incentive: £10 Million.
+Goal: To engage a diverse community and solve one of the greatest challenges of our time.
+12   See   http://opendatachallenges.org.
+13   See   https://longitudeprize.org.
+
+31 What works in open data challenges | Open Data Institute 2016
+GODAN Open Data Challenge, Global (2016–2017)
+Funded by: Global Open Data for Agriculture and Nutrition (GODAN).
+Supporting Partners: Thought for Food (TFF), Presidents United for Hunger (PUSH)
+Format: A  virtual  challenge  process  in  which  participants  were  required  to  submit  a  pitch  
+presentation  for  their  product/service  online  (YouNoodle  platform).  Nearly  40  entries  were  
+made across the two challenge themes and three finalists per track were selected by volunteer 
+judges.
+Topic: Two tracks were identified for this challenge: the policy track and the maker’s track. 
+The  challenges  both  centred  around  availability  and  use  of  data  and  focused  on  GODAN’s  
+ambition to achieve world food security.
+Incentive:  Three  seed-funding  prizes  per  theme  for  finalists:  $3,000,  $2,000,  $1,000  plus 
+access, transport and accommodation for the GODAN Summit in New York, and access to 
+a three month mentoring program. The final winner will receive $5,000 and an opportunity to 
+pitch their product at the TFF and PUSH Summits in 2017.
+Goal:  To  engage  a  younger  generation  in  the  work  of  GODAN  and  to  identify  and  support  
+innovation in the sector.
+Learning: Focus  participants  on  one  track  and  prioritise  innovative  products  and  services  
+rather than changes to policy as these are more accessible and can be addressed practically.
+EGAP Challenge
+14
+,  Ukraine (2015–2019)
+Funded by: IBM, Cisco Systems, De Novo, and Intel.
+Supporting  Partners: iHub Vinnytsia, Space Hub Dnipropetrovsk, Impact Hub Odesa and 
+Lutsk Local Development Foundation.
+Format: A five stage process (research, stimulation, creative weekends, incubation, selection 
+of  winners)  which  will  run  multiple  times  over  the  duration  of  the  challenge.  Each  cycle  will  
+focus on a specific theme or topic. 
+Topic: The challenge targeted submissions that were helping to improve interaction between 
+the government and citizens ranging from “resolving social problems” to “making the activity 
+of government agencies more transparent and open”.
+Incentive: UAH 4.5 million split between up to 20 projects.
+Goal:  Ultimately,  the  challenge  aims  to  implement  new  electronic  democracy  tools  to  help  
+citizens receive new high quality services, interact with the government effectively and have 
+a direct impact on it, as well as help the government reach a new level of transparency and 
+efficiency.
+Learning: A challenge is limited by the availability of open data. For their next challenge the 
+team will focus on topics where there is sufficient, quality open data available.
+14   See   http://egap.in.ua/en/egap-challenge-framework.
+
+32 What works in open data challenges | Open Data Institute 2016
+South Africa Open Data Challenge
+15
+, South Africa (2016–2017)
+Funded by: International Development Research Centre
+Supporting Partners: Open Government Partnership South Africa (main organiser), The ODI, 
+OpenData for development network, OpeniX, Geekulcha, {code}bridge, Code for South Africa 
+and Open data durban.
+Format: Open, online call for participants to submit their concept. Shortlisted participants will 
+be invited to a local Creation Weekend.
+Topic: Responsive Cities: help residents work better with local government.
+Incentive: First place: R10,000, Second place: R4,000, Third place: R1,000.
+City winners and finalists will also be awarded top-up awards by local partners depending 
+on solution potential and available budgets. For example Gauteng-based participants could 
+receive up to R300,000 in seed funding (provided by The Innovation Hub to support piloting of 
+projects selected for implementation by a city partner).
+Goal: To solve the respective challenges in the cities, while driving forward demand and use of 
+open data in order to encourage new data publication.
+Learning: Maintaining consistency over multiple locations while also maximising value from 
+the local expertise, data and resources.
+15   See   http://challenge.responsivecities.org.za.
+
+33 What works in open data challenges | Open Data Institute 2016
+Bibliography
+Adamczyk, S. (2012). Managing innovation contests: challenges of attraction and facilitation. 
+Available  at:  https://opus4.kobv.de/opus4-fau/frontdoor/deliver/index/docId/2270/file/Sabri-
+na_Adamczyk_Dissertation.pdf [Accessed: 2016-10-24].
+Adamczyk,  S.,  Bullinger,  A.  C.  and  Möslein,  K.  M.  (2012).  Innovation  contests:  a  review,  
+classification and outlook. Creativity and Innovation Management,  21(4),  pp.  335–360.  doi:  
+10.1111/caim.12003.
+BBC  (2008)  Government  launches  data  mash-up.  Available  at:  http://news.bbc.co.uk/1/
+hitechnology/7484131.stm [Accessed 2016-10-20]. 
+Belz, F. M., Silvertant, S. and Pobisch, J. (2007). Chapter 10 Consumer Integration in Sustaina-
+ble Product Innovation Processes. Available at:  http://score-network.org/files/9594_Proceed-
+ings_worshop.07.pdf#page=137 [Accessed: 2016-10-24].
+Brabham, D. C. (2009). Crowdsourcing the public participation process for planning projects. 
+Planning Theory, 8(3), pp. 242–262. doi: 10.1177/1473095209104824.
+Cason,  T.  N.,  Masters,  W.  A.  and  Sheremeta,  R.  M.  (2010).  Entry  into  winner-take-all  and  
+proportional-prize contests: an experimental study. Journal of Public Economics, 94(s 9–10), 
+pp. 604–611. doi: 10.1016/j.jpubeco.2010.05.006.
+Che, Y.-K., Iossa, E. and Patrick, R. (2015). Prizes versus contracts as incentives for innovation: 
+SSRN. doi: 10.2139/ssrn.2677626.
+Glazer, A and Hassin, R. (1988). Optimal contests. Economic Inquiry, 26(1), pp. 133–143. doi: 
+10.1111/j.1465-7295.1988.tb01674.x.
+Hossain, M. and Kauranen, I. (2015). Competition-based innovation: the case of the X prize foun-
+dation:  SSRN.  Available  at:  https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2549616 
+[Accessed: 2016-10-24].
+
+34 What works in open data challenges | Open Data Institute 2016
+EIT Digital (2016). Ideathon: how to design or improve a business idea? Available at: https://
+www.eitdigital.eu/news-events/news/article/ideathon-how-to-design-or-improve-a-business-
+idea [Accessed: 2016-10-24].
+Kimmel, H. (1992). Beyond bridge building: creative design for secondary school students. 
+Proceedings of the 22nd ASEE/IEEE Frontiers in Education Conference.
+Lampel, J., Jha, P. P. and Bhalla, A. (2012). Test-driving the future: how design competitions 
+are changing innovation. The Academy of Management Perspectives, 26(2), pp. 71–85. doi: 
+10.5465/amp.2010.0068.
+Nesta (2014). A practice guide: challenge prizes. Available at: http://www.nesta.org.uk/sites/
+default/files/challenge-prizes-design-practice-guide.pdf [Accessed: 2016-10-24].
+Nesta (2012) Challenge prizes landscape review. Available at: https://www.nesta.org.uk/sites/
+default/files/challenge_prizes_landscape_review.pdf [Accessed: 2016-10-24].
+Nesta  and  the  ODI  (2015a).  Open  Data  Challenge  Series  final  report.  Available  at:  http://
+opendatachallenges.org/wp-content/uploads/2015/10/Nesta-Final-report-26.10.15.pdf 
+[Accessed: 2016-10-24].
+Nesta  and  the  ODI  (2015b).  Open  Data  Challenge  Series  Handbook.  Available  at:  http://
+opendatachallenges.org/wp-content/uploads/2015/10/Nesta-ODCS-Handbook-Revised-
+Edition-WEB.pdf [Accessed: 2016-10-24].
+Piller, F., Schaller, C. and Walcher, D. (2004). Customers as co-designers: a framework for open 
+innovation. Paper 116. Congress of the International Federation of Scholarly Associations of 
+Management (IFSAM) (Vol. 57).
+Piller, F. T., Ihl, C. and Vossen, A. (2010). A typology of customer co-creation in the innovation 
+process: SSRN. doi: 10.2139/ssrn.1732127.
+Poetz, M. K. and Schreier, M. (2012). The value of crowdsourcing: can users really compete with 
+professionals in generating new product ideas? Journal of Product Innovation Management, 
+29(2), pp. 245–256. doi: 10.1111/j.1540-5885.2011.00893.x.
+Wikipedia    (2016a).    Hackathon.    Available    at:    https://en.wikipedia.org/wiki/Hackathon 
+[Accessed: 2016-10-20].
+
+35 What works in open data challenges | Open Data Institute 2016
+Wikipedia  (2016b).  Inducement  prize  contest.  Available  at:  https://en.wikipedia.org/wiki/
+Inducement_prize_contest [Accessed: 2016-10-24].
+

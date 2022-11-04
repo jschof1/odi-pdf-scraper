@@ -1,0 +1,1676 @@
+
+
+ 
+
+ 
+ 
+Contents 
+ 
+About2 
+Executive summary2 
+Introduction4 
+Smart cities and open cities4 
+The European Commission5 
+The Lighthouse Programme5 
+Background7 
+Who we interviewed and why7 
+City profiles8 
+Amsterdam8 
+Gdańsk8 
+Hamburg8 
+Helsinki9 
+How cities define themselves is ever-changing11 
+Shift to openness11 
+How cities are embracing openness by engaging with citizens13 
+Putting it into action13 
+How cities use open data and support a data infrastructure16 
+Open data16 
+APIs17 
+Open source18 
+Putting data infrastructure into practice: mobility18 
+Putting data infrastructure into practice: environment20 
+How cities foster open innovation22 
+How cities are encouraging the use of data within city departments24 
+How cities are accessing data held by private organisations26 
+How cities are acting ethically with the use of data29 
+Concluding thoughts: the future of open cities and beyond31 
+Refocus to addressing local challenges31 
+Increase access to useful data from across the public and private sector
+31 
+Develop internal skills and motivation32 
+Develop relationships between the private and public sectors to enable 
+access to data32 
+Engage with citizens and technical communities32 
+Learn from others33 
+ 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About 
+This report was produced as part of the Open Data Institute’s research and 
+development work funded by Innovate UK. The views in this report are those of the 
+interviewees and the report authors. 
+ 
+This report has been researched and produced by the Open Data Institute and was 
+published in April 2020. The lead authors are Ben Snaith and Renate Samson, with 
+contributions from Jack Hardinges and Leigh Dodds. 
+ 
+To share feedback by email or to get in touch, contact the open cities project lead, 
+Renate Samson​. To share feedback in the comments, highlight the relevant piece of 
+text and click the ‘Add a comment’ icon on the right-hand side of the page. 
+ 
+ 
+ 
+ 
+How can it be improved? We welcome suggestions from 
+the community in the comments. 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   2 
+
+ 
+Executive summary  
+As part of a three-year innovation programme, the Open Data Institute (ODI) 
+undertook a project looking at the opportunity for cities to become ‘open’ as 
+opposed to ‘smart’.  
+ 
+Our desk research, outlined in a blog post, uncovered dissatisfaction with, and a 
+1
+move away from, the language of ‘smart’ in relation to strategies cities were revisiting 
+or devising from scratch. We found that it was widely felt that the language of ‘smart 
+cities’ was little more than a marketing strategy and that the move towards speaking 
+about ‘open’, ‘digitised’, ‘citizen-centric’ and so on was proving to be more desirable, 
+meaningful and positive.  
+ 
+We identified a number of European cities that have recently released strategies 
+which emphasised the importance of open data, open culture and citizen 
+engagement. To find out more, we interviewed representatives from organisations 
+working within four European cities – Amsterdam, Gdańsk, Hamburg and Helsinki – 
+to understand their approach to ‘open’, what they have done so far and what they 
+intend to do in the future. These interviews took place during August and September 
+2019.  
+ 
+This report consolidates what we learned from these interviews and offers insight into 
+whether these four cities are moving towards a more open future. In turn, we will 
+consider how cities are:  
+ 
+●changing how they define themselves  
+●embracing openness 
+●developing their (open) data infrastructure 
+●fostering innovation 
+●encouraging the use of data within departments 
+●accessing data held by the private sector 
+●considering the ethical implications of their use of data and technology. 
+ 
+This report contains a number of insights into how these four cities have become 
+more open, which will be relevant to cities of all sizes.  
+ 
+We hope the words of the five individuals we interviewed will help guide cities 
+towards a better and fairer future. Achieving this future will not be a smooth process – 
+there will be challenges, there will be projects that cannot deliver upon their desired 
+impact, there may be promises in strategies which go unfulfilled. But by adopting an 
+open culture and sharing lessons learned, cities around the world can help each other 
+along this journey.  
+ 
+The movement of cities towards a more open future – where open data, open 
+innovation and civic engagement leads to the fairer and more effective use of 
+1
+ Open Data Institute (2019), ‘Smart cities are decades away: but open cities are cities are within reach’, 
+https://theodi.org/article/smart-cities-are-decades-away-but-open-cities-are-in-reach/  
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   3 
+
+ 
+technology – is encouraging and we hope the progress continues. If we can 
+champion these cities, we hope we can stimulate others to follow.  
+  
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   4 
+
+ 
+Introduction  
+Cities, and their wider metropolitan areas, have a huge bearing on the functioning of 
+global systems. By 2030, 60% of the world’s population are forecast to live in a city. 
+2
+Cities are often significant centres of culture, history, business and politics. 
+Metropolitan areas of over one million inhabitants account for more than half of global 
+economic output.  
+3
+ 
+City governments are responsible for managing an elaborate ecosystem of sectors 
+and people – in transport, planning, energy, emergency services and more – while 
+balancing economic, political and societal pressures.  
+ 
+Cities face a huge array of challenges such as:  
+ 
+●providing sufficient affordable housing  
+●stimulating business growth and innovation  
+●increasing jobs  
+●minimising the causes of climate change and mitigating the impacts  
+●reducing crime levels  
+●keeping the streets clean  
+●managing the transport systems. 
+ 
+This complexity is precisely what makes cities so appealing to technology vendors, 
+systems integrators and solution providers, who sell the idea that these problems can 
+be solved by the addition of technology to everyday services.  
+Smart cities and open cities  
+In response to the pressure they are under, city governments are expanding their use 
+of data to include movement of people, energy usage, crime statistics, infrastructure 
+monitoring, weather conditions, and more.  
+ 
+The collection, storage, analysis and use of this type of data is not new, but smart 
+technologies – such as Internet of Things (IoT) sensors, apps or tech-enabled 
+services – enable it to happen at a far greater speed and scale than ever before.  
+ 
+At the Open Data Institute (ODI) we advocate for, and support, an open culture. This 
+involves data infrastructure that is as open as possible; encouraging data literacy and 
+capability for all, and advocating for open innovation. Underpinning these activities 
+should be a commitment to increasing the trustworthiness of cities to use technology. 
+This means:  
+ 
+●building ethical considerations into how data is collected, managed and used  
+●ensuring equity around who accesses, uses and benefits from data  
+●engaging widely with affected people and organisations.  
+2
+ United Nations (2016), ‘The World’s Cities in 2016: Data Booklet’, 
+https://www.un.org/en/development/desa/population/publications/pdf/urbanization/the_worlds_cities_in_2
+016_data_booklet.pdf 
+3
+ CityLab (2011), ‘Why Cities Matter’, ​https://www.citylab.com/design/2011/09/why-cities-matter/123/ 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   5 
+
+ 
+At a time where criticism of the smart city movement is becoming more vocal, these 
+4
+approaches could, and arguably should, be adopted by cities as a way of moving 
+away from the strategy of smart first, towards one of open.  
+ 
+As noted, the ‘smart city’ agenda was initially driven by technology companies. It 
+then became a major topic in the strategies, reports and commissions of political 
+organisations, including the European Commission, the World Economic Forum and 
+5
+the Association of South East Asian Nations (ASEAN). City governments have 
+6
+subsequently adopted the language and have begun to develop strategies based on 
+the context of ‘smart’, with many seeking to be acknowledged as the ‘smartest’ city 
+in the world. 
+The European Commission 
+In order to work from a definition that we could measure cities by, we looked to the 
+work of the European Commission, notably the work of the European Innovation 
+Partnership on Smart Cities and Communities. In their Strategic Implementation Plan 
+2013 they outlined a ‘smart city’ as an environment with:  
+7
+ 
+●sustainable urban mobility  
+●sustainable districts  
+●built environment and integrated infrastructures and processes across 
+energy, information and communications technology (ICT), and transport. 
+ 
+These requirements were not solely about technology or smartness. In fact, an 
+integral part of this view of smart was that “citizens must... be at the heart of the 
+solution”.  
+ 
+Furthermore, the plan outlined the role of data, and indeed openness of data, as 
+integral to the good design and implementation of a smart city. It stated that “relevant 
+data from public and private sources should be considered ‘open by default’” and 
+that “a focus should be put on building applications with a clear added value to 
+citizen [sic] to make good use of this data”.  
+The Lighthouse Programme 
+The Lighthouse Programme was used as the practical vehicle for this agenda. The 
+8
+programme funded 14 ‘Lighthouse Projects’, with 40 ‘Lighthouse Cities’ and 50 
+‘Fellow Cities’. It was hoped that this approach would enable testbeds for innovative 
+approaches in areas such as transport and mobility, energy and environment, and 
+housing, to be tested in the Lighthouse Cities before attempts were made to replicate 
+them in the Follower Cities.  
+ 
+This approach was based on the thinking that cities “are all alike in terms of their 
+political economy, culture and governance”. But in reality, cities are complex; they 
+9
+4
+ Open Data Institute (2019), ‘Smart cities are decades away: but open cities are within reach’, 
+https://theodi.org/article/smart-cities-are-decades-away-but-open-cities-are-in-reach/  
+5
+ World Economic Forum (2019), ‘Unprecedented Global Alliance for Smart City Technology Launched to Counter Growing Tensions’, 
+https://www.weforum.org/press/2019/10/unprecedented-global-alliance-for-smart-city-technology-launched-to-counter-growing-tensions/  
+6
+ Association of South-East Asian Nations, ‘ASEAN Smart Cities Network’, ​https://asean.org/asean/asean-smart-cities-network/  
+7
+EuropeanInnovationPartnershiponSmartCitiesandCommunities(2017),‘StrategicImplementation            
+Plan’, ​https://eu-smartcities.eu/sites/eu-smartcities.eu/files/2017-09/SIP.pdf  
+8
+ European Commission, ‘Horizon 2020: Smart Cities & Communities’, 
+https://ec.europa.eu/inea/en/horizon-2020/smart-cities-communities 
+9
+ Rob Kitchin (2015), ‘Data-Driven Networked Urbanism’, ​https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2641802  
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   6 
+
+ 
+differ in terms of people, culture, politics and history, which all influence what 
+approaches are taken and how decisions are made. The process of tackling issues 
+therefore will differ from city to city.  
+ 
+While marketing has encouraged widespread enthusiasm and adoption of ‘smart city’ 
+language, the actual impact appears to be minimal. When looking further than 
+individual projects using ‘smart city’ branding to denote the use of data and 
+technology (which is not the revolution promised by smart cities), it can be seen that 
+large-scale implementations, such as Sidewalk Labs in Toronto or Songdo in South 
+Korea, are plagued by empty neighbourhoods, complaints of mass surveillance, or 
+1011
+they are simply not being built at all. 
+12
+  
+10
+ CityLab (2018), ‘Sleepy in Songdo, Korea’s Smartest City’, 
+https://www.citylab.com/life/2018/06/sleepy-in-songdo-koreas-smartest-city/561374/ 
+11
+ The Guardian (2019), ‘“Surveillance capitalism”: critic urges Toronto to abandon smart city project’, 
+https://www.theguardian.com/cities/2019/jun/06/toronto-smart-city-google-project-privacy-concerns 
+12
+ BBC (2019), ‘India election 2019: Have 100 ‘smart cities’ been built?’, 
+https://www.bbc.co.uk/news/world-asia-india-47025472 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   7 
+
+ 
+Background 
+The open cities project is part of the ODI’s three-year innovation programme, 
+13
+funded by Innovate UK.  
+ 
+As part of the project, we wanted to understand why European cities have followed 
+certain paths over the past decade or so, and we wanted to explore which cities were 
+actively championing and developing an open and trustworthy approach in the use of 
+data and technology. This period of desk research involved, among other things, 
+reading a broad range of literature, as reflected in the bibliography (Annex 1). 
+ 
+The research has been concentrated on cities, but many of the findings can be 
+applied to areas of all sizes. The benefits of using data and technology effectively and 
+fairly should be felt by rural as well as urban areas.  
+Who we interviewed and why 
+We wanted to learn and understand the history, strategic approach, challenges and 
+opportunities of an open culture in cities that are defining themselves as ‘open’. We 
+also wanted to interrogate whether the approach to open data had stretched beyond 
+opening up datasets, to gaining access to data from the private sector, which may be 
+of value to city governments and their decision making. 
+ 
+We interviewed key figures working in the city government or relevant open city 
+organisations of four European cities: Amsterdam, Gdańsk, Hamburg and Helsinki. 
+There are other cities in Europe, and beyond, which are also championing the use of 
+open data and an open culture, including London, New York City, Barcelona, 
+Batticaloa (Sri Lanka), Dhaka (Bangladesh) and Kathmandu (Nepal). 
+14
+ 
+Amsterdam and Helsinki are typically regarded as two of the leading European cities 
+in the technology space, and we believe their insight into establishing that position 
+15
+provides an interesting contrast to the rising cities; Hamburg and Gdańsk. The 
+approaches to smart and open in these cities all started at different stages, and all 
+have different focuses, different pressures, different histories, and have made 
+different decisions. But they have all committed to being open or people-focused, 
+which makes them all perfect candidates to highlight their journeys towards 
+becoming more open.  
+ 
+The interviews provided great insight into how these particular city governments 
+think about being smart and open, how they have used data in public services, some 
+of the challenges they have faced and some of their aims for the future. 
+13
+ Open Data Institute, ‘R&D: Open cities’, ​https://theodi.org/project/open-cities/  
+14
+ World Bank (2014), ‘Planning an Open Cities mapping project’, 
+https://www.worldbank.org/en/region/sar/publication/planning-open-cities-mapping-project 
+15
+ European Startup Initiative (2019), ‘Startup Heatmap’, 
+http://startupsandplaces.com/shm2019-startup-city-brands-highways/  
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   8 
+
+ 
+City profiles  
+Amsterdam 
+Ger Baron, Chief Technology Officer (CTO) at Amsterdam City Council 
+With a population of over 800,000 people, Amsterdam is the largest city in the 
+Netherlands. The city council, made up of 45 members from 12 political parties who 
+sit for four-year terms, determines the general policies of the city. 
+16
+ 
+In 2019, Amsterdam was ranked the third smartest city in the world, according to the 
+IESE Cities in Motion Index.  
+17
+ 
+The Amsterdam Smart City initiative “brings together proactive citizens, innovative 
+companies, knowledge institutions and public authorities to shape the city of the 
+future.” Since the initiative’s launch in 2009, there have been over 70 innovative 
+18
+projects. Amsterdam has also participated in major European Union (EU)-funded 
+projects such as DECODE and CitySDK. 
+1920
+Gdańsk 
+Krzysztof Garski, IT Project Manager at City Hall Gdańsk 
+Gdańsk has a population of over 450,000 people and is the centre of Poland’s 
+fourth-largest metropolitan area. The city council is made up of 34 people who sit for 
+four years. The council decides on local laws, budgets and plans.The elected mayor 
+21
+of Gdańsk has been responsible for initiating activities, such as the city’s openness 
+policy. 
+ 
+The Gdańsk 2030 Plus Development Strategy was launched in 2015. One of the top 
+priorities in the strategy is openness: “The openness of the process of selecting 
+projects for implementation, their hierarchy, and clear, public criteria of their selection 
+underlie the idea of an open city, which Gdańsk is beginning to become. Access to 
+information, learning and cooperation complement the open nature of project 
+creation the process [sic].” 
+22
+ 
+An open data portal was launched in 2016, based on ckan, the Open Source software 
+that can be used to build data portals.  
+ 
+Gdańsk participated in the EU RUGGEDISED project and is also a member of the 
+23
+Open and Agile Smart Cities network. 
+24
+16
+ City of Amsterdam, ‘Amsterdam’s City Council’, ​https://www.amsterdam.nl/en/governance/city-council/ 
+17
+ IESE Business School, University of Navarra (2019), ‘IESE Cities in Motion Index’, ​https://media.iese.edu/research/pdfs/ST-0509-E.pdf 
+18
+ City of Amsterdam, ‘Amsterdam’s city council’, ​https://amsterdamsmartcity.com/network/amsterdam-smart-city  
+19
+ Decode Project, ​https://decodeproject.eu/ 
+20
+ CitySDK, ​https://www.citysdk.eu/ 
+21
+ Gdańsk City Council, ​https://www.gdansk.pl/en/city-council 
+22
+ Gdańsk (2014),‘Gdańsk 2030 Plus Development Strategy’, ​https://www.gdansk.pl/download/2016-08/77054.pdf  
+23
+ RUGGEDISED, ​https://ruggedised.eu/home/  
+24
+ Open & Agile Smart Cities, ​https://oascities.org/ 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   9 
+
+ 
+Hamburg 
+Sascha Tegtmeyer, Head of Urban Data Hub Hamburg 
+The city of Hamburg, located within the federal state of Hamburg, is Germany’s 
+second-largest city, with a population of just under two million people. Its size makes 
+it the eighth largest in the EU. The City Hall is the centre of both the local and state 
+governments.  
+ 
+In 2019, Hamburg was ranked at 34 on the IESE Cities in Motion Index. In 2014, a 
+25
+Memorandum of Understanding (MoU) was signed with Cisco to become a ‘smart 
+city’. Hamburg participated in the MySMARTLife EU programme, alongside 
+2627
+Nantes and Helsinki.  
+Helsinki  
+Hanna Niemi-Hugaerts, Program Director of IoT at Forum Virium Helsinki  
+Pekka Koponen, Development Director at Forum Virium Helsinki  
+With a population of around 650,000 people, Helsinki, the capital of Finland, is the 
+country’s most populous city. The City Council has 85 permanent councillors, in 
+addition to 85 deputy members. It is responsible for the strategy and organisation of 
+the city, as well as controlling the budget and local plans. 
+28
+ 
+The city has aspirations to be “the most functional city in the world”. This is 
+29
+reflected in Helsinki’s placements in smart city rankings for 2019 – fifth by the Eden 
+Strategy Institute and eighth in the IMD (International Institute for Management 
+30
+Development) Smart City Index. The European Commission ranked the 
+31
+Helsinki-Uusimaa region as the most innovative region in the EU, with Finland being 
+ranked the second most innovative member state. This could be due to how, in 
+32
+Finland, “Nokia created this mindset that we usually take quite a positive approach to 
+technology”, according to Hanna Niemi-Hugaerts.  
+ 
+During our interview, Pekka Koponen discussed how the city government is 
+empowered to make significant city-wide changes as it “is responsible for almost all 
+of the services: education, kindergartens, healthcare, everything”. 
+ 
+Helsinki is part of the ‘Finnish 6 Aika: Six City Strategy for sustainable urban 
+development’, as well as participating in the EU-funded MySMARTLife, 
+3334
+25
+ IESE Business School, University of Navarra (2019), ‘IESE Cities in Motion Index’,  
+https://media.iese.edu/research/pdfs/ST-0509-E.pdf  
+26
+ Hamburg Smart+Connected City (2014), ‘Hamburg and Cisco agree on Cooperation’,  
+https://www.hamburg.de/smart-city/4311574/cisco-english/  
+27
+ MySMARTLife, ​https://www.mysmartlife.eu/ 
+28
+ City of Helsinki, ‘Helsinki City Council’, ​https://www.hel.fi/helsinki/en/administration/decision/council/ 
+29
+ City of Helsinki (2017), ‘The Most Functional City in the World – Helsinki City Strategy 2017–2021’, 
+https://www.hel.fi/helsinki/en/administration/strategy/strategy/  
+30
+ Eden Strategy Institute and ONG&ONG (OXD) (2019), ‘Top 50 – Smart City Governments’,  
+https://static1.squarespace.com/static/5b3c517fec4eb767a04e73ff/t/5b513c57aa4a99f62d168e60/153205
+0650562/Eden-OXD_Top+50+Smart+City+Governments.pdf  
+31
+ ​ IMD World Competitiveness Center (2019), ‘IMD Smart City Index 2019’, 
+https://www.imd.org/research-knowledge/reports/imd-smart-city-index-2019/  
+32
+ European Commission (2019), ‘2019 Innovation Scoreboards: The innovation performance of the EU and 
+its regions is increasing’, ​https://ec.europa.eu/commission/presscorner/detail/en/IP_19_2991 
+33
+ 6Aika, ‘What is 6Aika?’, ​https://6aika.fi/en/what-is-6aika/  
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   10 
+
+ 
+Synchronicity and CitySDK. In February 2019, the Helsinki Chief Digital Officer, 
+3536
+Mikko Rusama, signed a ‘city to city digital declaration’ on smart cities and data 
+ethics, with the London Chief Data Officer, Theo Blackwell.  
+37
+ 
+Our two interviewees work at Forum Virium, an innovation organisation owned by 
+Helsinki City Council. Forum Virium is “kind of a facilitator and catalyst for the city to 
+get better services and for the companies that provide the innovation”. Forum Virium 
+can be a “bit faster to be able to get insight... and to hire people”; they can get the 
+“first projects rolling and then the city has time to see if it makes sense”. If these 
+projects work, that’s great for the city, who can then adopt the services. But, “if it 
+doesn’t make sense...the city didn’t spend any resources”. 
+  
+34
+ MySMARTLife, ​https://www.mysmartlife.eu/  
+35
+ SynchroniCity ​https://synchronicity-iot.eu/  
+36
+ CitySDK ​https://www.citysdk.eu/  
+37
+ New Statesman Tech (2019), ‘London and Helsinki CDOs sign digital declaration on smart cities and data ethics’ 
+https://tech.newstatesman.com/it-leaders/london-and-helsinki-cdos-sign-digital-declaration-on-smart-cities-and-data-ethics  
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   11 
+
+ 
+How cities define themselves 
+is ever-changing 
+The academic Ben Green states in his 2019 book ​The Smart Enough City​ that: “The 
+age of the ‘Smart City’ is upon us! It’s just that we don’t really know what that 
+means.” We asked our interviewees whether they used the language of smart cities.  
+38
+ 
+Ger Baron (CTO at Amsterdam City Council) explained that ‘smart cities’ was a term 
+that Amsterdam used back in 2008/09. He said that then it was “nothing more than a 
+programme to create awareness about the impact that technology would have on 
+society.” Since then, things have changed: “the whole idea around smart cities 
+obviously has been taken away by a few corporates, putting in billions of a marketing 
+budget.” Sascha Tegtmeyer from Hamburg concurred: “I think that smart city is often 
+used as advertising.” 
+ 
+Sascha described how in Hamburg they: “don’t talk about smart city... our strategy is 
+a digitalisation strategy. So we talk about a digital city, not the smart city.” An 
+updated digitalisation strategy for Hamburg is in process of being written, to 
+emphasise that the focus is “about the digitalisation and optimisation of public 
+services”, and that this can be achieved partly through “good data management”, 
+which is “essential for making new and good public services”. 
+ 
+This approach of digital as opposed to smart was emphasised by our interviewees 
+from Helsinki as well. We heard from Pekka Koponen that “in Helsinki... open came 
+first and smart came later”. Pekka’s colleague, Hanna Niemi-Hugaerts, told us that 
+“the city is now busy with its digitalisation programme”.  
+ 
+Ger Baron explained that smart cities are often seen as “put[ting] a sensor in 
+something”, whereas a city focused on digitalisation “is about redesigning whole 
+processes and the way we work and the way we manage stuff in a redesign 
+process”. This has been focused on since 2018, as “when the city council was 
+elected, one of the 12 most important topics they addressed was digitalisation.” 
+Shift to openness  
+While our interviewees distanced themselves from the language of ‘smart’, there was 
+significant enthusiasm for the use of openness, digitalisation and citizen engagement 
+as ways of talking about their city’s strategy. 
+ 
+Interviewees indicated that there has been a concerted effort to foster an open 
+culture through engaging with citizens, using and publishing open data, encouraging 
+open innovation, or developing the digital skills of citizens and government workers.  
+ 
+Openness is not in itself new to cities. Many began the move to openness during the 
+early 2000s, following a push from citizens and governments to be more transparent. 
+38
+ Ben Green (2019), ‘The Smart Enough City’ ​https://mitpress.mit.edu/books/smart-enough-city  
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   12 
+
+ 
+Around this time, governments began to enforce freedom of information and access 
+to government and public sector data.  
+39
+ 
+By 2014, in Gdańsk, transparency had become a mainstream political issue that 
+voters cared about. Kris Garski told us that during that year’s elections, ”...one of the 
+hot topics was openness of the City Hall. Is the City Hall open towards citizens? Is it 
+accessible? Can citizens trust the City Hall?”. The open data programme, initiated by 
+the then Mayor Paweł Adamowicz, included a register of expenses and the decision 
+to “publish the spendings we make as City Hall daily on the internet... so everybody 
+can check what we are spending money for.” This approach led to the city 
+developing an open data programme, which we were told also included citizen 
+engagement, such as “development of district meetings... public consultation [and] 
+civic panels”.  
+ 
+Citizen initiatives in Hamburg led to the creation of a comprehensive Transparency 
+Law (‘Hamburgisches Transparenzgesetz’) – a cornerstone of the functioning of the 
+40
+city. The law requires the government to publish all public data openly, including 
+government decisions, statistics, contacts and geographic data. 
+41
+ 
+The law was proposed through Hamburg’s petition scheme, which allows residents 
+42
+to propose ideas through petitions. The law and the push to open data up publicly 
+has had a lasting impact on Hamburg, according to Sascha Tegtmeyer: “We opened 
+this data to the public, but we also opened this data within the city. That was a big 
+step for us to be open, open to others, but also open to ourselves.” 
+ 
+We learned from Hanna and Pekka that Helsinki’s move to open stemmed in part 
+from an event called ‘Restaurant Day’. The day was “a kind of guerilla thing” where 
+43
+“four times a year, anybody can put up a pop-up restaurant and sell food from home, 
+or in the parks... it was a citizen initiative, and then the city [which] is seen as very 
+bureaucratic, embraced that at the same time... so there was a kind of a change for 
+openness, not only on data, but the city was kind of more willing to engage citizens”.  
+  
+39
+ Proposals for a freedom of information law in the United Kingdom were published by the government in 
+1997. The Freedom of Information Act was signed into law in 2000. Information Commissioner’s Office, 
+‘What is the Freedom of Information Act?’, 
+https://ico.org.uk/for-organisations/guide-to-freedom-of-information/what-is-the-foi-act/ 
+40
+ Hamburgisches Transparenzgesetz (HmbTG) (2014), ​http://transparenz.hamburg.de/das-hmbtg/ 
+41
+ Democracy International (2012), ‘Parliament of Hamburg opts for more transparency’, 
+https://www.democracy-international.org/parliament-hamburg-opts-more-transparency  
+42
+ Hamburgischen Bürgerschaft, ​https://www.hamburgische-buergerschaft.de/  
+43
+ Atlas Obscura (2019), ‘On Restaurant Day in Helsinki, Anyone Can Open an Eatery, Anywhere’, 
+https://www.atlasobscura.com/articles/restaurant-day  
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   13 
+
+ 
+How cities are 
+embracing openness by 
+engaging with citizens 
+We can see that it is often citizens who stimulate change when it comes to pushing 
+for more openness of data. City governments that actively talk to citizens about the 
+problems they are facing, getting them to vote on potential solutions, and involving 
+them in decision making processes, appear to be taking the right steps towards the 
+European Commission’s requests (page 6). 
+ 
+Our interviewees spoke about the emphasis on citizen engagement. Kris Garski in 
+Gdańsk said: “For us, openness is a part of smart city, and technology is also part of 
+smart city, but the most important is citizen engagement, and improving the quality of 
+life in Gdańsk.” 
+ 
+Hanna Niemi-Hugaerts said that in Helsinki “the city government itself, they’ve gone 
+very citizen centric” and this is being utilised throughout projects at Forum Virium, 
+where “citizen engagement [and] co-creation is very much on the agenda”. In 
+practice, Forum Virium “try to share what we are doing and make the agenda we are 
+working on more seen in the media. We use words and terminology that are more 
+easy to approach for citizens”. It is important that city governments don’t overburden 
+citizens with technical jargon terms, but to use language that they can engage with.  
+ 
+The importance of citizen engagement in Gdańsk was summarised by Kris Garski: 
+“Most important is engaging people, and not just building solutions to build solutions, 
+or building tools just for our [City Hall] purpose. What we would like is to build tools 
+that are used by people, or tools that make life in the city easier.” 
+ 
+While our interviewees placed a lot of value on engaging citizens, their methods of 
+how differed widely.  
+Putting it into action 
+Research shows that many cities are struggling to put citizen engagement into 
+practice. However, we heard that in Gdańsk, involving people in decision making 
+44
+processes – through civic panels and participatory budgeting – “makes people feel 
+very responsible for every project in the streets”. Civic participatory budgeting has 
+been used for the last five years or so, with around 15% of citizens (more than 
+50,000) voting in this process. The City Hall has gradually increased the budget over 
+the years for the programme, from less than a million euros to €4.2m.  
+ 
+44
+ Current Environmental Health Reports (2017), ‘Public and Stakeholder Engagement and the Built 
+Environment: a Review’, ​https://link.springer.com/article/10.1007/s40572-017-0159-7 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   14 
+
+ 
+This approach was pioneered in Brazil in the 1980s, and similar schemes have been 
+utilised around Europe. In Paris, for example, 5% of the capital budget is allocated for 
+the residents to decide how to spend. It is also in place in major cities such as 
+45
+Lisbon, Cologne and Rome. 
+46
+ 
+The civic panels, championed by Gdańsk’s former Mayor Adamovicz in 2016, are 
+“shaped in very close cooperation with local activists”. Over a few days in City Hall, a 
+representative 60 citizens – taken from the voting register – are invited to discuss the 
+most important city issues with staff from City Hall and topic experts. The aim of the 
+47
+first panel was to discuss flood preparedness. Subsequent panels have discussed 
+48
+air pollution, civic engagement and LGBTQ+ rights.  
+49
+ 
+Before the meetings, the participants are provided with “all the resources... all the 
+documents, our strategy and other resources we have” to maximise meaningful and 
+informed participation. These panels have, over time, become more inclusive by 
+lowering the participation age to 16 and allowing temporary residents of Gdańsk to 
+participate. 
+ 
+In Amsterdam, a suite of interactive open source tools has been developed to 
+50
+encourage collaboration between residents and the municipality, under the heading 
+of OpenStad (‘Open City’). This approach enables citizens, other departments, 
+51
+organisations or cities to make use of them.  
+ 
+One such tool is ‘De Stem Van’ (‘The Voice Of’), which gives citizens the ability to 
+52
+upload ideas for the neighbourhood and create polls in order to determine support. 
+The plan with the most votes is automatically put on the agenda of the borough 
+council.  
+ 
+When new bike stations were needed in Hamburg, the public was asked where they 
+should be placed. There were 4,000 suggestions provided for new locations. Such 
+approaches are helping the city authority test similar processes to explore the 
+development of housing. City representatives engage the public with “all the 
+information and data that the administration has... and we also give them tools to do 
+this at an event, or at home or online with a smartphone.” Previously, the city did 
+much of this “without digital tools, but we are now trying to digitalise all of these 
+participation processes”. Furthermore, they are “working on processes to analyse 
+this information in a better way.”  
+ 
+In Helsinki’s first smart city district of Kalasatama, the city “managed to engage 
+two-thirds of the citizens... in their workshops and co-creation sessions”. In 
+Jatkasaari, another of the smart districts, Forum Virium said they don’t want to 
+45
+ The Guardian (2019), ‘Pissoirs and public votes: how Paris embraced the participatory budget’, 
+https://www.theguardian.com/cities/2019/oct/03/pissoirs-and-public-votes-how-paris-embraced-the-participatory-budget 
+46
+ Public Policy Institute for Wales (2017), ‘Participatory Budgeting: An Evidence Review’, 
+http://ppiw.org.uk/files/2017/08/PPIW-report_participatory-budgeting-evidence-review_-July-2017-FINAL.pdf  
+47
+ Medium (2017), ‘Civic Panel. Residents decide’, ​https://medium.com/@gdansk/civic-panel-residents-decide-e844590e88ec 
+48
+ A2P2 (2016), ‘Civic Panel on climate change adaptation in Gdańsk’, 
+http://a2p2.pl/en/projects/civic-panel-on-climate-change-adaptation-in-Gdańsk/ 
+49
+ Resilience (2017), ‘Solutions: How the Poles Are Making Democracy Work Again in Gdansk’, 
+https://www.resilience.org/stories/2017-11-22/solutions-how-the-poles-are-making-democracy-work-again-in-gdansk/  
+50
+ Github, ‘Amsterdam Projects’, ​https://amsterdam.github.io/projects/ 
+51
+ OpenStad: online participant tools, ​https://www.amsterdam.nl/bestuur-organisatie/meedenken-meepraten/openstad-online/ 
+52
+ De Stem van Centrum, ​https://stemvancentrum.amsterdam.nl/ 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   15 
+
+ 
+“engage people on a project-by-project [basis]” and instead are “going to be running 
+a club of people, we want to have a continuous dialogue with people living there”. 
+Equipping citizens with basic digital skills can also make engagement more 
+meaningful. In Amsterdam, there is a “whole digital skills education programme, 
+which is free and accessible for everybody”. The city council also funds “a few local 
+initiatives that help people in digital literacy [such as] for refugees”. The schemes are 
+small – “only €20,000 per initiative” – but they are using them to “try to reach out to 
+people who are not in the library, who don’t look at our website, are not in the same 
+target group that we always find”. 
+  
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   16 
+
+ 
+How cities use open 
+data and support a data 
+infrastructure  
+Cities collect a wide range of data about people, businesses and services. The data is 
+collected primarily by city governments, but also by academic institutions, community 
+groups and private sector organisations. Data is collected through: 
+ 
+●delivery of services  
+●embedded sensors in infrastructure  
+●research from statistics authorities. 
+ 
+As cities seek to embed more data capture technologies into public spaces, the data 
+collected is likely to increase. This data will be from across the data spectrum – from 
+closed, to shared, to open. It will have the power to help inform and make better 
+53
+decisions, but it must be done ethically and fairly, and with privacy, data protection 
+and security firmly in place. This means considering any negative impacts and 
+minimising them; being transparent with what data is being collected, for what 
+purpose and by whom; and determining how and when it will be accessed, shared, 
+stored and deleted. 
+ 
+Hanna Niemi-Hugaerts described Forum Virium’s IoT programme as “trying to ensure 
+that the city is creating or collecting the data that our future city services need”. This 
+data will be about everything from transport to movement of people, energy usage, 
+crime, infrastructure, weather and so on. The collection, storage, analysis and use of 
+this type of data is not new, but smart technologies (such as IoT sensors, apps or 
+tech-enabled services) enable it to happen at a far greater speed and scale than ever 
+before. The most important thing cities can do in this area is to understand what data 
+is needed for what a city is trying to achieve. The focus should be on finding good 
+quality data that is useful, rather than focusing on accumulation and big data.  
+Open data 
+Open data is data that anyone can access, use and share. It can bring significant 
+54
+value to cities, by helping to improve the efficiency of services, increase access to 
+services and lead to more evidence-based policymaking. It can also lead to 
+55
+innovation by bringing new and more diverse apps and services to citizens, 
+businesses and authorities alike.  
+ 
+53
+ Open Data Institute, ‘The Data Spectrum’, ​https://theodi.org/about-the-odi/the-data-spectrum/ 
+54
+ Open Data Institute (2017), ‘What is open data and why should we care?’, 
+https://theodi.org/article/what-is-open-data-and-why-should-we-care/ 
+55
+ Open Data Institute (2018), ‘Using open data for public services’, 
+https://theodi.org/article/using-open-data-for-public-services-report-2/  
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   17 
+
+ 
+Open data portals act as platforms for anyone to access public data relating to the 
+city, region or state. All four of the cities we focused on have an open data portal, 
+these portals are: 
+ 
+●Amsterdam: data.Amsterdam 
+56
+●Gdańsk: Otwarty Gdańsk 
+57
+●Hamburg: Transparenzportal Hamburg 
+58
+●Helsinki: Helsinki Region Infoshare  
+59
+ 
+Kris Garski in Gdańsk spoke of the difficulty in knowing what data to publish: “It is 
+always a question of demand and supply. So should we wait for people to request 
+the data and be open? Or should we make an effort on our own to open some data... 
+because sometimes it takes a lot of money to open data and there is a risk that the 
+demand for it will be relatively small.”  
+ 
+For example, geospatial and map data, which can bring huge value if made openly 
+available, enabling the calculation of efficient transport routes, support for planning of 
+homes and businesses, or for identifying areas of flooding risk, for example, is not 
+60
+openly available everywhere. We learned that in Poland the law prohibits providing 
+free access to “some geographical or map data, related to real estate... we have to 
+take money from people, even if we believe such a resource could be freely 
+available”. Kris Garski was well aware that this was a barrier to wider opportunity.  
+ 
+This is why the principle of publishing with a purpose can bring such value. The Open 
+Data Charter described this reasoning in its 2018 strategy: “Rather than advocating 
+for governments to open up as much data as possible, as fast as possible, we 
+develop practical guidance for government reformers to open up datasets in ways 
+that are most likely to yield specific and tangible benefits to citizens.” This purpose 
+61
+can be for transparency, to allow people to solve specific problems, or to boost 
+innovation. Part of being able to find this purpose is by ensuring that cities are in 
+open and receptive dialogue with the public and engage in open innovation so that 
+problems can be solved together – open data can support this.  
+APIs 
+One method of accessing data is via the use of Application Programming Interfaces 
+(APIs). An API is code which enables digital services to interact with each other and 
+exchange data. APIs allow real-time access to data and therefore form the foundation 
+of many services used frequently: weather apps, paying for products in online stores, 
+integrating maps into websites, and more.  
+ 
+APIs “provide the foundations for digital services of the future”. They help to link 
+62
+data across different systems and improve interoperability. The success of journey 
+planning apps such as Citymapper would not be possible without APIs.  
+56
+ data.Amsterdam, ​https://data.amsterdam.nl/  
+57
+ Otwarty Gdańsk, ​https://www.gdansk.pl/otwarte-dane  
+58
+ Transparenzportal Hamburg, ​http://transparenz.hamburg.de/open-data/  
+59
+ Helsinki Region Infoshare, ​http://www.hri.fi/en/  
+60
+ Open Data Institute (2019), ‘Using geospatial data: what you need to know about licences’, 
+https://theodi.org/article/using-geospatial-data-what-you-need-to-know-about-licences/ 
+61
+ Open Data Charter  (2018), ‘Publishing with Purpose’, 
+https://medium.com/@opendatacharter/publishing-with-purpose-introducing-our-2018-strategy-ddbf7ab46098 
+62
+ European Data Portal (2017), ‘Open Smart City APIs’, 
+https://www.europeandataportal.eu/en/news/open-smart-city-apis  
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   18 
+
+ 
+ 
+Helsinki is a leader in developing what Hanna referred to as an “API first approach 
+with a lot of service design for new services”. Forum Virium chair the CitySDK project,
+ which aims to develop an open source API toolkit for cities around the world to 
+63
+use. 
+64
+Open source 
+Rather than being tied to lengthy and expensive contracts for proprietary software, 
+cities are increasingly turning to software which is open source.  
+ 
+Open source is code that is published under an open licence, allowing anyone to use, 
+share and improve the software. Using open source can help a city government save 
+money, while building software from scratch or adapting code that has already been 
+published – such as from the open source code repository GitHub – can lead to 
+better and more bespoke solutions.  
+ 
+Because the open source code is published online, anyone with the right skills can 
+view, test and audit it, enabling issues to be spotted, or suggestions for 
+improvements to be more collaborative. Fostering a community around open source 
+develops the skills of the city and keeps the economic activity within it.  
+ 
+In Helsinki, Hanna Niemi-Hugaerts told us that: “There’s a lot of open source 
+development work going on... data platforms, data management, data content 
+management, and so forth.” 
+ 
+Kris Garski detailed how his team sees potential in an open source tool developed in 
+Madrid for engaging with citizens. At Gdańsk City Hall, Kris said they are “researching 
+things like Consul, which was software developed by the City Hall of Madrid”.  
+65
+ 
+The City Council in Amsterdam has gone one step further. In summer 2019, it 
+officially announced that for software “everything will be open... we’re going to build 
+[it] ourselves”. While this will benefit Amsterdam first and foremost, in the long term it 
+has the potential to benefit other cities who will be able to adapt the software for their 
+own use and particular needs and circumstances.  
+Putting data infrastructure into practice: mobility 
+The European Commission outlined mobility as one of the key requirements for the 
+smart city. The movement of people around a city is obviously a critical element of 
+any city’s infrastructure. It is hugely complex; involving a range of different actors and 
+challenges, as different public and private companies are responsible for different 
+modes of transport. Open data has been shown to help. The oft-cited example of this 
+is in London, where the provision of free, accurate, real-time open data by Transport 
+for London was found to help the city’s economy by up to £130m a year.  
+66
+ 
+Open data can also help join up data from different sources so that cities can deliver 
+better services to citizens. Cities recognise this potential. Vision Hamburg 2030 
+63
+ CitySDK, ​https://www.citysdk.eu/ 
+64
+ CitySDK (2017), ‘Open API recommendations’, 
+https://www.citysdk.eu/wp-content/uploads/2017/11/20171116_APIrecommendations_WEB.pdf 
+65
+ Consul, ​http://consulproject.org/ 
+66
+ Transport for London (2017), ‘TfL’s free open data boosts London's economy’, 
+https://tfl.gov.uk/info-for/media/press-releases/2017/october/tfl-s-free-open-data-boosts-london-s-economy  
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   19 
+
+ 
+describes the desire for “intelligent mobility for a livable city” achieved through a 
+67
+combination of sharing initiatives, on-demand services and local public transport.  
+ 
+Journey planning apps – such as Whim in Helsinki, Citymapper and Google Maps –  
+68
+allow users to plan, from one app, their transport routes across the city using live 
+transport open data published by the city. Users see the length of journeys, what 
+transport to use (including suggestions on walking, buses, trains, taxis and dockless 
+bikes) and prices.  
+ 
+In all the cities we focused on, open data has been used to address mobility 
+challenges. Amsterdam has “all mobility data accessible as well via APIs, including 
+parking, traffic etc”. Hamburg uses “live data for traffic and car parks”, which is also 
+used by logistics organisations and some large navigation companies such as 
+TomTom and Here.  
+ 
+Kris Garski outlined further data linking opportunities for Gdansk: “If we just connect 
+all of these data... from different sources, like from public administration and private 
+sectors and data from transportation companies, data from telecommunication 
+companies, we may get a lot of new insights on how residents of Gdańsk commute.” 
+In order to do this, it would be beneficial if non-personal data held by private sector 
+organisations was published openly. 
+ 
+If cities know better how its citizens move around the city, they can make better 
+decisions; they can design roads and public transport better. They can also more 
+easily understand the effects of changes to the transport system, such as roadworks 
+or subway re-developments.  
+ 
+The opportunity for the joining up of data from different mobility sources is perhaps 
+best exemplified by developments in Mobility as a Service (‘MaaS’). Seen as the 
+‘Netflix of mobility’, MaaS platforms operate using a monthly subscription model 
+69
+whereby users pay a set fee for unlimited travel and booking for multiple forms of 
+transport, all from one app. This means that users pay for access to buses, trams, 
+tubes, and sometimes bikes and taxis, using one account and one fee.  
+ 
+Helsinki has embraced this potential, mandating through law “that everybody who is 
+selling tickets has to sell them through an API”. The use of the API allows the data to 
+be exchanged more easily between the various platforms and be consolidated into 
+one service. The benefits for users are clear: they get easier, quicker and often 
+cheaper access to transport within their city. For cities, there is a potential for access 
+to more complete data about door-to-door travel, which is very difficult with current 
+transport systems when buses, trains and taxis are operated by different 
+organisations and are not booked through a common platform. In Helsinki, it has had 
+the effect of “kind of forcing them [transport providers] towards an open ecosystem”. 
+MaaS is still in its infancy and has not been capable of demonstrating its economic 
+sustainability as an idea as of yet.  
+67
+ E-zigurat (2019), ‘Smart City Series: Smart City Hamburg — A Look Inside The Visionary Bottom-up 
+Initiative’, ​https://www.e-zigurat.com/blog/en/smart-city-series-hamburg/ 
+68
+ Whim, ​https://whimapp.com/ 
+69
+ Helsinki Smart, ‘Whim’, ​https://helsinkismart.fi/portfolio-items/whim/ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   20 
+
+ 
+Putting data infrastructure into practice: environment  
+Sustainability and energy efficiency was another requirement outlined by the 
+European Commission. According to UN Habitat, cities are a “cause of and solution 
+to” climate change.  
+70
+ 
+Our interviewees all referenced being involved in energy-related EU-funded projects, 
+such as mySMARTLife and RUGGEDISED. These projects include activities such 
+7172
+as smart home solutions, electric vehicle charging outputs and smart grids. They also 
+involve ‘retrofitting’ certain areas, or zones within cities, with new forms of heating or 
+energy production. 
+ 
+Gdańsk participated as a follower city in the RUGGEDISED project. The goals of 
+RUGGEDISED were to “demonstrate in total 32 innovative and integrated smart 
+solutions in the cross-section of energy, transport and ICT”. Gdańsk focused on 
+73
+offering “activities complementary to building insulation, thermo-modernisation, and 
+heat-network connections”.  
+74
+ 
+Helsinki and Hamburg participated in the mySMARTLife project, with the aim of 
+making the cities “more environmentally friendly by reducing the CO2 emissions of 
+cities and increasing the use of renewable energy sources”.  
+75
+ 
+According to Ger Baron, as part of the Energy Atlas project, data has begun to be 
+76
+shared in Amsterdam about “rooftops, that would potentially be interesting for solar 
+panels”. There is now “quite a bit of data being used”, in particular by “quite a few 
+smaller companies who actually sell solar panels to these houses, or companies”.  
+ 
+The use of data in mobility may also encourage people to be more environmentally 
+aware about the modes of transport they use. According to Pekka Koponen, if people 
+use data enabled mobility services to move around, it could have “quite a large 
+impact for the city, if people don't own a car and the cars are not parked on the 
+streets”. Research suggests that moving away from a reliance on cars, when they are 
+not vital to someone’s livelihood, can boost the health of city residents and reduce a 
+city's emissions. 
+77
+ 
+Not all environmental projects involve large technological deployment. Hanna 
+Niemi-Hugaerts described how Forum Virium is testing “ready-made... home mobile 
+sensor kits” that citizens can use to monitor the environment themselves. Around 350 
+people have signed up to the project, which revolves around “smart flower pots in 
+community gardens”. Throughout the process, it has been “really hands on” and the 
+city has “ideate[d] together” alongside the participants.  
+ 
+70
+ UN News (2019), ‘Cities: a “cause of and solution to” climate change’, ​https://news.un.org/en/story/2019/09/1046662 
+71
+ MySMARTLife, ​https://www.mysmartlife.eu/mysmartlife/  
+72
+ RUGGEDISED, ​https://ruggedised.eu/home/ 
+73
+ RUGGEDISED, ‘Smart Solutions Overview’, 
+https://ruggedised.eu/smart-solutions/smart-solutions-overview/ 
+74
+ RUGGEDISED, ‘Gdańsk’, ​https://ruggedised.eu/cities/Gdańsk/ 
+75
+ MySMARTLife, ​https://www.mysmartlife.eu/mysmartlife/ 
+76
+ Opendatasoft (2017), ‘How Amsterdam Uses Urban Data to Build a More Sustainable City’, 
+https://www.opendatasoft.com/blog/amsterdams-energy-atlas-using-urban-data-to-build-a-sustainable-city 
+77
+ BBC (2019), ‘What happens when a city bans cars from its streets?’, 
+https://www.bbc.com/future/article/20191011-what-happens-when-a-city-bans-car-from-its-streets 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   21 
+
+ 
+These projects in the field of mobility and energy offer a glimpse into how technology 
+and data may be used to improve the environment in cities. Going forward, these 
+projects can help cities to adopt greener and more sustainable approaches to air 
+quality and transportation. Furthermore, the opportunity for citizens to collaborate 
+and collect data to aid these approaches is a positive and welcome approach to 
+collaborative open data.  
+  
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   22 
+
+ 
+How cities foster open 
+innovation  
+Open innovation involves sharing data and ideas, and supporting innovative projects 
+from citizens, civic tech organisations, startups, and business or academia. For this 
+to work, city governments need to share details about what problems they are facing, 
+and equip citizens and organisations with the skills and resources to be able to solve 
+these problems. Activities which can aid and contribute to this include:  
+ 
+●providing shared and open data  
+●hosting events 
+●running accelerators and challenges  
+●establishing specialist organisations  
+78
+●creating new centres and buildings for GovTech and startups  
+79
+●establishing partnerships  
+●running digital skills programmes.  
+ 
+Hackathons are one example of open innovation and collaboration. They are short 
+events where programmers, entrepreneurs and public sector authorities gather to 
+collaborate on solving a problem. Often, the best proposals from these events are 
+granted funding to pursue their ideas further. Other similar models include 
+co-creation events, accelerator programmes and crowdsourcing. 
+80
+ 
+Kris Garski detailed how Gdańsk City Council is “considering cooperation with other 
+public sector units and the private sector to take part in hackathons they are running 
+to provide them with data and to promote our data”. He explained that they “would 
+like to see more and bigger engagement from the developer community”. He wants 
+people to: “come to us with ideas for new applications. And then if it is a sensible 
+idea, we are ready to talk about opening new data in the city.” Sascha Tegtmeyer 
+from Hamburg, where they use hackathons to help participants “realise their use 
+cases with our data”, said that they use such events to “explain to people: here is our 
+open data – this is the data that might be useful for your use case”.  
+ 
+Yet, Ger Baron in Amsterdam expressed that the short timescale of these events is 
+not always beneficial. He outlined that sustainability of the projects was key; 
+something which wasn’t always appreciated: “Ideas are not the issue, but actually 
+building something that can be used is a bit more complicated.” In Amsterdam, there 
+is an opportunity for “companies to create partnerships with us, so they get our data 
+but we also spend some time with them [doing] workshops on what they actually 
+need”, and establish whether any adjustments need to be made in the data so that 
+they can use it. There is also a startup residence programme which is run three or 
+81
+78
+ For example, the London Office of Technology and Innovation, 
+https://www.londoncouncils.gov.uk/who-we-are/london-office-technology-and-innovation-loti 
+79
+ For example, the Tontine building in Glasgow (​https://www.tontineglasgow.co.uk/​) or the Urban 
+Innovation Centre in London (​https://futurecities.catapult.org.uk/urban-innovation-centre/about/​) 
+80
+ Viima (2016), ‘16 Examples of Open Innovation – What Can We Learn From Them?’, 
+https://www.viima.com/blog/16-examples-of-open-innovation-what-can-we-learn-from-them  
+81
+ Startup in Residence, ‘Amsterdam’, ​https://startupinresidence.com/amsterdam/ 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   23 
+
+ 
+four times a year. Supporting new business in this way can help to overcome some of 
+the barriers the ODI has identified that organisations could face when they attempt 
+82
+to scale beyond an interesting pilot; including sustainable funding, and access to 
+advice and skills.  
+ 
+Hanna Niemi-Hugaerts from Forum Virium said that there is the need to “have a line 
+open towards the [technical] community”. She suggested that “it’s good to start this 
+communication as soon as possible – start at the planning stage”. For example, if 
+Forum Virium has an idea that is thought would be an effective service, they will ask 
+relevant technical individuals or organisations: “Hey, we might create this API, and 
+this is what we were planning. What would you need for it?” This engagement can 
+help prevent time and money being wasted if Forum Virum has what they believe is a 
+good idea, only for “the developers [to] have some other needs”.  
+ 
+Continuous engagement with an enthusiastic ‘open’ community can result in a 
+virtuous cycle. According to Hanna, in Helsinki, when people within government 
+departments “hear all these creative ideas this community is having, they get a lot 
+more motivation to work on getting the stuff open.” 
+ 
+Multiple interviewees mentioned how important the Code for America movement – 
+described on the website as “a national alliance of community organizers, 
+developers, and designers that are putting technology to work in service of our local 
+communities” – was for their city. Code for Poland and Code for Hamburg were 
+838485
+both set up following the success of Code for America. In Poland, Kris Garski told us 
+that the main aim was to “[build] a community between administration and 
+developers”. In Hamburg, they use the group “to explain our data [and] to hear what 
+their needs are for our data platform”.  
+ 
+Helsinki formed a similar group – Helsinki Loves Developers – to engage directly 
+86
+with the people who want to use city data. This engagement can be meaningful for all 
+parties involved, as skills and insights are shared between participants.  
+Schools, colleges and universities can also play a part in innovation in the city. Ger 
+Baron spoke of the role of the Amsterdam Metropolitan Solutions Institute. Students 
+87
+there are given the opportunity to “use our data for a lot of their research.”  
+ 
+In Gdańsk, Kris Garski told us about the encouragement of students to “play with the 
+data to try to build a solution”. Although no sustainable, commercial projects have 
+come out of this engagement with students, they saw it as “a very useful tool to 
+sharpen [the students’] coding skills by coding with real data and build a better 
+understanding of how the city works.”. 
+  
+82
+ Open Data Institute (2019), ‘Scaling data-enabled projects: a checklist’, 
+https://theodi.org/article/scaling-data-enabled-projects-a-checklist/ 
+83
+ Code for America, ‘The Brigade Network’, ​https://brigade.codeforamerica.org/  
+84
+ Code for Poland, ​https://codeforpoland.org/ 
+85
+ Code for Germany, ‘Hamburg’, ​https://codefor.de/hamburg/ 
+86
+ Helsinki Loves Developers, ​https://dev.hel.fi/ 
+87
+ Amsterdam Institute for Advanced Metropolitan Solutions, ​https://www.ams-institute.org/ 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   24 
+
+ 
+How cities are encouraging 
+the use of data within city 
+departments  
+For cities to take advantage of innovative approaches to services, it is important they 
+overcome any internal issues.  
+ 
+First, cities already have access to a wealth of data, from official statistics to data 
+collected during the delivery of services. Ensuring it is used, shared and understood 
+is critical.  
+ 
+Unlocking valuable, untapped data is an important and ongoing focus in the cities we 
+focused on. Our interviewees outlined the problem of data silos between city 
+government departments. In Gdańsk, the city took steps to begin breaking these silos 
+down. A “tour through the city hall departments” was conducted, which involved 
+“talking with managers and talking with staff... [asking them] what data do you have? 
+Who is responsible for it? Who is cooperating with the data you have? What could we 
+open?”. This provides a solid foundation for which to evaluate the benefits that new 
+technologies or projects could bring – for example if they provide a source of useful 
+data that is not already collected.  
+ 
+But, there is little point pursuing a revolutionary, tech-based agenda if the city staff 
+don’t trust the data, don’t have the skills to understand it, or don’t see the value in 
+data and technology. The ODI’s Data Skills Framework shows the range of skills 
+88
+required to maximise value of data across an organisation such as a city authority. 
+Our interviewees spoke of how, in their organisations, they are recognising a deficit in 
+data skills, and are trying to change it.  
+In order to develop trust and belief in the use of data and technology, the Helsinki 
+government is to “start acting and doing even small things... set up a pilot and try 
+something and learn”. Hanna Niemi-Hugaerts spoke about the value of focusing first 
+on “the internal benefits of getting data out there and open” so that you have “direct 
+benefits... as an organisation”. This means that it “doesn’t then feel as though you 
+have to add on so much, because you’ve already benefited yourself”. Starting small 
+and demonstrating value can help get people on board with the change cities are 
+trying to achieve.  
+ 
+In both Amsterdam and Helsinki, there has been a concerted effort over the last few 
+years to hire people with the right skills who can deliver on data-enabled change, 
+such as coders, software developers and data analysts. In Amsterdam, the emphasis 
+is now on hiring “people who understand software and coding”. This approach was 
+taken early on by Helsinki city government; they hired scores of coders and 
+developers at the beginning of their digitalisation journey, and have recently 
+88
+ The Open Data Institute (2019), ‘The 2019 Data Skills Framework’ 
+https://theodi.org/article/open-data-skills-framework/ 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   25 
+
+ 
+expanded their call to attract international tech talent to work in the city. Hiring staff 
+89
+with this expertise can help city governments to build things themselves, meaning 
+that expensive proprietary software does not need to be procured. 
+ 
+The balance then needs to be struck between hiring staff with the right technical skills 
+to work alongside staff with more policy experience and understanding of how city 
+governments operate. Cities should also be attempting to upskill those already 
+working within the authority, encouraging everyone to speak the same language.  
+In Amsterdam, directors were sent on a course “where they got educated on data: 
+what does it mean, what are the ethics behind it, what is the legislation behind it, 
+what does GDPR [General Data Protection Regulation] mean”. Part of this was 
+changing the mindset so that they know that “this is not something you should switch 
+to the data department, but is something that, as a director of a department, you are 
+responsible for these things yourself”. They are treating this as an “ongoing exercise” 
+and are also now training the layer of managers below them in a similar manner. 
+ 
+Specialist positions such as Chief Digital Officers can also provide this leadership. 
+Hamburg’s Chief Digital Officer has a “working group that is all of the leaders of the 
+departments and different ministries” that are “working good together”. If senior 
+figures recognise the value of data and advocate for the extensive use of technology 
+and openness within their city, positive change will be easier to achieve.  
+  
+89
+ Signals From Helsinki (2019), ‘Helsinki, World's First City as a Service Is Not Just a Joke – Attracts Over 
+6,500 applications from +100 cities’, 
+https://www.signalsfromhelsinki.fi/en/news/helsinki-worlds-first-city-service-not-just-joke-attracts-over-65
+00-applications-100-cities 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   26 
+
+ 
+How cities are accessing 
+data held by private 
+organisations  
+A city’s data infrastructure consists of data that is managed by public institutions 
+such as housing and transport authorities, as well as data collected and held by the 
+private sector organisations that operate within them. This includes data generated 
+by businesses that work with the cities to deliver public services, as well as those that 
+provide services directly to their citizens, visitors and others. 
+ 
+Data that is currently held by a variety of private sector organisations, for example 
+Uber, Google, AirBnB, IoT sensor manufacturers, portal developers, dockless bike 
+providers or app creators, is often out of reach to city governments. This data could 
+be highly valuable in helping cities develop better services or make better decisions. 
+As access to privately held data is complex, some researchers who are keen to try 
+and develop similar data have attempted to deploy alternative workarounds, such as 
+“sending students to catch rides en masse, or signing up to drive themselves”.  
+90
+ 
+A paper by the Open Source Lab suggested that: “Data sharing between the public 
+and private sector will play a critical role in helping transit agencies leverage future 
+disruptions in mobility induced by shared mobility services and be of even greater 
+service to their community by adapting to user needs, for example.” 
+91
+ 
+In general, our interviewees spoke of their desire to get access to data from 
+commercial and private sector organisations working within the city. We learned that 
+there are a range of potential uses of this type of data. The data, from Uber, Waze 
+and Lyft for example, could assist in making decisions that could inform traffic 
+planning. Opening up or establishing shared access to this data could also help to 
+stimulate innovation and promote competition – as the Helsinki mobility API has 
+demonstrated with the development of Whim. There may also be regulatory or 
+enforcement reasons whereby access can bring benefits, such as ensuring rental 
+properties are not driving up property prices or circumventing rental laws in certain 
+areas. 
+92
+ 
+In some cities, this data sharing is happening. Strava, the popular fitness activity 
+tracking app, has developed Strava Metro in a bid to share more data with city 
+93
+governments to improve the quality and safety of urban bike lanes. Through Uber 
+94
+90
+ WIRED (2018), ‘Dying to Know Uber's Secrets, Data-Hungry Cities Get Creative’, 
+https://www.wired.com/story/uber-lyft-data-research-driver-pay/  
+91
+ Open Source Lab (2019), ‘The Open Source Paradigm in the Digital Transformation — Enabling a Sustainable Future in 
+Mobility’,  
+https://opensourcelab.dfki.de/wp-content/uploads/2019/04/OpenSourceMobility_WhitePaper_March2019.pdf  
+92
+ WIRED (2019), ‘Airbnb and New York City Reach a Truce on Home-Sharing Data’, 
+https://www.wired.com/story/airbnb-new-york-city-reach-truce-on-home-sharing-data/  
+93
+ Strava Metro, ​https://metro.strava.com/ 
+94
+ Curbed (2016), ‘How a fitness app for cyclists is reshaping city planning’, 
+https://www.curbed.com/2016/9/2/12749686/cycling-city-planning-app-strava  
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   27 
+
+ 
+Movement, Uber is sharing anonymised trip data with city authority planning teams 
+95
+to help them to understand the flow of traffic. These big companies can leverage data 
+access on favourable terms, for example being able to operate in a city, or for a wider 
+public benefit – as with Strava. In other cities, in the US in particular, regulatory power 
+has been used to compel access to data from scooter and electric bike companies. 
+96
+But such initiatives are still not the norm, and may only occur in some cities and not 
+others.  
+ 
+In all four of the cities we focused on, there were discussions ongoing about ways 
+and opportunities of gaining access to data private companies have acquired and are 
+retaining.  
+ 
+This is an area which the ODI is keen to see explored further. We want cities to be 
+ensuring equity around who accesses, uses and benefits from data. We know this is 
+an area that much work needs to be done in, particularly in relation to building trust 
+and ensuring that cities approach companies to share with specific projects in mind – 
+at least to start with.  
+ 
+One of the key barriers the private sector claims it faces is ensuring the trust of their 
+customers. Our interviewee in Helsinki told us that the telecoms companies are 
+“afraid of privacy and security and losing the customer trust”. Privacy and security of 
+personal data are of course critical, and data protection laws, including GDPR, are a 
+fundamental part of that. But not all data relevant to city decision making needs to be 
+personal data; lots of data is what we refer to as ‘societal data’. Societal data is data 
+which has traditionally been collected to help society make decisions for everyone 
+about everyone, as opposed to pinpointing individuals. It can include census data, 
+demographics, travel patterns and crime statistics, for example.  
+ 
+A recent project the ODI undertook with the RSA and Luminate revealed that if this 
+data is not used to re-identify people, and its use is explained, then people in the 
+main are happy for it to be collected, used and shared. Private sector organisations 
+97
+could therefore share non-personal data with cities going forward, in order to improve 
+decision making. This is also an opportunity for better communication with the public 
+about the types of data being collected and why.  
+ 
+A 2019 Bloomberg article discussed the issue of access to data while respecting 
+98
+privacy: “Privacy concerns are real, but that doesn’t mean companies should be able 
+to prevent responsible access to their data... Better cities need better data — to 
+prevent crashes, minimize traffic congestion and get people where they need to go 
+efficiently. So the way to protect mobility data is not to let private companies keep it 
+to themselves; it’s for cities to raise the bar on digital privacy, championing practices 
+that protect both citizens and the public interest.” 
+ 
+Ger Baron in Amsterdam is trying to work more closely with the private sector. He 
+told us of 28 partnerships with large insurance, car and tech companies – the data 
+95
+ Uber Movement, ​https://movement.uber.com/?lang=en-GB 
+96
+ Los Angeles Times (2020), ‘L.A. wins appeal in fight with Uber over scooter and bike data‘, 
+https://www.latimes.com/california/story/2020-02-11/uber-jump-bikes-scooters-permit-ladot-data-fight-ruling  
+97
+ RSA, ODI, Luminate (2019), ‘About Data About Us’, 
+https://www.thersa.org/globalassets/pdfs/reports/data-about-us-final-report.pdf 
+98
+ Bloomberg Opinion (2019), ‘Cities Need Scooter Data, and They Need to Keep It Safe’, 
+https://www.bloomberg.com/opinion/articles/2019-06-17/uber-and-lyft-shouldn-t-hold-electric-scooter-data-hostage  
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   28 
+
+ 
+from which was used for mainly mobility, such as “crowd management, traffic 
+management on a daily basis.”  
+ 
+In Hamburg, Sascha Tegtmeyer discussed how access to private data represented a 
+more fundamental issue: “We also have to manage our city, and it’s not an option for 
+us that a company knows how many cars are paring in Hamburg, but we as a city 
+don’t know this.” 
+ 
+In Helsinki, Forum Virium told us how they purchased – using EU funding – data from 
+telecoms companies. Now that they have “got some of the data, we are learning how 
+we can use it together with the city, how we can use that in transport, or traffic 
+planning and city planning”. This approach is one way of engaging with the private 
+sector, but alternatives to using public money should be sought where possible. 
+ 
+Ger Baron indicated a similar concern and offered a couple of ideas as to how 
+companies could improve engagement with cities. He indicated that he felt 
+companies “have an image problem” and that improved sharing of data would “help 
+their image”. Furthermore, he speculated that regulation in this area would come 
+“within five years”, enabling cities access to private sector data and improved 
+collaboration.  
+ 
+As with any use of data within cities, there is no singular approach that can act as a 
+model for other cities to adopt. Instead, cities at the leading edge of developing 
+modes of access should continue their dialogue with the private sector, experiment 
+incrementally and publicly share the successes and challenges from their work.  
+  
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   29 
+
+ 
+How cities are acting 
+ethically with the use of data  
+Ethics play a crucial role in the use of data and technology within cities, just as they 
+do within all facets of life. Citizens need to be able to trust that the government is 
+going to use data securely, fairly and ethically. When misuse or exploitation of data is 
+in the news, it is important that cities develop strong, transparent and ethical 
+approaches to how citizens’ data is to be collected, used, shared and stored. As 
+artificial intelligence (AI), algorithms and machine learning become the norm for 
+decision making, cities will need to be clear how their use is delivering a positive 
+impact and how negative impacts are minimised.  
+ 
+Our interviewees discussed their progress in adopting these principles. As a baseline, 
+Kris Garski asserted that in Gdańsk, “we protect the data of private citizens. It’s rule 
+number one that we open only data which is not protected by law. So privacy is very 
+protected here”.  
+ 
+But the ethical use of data goes beyond following laws, such as the EU’s GDPR, to 
+99
+protect privacy. In Amsterdam, Ger Baron said that technology must be “responsible” 
+and “work for us and not against us”. Ger defined responsible technology as “open, 
+auditable, transparent and doing something that actually contributes to people... 
+[and] society”. To make this more practical, the city government has developed a 
+methodology, as part of the Tada project, “to discuss ethics and dilemmas” when 
+100
+using and combining data.  
+ 
+Ensuring that technology is responsible has resulted in certain projects being halted. 
+Ger Baron described how in Amsterdam they “developed some algorithms which the 
+input was people with a certain profile who would get an invite for a job interview”. 
+The intention was to get unemployed people into work for the same company for over 
+12 months, but Ger outlined an issue with an algorithm, when it was revealed that it 
+was only flagging “people with a certain profile”. Rather than trying to fix the 
+algorithm or the datasets used, Ger described how they simply “decided that we're 
+not going to do this. So we want just people to do the matchmaking basically, we can 
+try to find ways to do this without discrimination”.  
+ 
+Other cities around the world are protecting data ethics through new rules and 
+regulations. In San Francisco, the strong step was taken to ban facial recognition use 
+by the police and other city agencies, citing the need to protect citizens from 
+potential abuse.  
+101
+ 
+The Chief Digital Officers from Helsinki and London signed a declaration which 
+included exploration of ethical uses of data in smart cities. Upon signing the 
+102
+99
+ General Data Protection Regulation (2016), ​https://eur-lex.europa.eu/eli/reg/2016/679/oj  
+100
+ Tada.city, ​https://tada.city/ 
+101
+ New York Times (2019), ‘San Francisco bans facial recognition technology’, 
+https://www.nytimes.com/2019/05/14/us/facial-recognition-ban-san-francisco.html 
+102
+ New Statesman Tech (2019), ‘London and Helsinki CDOs sign digital declaration on smart cities and data ethics’, 
+https://tech.newstatesman.com/it-leaders/london-and-helsinki-cdos-sign-digital-declaration-on-smart-cities-and-data-ethics  
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   30 
+
+ 
+declaration, Helsinki Chief Digital Officer Mikko Rusama said that they’re “planning to 
+work on clarifying the ethical principles of utilising data and AI, which is crucial in 
+order to gain trust from residents”. 
+ 
+It is paramount that cities consider the ethical implications of their services. Tools 
+such as the ODI’s Data Ethics Canvas can help start this conversation by posing 
+103
+questions to ensure that the positive and negative impacts of a newly designed 
+service can be considered and discussed before they become a reality.  
+  
+ 
+103
+ Open Data Institute (2019), ‘The Data Ethics Canvas’, ​https://theodi.org/article/data-ethics-canvas/ 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   31 
+
+ 
+Concluding thoughts: 
+the future of open cities 
+and beyond 
+ 
+Speaking with representatives of these four cities gave us an opportunity to listen to, 
+and learn from, their successes in moving towards a more open future. It also 
+enabled us to better understand the challenges they faced. 
+Refocus to addressing local challenges 
+Data and technology have great potential to be used by cities to make better 
+decisions and make the city work better for everyone. But this has to be a deliberate 
+process – initiated through strategies and policy positions, with the focus on 
+delivering positive value through services.  
+ 
+Rather than focusing on technology, the people we spoke to are seeking a range of 
+other approaches: digitalisation, better and wider citizen engagement, APIs, improved 
+use of existing data and the publication of government data. These approaches are 
+welcome and we encourage the priority of openness.  
+ 
+Most important, however, is the need to focus on solving specific, local challenges 
+using data, and using openness and building trust as a means of doing that. By doing 
+this, cities can move away from the focus on technology and work towards making 
+services work for citizens, businesses and all communities. These services may be 
+improved by the use of technology, but the emphasis we feel should be on using data 
+to increase engagement, improve decision making and deliver better services. A 
+focus on addressing specific problems can similarly help this re-prioritisation and 
+may get more meaningful results than being the most cutting edge or technically 
+innovative.  
+Increase access to useful data from across the public and private 
+sector 
+There are, however, a number of foundational issues that cities must get right. One of 
+the reasons the smart city vision is failing on its promises is that it focuses too much 
+on expensive high-tech ‘solutions’, without developing a strong underlying data 
+infrastructure and without upskilling staff to capitalise on it. The focus in the future 
+104
+must be on laying this groundwork.  
+ 
+First, cities already have access to a wealth of useful data that, if identified and 
+understood, may help them achieve their goals. One problem we are aware of is that 
+data may languish within departments or organisations that are unaware that it could 
+benefit other departments or organisations more widely. Ecosystem mapping a city’s 
+104
+ New York Times (2019), ‘Opinion: I’m an Engineer, and I’m Not Buying Into “Smart” Cities’, 
+https://www.nytimes.com/2019/07/16/opinion/smart-cities.html 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   32 
+
+ 
+data to understand where data sits, where it can and does flow, and where blockages 
+to data access or sharing may exist, is a critical process for any city to undertake. Not 
+only does this help determine existing data infrastructure, but it can aid the process 
+of breaking down departmental silos. This alone can enable more value to be derived 
+from useful data.  
+Develop internal skills and motivation 
+Second, developing internal skills and capability is vital. Cities should look at how to 
+improve the digital capability of their departmental teams. This should be done first 
+and foremost through upskilling the staff that are already working there, who already 
+have the knowledge of policy and services, but who could benefit from training in 
+data, technology and digital skills. Large city governments would be wise to follow 
+Helsinki’s lead with an injection of highly skilled developers and coders.  
+ 
+The belief that data, digital and technology can improve services must be held 
+throughout all levels of the cities’ organisation. Senior management needs to 
+champion their department or organisation’s use of data and technology. This can be 
+formalised through schemes such as Hamburg’s Chief Digital Officer Council and the 
+appointment of dedicated staff.  
+Develop relationships between the private and public sectors to 
+enable access to data 
+Third, while we have learned that many cities are actively publishing data, making it 
+openly available and encouraging wider use, the same cannot be said of the private 
+sector. When it comes to decision making within a city environment, data held by the 
+private sector has the potential to help answer a wide range of valuable questions, 
+improve citizens’ lives and deliver better services. Without access to that data, many 
+important and potentially urgent opportunities are being missed.  
+ 
+We have learned that Forum Virium in Helsinki is buying data from the private sector, 
+and this is also the case in local government in the United Kingdom. Rather than 
+being required to use public money for this data, we would prefer to see better 
+relationships built between cities and the private sector, where specific questions to 
+help address specific problems can be discussed and worked on collaboratively. 
+These partnerships should be strengthened by a belief in the equitable and 
+sustainable access to data. City governments need to be able to access useful data 
+sustainably, and relying on purchasing private sector data can push this access 
+towards long-term uncertainty.  
+ 
+For cities to solve complex problems for the benefit of citizens, engagement with the 
+private sector needs to be developed.  
+Engage with citizens and technical communities 
+Tapping into the collective knowledge of citizens and citizen groups can lead to 
+better engagement, better decision making and better services that people want to 
+use.  
+Engagement can be done in various ways, such as through focus groups like in 
+Hamburg, using online platforms such as Decidim or Consul, or through citizen 
+panels like in Gdańsk. To maximise the value of this engagement, citizens need to 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   33 
+
+ 
+firstly understand the major issues around the use of data and technology – and cities 
+can support this through education and digital skills.  
+ 
+Engaging with skilled people and startups can help generate ideas for how a city can 
+work better. Running innovation events, supporting and incubating startups, and 
+publishing data are just some of the ways cities have been encouraging this 
+innovation. When ideas are found to benefit the city, the government or other actors 
+must ensure that the projects can scale to benefit wider groups and become 
+sustainable. 
+105
+Learn from others 
+Although cities are different in regards to their history, and their cultural, societal and 
+geographical make-up, this does not mean that cities cannot work together and learn 
+from the challenges and successes each has. Our research has shown that they have 
+a lot in common, for example many are trying to tackle big issues such as the climate 
+emergency and increasing citizens’ involvement in political decision making.  
+ 
+In this politically challenging climate, cities can start by forming partnerships and 
+expanding relationships with one another. The London–Helsinki Chief Digital Officer 
+partnership launched in 2019, the data twinning of cities such as the Data City 
+106
+project in Leeds and Lille, and large-scale participation in the Open and Agile 
+107
+Smart Cities (OASC) network, offer glimpses into what these relationships can 
+108
+entail.  
+ 
+But these relationships should go further, cities should adhere to Forum Virium’s 
+Hanna Niemi-Huagerts’ rallying call: “don’t be afraid of copying things that work!”. 
+With open data and open source software, this is a lot easier. Cities can benefit from 
+a more open ecosystem by sharing data, source code, ideas, tips and guidance. 
+Cities can build on past work and support other cities to do the same. Being open 
+can bring cities closer to their citizens and businesses, and closer to other cities.  
+And finally... 
+ 
+We want to see the movement towards openness continue and for this report to 
+generate some momentum for cities around the world to follow. We want to see cities 
+try and build a more open and trustworthy ecosystem. The use of data and 
+technology within cities can have a positive impact for everyone, if it is done so in an 
+equitable and ethical manner. We want this open and trustworthy future to be 
+delivered by cities through greater collaboration between cities and within city 
+departments, less data hoarding from the public and private sector, and greater 
+engagement with people, businesses and communities. And this positive should not 
+remain in urban areas, but be replicated and adjusted to more rural areas too.  
+ 
+105
+ Open Data Institute, ‘R&D: Scaling data innovation’, 
+https://theodi.org/project/rd-scaling-data-innovation/ 
+106
+ New Statesman Tech (2019), ‘London and Helsinki CDOs sign digital declaration on smart cities and 
+data ethics’, 
+https://tech.newstatesman.com/it-leaders/london-and-helsinki-cdos-sign-digital-declaration-on-smart-citie
+s-and-data-ethics  
+107
+ Open Data Institute (2018), ‘The Data City in Leeds and Lille: measuring data 
+innovation’,​https://theodi.org/article/the-data-city-in-leeds-and-lille-measuring-data-innovation/ 
+108
+ Open and Agile Smart Cities, ​https://oascities.org/ 
+ 
+ 
+Open Data Institute 2020 / ReportBecoming more open: the view from four European cities   34 

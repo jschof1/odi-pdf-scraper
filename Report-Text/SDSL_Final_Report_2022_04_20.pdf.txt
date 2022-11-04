@@ -1,0 +1,2720 @@
+
+
+1 
+Contains sensitive information 
+ 
+SHARING DATA, 
+SAVING LIVES 
+A Regulators’ Pioneer Fund report 
+ 
+ 
+ 
+ 
+         
+
+2 
+Contains sensitive information 
+ 
+Foreword 
+ 
+The Health & Safety Executive has a mission to lower the human cost of injury and ill health on 
+construction sites. Enabling data sharing in a secure and resilient way to help businesses make better 
+decisions is an important part of UK Government Policy. Industry is undergoing a technical 
+revolution as information systems become more capable and far reaching. It is important therefore 
+that HSE supports research to bring these factors together.  This Report explores the potential that 
+sharing design risk data can have in reducing the levels of risk and uncertainty encountered on the 
+construction site. The Sharing Data Saving Lives project has explored some key practical issues 
+around how data can be shared, and what are the blockers and enablers, incentives and 
+disincentives that prevent this happening. The potential size of the financial gains are explored, and 
+a logic model presented to show how these gains can be realised. 
+HSE values the opportunity to work with specialist research partners such as Atkins, the Open Data 
+Institute and Metis Digital. This report opens up the issues around data sharing in the construction 
+industry, and will provide a great basis for future initiatives in this area.  
+ 
+ Adam Mellor 
+Deputy Director – HSE Science Division 
+ 
+ 
+ 
+                      
+ 
+ 
+Authors 
+Key members of the project team and authors of this report: 
+Zane Ulhaq (Atkins) 
+Gordon Crick (HSE) 
+Miranda Sharp (Metis Digital) 
+Darren Temple (ODI) 
+Jared Keller (ODI) 
+Sheng Peng (Atkins) 
+Andrew Jackson (Atkins) 
+Sam Arthur (Atkins) 
+ 
+ 
+
+3 
+Contains sensitive information 
+ 
+Contents 
+ 
+Foreword ................................................................................................................................................. 2 
+1.  Key Messages .................................................................................................................................. 5 
+2.  Executive Summary ......................................................................................................................... 7 
+3.  Introduction .................................................................................................................................. 11 
+4.  Benefits of sharing data ................................................................................................................ 13 
+4.1.  Methodology ......................................................................................................................... 13 
+4.2.  Logic Model ........................................................................................................................... 14 
+4.2.1.  Qualitative assessment of impact ................................................................................. 16 
+4.2.2.  Quantitative assessment of Impact .............................................................................. 17 
+4.2.3.  Proposed solution ......................................................................................................... 17 
+4.3.  Economic Benefit .................................................................................................................. 18 
+4.3.1.  Supporting data ............................................................................................................. 19 
+4.3.2.  Determining the total savings available ........................................................................ 20 
+4.3.3.  Cost trends and distribution ......................................................................................... 21 
+4.3.4.  Headline findings .......................................................................................................... 23 
+5.  Sharing data practicalities ............................................................................................................. 25 
+5.1.  Approach ............................................................................................................................... 25 
+5.2.  Methodology ......................................................................................................................... 25 
+5.3.  Findings ................................................................................................................................. 32 
+5.3.1.  The Initial Workshop ..................................................................................................... 32 
+5.3.2.  The Survey ..................................................................................................................... 33 
+5.3.3.  Demonstrator ................................................................................................................ 36 
+5.3.4.  Interviews  ..................................................................................................................... 42 
+6.  Discussion ...................................................................................................................................... 46 
+6.1.  Benefits ................................................................................................................................. 46 
+6.1.1.  Micro to Macro ............................................................................................................. 46 
+6.1.2.  Connecting H&S to delivery efficiencies ....................................................................... 47 
+6.2.  Understanding ...................................................................................................................... 47 
+6.2.1.  Trust in H&S risk data sharing ....................................................................................... 47 
+6.2.2.  Data standards and tools .............................................................................................. 47 
+6.2.3.  Organisational relationships  ........................................................................................ 48 
+6.3.  Governance ........................................................................................................................... 49 
+
+4 
+Contains sensitive information 
+ 
+6.3.1.  Supporting bodies ......................................................................................................... 49 
+6.3.2.  Security ......................................................................................................................... 49 
+6.3.3.  Organisational framework ............................................................................................ 50 
+7.  Next Steps ..................................................................................................................................... 53 
+8.  Acknowledgements ....................................................................................................................... 54 
+9.  Appendices .................................................................................................................................... 55 
+9.1.  Appendix A:  Raw Survey data .............................................................................................. 55 
+ 
+  
+
+5 
+Contains sensitive information 
+ 
+1. Key Messages 
+ 
+1. Enterprises understand there are potential benefits in principle to share health & safety data 
+but are unwilling or slow to do so in practice because of security, privacy and commercial 
+concerns. Some examples already exist in the industry where information is shared in limited 
+circumstances, but these are typically small scale and not designed to exploit 
+standardisation and aggregation using digital technology. 
+ 
+2. There are economic benefits which can accrue through sharing design risk data and 
+improving design risk management as a result. The last major improvements to Health & 
+Safety were seen between 2004/5 and 2009/10, if data sharing can replicate these 
+improvements, this is equivalent to up to a 30% saving (of £198 million p.a.) in injury costs in 
+construction. 
+ 
+3. Design risk data is not typically produced by the industry in a format which is easy to share, 
+even if organisations could overcome the barriers of security, privacy or commercial 
+concerns. This project has demonstrated a way of sharing a limited amount of generic free 
+text and coded data on health & safety risk, which is less subject to concerns about 
+commercial or personal interest.  
+ 
+4. Design risk data sharing has been demonstrated in this project to have benefits which can be 
+realised in the short term through standardisation of terms and concepts core to design risk 
+management in Construction. Public Sector Clients which operate across a number of 
+regions with multiple programmes of projects are well placed to benefit. 
+ 
+5. No one construction industry body by itself is likely to gain the trust of the industry to share 
+data effectively. This is due in part to the fragmented way the industry represents itself 
+through sector specific organisations. Although the Health and Safety Executive (HSE) 
+uniquely has a common interest in all sectors, this research clearly shows that the majority 
+of organisations do not see the HSE being the data steward in aggregating Health & Safety 
+data across organisations due to their responsibility as a regulator.  
+ 
+6. In order to build trust over the next few years the Discovering Safety Programme 
+(www.discoveringsafety.com) is put forward as a vehicle to develop further design risk data 
+sharing practice through its Construction Risk Library Project, which is independently funded 
+and acts at arm’s length from the Regulator. In the longer term the development of a Data 
+Institution or other suitable vehicle should be planned, in order to build on emerging 
+practise where this can be shown to be effective.  
+ 
+
+6 
+Contains sensitive information 
+ 
+7. The question of sustainability deserves particular emphasis and consideration because 
+although the benefits of design risk data-sharing to the industry as a whole are likely to be 
+substantial, there is a split between where the costs of collection, management and sharing 
+are incurred and where its benefits are realised. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+7 
+Contains sensitive information 
+ 
+2. Executive Summary 
+ 
+There is a human cost associated with accidents and ill health. Harm to workers or others affected 
+by construction work activity can be prevented by reducing the levels of risk and uncertainty 
+encountered on the construction site. This reduction can be achieved by sharing health & safety 
+(H&S) data from the earliest design stage of a project and adopting more effective risk treatments at 
+every stage of design and planning.  
+In economic terms the cost of errors and rework in construction is estimated to be £5bn per year
+1
+ in 
+the UK (5% of project costs, varying between 0-80%), with £1bn being attributed to incidents which 
+result in injury or harm to persons affected by construction work. UK Government Policy identifies 
+the need to reduce this figure, and also recognises value of sharing and making available, systematic 
+and transparent data
+2,3
+. 
+This project aimed to determine how significant an opportunity there is to benefit from sharing 
+health & safety data in the construction industry and examined the practicalities of doing so. This 
+project has been made possible by a grant of £198,831 from the £3.7 million Regulators' Pioneer 
+Fund launched by The Department for Business, Energy and Industrial Strategy (BEIS). 
+The fund enables UK regulators and local authorities to help create a UK regulatory environment 
+that unleashes innovation and makes the UK the best place to start and grow a business. 
+The project team consisted of the Health and Safety Executive (HSE), Atkins, the Open Data Institute 
+(ODI) and Metis Digital. The team had expertise in construction delivery, H&S in the context of 
+construction, data strategies, sharing data and H&S risk data management in construction projects. 
+Through an extensive programme of interviews with experts and examination of relevant studies, a 
+logic model was created which described the problem of sharing risk data from the design stage of a 
+project, the changes and outputs needed to affect a solution, and the resulting benefits to society, 
+employers and individuals.  
+Stakeholders agreed that sharing risk information and adopting best practice in risk treatment is 
+likely to reduce the impact severity and frequency of incidents in construction. Productivity and 
+corporate memory is also likely to be improved by the availability of a database of clearly defined 
+risks and treatments. This may have particular value in relation to preventing rare catastrophic 
+events. However, the balance of costs and benefits in relation to data sharing is unclear, because the 
+evidence in the form of published data is lacking. However, the logic model does show a strong 
+causal link between effective sharing of risk data and benefit in reducing costs. 
+The main benefit of sharing risk data is reducing the number and impact of incidents. However, 
+there are two further key benefits in the logic model which accrue from data sharing which are also 
+evidenced in this report. These are benefits to an organisation which are described in this report as 
+“moral glow”, arising from good H&S risk management and a robust institutional memory reducing 
+training costs. This is associated with a skilled workforce, and assured levels of competence. The 
+ 
+1
+ https://getitright.uk.com/reports/literature-review/chapter/financial-and-economic-impact-of-error  
+2
+ The Green Book (publishing.service.gov.uk) 
+3
+ National Data Strategy - GOV.UK (www.gov.uk) 
+
+8 
+Contains sensitive information 
+ 
+second benefit is described as “reduced business friction” and is associated with construction 
+businesses who operate with less margin of uncertainty and provide greater customer confidence in 
+construction outcomes. Such businesses attract competitive insurance offers. 
+The logic model could not develop a fully defined solution because of the short timescale for the 
+project and a lack of data on relevant costs. A fully quantified assessment of costs and benefits was 
+therefore not possible. However, significant research was completed to develop an expert reviewed 
+idea of the nature and distribution of the benefits that might be achieved if design risk data sharing 
+could be optimised. Some of the benefits relate to costs which have never been quantified, including 
+loss of productivity and goodwill. The impact of data sharing was estimated in relation to historical 
+savings that were made over the six-year period between 2004/5 and 2009/10.  This period showed 
+a significant reduction in the costs associated with injury. 
+If data sharing can be significant enough to replicate this improvement in reducing injury cost 
+between 2004/05 and 2009/10, this may be equivalent to up to another 30% saving (of £198 million) 
+in injury costs in construction. This would reduce the total economic costs in construction associated 
+with workplace injuries and ill health down to approximately £1 billion (2018 prices). These figures 
+underestimate the potential benefits, because they take no account of the costs of non-injury 
+incidents, damage, and waste that are associated with uncertainties in design and planning 
+information, and the need for rework. 
+Alongside research into the benefits that may accrue through data sharing, the project also 
+investigated the practicalities of data sharing. The project was limited to a six-month period, so it 
+was difficult to do much more than gain a snapshot in time of how projects are working with design 
+risk data, rather than being able to study the use of design risk data through the lifecycle of a 
+project.  
+Consultation with the industry took place through workshops, a structured survey, interviews and an 
+online demonstrator. An initial workshop was held with 44 stakeholders attending, representing 
+mainly large organisations, design consultancies, architects, infrastructure clients and contractors. 
+There was a clear appetite from the attendees to engage with this project, both in terms of being 
+part of the community going forward and sending information to their project teams. Stakeholders 
+agreed that there are potential benefits to be had from sharing design risk and safety data within the 
+construction industry. 
+However, even in this first workshop, the positive desire for data sharing and progressive 
+collaboration around design data was moderated by concerns around practical issues. These 
+included security, privacy, ownership and governance in respect to data. The main ‘wants’ from 
+attendees were around the desire for simplification, consistency and efficiency around recording and 
+sharing design risk data. The main ‘needs’ were related to the necessity of good communication, 
+both internally and externally between collaborators and competitors, as well as with the HSE. 
+The project then followed up the first workshop with a survey in order to dig deeper into a more 
+detailed range of issues around sharing data, and to try to obtain some structured feedback on key 
+questions.  Responses to the survey revealed a high level of comfort and confidence held by 
+participants in both their own, and their organisation’s, ability to manage design risk data effectively.  
+Aggregation of design risk data was scored more highly as a valuable outcome than standardisation 
+of data. On both topics, participants rated the value of doing so higher than the possibility of 
+
+9 
+Contains sensitive information 
+ 
+executing it. Respondents recognised the importance of matching risk treatments to a risk and 
+considered that fully automatic systems to do this would be less effective than semi-automatic 
+systems. To explain this point, a fully automatic system would serve up an optimal risk treatment for 
+the risk scenario, whereas a semi-automatic would serve up a number of treatment options for the 
+user to choose between, or relevant guidance to formulate their own treatments. The survey asked 
+how shared information should be overseen and where responsibility should sit for the overarching 
+governance of this data. The survey recorded 32 responses from Stakeholders which listed an 
+Independent third party highest at 45%, Industry self-regulates at 38%, and the Government 
+Regulator at 17%.  
+The survey was followed up by selected interviews with representative experts from the industry. As 
+a result of these interviews, an octagon of issues was identified which collectively described how the 
+culture and behaviours around data sharing at the design stage needs to change. Most of these 
+issues can be both enablers for benefit, or blockers to prevent sharing, depending on their presence 
+or influence. 
+ 
+The project found that the key issues preventing sharing 
+are not simple. They span across the domains of people 
+management, skills and training, trust and human factors to 
+the commercial and legal aspects around liability and 
+regulation through to the professional practice areas of 
+digital tools, data quality and standardisation. 
+The project used a framework of design risk data founded 
+on the PAS 1192-6:2018 “Specification for collaborative 
+sharing and use of structured health and safety information 
+using BIM (Building Information Modelling)”, to develop an 
+online demonstrator.  This framework is also used by the 
+Discovering Safety programme’s (DSP) Construction Risk 
+Library project. The Discovering Safety programme is a global H&S improvement programme being 
+run by the HSE and funded by the Lloyd’s Register Foundation. One of the key use-cases in this 
+programme is the Construction Risk Library project which looks at using H&S risk data better through 
+improving data-related processes.  
+The DSP Construction Risk Library framework uses six data points to describe a risk scenario, and 
+then seeks to match the risk scenario with an appropriate risk treatment. In the project 
+demonstrator a simple form was used to determine how users input to this framework compares 
+with current industry practice. The demonstrator showed effective identification, assessment, 
+ownership and treatment of risk. The intention of putting the demonstrator online was to hold up a 
+benchmark against which users could compare their own design risk recording method. The 
+demonstrator provided opportunity for users to comment against each data point and entry box on 
+the online tool.  
+A key finding from the demonstrator was that the risk entries on the tool, which categorised the risk, 
+and provided essential context to the risk, were the least easy for users to transfer entries into from 
+existing records. Reasons for this include: the format of description of labelling of risks varies very 
+widely; the language of hazard and risk is used interchangeably; and risks are often described in very 
+ 
+Figure 1 – H&S Data Sharing key concepts. 
+
+10 
+Contains sensitive information 
+ 
+general terms. To further complicate the picture, the context, or direct circumstances in which risk 
+may eventuate is rarely described. These factors made it very difficult for users to take advantage of 
+any easy transfer of risk information into the demonstrator. 
+Working with the project online demonstrator provided the opportunity to test and simulate ways of 
+overcoming the 3 key challenges around industry organisation and relationships, standardisation, 
+and liability. 
+Through the project three types of relationships were highlighted as having particular relevance. 
+1)   Between competitors – On the side of sharing data between competitors was a strong moral 
+sense of this being the right thing to do, and of openness and transparency being a fine ideal. 
+However, in practice this was swamped by commercial and legal concerns, often fuelled by an over 
+cautious approach to legal and contractual obligations. 
+2)   Regulator to Industry, Industry to Regulator – The project foresaw issues with a reluctance 
+to share directly with the Regulator. A project partner, the Open Data Institute, was therefore 
+selected to act as a trusted intermediary. However, in practice this made little difference.  
+3)   Partnership working - The project did note successes working with those organisations that 
+had close relationships with the project. Data sharing was facilitated by a more relational rather than 
+transactional style of working. 
+A key enabler which emerged as part of a solution to meet the barriers identified is the 
+standardisation of data.  Part of a root issue is industry variation in practice, value and priority of 
+design risk data management. Where standardised methodologies do exist, they are often 
+associated with manual methods of recording risks. The use of 3D models, digital information 
+management, and the use of Information standards such as ISO 19650, do offer great opportunities 
+for progress in standardisation, and data sharing, but the practice of using them as core design risk 
+management tools is not widespread or well developed. One possible incentive proposed was a 
+standard audit format, approved by the Regulator, to benchmark industry practice against. A 
+standard audit procedure could be developed based on pre-construction audits already being 
+carried out by leading proponents in the industry, or developed from first principles. 
+To reduce concerns around liability for sharing data, the two strategies cited were the 
+encouragement of a standardised data model, perhaps based on the Discovering Safety Construction 
+Risk Library model. The second strategy involved using only generalised and anonymised coded data, 
+or generic text.  The use of technology to automate anonymisation and generalisation is a potential 
+option, but the application of such tools is at a very early stage in the industry.  The issue of security 
+of data and combatting cyber threats is also addressed to a large extent by sharing only a select 
+amount of generalised and anonymised data. 
+ 
+  
+
+11 
+Contains sensitive information 
+ 
+3. Introduction 
+ 
+The premise of this project is to encourage a better approach to reducing health and safety (H&S) 
+risks by sharing data. Data are facts or details from which information is derived. Individual pieces of 
+data are rarely useful alone. To be valuable each must be put into the correct context and shared 
+with those that need it. Not doing this can come with a cost. The economic impact to the UK from 
+construction errors and rework is estimated to be £5bn (5% of project costs)
+4
+. Incidents account for 
+£1bn
+5
+. These costs are met by individuals, their families, employers and society. They could be 
+reduced by accurate, early identification and treatment of health and safety risks at their source – 
+i.e. when decisions are being made at the planning and design stage of projects 
+6,7,8
+. These decisions 
+can also be subject to optimism bias
+9
+ resulting in a failure to prepare for, and mitigate against, 
+infrequent but catastrophic health and safety events
+10
+. 
+ 
+The importance of sharing construction data to reduce such risks is already recognised.  There is a 
+consensus that the wide adoption of construction health and safety risk data sharing will improve 
+self-regulation and reduce the significant financial (and human) impact of incidents. One programme 
+looking to tackle H&S improvements is the Discovering Safety Programme (DSP), a global H&S 
+improvement programme being run by the HSE and funded by the Lloyd’s Register Foundation. One 
+of the key use-cases in this programme is the Construction Risk Library project which looks at using 
+H&S risk data better through improving data-related processes. 
+ 
+The importance of data sharing can be seen in the Discovering Safety programme’s SafetiBase Risk 
+Library
+11
+, the Building Safety Bill
+12,13
+ and the Golden Thread report from the Buildings Advisory 
+Committee. More generally, HMT Green Book notes the value of systematic data collected and made 
+transparently available, as does the National Data Strategy.  
+ 
+However, those who are required to invest and participate in data sharing may not be the ones who 
+directly realise the benefits. This means the effect of data sharing on different stakeholders needs to 
+be understood. This project, therefore, aimed to determine the opportunity and practicalities of 
+sharing health and safety data. This project has been made possible by a grant of £198,831 from the 
+ 
+4
+ https://getitright.uk.com/reports/literature-review/chapter/financial-and-economic-impact-of-error 
+5
+ https://www.hse.gov.uk/statistics/industry/construction.pdf 
+6
+ Digital information technologies for prevention through design (PtD): a literature review and directions for 
+future research | Emerald Insight 
+7
+ https://getitright.uk.com/live/files/reports/5-giri-design-guide-improving-value-by-reducing-design-error-
+nov-2018-918.pdf, https://core.ac.uk/download/pdf/148364953.pdf 
+8
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6238149/ 
+9
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/983759
+/updating-the-evidence-behind-the-optimism-bias-uplifts-for-transport-appraisals.pdf 
+10
+ https://www.hse.gov.uk/research/rrhtm/rr834.htm, https://hbr.org/2009/10/the-six-mistakes-executives-
+make-in-risk-management 
+11
+ https://www.discoveringsafety.com/ 
+12
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/901877
+/Draft_Building_Safety_Bill_Impact_Assessment_web.pdf 
+13
+ https://www.gov.uk/government/publications/building-safety-bill-factsheets/impact-assessment-factsheet,  
+
+12 
+Contains sensitive information 
+ 
+£3.7 million Regulators' Pioneer Fund launched by The Department for Business, Energy and 
+Industrial Strategy (BEIS). The fund enables UK regulators and local authorities to help create a UK 
+regulatory environment that unleashes innovation and makes the UK the best place to start and 
+grow a business. 
+The project was split into two core packages:  
+1. Understanding the benefits – Here, the intention was to determine a model which would 
+connect the action of sharing data to economic value, this would be justified by publicly 
+available datasets and interviews. The deliverables included a logic model, a range for 
+potential benefits and insights for future improvements on the detail. 
+2. A sharing data demonstrator – Whilst determining the benefits, the project aimed to 
+receive data from participants to gain industry insights and lessons learnt on data sharing for 
+H&S. The deliverables for this were findings on how to share data. 
+Both packages come together to discuss the value of sharing data, what is currently happening in the 
+sector, and how to move closer towards achieving the sharing of H&S risk data nationally, improving 
+self-regulation and reducing the severity and frequency of injuries.  
+
+13 
+Contains sensitive information 
+ 
+4. Benefits of sharing data 
+ 
+This aspect of the project focussed on developing and testing a working hypothesis for the benefits 
+of sharing health and safety risk data. 
+ 
+4.1. Methodology 
+There have already been attempts to create sustainable business cases for sharing data across 
+organisations and sectors. Examples include the National Underground Asset Register (NUAR) and 
+National Digital Twin programme. An initial project hypothesis regarding the benefits of sharing of 
+H&S risk data was developed using learning from these and expert input from the Discovering Safety 
+Programme. Three broad benefits identified from the hypotheses to test were: 
+ Fewer and less costly incidents and accidents in construction. 
+ A positive “moral glow” associated with best practice H&S risk management giving rise to 
+increased workforce productivity and client (societal) confidence in construction 
+outcomes
+14
+. 
+ Decreased “business friction” costs associated with lack of precision in risk and mitigation, 
+paid in the form of higher insurance premiums and contingency costs. 
+Interviews were conducted with 25 stakeholders from industry, academia and the public sector 
+between Dec 2021 and March 2022. Interviewees were chosen based on their expertise, covering a 
+wide range of areas. To generate a wider pool of interviewees, initial interviewees were asked if they 
+had experts in their networks who we would benefit from interviewing. 
+The interview format included a project introduction with a focus on the initial hypotheses. 
+Interviewees were asked of their opinion on: 
+ The validity of the initial hypothesis (above). 
+ Existing and planned work on the benefits and beneficiaries of sharing data in general, and 
+design risk and build environment data, in particular. 
+ Insight and evidence of the impact on employers, society and individuals from sharing 
+(design risk) data. 
+Economic benefits are easier to quantify when there is a clear understanding of what intervention is 
+being proposed. Therefore, a lack of interventions in sharing H&S risk data limits the project’s ability 
+to forecast economic benefits with confidence.  Furthermore, given the scale of uptake and change, 
+this is likely to be incremental rather than transformative. An estimate of the economic benefits 
+from safer design based on data sharing was undertaken through analysis of existing literature 
+including Health and Safety Executive (HSE) books, reports and other publications in the public 
+domain.  
+ 
+ 
+14
+ https://iosh.com/media/1577/the-impact-of-health-and-safety-management-on-organisations-and-their-
+staff-summary-report.pdf 
+
+14 
+Contains sensitive information 
+ 
+4.2. Logic Model 
+When trying to quantify the economic benefits, logic models are needed to align the problem being 
+faced to a solution, this in turn creates outputs and impacts.  
+Through engaging leaders with experience in the H&S risk data sharing space, Figure 2 was produced 
+as the logic model for this study. This shows how the problem of economic costs from workplace 
+related accidents could be addressed by curated accessible data on H&S risks. This model 
+incorporates and develops further the framework in the HSE book by Gordon and Risley
+15
+.   
+ 
+15
+ The costs to Britain of workplace accidents and work-related ill health in 1995/96 (hse.gov.uk) 
+
+15 
+Contains sensitive information 
+ 
+ 
+Figure 2 - Logic Model for sharing H&S risk data. 
+ 
+
+16 
+Contains sensitive information 
+ 
+4.2.1. Qualitative assessment of impact 
+ 
+Reduced incident cost 
+Stakeholders interviewed agreed that sharing risk information and best practice mitigation is likely 
+to reduce the impact, frequency and severity of incidents in construction, and the costs incurred 
+associated with them. At a project level, accessible best practice information can improve 
+productivity at the design stage and outcomes during construction.  Furthermore, a national dataset 
+detailing risks and treatments will create an evidence base to increase the speed of industry 
+learning, including that relating to infrequent and catastrophic events. This evidence base can be 
+used to document the potentially significant costs and impacts of H&S incidents which are not 
+regularly quantified or mitigated. Stakeholders agree that the balance of costs and benefits to share 
+data and subsequently reduce risks are either unclear or not considered sufficiently attractive. This is 
+primarily because this activity has not been investigated to date, as well as H&S being seen as a 
+means to meet regulatory demands than for something to innovate or improve on. 
+Stakeholders also agree that some costs associated with H&S incidents are partially unaccounted for 
+in the logic model, including employer’s: internal investigation; support of external investigation; the 
+risk of business failure; and the human cost to individuals of coping with a colleague’s misfortune. 
+ 
+Positive moral glow 
+There is broad agreement amongst stakeholders interviewed on the positive impact (“moral glow”) 
+from good H&S risk management for employers. Stakeholders referred to a robust institutional 
+memory reducing training costs and incident frequency. 
+Further, a societal moral glow was suggested with the creation of differentiated national 
+competence in H&S design risk management and a skilled workforce capable of offering competitive 
+services internationally. 
+Less Business friction in the mitigation of risks and uncertainty 
+The costs of H&S incidents and waste are linked, with 37% accidents occurring during rework
+16
+. Such 
+costs are typically met by “contingency” budgets which act as a margin of uncertainty in delivery, 
+undermining societal confidence in construction outcomes. 
+There is limited evidence of increased “business friction” for enterprises which have poor H&S 
+design risk practices. Stakeholders agree that “poor performers” may have reduced access to 
+opportunities
+17
+ and find it harder to obtain competitive insurance offers. However, interviewees 
+supporting the Building Safety Bill have found that the insurance market does not currently support 
+an exact correlation between risk identification and insurance costs. Insurers instead focus on what 
+processes have been defined and adhered to and claim history. However, due to the pandemic 
+issues and market defining losses, insurers are reducing appetite and capacity. In addition, where 
+they are underwriting, they are requesting more project-based information
+18
+. By introducing an 
+ 
+16
+ https://getitright.uk.com/  
+17
+ Bidders are often required to disclose HSE investigations as part of a tender process 
+18
+ https://www.marsh.com/uk/industries/construction/insights/construction-insurance-market-update-
+2021.html  
+
+17 
+Contains sensitive information 
+ 
+improved and consistent process of sharing data across projects and organisations, insurance 
+companies gain more assurance and certainty, delivering value back to the industry.  
+ 
+4.2.2. Quantitative assessment of Impact 
+In the absence of a fully defined data sharing solution, it is not possible to speculate on the total 
+impact of sharing data on the various stakeholders.  An economic analysis on the result of reduced 
+frequency and severity of accidents is included below. 
+Some insight into the impact of positive moral glow and negative business friction is available using 
+the techniques and analysis from Reputation Dividend which endeavours to calculate the proportion 
+of market capitalisation attributable to listed company reputation. Reputation Dividend suggest that 
+good H&S risk management has an impact on the market and stakeholder perception of quality of 
+management, quality of products and in Environmental, Social and Governance (ESG) performance.  
+This difficult to measure effect contributes to market capitalisation with the reputation contribution 
+turning from a contributor to a detractor as businesses fail, shown in the Carillion chart (below): 
+ 
+Figure 3 - Carillion Chart – courtesy of Reputation Dividend 
+ 
+ 
+4.2.3. Proposed solution 
+It should be noted that the groups who will need to invest to create a data sharing solution 
+(designers and data stewards) are not those who will necessarily benefit from the solution 
+(contractors, clients and society). 
+There are many significant barriers to the implementation of any data sharing solution, outlined 
+below: 
+ 
+ 
+ 
+
+18 
+Contains sensitive information 
+ 
+Table 1 - Proposed Solution 
+Issue Problem Steps to implementation 
+“Technical” data 
+concerns 
+Enterprises are happy in principle to 
+share data but unwilling or slow to do so 
+in practice because of security, privacy 
+and commercial concerns 
+Advice exists
+19
+ but needs to be 
+developed with learnings from 
+the live demonstrator and 
+NUAR 
+Effort in 
+contribution 
+H&S risk data requires effort before it can 
+be collated and analysed at a population 
+level and therefore deliver value to users 
+and society 
+The Discovering Safety 
+Programme and ODI data 
+institution work will support 
+user engagement towards a 
+solution. 
+Securing of benefit The investors in data and data 
+stewardship do not realise the benefits 
+The demonstrator project 
+supports cost identification 
+and the benefits mapping work 
+has helped to identify potential 
+beneficiaries 
+ 
+In addition, any solution should complement the implementation of the National Data Strategy and 
+Building Safety Bill. 
+ 
+4.3. Economic Benefit 
+After defining the impact from interventions through better risk data and management, the scoping 
+of potential economic benefit can be determined. To tackle this, the Project used supporting data 
+from the HSE’s publicly available records outlined later in 4.3.2. It should be noted that this focuses 
+on the economics of incidents occurring and not how the better planning of projects through better 
+H&S practices delivers programmatic value. 
+Many of the benefits discussed above specifically fall outside the costs measured not only by HSE 
+but also those measured by enterprises, individuals and society.  Specifically, HSE notes
+20
+ the 
+unquantifiable costs associated with reduced productivity, as a result of injuries or absenteeism and 
+loss of goodwill and reputation of the firm with its workforce, customers and the local community.  
+In addition, the formal costs of investigation in available data are only attributed to HSE, any cost to 
+the injured person’s employer is not recorded.  Interviewees formed the view that this was at least 
+equivalent to HSE costs.  
+ 
+19
+ https://www.cpni.gov.uk/security-minded-approach-open-and-shared-data, 
+https://www.cpni.gov.uk/system/files/documents/06/e9/Triage%20Process%20for%20the%20publication%20
+or%20disclosure%20of%20information.pdf  
+20
+ https://www.hse.gov.uk/pubns/priced/hsg101.pdf page 47 
+
+19 
+Contains sensitive information 
+ 
+4.3.1. Supporting data 
+HSE first produced aggregate estimates of the costs to Great Britain of workplace accidents and 
+work-related ill health for 1990/91 in a seminal report by Davies and Teasdale
+21
+, separately 
+identifying costs to the individual, to the employer and to society. These estimates were updated for 
+1995/96 by Gordon and Risley
+22
+, with an interim update for 2001/02
+23
+. Since the interim update, 
+significant changes in methodology have been adopted in the HSE Costs to Britain Model and 
+therefore estimates presented thereafter are not directly comparable to what was previously 
+prepared on a like-for-like basis. 
+Headline changes in the methodology have been outlined in Appendix 5 of a research report
+24
+ 
+published in 2011 with regards to the costs to Britain of workplace injuries and work-related ill 
+health in 2006/07. We have reviewed all aforementioned books and reports and found that the 
+original book by Gordon and Risley with regards to the cost to Britain in 1995/96 provides a sound 
+(although known to be incomplete) foundation for establishing a benefit framework due to its 
+comprehensive approach and thorough explanations. This helps categorise different types of 
+impacts and economic costs associated with workplace injuries and work-related ill health. 
+Information in this book was therefore used to inform the development of the logic map and 
+economic model following the central government’s guidance on evaluation in the Magenta Book
+25
+. 
+Relevant data published by HSE from 2004/5 to 2018/19 has also been examined, including the 
+aforementioned research report on the 2006/07 costs and a separate report
+26
+ for the 2018/19 costs. 
+These reports and dataset give a high-level and more up-to-date articulation of the economic costs 
+of workplace injuries and work-related ill health, taking into account the evolution in the 
+methodology adopted by the HSE since early 2000’s. 
+Due to 2018 being the last undisturbed financial year since the pandemic, global conflicts and their 
+resulting economic impacts, use of this data is more representative in lieu of any up-to-date 
+information that may be available. 
+ 
+ 
+21
+ Davies, NV and Teasdale, P, 1994. The costs to the British economy of work accidents and work related ill 
+health. HSE Books ISBN 0 7176 0666 X 
+22
+ Gordon, F, Risley, D, and EAU economists, 1999. The costs to Britain of workplace accidents and work 
+related ill health in 1995/96. Second Edition. HSE Books ISBN 0 7176 1709 2 (The costs to Britain of workplace 
+accidents and work-related ill health in 1995/96 (hse.gov.uk)) 
+23
+ Interim update of the 'Costs to britain of workplace accidents and work-related ill health' (parliament.uk) 
+24
+ RR897 - The costs to Britain of workplace injuries and work-related ill health in 2006/07 - Workplace 
+fatalities and self-reports (hse.gov.uk) 
+25
+ HMT_Magenta_Book.pdf (publishing.service.gov.uk) 
+26
+ Costs to Britain of workplace fatalities, self-reported injuries and ill health, 2018/19 (hse.gov.uk) 
+
+20 
+Contains sensitive information 
+ 
+4.3.2. Determining the total savings available 
+An illustration of the range of economic costs relevant following the approach documented in the 
+HSE book is presented in the figure below, with indication of relevant cost bearers. This illustration 
+originated from the aforementioned HSE 2001/02 interim update. 
+ 
+It should be recognised that in 
+some cases, a cost to one cost 
+bearer (individuals, employers 
+or society, as seen in Figure 4) 
+is an equal and opposite 
+benefit for another bearer. For 
+example, sick pay represents a 
+cost to the employer but is an 
+equal and opposite benefit to 
+the individual who receives it, 
+so at the societal level the sick 
+pay cancels out to zero. These 
+are ‘transfer payments’: a cost 
+from employers transferred as 
+a benefit to individuals. 
+Table 2 summarises estimates 
+of total costs of workplace 
+injuries and work-related ill 
+health presented in historic 
+reports examined. Figures 
+summarised in the table are 
+not directly comparable as 
+they were based on different 
+methodologies and limited by 
+the level of details presented 
+in the relevant reports.  
+Although these figures are not 
+a direct replacement to each 
+other in different years, this 
+table still provides an overview 
+of historic estimates.  It may be 
+observed that overall, the costs 
+associated with workplace 
+injuries and work-related ill health as a percentage of the GDP marginally reduce over time, and the 
+costs associated with the construction sector are a small fraction of the overall cost, generally in the 
+order of £1 to 2billion. 
+Figure 4 - Range of economic costs – 2001 interim update, footnote 31 
+
+21 
+Contains sensitive information 
+ 
+ 
+Table 2 - Collated estimates of costs to the economy in historic reports (£ billion). 
+Data 
+source 
+Price 
+base 
+All sectors Construction 
+Low**  High**  Central    % of GDP   Ill health  Injuries   Total 
+1995/96  95/96     14.5 18.1 16.3 1.0 to 1.3% NA NA 2.11* 
+2001/02  2001     13.1* 22.2* 17.7* 0.8 to 1.3% NA NA NA 
+2006/07  2006 14.7 18.3 16.5 0.8 to 1.0% 0.92 0.67 1.59 
+2018/19  2018 15.1 17.3 16.2 0.7 to 0.8% 0.56 0.66 1.22 
+* Figures were either synthesised or selected based on professional judgement due to 
+documentation available or the evolution of methodology over time 
+** Definition of Low and High estimates varies over time. They represent a 90% confidence interval 
+for 2006/07 figures, and 95% for 2018/19. 
+ 
+4.3.3. Cost trends and distribution  
+More comparable estimates of the same costs are available between 2004/5 and 2018/19 based on 
+information from the HSE’s Costs to Britain model. These are presented in the chart below with all 
+monetary values in 2018 prices (chart originally presented in HSE’s 2018/19 statistics). 
+ 
+Figure 5 - Cost Trends 
+ 
+It can be observed that the total cost (across all sectors) fell by approximately 17% from £19.3 billion 
+to £16.1 billion between 2004/5 and 2009/10. This is mainly driven by a reduction in the number of 
+workplace injuries. The overall reduction in the injury costs was found by HSE to be statistically 
+significant (from £7.90 billion to £5.57 billion in 2018 prices between 2004/5 and 2009/10). The fall 
+
+22 
+Contains sensitive information 
+ 
+visible in ill health costs over the same period was not found to be statistically significant. Since 
+2009/10, both injury and ill health costs have remained broadly level. 
+There are insufficient details in the time series data by sector to ascertain whether the trends 
+observed across all sectors apply to construction alone. The latest estimate on construction related 
+economic costs associated with workplace injuries and work-related ill health is from the 2018/19 
+estimate, which is based on the average annual number of workplace injuries and work-related 
+illnesses for the three years from 2017/18 to 2019/20, as presented in the table below. 
+ 
+Table 3 - 2018/19 estimates of injury and ill health costs with 95% confidence intervals associated with the construction 
+sector (£million). 
+ Central Lower Higher 
+Ill health 561 (46%) 387 735 
+Injury 659 (54%) 473 844 
+Total 1,220 NA NA 
+ 
+Figure 6 illustrates how the total cost of £1.22 billion in the construction industry may distribute 
+across different cost bearers based on the distributional pattern observed across all sectors. The 
+total cost of £1.22 billion is represented by the cost to society (the rightmost column). This figure 
+represents the latest estimate on the relative distribution against which potential economic benefits 
+can be claimed for data sharing for safer design in construction. 
+ 
+Figure 6 – Costs against cost holder types 
+ 
+Please note that this chart is for illustration and not to scale. 
+Note: ELCI represents Employers’ Liability Compulsory Insurance 
+
+23 
+Contains sensitive information 
+ 
+ 
+4.3.4. Headline findings 
+The impact of the counterfactual (not sharing data in a consistent and transparent approach across 
+the sector) would be missed opportunities in reducing the economic costs associated with workplace 
+injuries and work-related ill health in construction. Such savings could be claimed as the economic 
+benefits from sharing data (in a consistent and transparent approach across the sector) for safer 
+design in construction.  No attempt has been made to estimate the societal benefits of either 
+greater certainty in output from reduced accidents and incidents in construction projects or from 
+the upskilling of the design and construction communities in health and safety risks and mitigation. 
+The lack of details on specific proposed data sharing solutions (given its conceptual status) limits our 
+ability to explore quantitatively its economic benefits with confidence and specificity. A glimpse of 
+the potential impact may be speculated with reference to what has been achieved historically across 
+all sectors. 
+The most significant improvement (i.e. savings in costs associated with workplace injuries and work-
+related ill health) occurred during a six-year period from 2004/5 to 2009/10, where injury costs 
+across all employment sectors were reduced from £7.90 billion to £5.57 billion (2018 prices), 
+approximately a 30% reduction. Over the period, the changes in ill-health related costs have not 
+been found to be statistically significant. Both cost elements (injury and ill-health related) remained 
+level from 2009/10 to 2018/19   
+It was inferred from the observations that reduction in ill-health related cost is a lot more difficult to 
+achieve as this cost has not changed materially since 2004/5. The 30% reduction in injury costs to 
+2009/10 may be attributed to improvement in the safety practice, regulation, training and 
+awareness.  We have taken the last period over which a change was statistically significant as the 
+potential for improvement across the construction sector.   
+ 
+If data sharing can be significant enough to replicate this improvement in reducing injury cost 
+between 2004/05 and 2009/10, this may be equivalent to up to another 30% saving (of £198 million) 
+in injury costs in construction. This would reduce the total economic costs in construction associated 
+with workplace injuries and ill health down to approximately £1 billion (2018 prices). The amount of 
+monetary benefits equivalent to different assumed percentages of savings and the resultant total 
+economic costs in the construction sector are illustrated in the table below. Please note these are 
+not economic forecasts, but just illustrations of what benefits may be achieved. The figures also 
+exclude the potential benefits described in 4.3 above. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+24 
+Contains sensitive information 
+ 
+Table 4 - What-if tests - Illustration of annual monetary benefits equivalent to the assumed percentage of savings in injury 
+costs (2018 prices in £million/annum). 
+ 
+2018/19 Central 
+(Reference Case) 
+Assumed savings in injury costs from data sharing in safer design 
+30% saving 20% saving 10% saving 
+Ill health 561 (46%) 0 0 0 
+Injury 659 (54%) 198 132 66 
+Total 1,220 198 132 66 
+Note. A decreasing/compounding trend from improved risk management has not been included for 
+these savings and therefore, only captured annually.  
+ 
+The above assumed savings do not cover the full extent of impacts and instead focus on the two 
+boxes as highlighted in Figure 7. It should therefore be noted that more annual savings could be 
+realised from the £1.22bn as well as from efficiencies on projects/programmes from better planning 
+as a by-product of better risk management. In order to identify these impacts and a trend, further 
+detailed work would need to be carried out. 
+ 
+Figure 7 - Logic Map highlighting reports assumed impact categories. 
+ 
+ 
+
+25 
+Contains sensitive information 
+ 
+5. Sharing data practicalities 
+ 
+This aspect of the project focussed on determining practical steps to sharing H&S risk data. 
+ 
+5.1. Approach 
+The potential benefits of sharing and managing risk data can only be realised through effective 
+application. This is not straightforward. This element of the project sought to determine practical 
+ways to achieve this that would be sustainable in the long-term. 
+ 
+Although looking at the long-term, the approaches used also had to consider the project’s fixed 
+funding timeframe (6 months) and the limitations associated with this. These include: 
+ Construction projects (and the assets they produce) typically exist over a much longer 
+timeframe. Research into the practical impact of sharing data would need to be done over an 
+extended period. 
+ Participants requested the deletion of shared data at the project’s conclusion. This limits the 
+lifespan of its value.  
+ The different governance arrangements required between short and long-term projects. 
+ The challenge of engaging representative of wider industry interests (commercial, insurance, 
+finance etc.) and getting them to participate.  
+ 
+To address these issues the project focussed on the following two approaches:  
+ 
+1. Establishing the practical issues associated with data sharing in the construction industry 
+through industry engagement, and; 
+2. Developing a demonstrator to test data capture and sharing. 
+ 
+5.2. Methodology 
+The initial methodology focused on using a series of workshops with industry representatives. The 
+objectives were to obtain their views, ask them to share data and then work with them on the 
+insights gained.  
+ 
+An initial online workshop was run on the 22nd of November 2021.  It was focussed on how 
+organisations currently share data and what the primary barriers are within the sector. There were 
+44 attendees from across the construction industry. They included engineers, architects, regulators, 
+asset owners, software vendors and data analysts. After this workshop it was clear that obtaining 
+data from these attendees was likely to be slower and more difficult than anticipated. An in-depth 
+survey and interview process was therefore included to gain more structured feedback.  
+ 
+The survey focused on gaining key insights relevant to sharing and collecting design risk information. 
+It ran between 17 December 2021 until 14 January 2022. Seventy-two organisations and individuals 
+were invited to participate. They were identified from the initial workshop attendees and 
+stakeholders. Thirty-two responses were received (44% return rate). Most were part of a large 
+organisation - 70% having over 1000 employees and 93% having over 100. 
+ 
+
+26 
+Contains sensitive information 
+ 
+Insights from the survey informed the development of the demonstrator. This demonstrator focused 
+on the core issue of standardisation. This was selected because: 
+ The other key areas were covered in the survey and planned interviews.  
+ It was not feasible to address them using the demonstrator within the project’s timeframe. 
+ 
+The demonstrator involved creating an online tool that allowed participants to submit their risk data 
+in a standardised format. The format used a simplified set of Risk Classification Terms. It was an 
+adapted version of Annex A from Industry Standard PAS 1192-6:2018 (Specification for collaborative 
+sharing and use of structured health & safety information using BIM). As part of an industry initiative 
+to improve the capture of H&S risk data, SafetiBase was developed. SafetiBase is an offering from 3D 
+Repo (a software group) that allows the user to capture their H&S information in line with PAS 1192-
+6. 3D Repo worked together with Atkins and other industry partners to further develop the schema 
+that they use.  
+The demonstrator’s version considers updates from the SafetiBase team (3D Repo and Atkins) and 
+the Discovering Safety programme, commonly referred to as the Discovering Safety Risk Library. 
+ 
+Table 5 - Risk Classification Terms for demonstrator 
+Name Description Entry detail 
+Risk Description Describing the risk Free text 
+Designer Focus Activity/Stage of the asset 
+lifecycle relevant to the 
+designer 
+Multiple choice (18): 
+1. Install construction 
+2. Maintenance 
+3. Operation 
+4. Use 
+5. Demolition, removal 
+6. Ageing 
+7. Commission, site tests 
+8. Component 
+manufacture 
+9. High impact events 
+10. Life extension 
+11. Material disposal or 
+re-use 
+12. Material sourcing 
+13. Modification 
+14. Post processing 
+15. Preliminary 
+investigation, tests & 
+prototypes 
+16. Storage, transport, 
+logistics 
+17. N/A 
+18. Other 
+
+27 
+Contains sensitive information 
+ 
+Construction Scope High level description of the 
+type of construction work, 
+based on CIRIA C755 
+Multiple choice (41): 
+1. Access (onto and 
+within site) 
+2. Atria 
+3. Bridge construction 
+4. Bridge maintenance 
+5. Cleaning of buildings 
+6. Deep basements and 
+shafts 
+7. Electrical services 
+8. External cladding 
+9. General civil 
+engineering, including 
+small works 
+10. General concrete 
+11. General excavation 
+12. General steelwork 
+13. Ground stabilisation 
+14. In situ concrete 
+15. Lifts, escalators and 
+auto walks 
+16. Masonry 
+17. Mechanical services 
+18. Piling 
+19. Pipes and cables 
+20. Precast concrete 
+21. Prestressed, post 
+tensioned concrete 
+22. Public health services 
+23. Railways, working 
+adjacent to, 
+maintenance of 
+24. Refurbishment of 
+existing buildings 
+25. Retaining walls 
+26. Roads, working 
+adjacent to, 
+maintenance of 
+27. Roof coverings and 
+finishes 
+28. Site clearance and 
+demolition 
+29. Site investigation and 
+remediation 
+30. Site layout 
+31. Stability and erection 
+of structural steelwork 
+
+28 
+Contains sensitive information 
+ 
+32. Surface coating and 
+finishes 
+33. Surrounding 
+environment 
+34. Timber 
+35. Trenches for 
+foundations and 
+services 
+36. Under pinning 
+37. Windows/glazing 
+including windows 
+cleaning 
+38. Work in coastal and 
+maritime waters 
+39. Working over/near 
+water 
+40. N/A 
+41. Other 
+Risk Category Based on Annex B PAS 1192-6 Multiple choice (33): 
+1. Event: Electric shock 
+2. Event: Fire or 
+explosion 
+3. Event: Loss of control 
+4. Event: Machinery 
+guarding 
+5. Fall: Collapse of BMU 
+(Building Maintenance 
+Unit) 
+6. Fall: From ladder 
+7. Fall: From MEWP 
+(Mobile Elevated 
+Working Platform) 
+8. Fall: From open edge 
+9. Fall: From scaffold 
+10. Fall: Slip or trip on the 
+same level 
+11. Fall: Through fragile 
+material 
+12. Handling: Materials 
+handling 
+13. Handling: Mechanical 
+lifting operation 
+14. Handling: Working 
+overhead 
+15. Material effect: 
+Asbestos 
+
+29 
+Contains sensitive information 
+ 
+16. Material effect: 
+Chemical 
+17. Material effect: Lead 
+18. Material effect: Silica 
+dust 
+19. Material effect: Wood 
+dust 
+20. Mechanical effect: 
+Loss of control using 
+hand or power tool 
+21. Mechanical effect: 
+Noise 
+22. Mechanical effect: 
+Vibration 
+23. Struck: By falling 
+object 
+24. Struck: By machinery 
+or part 
+25. Struck: By moving 
+vehicle 
+26. Struck: Overturning 
+plant or moving 
+machinery 
+27. Trapped: Asphyxiation 
+28. Trapped: Confinement 
+29. Trapped: Crushed by 
+excavation 
+30. Trapped: Drowning 
+and flooding 
+31. Trapped: Unintended 
+collapse 
+32. N/A 
+33. Other 
+Risk Factor Attribute or property of the 
+element, location or 
+construction scope which is a 
+specific pre-cursor, pre-
+condition or trigger to a risk 
+event 
+Multiple choice (28): 
+1. Material: Asbestos 
+2. Material: Dust 
+3. Material: Lead 
+4. Material: Strength 
+5. Physical: Collapse 
+6. Physical: Connection 
+7. Physical: Contact with 
+moving vehicle 
+8. Physical: Edge 
+9. Physical: Fragile 
+10. Physical: Gas release 
+and ignition 
+11. Physical: Length 
+
+30 
+Contains sensitive information 
+ 
+12. Physical: Noise 
+13. Physical: Opening 
+14. Physical: Size 
+15. Physical: Spacing 
+16. Physical: Weight 
+17. Task: Change design 
+18. Task: Cleaning 
+glazing/window 
+19. Task: Cleaning 
+machinery 
+20. Task: Excavation 
+21. Task: Lifting 
+22. Task: Manual handling 
+23. Task: MEWP (Mobile 
+Elevated Working 
+Platform) 
+24. Task: Site 
+management 
+25. Task: Temporary 
+structure 
+26. Task: Welding 
+27. N/A 
+28. Other 
+Element type The hardware element in the 
+risk scenario, this can be a 
+building element or product, 
+such as a slab, wall, roof etc., a 
+temporary structure, an 
+excavation or trench, a piece 
+of plant or equipment or lifting 
+accessory, or even a hand held 
+tool 
+Multiple choice (22): 
+1. Ceiling 
+2. Cladding 
+3. Column 
+4. External wall 
+5. Flat roof 
+6. Frame/beam 
+7. Guard rail 
+8. Internal wall 
+9. Isolated foundation 
+10. Lift 
+11. Mechanical equipment 
+12. Pitched roof 
+13. Raft foundation 
+14. Ramp 
+15. Slab 
+16. Stair 
+17. Temporary structure 
+18. UG gas pipe 
+19. Wall foundation 
+20. Window 
+21. N/A 
+22. Other 
+
+31 
+Contains sensitive information 
+ 
+Location Location in relation to the risk 
+or risk factor, not by absolute 
+co-ordinates 
+Multiple choice (17): 
+1. High level: Between 
+joist 
+2. High level: Near edge 
+3. High level: Near 
+openings 
+4. High level: Scaffolds 
+5. Mobile plant: BMU 
+(Building Maintenance 
+Unit) 
+6. Mobile plant: MEWP 
+(Mobile Elevated 
+Working Platform) 
+7. Site logistics: Confined 
+area 
+8. Site logistics: Crane 
+area 
+9. Site logistics: 
+Excavation area 
+10. Site logistics: Exposed 
+area 
+11. Site logistics: Pump 
+area 
+12. Site logistics: Traffic 
+route 
+13. Site logistics: Welding 
+area 
+14. Site work area 
+15. Site work area: Plant 
+room 
+16. N/A 
+17. Other 
+Likelihood How likely is a risk to occur Free text 
+Severity/Consequence How severe is the risk if it 
+eventuated 
+Free text 
+Owner identified Who owns the risk Yes/No 
+Treatment Description Describing the treatment Free text 
+Treatment Type How the treatment was dealt 
+with (ERIC) 
+Multiple choice (6): 
+1. Eliminate 
+2. Reduce 
+3. Control by subsequent 
+design 
+4. Inform 
+5. N/A 
+6. Other 
+Treatment Stage Categorising treatments based 
+on stages 
+Multiple choice (6): 
+1. Preliminary design 
+
+32 
+Contains sensitive information 
+ 
+2. Detail design 
+3. Pre construction 
+4. Site work, temp works, 
+change control 
+5. N/A 
+6. Other 
+Treatment Scheduled Is the treatment planned Yes/No 
+Further Comments on 
+Recording Risk 
+Further comments Free text 
+Further Comments on 
+Recording Treatment 
+Further comments Free text 
+ 
+Responsibility for building, hosting and operating the demonstrator was placed with the Open Data 
+Institute as one of the project partners. This was a project strategy to defuse any concern that data 
+shared might be transferred across to the regulator. It was supported by stakeholders and was 
+central to project delivery.  
+The final workshop was held on Monday 7th February 2022. It began with a summary of findings up 
+to that point, including a recap of the first workshop and the insights gained from the survey. This 
+was to ensure participants felt part of an iterative cycle of information gathering and dissemination, 
+to understand that this project is focussed on sharing data for the benefit of the community itself. 
+ 
+A reasoned description of the demonstrator then preceded some dedicated exercise time. 
+Attendees were invited to explore using the tool and to upload example risk entries they had been 
+requested to prepare in advance. This process seeded a final group discussion which highlighted 
+several points concerning risk data handling in general. 
+ 
+Following the workshop, information about the demonstrator was emailed to those who could not 
+attend. It remained live and open for a period of three weeks to allow as many users as possible to 
+engage with it. Additional material was also provided to project organisers for use in the form of 
+several raw anonymised risk registers.  
+ 
+Interviews were also held with five industry experts between 01– 10 March 2022. These interviews 
+focussed on issues relating to design risk and treatment data sharing, the survey outcomes and the 
+live demonstrator. The findings are combined with the survey results below to protect the 
+anonymity of interviewees.  
+ 
+5.3. Findings 
+ 
+5.3.1. The Initial Workshop 
+ 
+Attendees demonstrated a clear appetite to engage with the project at this workshop. This was both 
+in terms of being part of the community going forward and sending information to the project team; 
+although this did not translate into practice as the project progressed. They also agreed with the 
+principle that sharing design risk and safety data within the construction industry has potential 
+benefits. 
+
+33 
+Contains sensitive information 
+ 
+ 
+Discussions about the challenges and solutions followed. Attendees shared their views about 
+organisational concerns when it comes to data sharing in practice as well as their experiences of how 
+to overcome these challenges. Key themes were: 
+ 
+ Data must be structured and standardised to facilitate its sharing and aggregation. 
+ Organisational culture can be a barrier to sharing. This will take time to influence. 
+ Organisations differ in terms of size and budget. Smaller players face different challenges to 
+bigger firms. They may perceive the benefits differently as well. 
+ 
+Attendees also had an opportunity to communicate what they would want and need in order to feel 
+confident in sharing data with the project. The main ‘wants’ were for simple, consistent and efficient 
+design risk data recording. The main ‘needs’ centred around good communication - both internally 
+and externally, between collaborators and competitors, as well as with the HSE. The main concerns 
+expressed regarded security, privacy, ownership, and governance. There was strong agreement 
+about the need for confidentiality and non-disclosure agreements before data sharing could 
+proceed. 
+ 
+5.3.2. The Survey 
+ 
+Further data from the survey is presented in Appendix A. The key findings from the survey were: 
+ 
+ Producer or Benefactor? Most respondents (78%) considered their organisation to be both a 
+producer and a user/benefactor of design risk data. The next largest category (just 9%) 
+accounted for those who just produced such information. This shows that a majority of 
+participants have something to contribute and benefit from. The scale of this benefit is currently 
+unknown. 
+ 
+Figure 8 - Survey responses on the nature of respondents’ organisations 
+ 
+ 
+ Effectiveness of design risk data use: Most considered their organisation to be relatively 
+effective when working with design risk data. All respondents, bar one, rated their organisation 
+at least three on a five point scale. The modal response was a rating of four. Respondents gave 
+broadly similar ratings when asked to consider their own personal effectiveness with design risk 
+
+34 
+Contains sensitive information 
+ 
+data was quite similar. These responses indicate a broad level of comfort with current design risk 
+data practices. 
+Figure 9 - Survey responses on organisational effectiveness with design risk data 
+ 
+Figure 10 - Survey responses on personal effectiveness with design risk data 
+ 
+ 
+ Issues Impacting on Data Sharing: The survey identified several difficulties that may impact on a 
+company sharing design risk data. These include: 
+ 
+‒ Over-Complication: Design risk data needs to be as simple as possible and free from 
+unnecessary complexities. 
+‒ Arbitrary Scoring: Limiting the use of risk scores. These are often subjective and / or 
+produced without suitable rigour meaning they have limited value. 
+‒ Long descriptions: Risk descriptions should be simple and to the point. Many go into too 
+much detail that does not add value. 
+‒ Assumptions: Detailing assumptions linked to each risk also takes up space and does not add 
+value. 
+‒ Duplication: Including the same risk under slightly different scenarios. 
+
+35 
+Contains sensitive information 
+ 
+‒ Ownership: Clarity on who owns the risk and is accountable for its mitigation is seen as a 
+particularly important. 
+ 
+Survey participants identified that data needs to be simplified and standardised to align it with all 
+users and other industries. This includes the need for guidance. Respondents indicated that a 
+broader set of tools (which includes an audit format with agreed data fields and formats) would be a 
+significant incentive for their organisation to commit to changing how they currently capture and 
+share such data. 
+ 
+The survey allowed respondents to list the risk and treatment options that they most supported. 
+This was to identify priorities. For risk the favoured options related to ‘Likelihood’ and ‘Severity/ 
+Consequence’. For treatments this was ‘Type’, ‘Mitigation’ and ‘Status’. Clarity of ownership was 
+another distinct priority. This is to drive tasks to meaningful action. There was strong support for 
+aggregating design risk data and less support for standardisation (see Figure 11). There was also 
+strong support for semi-automated risk-treatment matching with low support for this being fully 
+automated. This indicates respondents recognise the importance of having oversight of the risk 
+treatments and that the process of risk-treatment matching has a medium to high level of difficulty. 
+ 
+Figure 11 - Survey responses on the value and possibility of design risk data aggregation and standardisation 
+ 
+ 
+The survey asked respondents about governance arrangements for data sharing and where 
+responsibility should sit. An independent third party was the most popular options (45%) followed 
+by industry self-regulation (38%). The least popular option was a government regulator (17%). The 
+survey, workshop and interviews all identified a clear hesitation about working with a regulator in 
+this area.  
+ 
+
+36 
+Contains sensitive information 
+ 
+ 
+5.3.3. Demonstrator 
+The creation of a live demonstrator was a key focus of the project. The ambition was to create a 
+benchmark tool which would enable industry to input data that could be assessed against a standard 
+data capturing format as seen in Table 5. It also provided the opportunity to test ways of overcoming 
+three key challenges - industry organisation and relationships, standardisation, and liability. 
+ 
+Figure 12 - Example screenshots of demonstrator 
+ 
+
+37 
+Contains sensitive information 
+ 
+ 
+ 
+ 
+ 
+
+38 
+Contains sensitive information 
+ 
+A 1-to-5 scale was used to rank the difficulty users had when mapping their source document to the 
+demonstrator fields - 1 being most easy and 5 being most difficult. The average value for all twelve 
+fields was 2.45 with the lowest score being 1 and the highest 4.2. 
+ 
+The average mapping difficulty for each individual demonstrator field is shown in Figure 133. They 
+can be judged against this baseline score. Some fields are known to be common throughout the 
+community, such as ‘Likelihood’ and ‘Severity / Consequence’. It is therefore unsurprising that they 
+had average mapping difficulty scores of 1.88 and 1.86, respectively. It should be noted that despite 
+their use appearing to be common, several critical comments were directed towards risk matrices 
+formed by using these two fields. The lowest score of 1.43 was for ‘Owner identified’. Again, this is 
+unsurprising as it is essentially a binary field. 
+ 
+Conversely the highest score of 3.13 was for the ‘Element type’ field. Many submissions took 
+advantage of the ability to select more than one option for multiple choice fields. It shows that 
+submitted entries often didn't fall neatly into one particular option. 
+ 
+These findings are interesting. They clearly highlight a preference in the industry around the basic 
+health and safety data requirements. However, these fields alone do not allow for greater insight. 
+This requires additional fields which allows for more filters, more insights and better connections 
+between clusters – creating links that before may not have been known.  
+ 
+ 
+Figure 13 - Average mapping difficulty for demonstrator fields 
+
+39 
+Contains sensitive information 
+ 
+Feedback revealed some additional things that participants would have liked to have seen: 
+‒ The content of the schema on vehicles, machinery, and also biological issues did not cover 
+the extent and granularity that some users wished.  
+‒ Expansion of other categories was also desired to cover a range of disparate activities from 
+traffic signalling to pumping, 
+‒ Further situation categories were requested such as temporary works and water-based 
+environments.  
+‒ Some users highlighted a desire for more situational issues where the main factors are not 
+so related to physical elements.  
+‒ Some mention was made of a need to better accommodate managerial, financial, and 
+environmental factors too, showing a misunderstanding of H&S risk registers. 
+ 
+Further insights were gained by examining the small cache of redacted risk registers provided to the 
+project. This allowed entries to be observed from an overarching perspective when compared to 
+those uploaded by online users. The latter may have suffered from selection bias or entry error.  
+ 
+It was not uncommon to have a number of missing fields for a given entry in many of these risk 
+registers. This indicates that these fields are either somewhat superfluous, difficult to complete or 
+lacking quality control. A tight end-to-end process should have most fields entered if the risk register 
+is designed well enough for a specific range of needs.  
+ 
+For completed information it was clear that a number of risk registers favoured having certain 
+information over multiple fields where the demonstrator had one. For example, some risk registers 
+had separate free text fields for ‘Event’, Cause’ and ‘Impact’ or had similar fields to that effect. In the 
+demonstrator approach these were all bundled together in the single free text field for ‘Risk 
+Description’.   
+ 
+Conversely, they also combined certain information within one where the demonstrator has 
+multiple fields. Certain risk registers had risk description fields that explicitly prompted the user to 
+insert details for aspects like location. This has its own independent field in the demonstrator. Only 
+one of the available risk registers had this. 
+ 
+The examination of complete risk registers showed ‘Likelihood’ and ‘Severity / Consequence’ 
+matched best in addition to free text fields of risk and treatment descriptions. This mirrors the 
+findings from the data uploaded to the online tool. These fields seem to provide the accepted base 
+case for what a risk register currently looks like.  
+ 
+Further in line with the findings from uploaded data, there was a noticeable disparity between some 
+of the prominent multiple choice demonstrator fields and the information in the available risk 
+registers. The ‘Designer Focus’ and ‘Construction Scope’ demonstrator fields had some degree of 
+matching with a few risk registers, but more so when the essence of the information was considered 
+rather than the exact options. The ‘Risk Category’, ‘Risk Factor’ and ‘Element Type’ demonstrator 
+fields were virtually unmatched across any of the available risk registers. 
+ 
+From the other perspective, it was clear that the community favoured certain aspects of information 
+that the demonstrator approach does not cater for at all – intentionally omitted, although it is 
+
+40 
+Contains sensitive information 
+ 
+available in the 3D Repo platform. A common theme throughout the available risk registers was a 
+sense of time progression, in terms of pre-treatment and post-treatment status, including residual 
+risk information. Other things that were seen include not only measures of a singular likelihood, but 
+rather estimations of worst-case, best-case and most-likely case scenarios.  
+ 
+All of these observations raise valid questions about both the type of content and the level of detail 
+needed in a standardised risk data schema, to provide a basis which is both rich and nuanced 
+enough to satisfy needs, without resorting to unrestrained free text in all fields. It is preferable to 
+keep as much as possible on such a quantised basis, given an appropriate level of flexibility, as this 
+has a number of benefits over free text. A user can then become well acquainted with the relevant 
+options for their specific area, and so more readily complete such a risk assessment than continually 
+striving for appropriate free text descriptions. 
+ 
+This in turn has the added benefit of being better understood by others, by ensuring that all users 
+subscribe to a common language. It is the chain of process and communication that forms the real 
+core of needs being addressed here, beyond simply recording the issues. Free text has its place as an 
+overview, but is highly dependent on the style of the author and can be subject to misinterpretation. 
+ 
+Furthermore, a controlled set of discrete options may also lend itself better to automated analysis 
+such as those available in 3D Repo. If applied to enough data from a large-scale data sharing scheme 
+over a period of time, it may be able to discern patterns that could lead to practical guidance on how 
+to steer practices for the better, with statistically apparent results. Such goals are paramount, being 
+the culmination of data, communication and action. 
+ 
+The project survey of existing risk registers indicates that the Discovering Safety data model (Table 5) 
+overlaps significantly but not perfectly with the information commonly captured in such registers. 
+Some revision and modification of the data model may help to increase its utility and ease adoption. 
+ 
+Table 6 - Overview of observations comparing risk register data, both received from the online tool and those in hand, to 
+the demonstrator approach developed for this project 
+Characteristic  Current Data Processes  The Demonstrator (Benchmark)  
+Risks are described using 
+standard terminology 
+The format of description of risks 
+varies very widely 
+Coded categories of risk are 
+standard, but a free text 
+description is permissible 
+Risks are described in specific 
+terms 
+The language of hazard and risk 
+is used interchangeably, risks are 
+often described in very general 
+terms 
+Assumes that a single risk is 
+capable of assessment with 
+likelihood and severity score 
+Risks are identified in a way that 
+eliminates or reduces 
+uncertainty about how these will 
+be managed by design 
+Variable Focuses on a level of granularity 
+which forces analysis and is 
+designed to reduce uncertainty 
+
+41 
+Contains sensitive information 
+ 
+Risks are described in context of 
+data such as location, product or 
+element and construction scope 
+The context, or direct 
+circumstances in which risk may 
+be eventuated is rarely described 
+Includes standard data points 
+which help define the risk 
+context 
+The designer focus in adding a 
+risk is clear i.e. component 
+specification, install construction, 
+operations, maintenance, 
+cleaning 
+This is sometimes the case Provides a menu of 16 categories 
+of designer focus to select from 
+The information is machine 
+readable and capable of 
+consistent interpretation 
+Variable Built with this end in mind, 
+including data points like ‘Risk 
+Factor’ which may appear 
+superfluous to human reasoning 
+Risks are identified in a way that 
+means they can be readily 
+accepted by a ‘Risk Owner’ and 
+actioned 
+This is normally the case Explicitly names a risk owner and 
+attributes the risk to a project 
+workflow 
+Risks are clearly linked to a ‘Risk 
+Treatment’ i.e. any action that 
+may be necessary to eliminate, 
+reduce, control or provide 
+information about the risk 
+This is sometimes the case Explicitly links a risk to a 
+treatment, and a workflow to 
+action this going forward 
+ 
+It was also found through observations and interviews that there was a benefit that can be achieved 
+through sharing data using a structure similar to that in the Demonstrator (Table 7). 
+ 
+Table 7 - Potential benefits of standardising and aggregating risk and treatment data 
+What’s the change? What’s the benefit? 
+Adoption of alphanumeric coding 
+and automated anonymisation of 
+key terms across the design 
+industry 
+Defuses any concerns about sharing project specific or commercial 
+in confidence data. Only coded and processed information will be 
+shared. 
+Standardisation of risk 
+descriptions 
+Ensures consistency of approach between task teams in a single 
+project, and then opens up the possibility of consistent 
+management of risks and treatments across projects and between 
+employers 
+Enables metrics and measures to be developed 
+Enables digital technologies to be implemented 
+Facilitates risk data sharing 
+
+42 
+Contains sensitive information 
+ 
+More specific descriptions of risk 
+in context 
+Enables risk to be managed in context of specific workflows and 
+visual scenarios to be developed for training and briefing 
+Opens up the possibility of machine assisted design processes, 
+where risk knowledge can be automatically prompted by 
+identification of a risk 
+Enables direct transfers of risks into treatment plans, where 
+through multiple project stages actions can be planned to manage 
+a residual risk in an optimal way 
+Facilitates early identification of temporary works or other 
+additional resources which may be required to manage risks 
+Aggregation of risks across 
+projects and employers 
+Enables feedback mechanisms to be developed so any one project 
+could compare a design risk profile against generalised data held in 
+common 
+Enables prioritisation of risks and economies of scale and 
+efficiencies and quality to be realised where many similar risks are 
+all being addressed 
+Opens up the possibility of cross industry cooperation in dealing 
+with common risks through standardised processes 
+Specific ownership of risk and 
+treatment workflows 
+Enhanced management of the more common risks that occur at 
+scale 
+Easier identification of exceptions where cross industry 
+collaboration might enhance treatment, or where specialist/expert 
+help may be required 
+ 
+5.3.4. Interviews  
+The one-to-one interviews yielded valuable feedback on the detail presented in the demonstrator, 
+survey findings and the overall project outcomes. In an effort to summarise the outcomes of both 
+the lessons learnt in the survey and interviews, eight core areas have been outlined which enable 
+the effective sharing of health and safety data, these are shown in Figure 14 
+Each area was explored during the interview phase. The 
+information gathered was combined with survey findings to 
+protect the anonymity of interviewees and are captured in 
+Table 8. 
+ 
+ 
+ 
+ 
+ 
+Figure 14 – Core areas of sharing H&S data 
+
+43 
+Contains sensitive information 
+ 
+Table 8 - Interview comments illustrating the eight core areas 
+Core Area Comments 
+Relationships 
+Contracts 
+Most 
+architects 
+and many 
+engineers 
+work in small 
+businesses, 
+where BIM is 
+not widely 
+used 
+Sharing 
+information 
+about our 
+wellbeing and 
+health and 
+safety should 
+be a given. The 
+concern is 
+what kind of 
+format it 
+needs to be 
+in? As a 
+designer I 
+should be 
+looking 
+actively to put 
+data into that. 
+The way we 
+organize the 
+industry 
+contractually 
+is a mess. It's 
+done to 
+minimize 
+commercial 
+risk rather 
+than for 
+safety 
+The 
+Construction 
+Industry is 
+not one 
+“thing”. It is 
+fragmented 
+and 
+compounde
+d by huge 
+variety in 
+size, 
+capability 
+and activity 
+of designers  
+“Need the last 
+100 metres of 
+communicatio
+n from office 
+to workforce” 
+This reflects 
+the 
+importance of 
+ensuring 
+information 
+chains are 
+complete. 
+Commercial 
+Value 
+Industry 
+lacks an 
+understandin
+g of the value 
+of design risk 
+data 
+There are no 
+metrics or 
+ways of 
+measuring 
+quality of 
+design risk 
+data 
+Industry has 
+large amounts 
+of data. This is 
+more 
+beneficial 
+when 
+aggregated 
+Every 
+designer 
+thinks their 
+design is 
+unique, but 
+it is not. We 
+need to 
+share risk 
+learning and 
+we need to 
+show the 
+cost. We 
+need to 
+show what 
+the redesign 
+impacts 
+would be on 
+the 
+steelwork 
+and the fire 
+strategy. 
+It is very 
+important for 
+young and 
+partly trained 
+architects that 
+they do 
+understand 
+risk 
+management 
+properly. I 
+think sharing 
+risk 
+information 
+could be a 
+benefit there. 
+Value of risk 
+management 
+Engineers or 
+designers fill 
+in bits of 
+paper for no 
+real reason - 
+other than 
+perhaps the 
+rather naive 
+view that it 
+I would like to 
+see designs 
+where each 
+RIBA stage has 
+a pot of risks 
+identified 
+which are 
+prioritised in 
+terms of how 
+It is important 
+to take 
+account of 
+contextual 
+information 
+relating to 
+risks. There 
+are 
+operational, 
+Reducing 
+risk is 
+obviously 
+beneficial, 
+but how are 
+you to justify 
+that as being 
+a 
+proportionat
+Risk 
+managements 
+needs to work 
+in practice, 
+not just satisfy 
+a quality 
+audit. There is 
+an importance 
+in separating 
+
+44 
+Contains sensitive information 
+ 
+will satisfy 
+HSE if they 
+get a knock 
+on the door 
+they will affect 
+the cost and 
+value of the 
+build. This 
+costs us 
+£1,000,000 up 
+or down 
+functional and 
+construction 
+issues that 
+have 
+commercial 
+program 
+impacts that 
+can affect 
+safety and 
+vice versa 
+e cost. There 
+is no 
+accepted 
+way of doing 
+it. 
+out the 
+significant 
+residual risks. 
+Security The industry 
+is risk averse 
+because of 
+the lack of 
+understandin
+g of security 
+protocols 
+I do have 
+experience of 
+sharing health 
+& safety risk 
+data, but it is a 
+sensitive 
+problem. 
+Anybody can 
+misuse your 
+data for their 
+own purposes. 
+Misinformatio
+n is a 
+significant 
+problem 
+“Weak 
+points” in 
+infrastructur
+e are 
+dangerous 
+to know 
+Aggregation 
+can create 
+new security 
+threats 
+Liability –Legal 
+Regulation 
+There is a 
+need for 
+mutual 
+respect. 
+Everyone 
+must give 
+and take 
+Collaboration 
+is very 
+important, 
+more than co-
+ordination. It 
+needs 
+professional 
+trust 
+There are two 
+reasons why 
+people may 
+be reluctant 
+to share 
+openly. One is 
+fear that poor 
+practise might 
+get to the 
+Regulator. 
+The other is 
+fear of getting 
+sued 
+somewhere 
+down the line 
+It should be 
+total 
+transparency 
+for health 
+and safety 
+information 
+in my 
+opinion. I 
+think there 
+should be no 
+secrets. 
+There may still 
+be some 
+mindsets that 
+would rather 
+control 
+information 
+and stop it 
+leaking out. 
+Companies 
+who haven't 
+got 
+particularly 
+good safety 
+performance 
+might not 
+want to share 
+data. 
+Data Quality It's pointless 
+separating 
+the risk 
+information 
+from the 
+contextual 
+information. 
+It goes hand 
+in hand, we 
+need one 
+with the 
+other. 
+I think a core 
+principle 
+should be 
+making sure 
+that the 
+information is 
+correctly 
+structured 
+with clear 
+rules on how 
+to achieve 
+that. 
+Data sharing 
+needs to start 
+early in the 
+project 
+process.  
+It seems 
+quite 
+progressive 
+to be talking 
+about 
+sharing data. 
+It's about 
+collection of 
+information 
+and creating 
+insights from 
+it, which I 
+You need to 
+know the 
+quality of 
+information 
+that you share 
+is correct. The 
+quality of 
+information 
+being shared 
+will be very 
+important. 
+Hopefully it 
+
+45 
+Contains sensitive information 
+ 
+Regional 
+context and 
+urban vs 
+rural, makes 
+a difference. 
+think could 
+be valuable. 
+has a minimal 
+amount of 
+subjectivity 
+around it. 
+Data Tools Record risks 
+against 
+designs in a 
+visual way. It 
+means you 
+actually get a 
+sense of how 
+design 
+decisions 
+have 
+improved 
+safety 
+The majority 
+of architects 
+work in small 
+businesses, 
+where BIM is 
+not widely 
+used. 
+I think the 
+challenge is a 
+lot of manual 
+manipulation 
+of data. A lot 
+of the systems 
+aren't 
+connected. 
+Imagine a 
+filter that 
+sorts 
+projects with 
+good 
+treatments, 
+then having 
+a quick scan 
+and going 
+OK, that one 
+looks like it 
+was 
+£100,000 to 
+implement 
+to save 10 
+million / 5 
+years let's 
+get in. 
+A risk that can 
+be tracked 
+throughout 
+the whole 
+development 
+of the design, 
+why aren't 
+you doing 
+something 
+about it? Why 
+haven't you 
+reduced it? 
+Data 
+Standardisatio
+n 
+I am starting 
+to work 
+towards 
+projects 
+being less 
+autonomous 
+in my own 
+company, 
+not 
+reinventing 
+the wheel 
+when you 
+are close 
+enough. 
+Definitely 
+worth 
+sharing risk 
+learning 
+within 
+companies. 
+I think the 
+really critical 
+bits of risk 
+treatment 
+information 
+are rarely 
+written down. 
+These are the 
+cost of 
+implementatio
+n and cost 
+reduction or 
+risk reductions 
+in a financial 
+sense. 
+My 
+preference 
+would be 
+having data 
+sharing tied 
+up, through 
+the 
+government 
+and the 
+building regs. 
+It should be 
+total 
+transparency 
+for health 
+and safety 
+information 
+in my 
+opinion. I 
+think there 
+should be no 
+secrets. 
+Any data 
+sharing needs 
+to take the 
+unusual into 
+account; from 
+tunnelling to, 
+restoring the 
+1700s 
+buildings. Pre-
+selected stuff 
+doesn't 
+necessarily fill 
+this gap. You 
+can give a 
+good guide, 
+but it can't 
+really drive it 
+down to 
+excellence. 
+Users of the 
+system need 
+to be able to 
+add their own 
+data 
+ 
+ 
+
+46 
+Contains sensitive information 
+ 
+6. Discussion 
+ 
+The project found clear agreement amongst workshops attendees and interviewees that data 
+sharing is a good idea. Sharing of data is happening in specific, limited initiatives across the industry 
+such as Collaborative Reporting for Safer Structures (CROSS UK) and the Designer’s Initiative on 
+Health and Safety (DIOHAS). These initiatives are effective but focus on specific user groups.  
+This project demonstrated that whilst data sharing is perceived to be a good idea, in practice 
+delivery is difficult. To look at this in more detail, this section discusses these difficulties under three 
+key headings, Benefits, Understanding and Governance. 
+ 
+6.1. Benefits 
+Benefits are what drive the purpose of any endeavour, without determining benefits, there are few 
+mechanisms to incentivise groups. This project recognised, in both the survey and interviews, that 
+there was a strong belief that there would be a benefit in sharing industry data, however, there were 
+few organisations willing to act on this belief. The possible reasons for this are explored later in the 
+discussion. The focus here is on how understanding the benefits can tackle this problem. The first 
+point to explore is how benefits at the societal (macro) level can be delivered by surfacing the 
+benefits at a project (micro) level. 
+ 
+6.1.1. Micro to Macro 
+A key problem is that the beneficiaries of data sharing are not always those who bear the costs. The 
+project notes that a short-term study is unable to tie into construction design projects/programmes 
+and demonstrate value throughout these longer timescale projects. For that reason, a good focus 
+would be for micro-level benefits to be derived at the project, programme and organisational levels. 
+This will link principles required to establish the data sharing endeavour at a macro-level and micro-
+level. This creates an incentive for an organisation to act for their own benefit without having to 
+focus too heavily on the wider economic value.  
+For example, to tackle organisation incentivisation, standardisation could be the initial focus. 
+Creating a standardised structure for an organisation to operate its design/construction H&S risks 
+will invariably provide greater insight: allowing the targeting of specialist knowledge; providing a 
+clear structure for insurance brokers and providing greater organisational assurance – reducing 
+costs. In this example, if multiple organisations standardised in the same way for their own benefit, 
+this would start to solve the national problem of how to provide a similar structure that everyone 
+can follow. 
+When considering how to tackle the organisational issues, it is important to make sure these tie to 
+the national problems, so that the solution can be appropriately scaled.  
+It should be noted that micro-incentives can be instilled through macro-levers, such as through 
+policy development. Negative incentives are usually the initial focus for incentivising groups. 
+However, whilst they are important, it is better to consider the positive, organisational incentives 
+first before turning to the industry levers.  
+
+47 
+Contains sensitive information 
+ 
+6.1.2. Connecting H&S to delivery efficiencies 
+Through the benefits work, it was only possible at this stage to focus on datasets that existed and 
+provided enough rigour to develop a conservative estimate of savings. However, the logic model 
+shows value far beyond that which has been proposed. In order to recognise this, clear links need to 
+be made between organisational/programmatic improvements similar to Paul O’Neill’s safety-first 
+approach as Alcoa’s CEO
+27
+. More of this type of work can help link infrastructure performance 
+improvements unlocking further savings beyond the projected reduced welfare spend on injuries. 
+In addition, once a solution has been confirmed, the benefits and associated incentives can be 
+determined, driving a more focused effort on the true economic value. 
+ 
+6.2. Understanding 
+Education is a cross-cutting theme for the findings which shows of a lack of awareness/knowledge of 
+the value of H&S, design risk management, data and data sharing. This lack of knowledge makes it 
+difficult to perceive value and take meaningful next steps. Trust in H&S risk data sharing, data 
+standards and organisational relationships are areas where awareness is needed. 
+ 
+6.2.1. Trust in H&S risk data sharing 
+The initial workshop and survey into data-sharing within the industry highlighted a number of 
+concerns acting as barriers to data-sharing, ranging from legal and compliance questions through to 
+concerns about ownership and governance. These findings suggest that decision-makers need both 
+education concerning the risks and benefits of H&S information-sharing, and support in assessing 
+these before they feel equipped to make decisions with confidence in this area. 
+A lack of clarity and resulting reluctance regarding data-sharing decisions is not unique to the 
+construction sector. In response to this persistent cross-sectoral challenge, the ODI has begun to 
+explore the feasibility and utility of a simple decision-tree online tool to address the fear, 
+uncertainty, and doubt often encountered in the preliminary stages of data-sharing between 
+organisations
+28
+. 
+It should be emphasised that the purpose of this tool is to raise discussion, debate, and awareness of 
+the issues potentially involved in information sharing, rather than to issue binary ‘yes’/’no’ 
+judgements about doing so; as such it is not a ‘magic bullet’ for managers. With content customised 
+to fit the needs of the construction industry, however, such a tool may provide a relatively low-cost 
+and low-maintenance way for organisations to assess and, ideally, begin to embrace data-sharing as 
+a practice, as well as to mitigate the risks attendant upon this. 
+ 
+6.2.2. Data standards and tools 
+The logic model identifies data standards as a single solution that enables both data analytics and 
+the creation of curated accessible H&S risk data; onward outputs from this then include useful data 
+ 
+27
+ https://www.forbes.com/sites/roddwagner/2019/01/22/have-we-learned-the-alcoa-keystone-habit-
+lesson/?sh=598fff8158ba  
+28
+ Prototype to help identify and manage risk when sharing data – The ODI 
+
+48 
+Contains sensitive information 
+ 
+on risks and mitigations, curated consistent interoperable data, and usable data insights. 
+Furthermore, the potential role of data standards in furnishing a solution to data sharing barriers is 
+well-understood within the industry: 72% of respondents to the survey felt that ‘an industry-wide 
+standardisation of design risk data would be valuable to [their] organisation’. Confidence in the 
+feasibility of such a solution was more muted; nevertheless, 63% of respondents believed ‘an 
+industry-wide standardisation of design risk data would be possible’, with 19% being uncertain. 
+Addressing such restrictions and variability are, however, part and parcel of the normal process of 
+standards development. PAS 1192-6 in 2018, the Discovering Safety programme and the 
+development of ISO 19650-6 are tackling the standardisation challenge. The PAS, a publicly available 
+specification in Britain, has developed the initial structure for detailing H&S risk data and DSP is 
+developing this further. The international standard, ISO 19650-6, is currently in development. This 
+international standard builds off PAS 1192-6 and DSP, consolidating experience into new 
+requirements and pushing this standard to an international community. 
+To add to this, companies like 3D Repo are implementing these standards as part of their wider 
+software offering, embedding H&S risk data sharing principles at the core of their offer
+29
+. However, 
+it seems the industry still needs to be made aware of these and the development of a guide would 
+be beneficial in precipitating widespread implementation of best practice from clients through to 
+appointed parties. 
+We recommend that the ISO 19650-6 standard under development incorporates these learnings and 
+promotes the adoption of this standard by organisations and, in particular, software vendors within 
+the sector. Such adoption will allow data collection to be standardised at point of entry - and hence 
+to be readily and meaningfully shared and reused as appropriate. Ongoing use in current H&S 
+systems will furthermore ensure that the information thus gathered remains current and relevant, 
+rather than being left as a historical exercise.  
+ 
+6.2.3. Organisational relationships  
+During the survey, participants expressed a clear preference to not share their data with HSE and 
+placed a government regulator as being the last group they would want as a data steward. Whilst 
+the industry perception is that the HSE’s remit is primarily to prosecute, it has a broader role “to 
+prevent work-related death, injury and ill health”. The industry focus should be on improving health 
+and safety performance in collaboration, including with the HSE. This will help to reduce accidents 
+across the sector and improve economic outputs. This may not involve sharing data with HSE, but it 
+will require co-operation and an improvement on the current approach. 
+The industry’s current method of project delivery involves a lot of information and responsibility 
+handover. This is true for H&S information also. As a result, the decision and actions made during a 
+project, including the information that is captured about them, impact whether an incident occurs or 
+not. Workshop participants may not be familiar with the new methods in which H&S risk data can be 
+used effectively. Therefore, their perceived effectiveness can only be as good as far as their 
+awareness extends. It should also be considered that there are negative connotations in admitting 
+any negligence. 
+ 
+29
+ https://3drepo.com/white-paper-digitising-health-and-safety/  
+
+49 
+Contains sensitive information 
+ 
+Currently, the industry is predominantly influenced by “guilt culture” dynamics – expecting 
+punishment for negligence. Whilst a weak positive dynamic exists in the form of keeping up the 
+public image, the industry needs to incorporate a more mature approach. This could move towards 
+internalising questions such as “Would I like to be injured myself? Are my actions and decisions 
+therefore appropriate?”. This can be embedded within the industry through education of ethics 
+(responsibilities/impact) in H&S risk management and promoting organisations to work better 
+together.  
+This presents a more general challenge identified with changing the culture of the construction 
+industry. It will be far more difficult than changing the culture within one organisation. There is a 
+collective challenge across a whole set of stakeholders, clients, designers and contractors.   
+ 
+6.3. Governance 
+Discussions with stakeholders failed to clearly identify a recommendation of who should undertake 
+any effort for sharing H&S risk data nationally in the long-term and how it should be funded, 
+supported and governed. This section looks to address this, noting that a single entity may not be 
+the answer. 
+ 
+6.3.1. Supporting bodies 
+Any entity that is created/re-purposed/appointed to undertake the development of this structure 
+can take solace in the fact that a number of areas requiring attention are already being tackled and 
+supported by different bodies across the industry. This entity can work together with the following 
+groups against their respective areas – this group will likely change with time: 
+ Security: Centre for Protected National Infrastructure. 
+ Standards and Guidance: UK BIM Framework, British Standards Institute, BIM4H&S and 
+International Organisation for Standardization (ISO). 
+ Benefits and approach: National Underground Asset Register. 
+ H&S risk data sharing & enabling tools: 3D Repo & Atkins (SafetiBase), Discovering Safety 
+Programme. 
+ Industry Knowledge: Construction Industry Advisory Committee (CONIAC) and Construction 
+Leadership Council (CLC). 
+ Industry engagement: Construction industry institutions (ICE, IET etc.). 
+ H&S Sharing: Collaborative Reporting for Safer Structures (CROSS UK) and the Designer’s 
+Initiative on Health and Safety (DIOHAS). 
+ Data Sharing principles: Open Data Institute. 
+ 
+6.3.2. Security 
+One of the most common risk mitigations for data sharing is the removal or masking of sensitive 
+information. The most common kind of information requiring such treatment is personal data, as 
+
+50 
+Contains sensitive information 
+ 
+defined by legislative instruments such as the General Data Protection Regulation. However, other 
+kinds of data – for example, security or commercially-sensitive data will often also require shielding 
+in the construction sector. 
+At a smaller scale, information-screening of this kind can normally be managed manually, with 
+sensitive data being removed prior to sharing. At a larger scale, however, the use of automated 
+techniques becomes necessary to ensure shielded data does not enter the common store. A wide 
+range of these techniques are available, with the precise technology and approach adopted 
+depending on need and feasibility. 
+Over the longer term, the construction industry as a whole will need to assess the range of 
+technologies available and their applicability to use-cases within this sector. The need for such an 
+evaluation is at present remote. Should the industry mature in its data sharing practices, however, 
+the potential for widespread and well-judged application of privacy-enhancing and other 
+technologies to improve H&S information sharing will be considerable. 
+ 
+6.3.3. Organisational framework 
+Given the complexity of the construction sector and the barriers and challenges identified by this 
+project, undertaking a national data sharing initiative would be difficult for the industry working in a 
+decentralised way and will therefore [arguably require] an organisation - or small group of 
+organisations.  
+In order to realise the benefits of sharing H&S risk data, a data institution
+30
+ could be designed to: 
+help develop the necessary infrastructure, including fostering the adoption of new standards and 
+technologies; act as an independent gatekeeper of sensitive H&S risk data contributed to it by 
+industry members; generate benchmarking and insights based on that data and distribute those 
+insights back to members; and, where appropriate, facilitate safe access to some of the data it 
+stewards, possibly to members of the industry, software vendors or to a regulator in order to 
+facilitate oversight while protecting sensitive information. 
+With a remit that benefits the sector, it becomes important to determine who should manage this 
+organisation (or collection of). Some of the factors influencing this decision will be: 
+ Perceived neutrality and trust of stewarding organisation. 
+ Independence of organisation from the various members of the ecosystem. 
+ Capabilities of the organisation. 
+ Securing long-term and industry-wide buy-in from members of the industry. 
+ Long-term sustainable resources, funding and revenue streams. 
+ Internal incentives aligned to reducing incidents and the collective economic burden. 
+ Instruments to mandate/incentivise the cooperation of industry organisations. 
+ 
+30
+ https://theodi.org/article/what-are-data-institutions-and-why-are-they-important/ 
+
+51 
+Contains sensitive information 
+ 
+The question of sustainability deserves particular emphasis and consideration because although the 
+benefits of H&S risk data-sharing to the industry as a whole are likely to be substantial, there is a 
+split between where the costs of collection, management and sharing are incurred and where its 
+benefits are realised.  
+Sharing H&S risk data for the greater benefit of the industry is a collective action problem. The 
+question of how to initiate collective action is a difficult one. One problem which surfaces is that of 
+the free rider, creating a “burden on a shared resource by use or overuse by people who aren't 
+paying their fair share for it or aren't paying anything at all”
+31
+. This is particularly a problem where 
+upfront costs to establish a collective system are significant. In the case of a data sharing vehicle set 
+up to benefit a wide range of users, the individual organisational benefits can be realised by 
+remaining passive, not sharing data, and waiting for other organisations to take the initiative – 
+creating individual value from no action. This is further complicated by those who are interested but 
+do not want to take the first step, waiting for others – to learn from their successes and mistakes. 
+Further work needs to be carried out to find out the most appropriate approach needed to realise 
+the benefits of data sharing.  
+There are existing data institutions to draw inspiration from and compare their approaches to the 
+use case of sharing H&S risk data across the construction industry. Some examples are explored 
+here. 
+Public-sector 
+DEFRA is an example of a regulator or government body performing the roles of data institution. For 
+instance, since 2015 large retailers in England have been required to report information to Defra 
+regarding the total number of single use carrier bags sold, the gross proceeds, any costs incurred and 
+the use of the net proceeds. Retailers can be fined if they don’t submit records on time. Data is 
+collected via an online survey tool which includes automatic calculations for some fields to assist the 
+retailers with entering data into the system. 
+In principle this example could transfer to health & safety provision in Construction. However, the 
+comparison and any potential application would need careful consideration. In the DEFRA example 
+above, a system was created to request data to monitor the effect of a policy to reduce carrier bag 
+use. HSE already operates a Fee for Intervention System which is designed to recover costs on the 
+“polluter pays” principle. However this system is focused on work carried out where a Material 
+Breach is detected, and only on a reactive basis.  
+The industry 
+It would also be possible for members of the construction industry to perform the roles of a data 
+institution. This could be done by a single organisation or a group of organisations working in 
+concert. For instance, an existing construction or design firm could take on the roles of developing 
+and maintaining standards and other infrastructure for the sector, acting as a gatekeeper for data 
+held by other organisations or facilitating safe access to data under restricted conditions. However, a 
+single firm would likely struggle to persuade competitors to take part in such an arrangement.  
+Alternatively, a group of organisations within the industry could use decentralised technologies and 
+distributed governance processes to enable collection, management analysis and access of H&S risk 
+data on terms that are suited to the group. In the pharmaceutical industry, for instance, a group of 
+ 
+31
+ https://www.investopedia.com/terms/f/free_rider_problem.asp  
+
+52 
+Contains sensitive information 
+ 
+ten pharmaceutical companies has joined together to form MELLODDY, a project that aims to 
+“enhance predictive Machine Learning models on decentralised data of 10 pharmaceutical 
+companies, without exposing proprietary information.” These types of decentralised approaches can 
+struggle, however, to achieve sustainability without significant support from members of the 
+industry and can, without appropriate forethought and stakeholder management, suffer from a lack 
+of direction. 
+An independent body 
+There are numerous relevant examples of independent third parties that perform the roles of a data 
+institution. These can be for profit or non-profit. HiLo is an example of an independent commercial 
+data institution which operates within the shipping industry and supports the sharing of safety and 
+accident data in the maritime sector. HiLo gathers data from shipping companies and analyses the 
+aggregated dataset in order to provide actionable benchmarks and meaningful insights back to its 
+members. Financially, HiLo receives subscription fees for its insight service but initially struggled to 
+attract new members, wrestling with trust issues due to being independent. As a group, rather than 
+delivering economic value for an industry, it focuses on delivering individual value for its subscribers 
+– its discretion being a function of its trust mechanism. 
+It should be noted that the industry has independent organisations such as CROSS UK and DIOHAS to 
+foster greater sharing of H&S learning between organisations. Whilst these organisations cater for 
+specific needs, perhaps they could serve a function of a wider H&S data sharing ecosystem.  
+In the survey we asked who should be put in charge of overseeing the aggregation of H&S risk data. 
+45% said an independent third party, 38% said the industry itself and 17% said a government 
+regulator. This suggests that there is an appetite within the industry for an independent third party, 
+however these results would need to be confirmed through further and more widespread 
+engagement with industry stakeholders. Indeed, an important next step should be working with 
+members of the construction industry to explore in greater depth the various technical and 
+institutional options outlined here in order to understand which are most suitable and acceptable 
+for the industry.  
+
+53 
+Contains sensitive information 
+ 
+7. Recommendations and Next Steps 
+ 
+Sharing H&S risk data is technically feasible and has merit. There are data standards that exist in the 
+industry already and there is demand in the community for data-sharing. There is work needed to 
+develop an organisation that can help the industry share its H&S risk data. Some initial activities can 
+help to improve the success of this organisation, these include: 
+Benefits:  
+ Economics study: Quantify the benefits to businesses in better H&S risk data management. 
+ Economics study: Further explore the other areas of potential benefits, testing the logic 
+model developed in this project. 
+Understanding:  
+ Seminars/Papers/Training: Highlight the value of H&S risk management in project delivery. 
+ Develop a guide: Detail best-practice and standards for H&S risk data management via the 
+UK BIM Framework or equivalent body. 
+Governance: 
+ Identify the remit: Explore the purpose of this vehicle, highlighting what is in scope. 
+ Funding plan: Determine a funding plan linked to long-term revenue streams, ensuring 
+alignment between funder requirements/incentives and organisational incentives. 
+  
+
+54 
+Contains sensitive information 
+ 
+8. Acknowledgements 
+ 
+List of Organisations who contributed to the benefit mapping for the project: 
+ 
+Atkins 
+BEIS 
+Bodvoc Ltd 
+Cambridge Centre for Smart Infrastructure and Construction 
+Centre for Digital Built Britain 
+CROSS 
+DHLUC 
+Fladgate 
+Get it Right Initiative (GEIRI) 
+HSE 
+Infrastructure Projects Authority 
+ODI 
+Reputation Dividend 
+RPC 
+RSA 
+Sir Robert McAlpine 
+Watch me Think 
+List of Organisations who contributed to the workshops and survey (please note that only the 
+organisations who have consented to being credited are listed): 
+3D Repo Ltd. 
+AEC3 UK Ltd. 
+Alford Hall Monaghan Morris Architects Ltd. 
+Arcadis UK Ltd. 
+Argent (Property Development) Services LLP 
+Arup Group Ltd. 
+Binnies UK Ltd. 
+Bourne Group Ltd. 
+Capita Ltd. 
+Construction Clients Leadership Group Ltd. 
+Geospatial Commission - Cabinet Office 
+Heathrow Airport Ltd. 
+Jacobs Engineering Group Inc. 
+Kier Highways Ltd. 
+Lloyd's Register Foundation 
+Mott MacDonald Ltd. 
+National Highways 
+Safety Schemes in Procurement (SSIP) Ltd. 
+Smart DCC Ltd. 
+Telent Technology Services Ltd. 
+  
+
+55 
+Contains sensitive information 
+ 
+9. Appendices 
+ 
+9.1. Appendix A:  Additional survey data 
+ 
+Current practices 
+ The majority of respondents indicated that their organisation’s current approach to 
+recording risk information was at least average to good (1 = Terrible, 5 = Excellent) 
+ 
+ This risk information is most often collected by a combination of free text and drop-down 
+menus, or free text alone 
+ The majority (66%) of respondents’ organisations use spreadsheets to track risk data 
+ 
+ 48% of respondents find their current process easy to use, 48% sometimes find it easy to use 
+and 4% don’t find it easy to use at all 
+
+56 
+Contains sensitive information 
+ 
+ Respondents listed the following when asked about incentives or obligations that their 
+organisation would need in order to change its current approach to the way that design risks 
+and treatments are recorded: 
+o Removal of complexity 
+o Industry guidance/standardisation 
+o Alignment of approach with other industries 
+o Better tools 
+o More effective audits 
+o Demonstrable benefits 
+o Early buy-in 
+ 
+Risk fields 
+ Respondents listed the following when asked about fields in design risk data which were 
+deemed required: 
+ Likelihood 
+ Severity 
+ Consequence 
+ Risk identifier 
+ Risk/accountable owner 
+ Respondents listed the following when asked about fields in design risk data which were 
+deemed useful but not required: 
+ Further information on risk 
+ Project stage 
+ Several other different and unique responses, indicating less agreement on what is 
+useful rather than essential when it comes to design risks 
+ Respondents listed the following when asked about fields in design risk data which were 
+deemed as causing confusion: 
+ Overcomplicated quantification 
+ Long descriptions of causes 
+ Arbitrary scoring systems 
+ Duplication 
+ 
+Treatment fields 
+ Respondents listed the following when asked about fields in treatment data which were 
+deemed required: 
+ Type 
+ Mitigation 
+ Status 
+ Owner 
+ Risk level 
+ Respondents listed the following when asked about fields in treatment data which were 
+deemed useful but not required: 
+
+57 
+Contains sensitive information 
+ 
+ Residual risk information 
+ Assumptions 
+ Outcome 
+ As with risk fields, there was little consensus with this question as opposed to the 
+previous one on the essential fields 
+ Respondents listed the following when asked about fields in treatment data which were 
+deemed as causing confusion: 
+ Overcomplicated quantification 
+ Long descriptions of mitigations 
+ Lack of clarity on ownership 
+ Duplication 
+ When asked if the separation of risk information from other general non-contextual project 
+information was essential, useful or not necessary, the majority (80%) responded that it was 
+either essential or useful 
+ 
+Standardisation 
+ When asked if their organisation finds industry-wide standards valuable, the majority (72%) 
+responded with ‘Yes’, 19% said ‘No’ and the remainder did not know 
+ 63% of respondents think industry-wide standardisation of design risk data would be 
+possible, 19% thought it would not be possible and the remaining 19% did not know 
+ Respondents listed the following when asked about incentives or obligations that their 
+organisation would need in order to adopt industry-wide design risk data standards: 
+ Clear identification of best practice 
+ Guidance 
+ Elaboration of the benefits 
+ Better recognition in the industry 
+ 
+ 
+ 
+
+58 
+Contains sensitive information 
+ 
+Aggregation 
+ A high majority of respondents indicated aggregation of design risk data would be valuable 
+to their organisation
+ 
+ A similarly high majority of respondents indicated that the aggregation of design risk data 
+would be possible
+ 
+ 90% of respondents stated that analysis of aggregated design risk and treatment data could 
+lead to valuable capabilities, only 1 respondent (2%) said no it would not lead to valuable 
+capabilities, the remainder responded that they didn’t know 
+ When asked about who respondents would feel most comfortable overseeing this process, 
+45% said an independent third party, 38% said the industry itself and 17% said a government 
+regulator 
+ Respondents listed the following when asked about what assurances they would need to 
+participate in a data aggregation scheme: 
+o Confidentiality 
+o Anonymous data submission (i.e. can’t be tracked to the submitting organisation) 
+o Terms of reference 
+o An overseeing body 
+ Respondents listed the following when asked about what would need to be implemented to 
+be confident in aggregated data being analysed: 
+
+59 
+Contains sensitive information 
+ 
+o Industry acceptance/endorsement 
+o Defined permission levels 
+o Uniform collection format 
+ 
+Matching risks to treatments 
+ 72% of respondents indicated matching design risks to treatments would be useful, 9% 
+indicated it would not be useful and 19% did not know 
+ The majority of respondents indicated that they believed this kind of matching to be 
+moderately difficult (1 = Very easy, 5 = Very difficult) 
+ 
+ 72% of respondents indicated that they believed this matching could be done in a semi-
+automated way, 13% indicated that it could be fully automated, 10% indicated that it could 
+only be done manually and the remainder did not know 
+ Current approaches of matching design risks to treatments is seen as either below average 
+or slightly above average on the whole (1 = Terrible, 5 = Excellent) 
+ 

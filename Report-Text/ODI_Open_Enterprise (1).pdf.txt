@@ -1,0 +1,677 @@
+
+
+Open 
+enterprise:
+how three big
+businesses
+create value
+with open
+innovation
+Open Data InstituteODI-WP-2016-005
+
+2 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Table of contents 
+Executive summary 3
+Introduction                                                                                                          5
+Case studies 7
+Thomson Reuters’ data services go open 7
+Arup builds a network of open innovators 12
+Syngenta supports sustainability with open data 16
+Meeting business challenges with open approaches 19
+Third-party data: when and how to use it 19
+Maintaining leadership in competitive data markets 20
+Keeping costs low for the business and for customers 20
+Staying agile in shifting environments 21
+Collaborating with clients and competitors to address big challenges 22
+Big businesses can be big open businesses 23
+Appendices                                                                                                         24
+
+3 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Executive summary
+As  businesses  get  bigger,  staying  innovative  and  agile  is  challenging.  This  report  explores  
+three industry-leading enterprises that have embraced an open approach – open source, open 
+standards, open data, open innovation – to help retain their competitive edge. 
+“We’re becoming an open platform for our customers, a core piece of their operating 
+infrastructure.”
+– Tim Baker, Global Head of Content Strategy and Innovation, Thomson Reuters
+The three multinationals featured in this report are proving that ‘being open’ is about more than 
+just taking advantage of data made open by governments, other businesses and community 
+groups. These companies have adopted an open approach to keep pace with change, adapt 
+to new markets and influence whole sectors. In effect, they are becoming porous – using an 
+open approach as a mechanism to improve their services, take advantage of new ideas and 
+opportunities, and grow and collaborate more with their networks.
+Thomson Reuters, Arup and Syngenta are embedding open principles into their operations 
+to  gain  competitive  advantage.  All  three  are  large-scale  consumers  of  data,  and  sell  data-
+based products. Today, the market for data – data itself, data services and platforms, and data 
+analytics – is hyper competitive. Big businesses in every sector are asking themselves how 
+they can use data more effectively to improve their operations. For Thomson Reuters, Arup 
+and Syngenta, being open has become crucial for overcoming the challenges that many big 
+businesses face:
+ reusing third-party sources of data to drive internal decision making and create 
+new competitive products and services
+ maintaining a leadership position in increasingly competitive markets
+ keeping costs low for the business and for customers and partners they work with 
+ staying agile and ready to evolve as the environment they operate in changes
+ collaborating with clients, and even competitors, to tackle sector-wide challenges
+Each of these businesses has addressed these kinds of challenges in a different way.
+Thomson  Reuters  has  taken  what  started  as  an  internal  data  management  solution  and  
+created a new, collaborative information platform providing open data that anyone can 
+access,  use  and  share.  The  team  took  this  approach  to  improve  client  relationships,  the  
+quality of their data and uptake of their existing products.
+
+4 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Arup  has  created  and  connected  with  an  ecosystem  of  open  innovators.  Backed  by  a  
+compelling business model, the team is reducing transactional friction between their customers’ 
+challenges  and  their  teams’  ability  to  address  them,  through  a  porous  data  supply-chain.   
+This has led to new products and new ways of working, and saved them time and money.
+Syngenta started off publishing open data to increase transparency but soon realised that 
+it could help them shift to a more open, or networked, approach to operating. The team 
+are determined to capitalise on the new relationships that this will create.
+Each  has  used  an  open  approach  as  a  mechanism  to  retain  competitive  advantage. 
+Whether by publishing open data or building an open ecosystem, they are developing trust, 
+creating networks and nurturing fertile ground for future innovation.
+
+5 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Introduction
+In  our  networked  economies,  taking  an  open  approach  has  become  key  to  maintaining  a  
+competitive  advantage.
+1
+ The success of a company relies on having collaborative and fluid 
+relationships with their partners, customers and even competitors. Whether it’s through open 
+data,
+2
+ open source,
+3
+ open innovation,
+4
+ or a combination of them all, taking an open approach 
+enables that collaboration.
+In  early  2015  we  published  ‘Open  data  means  business,’  a  report  that  highlighted  270  
+companies across the UK that used, produced or invested in open data – data that anyone can 
+access, use and share.
+5
+ It showed that open data is being used to create innovative products 
+and services in a number of different sectors, adding to the growing body of evidence that 
+demonstrates the economic impact of open data.
+6
+Interestingly,  the  study  demonstrated  that  the  companies  making  use  of  open  data  are  not  
+all trendy startups. Nearly 10% of the open data companies we identified had 251 or more 
+employees.  We  wanted  to  investigate  how  and  why  these  organisations  were  working  with  
+open  data.  Detailed  case  studies  of  three  big  businesses  –  Thomson  Reuters,  Arup  and 
+Syngenta – form the majority of this report.
+1 Wardley,  S.  (2013)  Openness  vs  Strategy.  [Blog]  Bits  or  pieces?  Available  at:  http://blog.gardeviance.org/2013/02/
+openness-vs-strategy.html. [Accessed 2016-03-08].
+2 Open Data Institute, (2014) What is open data? [Online] Available at: https://theodi.org/what-is-open-data. [Accessed 2016-
+03-08].
+3 Noyes, K., (2011) 10 Reasons Open Source Is Good for Business [Blog] PC World. Available at: http://www.pcworld.com/
+article/209891/10_reasons_open_source_is_good_for_business.html. [Accessed 2016-03-08].
+4 Gemuenden, H. G., Rohrbeck, R., and Hölzle, K. (2009) How Deutsche Telekom Creates an Open Innovation Ecosystem. 
+R&D Management, [online] Volume 39(4), pp. 420–430. Available at: https://www.researchgate.net/publication/200044964_
+How_Deutsche_Telekom_Creates_an_Open_Innovation_Ecosystem. [Accessed 2016-03-08].
+5 Open Data Institute, (2015) Open data means business: UK innovation across sectors and regions. [Online] Available at: 
+http://theodi.org/open-data-means-business. [Accessed 2016-03-08].
+6 Tennison, J. (2015) The economic impact of open data: what do we already know? [Blog] Huffington Post Tech. Available 
+at: http://www.huffingtonpost.co.uk/jeni-tennison/economic-impact-of-open-data_b_8434234.html. [Accessed 2016-03-08].
+
+6 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Embracing open innovation: what’s in it for big businesses?
+It comes as no surprise that big businesses take advantage of open data from government 
+and elsewhere. For commercial organisations, using open data provides additional insight at 
+limited cost. Whether it’s to help choose where to put a new store, or to create an analytical 
+product for customers, there are clear advantages for businesses to use whatever data they 
+can find. There are clear parallels between the increasing use of open data and the growing 
+adoption  of  open  source  software.  Both  provide  a  cost-effective  and  increasingly  trusted 
+alternative to proprietary sources.
+But nearly all businesses have treated the data they generate themselves as an asset to be 
+closely guarded and released only to those prepared to pay for it, if at all. In some cases this 
+careful handling is justified: for example, the sharing of personal data is limited by law. It’s 
+only now that some of the UK’s market-leading enterprises are releasing their own open data. 
+These companies have found that making some of their valuable data assets available – not 
+just  at  no  cost,  but  with  permissive  licences  that  allow  the  data  to  be  accessed,  used  and  
+shared by anyone – can reduce friction in trade with others, increase their market reach and 
+build commercial resilience in the long-term.
+Open  data  is  just  one  strand  of  a  more  open  approach  to  innovation.  As  they  seek  to  gain  
+a competitive advantage, big businesses are trying to be faster-moving, more adaptive and 
+more disruptive. They have adopted a more open approach to external ideas and technologies 
+as well. They are becoming porous organisations.
+By  examining  the  actions  and  motivations  of  Thomson  Reuters,  Arup  and  Syngenta  we 
+have  found  these  three  large  businesses  are  seeking  competitive  advantage  in  a  changing  
+environment through strategically adopting an open approach. Some make use of open data, 
+some publish it, but for each it forms a significant part of their open approaches to innovation.
+
+7 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Case studies
+Thomson Reuters’ data services go open
+Thomson Reuters is a multinational organisation that provides  news  and  information  to  
+industry  professionals.  The  company  offers  a  wide  range  of  services  –  primarily  around 
+information and data – in areas including finance and risk, law, tax and accounting, intellectual 
+property and science. Thomson Reuters reported $12.2bn in revenue in 2015.
+7
+Thomson Reuters was formed through Thomson Corporation’s merger with Reuters Group in 
+2008 and has since continued to grow, in part through acquisition. But as with any company 
+that  has  evolved  in  this  way,  there  can  be  challenges  in  integrating  legacy  data  resources  
+and systems.
+In order to tackle this challenge, Thomson Reuters took an innovative linked data approach 
+which  allowed  it  to  join  up  its  specialised  data  assets  without  having  to  migrate  them  to  a  
+single  database  or  data  warehouse.  It  began  by  establishing  central  data  ‘authorities’  to  
+ensure  that  key  entity  data  (such  as  organisations  and  people)  was  only  mastered  once.  
+Each of these entities was assigned a Permanent Identifier (PermID). Each PermID provided 
+a unique reference point for a single entity – for example, Thomson Reuters Corp itself has a 
+PermID of 4295861160. The concept of permanence meant the PermID, and its relationship 
+to a specific entity, would not change over time. Existing databases were “re-mastered” by 
+adding PermIDs alongside legacy identifiers, with a view to ultimately replace them altogether. 
+PermIDs were also used to uniquely identify other information objects such as news articles, 
+deals and corporate actions.
+Demand for the PermID approach
+Thomson  Reuters  is  no  stranger  to  helping  its  customers  with  their  data  management 
+challenges, having managed the RIC system for financial instrument identification for many 
+years. The team therefore recognised that the work they were doing internally with PermID had 
+broader applications. Not only were new internal products and services created, but Thomson 
+Reuters was approached directly by clients who used its products and wanted to integrate 
+them with their own data.
+7 Thomson Reuters, (2016) About Thomson Reuters. [Online] Available at: http://thomsonreuters.com/en/about-us.
+html. [Accessed 2016-03-08].
+
+8 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Like Thomson Reuters, these clients wanted to join up their own data holdings for internal use 
+and provide consistent and interoperable data products and services to their clients. As Wilbur 
+Swan, Head of Enterprise Metadata Services, puts it, data siloing issues were not unique to 
+Thomson Reuters, but “a problem shared by all our clients”.
+Thomson  Reuters  “knew  [it]  had  in  PermID  a  solution  to  wider  industry  problems”,  says 
+Tim Baker, Global Head of Content Strategy and Innovation. And as Dan Bennett, Head of 
+Enterprise Data Services, explains:
+“We  believe  that  this  is  the  right  thing  for  our  customers  because  our  customers  are  
+asking for it. And, in a very broad sense, when you do what’s good for your customers 
+it’s generally good for you.”
+While providing access to the PermID system can help customers with their own internal data 
+silo issues, Tim Baker sees the benefit for Thomson Reuters in “making [its] data much easier 
+to use, which in turn makes it more accessible, more cost effective, and hopefully more widely 
+used by [its] customers as a result”. By providing the tools to integrate its data products and 
+internal client data, Thomson Reuters saw a clear business opportunity.
+The case for opening up PermID
+Thomson Reuters then had to decide how to expose PermID to its customers. Past experience 
+has taught the industry that releasing proprietary identifiers with restrictive licensing conditions 
+can create significant problems. One key issue is reusers’ inability to expose these proprietary 
+identifiers to their own clients, and even to other departments within their business, in some 
+cases. This has made people approach new proprietary identifiers with caution.
+Thomson  Reuters  realised  that  the  only  way  customers  would  embrace  and  be  able  to  
+recognise the full potential of PermID was if it took a radically different approach – an open 
+approach.  Thomson  Reuters  and  the  Open  Data  Institute  (ODI)  had  already  explored  the 
+importance of identifiers in such an approach, in an earlier white paper which laid some of the 
+groundwork for PermID.
+8
+ “All we’re trying to do is make it easier for our customers to work 
+with us,” explains Dan Bennett. “Only through making it open data was it actually going to 
+be a reasonable experience for our customers.” Dan Meisner, Head of Capability for Open 
+Data, agrees: “For our customers, it’s that commitment to openness of the identifier and of  
+the information model that‘s important.”
+8 Open Data Institute and Thomson Reuters (2014) Creating value with identifiers in an open data world.  [Online]  
+Available at: http://theodi.org/guides/data-identifiers-white-paper. [Accessed 2016-03-08].
+
+9 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Making a commercial case for open
+While  it  was  clear  that  allowing  anyone  to  access,  use  or  share  the  data  was  the  only  way  
+to fully recognise the potential benefits of PermID, being a commercial organisation meant 
+that Thomson Reuters had to justify this decision internally. This can be challenging, because 
+“customers see an awful lot of value in this but commercially it’s not easy to put a value on,” 
+notes Dan Bennett. “The benefits from this to us are mainly tangential,” he adds. The issue is, 
+as Dan Meisner puts it, that these indirect benefits and network effects “don’t really fit very 
+well into an Excel model for calculating your internal rate of return”.
+Ultimately the financial case was made, as Dan Bennett explains:
+“We don’t exist to make money out of issuing those identifiers. We create those identifiers 
+because it’s important to our internal data model. The reality is that we have this data 
+and are managing it anyway, so the incremental cost for us to expose it externally is not 
+that great in the grand scheme of things.”
+As  such  Thomson  Reuters  decided  to  publish  a  subset  of  its  data,  including  associated 
+PermIDs, under an open Creative Commons licence (CC-BY 4.0). An extended set of fields 
+offering further descriptions of the entities in question has been released under a Creative 
+Commons non-commercial licence (CC-NC 3.0). They launched this service as Open PermID 
+in 2015,
+9
+ achieving an ODI Open Data Certificate in the process of release.
+10
+Unlocking benefits to PermID itself
+The  benefits  of  providing  this  data  openly  are  not  limited  to  customers.  In  addition  to  
+recognising the indirect financial benefits of increased data use, Thomson Reuters expects 
+open licensing will benefit the data itself. Because the data is open, Thomson Reuters can 
+gain valuable external feedback not only from clients but also from others who choose to use 
+the  data  because  they  all  have  a  vested  interest  in  its  accuracy.  “It’s  a  bit  like  open  source  
+software,” says Dan Bennett, “... which is generally thought to be more secure because you 
+have more eyes on it. In the same way, having more eyes on our data will make it gradually 
+stronger and richer.”
+9 See https://permid.org.
+10 See https://certificates.theodi.org/en/datasets/24563/certificate.
+
+10 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Not only does the company expect opening the data will improve its accuracy but, because 
+linked data is used, when others link their own external open data sources to the PermID data, 
+it enriches and increases the value of the Thomson Reuters data without additional effort.
+Unlocking PermID also opens up new solutions for Thomson Reuters to sell. These include 
+Thomson Reuters Intelligent Tagging which uses PermID when tagging unstructured data, 
+helping organisations to enhance the value of their content sets.
+Securing a future through an open approach
+Regardless  of  any  related  commercial  opportunities,  in  making  the  decision  to  release  
+PermID under an open licence, Thomson Reuters is looking well beyond immediate costs 
+and benefits. The company fundamentally sees the release as part of a long-term strategy 
+responding  to  emerging  trends  and  challenges  in  the  industry.  One  of  the  main  trends  
+concerning Thomson Reuters is that “in many ways, we’re in a post-scarcity world for data,” 
+explains Dan Meisner. Thomson Reuters is keenly aware that the proliferation of data has a 
+significant effect. Tim Baker says “as a company, we’ve realised that customers want to use 
+data from more and more sources. There’s no value to them in a ‘one-size-fits-all’ approach to 
+the data they use.” Dan Meisner agrees:
+“Customers  are  grabbing  data  from  different  parts  of  their  own  businesses  [and] 
+they’re looking at open data from government sources and elsewhere. The high-quality 
+professional reference data that is our bread and butter is not becoming less important, 
+but it’s becoming less of an overall component of our clients’ enterprise data inventory.”
+In the face of these changes, which Dan Meisner describes as “moving towards a networked 
+data economy”, Thomson Reuters sees its role as an actor that can “help the industry take this 
+wealth of data and make it actionable information”. The company believes it is well positioned 
+to do this because of its existing expertise in data integration. As Tim Baker puts it:
+“In the past, there was a lot of value in the way data companies acquired, organised 
+and presented information for their clients. And to an extent there always will be, but the 
+real value now lies in the underlying data models, the naming mechanisms and the tools 
+used to extract meaning from and link data. This is where our customers are looking for 
+us to help them, and we’ve been reshaping our business to meet this need.”
+
+11 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Thomson Reuters believes PermID forms a key part of this value proposition and that the timing 
+of its release is also key.
+11
+ “I think there’s a sense that if we don’t do it, somebody else might,” 
+explains Dan Meisner. Having witnessed the rise of platform firms across the tech sector, the 
+company is determined to experiment and emulate the model. Dan Meisner explains:
+“Increasing amounts of open data are being published, and we’re making the investment 
+to  be  a  foundational  part  of  this  future  ecosystem.  The  basic  idea  is  that  just  as  this  
+has helped us connect data from around our own organisation, it should then help our 
+customers, our partners, and maybe even our competitors do the same with their data, 
+and plug that into our organisation, our platform.”
+By positioning itself in this way, Thomson Reuters believes it can cement its position in the 
+information industry for the foreseeable future. “The environment our customers operate in has 
+fundamentally changed, and we have evolved our business model to suit,” says Tim Baker. 
+“We’re  becoming  an  open  platform  for  our  customers,  a  core  piece  of  their  operating  
+infrastructure.”
+Open for business
+Thomson Reuters has taken this approach not only to help its clients integrate their data but 
+also to help them, and others, to better manage internal data. The company believes making 
+it easier for customers to integrate Thomson Reuters data will increase its value and usage. In 
+addition, by combining open data with stable identifiers, it gives clients freedom to experiment, 
+link their own open or proprietary data and provide feedback on the identifier system, all of 
+which makes PermID a stronger offering – both internally and externally. Thomson Reuters is 
+also well positioned to create a platform based on its data and information model, becoming a 
+central component in a future ecosystem. By embracing linked open data, Thomson Reuters 
+is creating a competitive advantage in paving the way to build new products and generate new 
+business models – both now and in the future.
+11 Fletcher, A. (2015) Thomson Reuters: ‘Open is the new normal’. [Blog] Available at: http://theodi.org/blog/thomson-
+reuters-generation-open-new-normal. [Accessed 2016-03-08].
+
+12 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Arup builds a network of open innovators
+Arup is a multinational  professional services  firm  that provides  design,  engineering  and  
+consulting services for the built environment. It has around 11,000 employees and had a 
+turnover of £1.05bn in 2014.
+Using open data
+Arup has long used publicly available data from a number of sources, including the Office 
+for National Statistics (ONS). Its Digital Insight team makes use of ONS demographic data in 
+urban planning and design projects as well as environmental statements and assessments. 
+It also uses publicly available geospatial data to derive location-based insight for its clients. 
+For example, its Hazard Owl risk information system uses real-time environmental data to 
+constantly assess the risk of damage to commercial assets, such as office buildings or factories.
+The use of open data is becoming increasingly common across the large number of projects 
+the company works on at any given time. As Damien McCloud, Digital Insight Leader, explains:
+“We increasingly and always have had a need for third-party data. Clearly the emergence 
+of  open  data  is  now  getting  to  a  point  where  the  availability  and  reliability  of  that  will  
+impact on how we work as a firm globally.”
+This impact is well demonstrated by Arup’s use of open data in combination with open source 
+software in its built environment projects. For example, in sandscaping – the management of 
+sand to support coastal protection or regeneration – Arup developed an open source system 
+that ingests demographic, environmental and geospatial open data to help users locate the 
+best areas for sandscaping and analyse project impact.
+Finding new ways of collaborating
+Alongside  the  use  of  open  data,  a  key  aspect  of  Arup’s  increasingly  open  approach  to   
+innovation is the way in which it partners closely with open data startups. Traditionally, Arup 
+would  complete  its  research  and  development  (R&D)  in  house  in  order  to  develop  new 
+commercial services or improve existing ones, sometimes working with academia and other 
+groups. The firm is now shifting to a more open, collaborative approach, in which it experiments 
+more with external ideas as well as internal ones, and different paths to market. It is currently 
+working in this way with two open data startups previously incubated at the ODI, Mastodon C 
+and OpenSensors.
+
+13 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Mastodon  C  is  a  specialist  big  data  company.  It  provides  data  science  and  technology   
+services  to  a  range  of  different  organisations  to  help  them  better  understand  and  gain 
+insights from their data. In a recent project for one of Arup’s clients, it used its data science 
+expertise to help Arup quickly derive commercial insight from vast amounts of data related to  
+airport infrastructure.
+A  fellow  graduate  of  the  ODI  Startup  programme,
+12
+  OpenSensors  is  an  online  platform  that  
+enables anyone to publish real-time sensor data. As well as enabling users to better manage 
+their own closed data, the platform is building a repository of open data that can be accessed, 
+used and shared by anyone. Arup first worked with OpenSensors to install 200 sensors across 
+its own London offices. The purpose of the installation was to help Arup take a hands-on 
+approach to Internet of Things (IoT) research that could be scaled up quickly and effectively. 
+Arup is now looking to work together with the two startups on further commercial work, such 
+as the creation of a new asset monitoring platform.
+Absorbing new ideas, technologies and data
+The  prime  motivation  for  adopting  this  approach  to  open  innovation  and  becoming  a   
+‘porous organisation’ is the realisation that rapid, disruptive change is unlikely to come solely 
+from within. Large organisations like Arup will have to quickly absorb new ideas, technologies 
+and data in order to remain competitive over the long-term. Volker Buscher, Director, Arup 
+Digital, explains how:
+“We think there are domains that would benefit not just from open data but an open 
+innovation  process.  It’s  not  just  data,  it’s  also  open  source  in  terms  of  code  or  the  
+development of other digital assets.
+“I  can’t  see  an  end  to  digital  disruption  rolling  into  our  industry.  The  idea  that  we  will  
+have all the experts in house is unrealistic.”
+Beyond direct project work, this approach has the potential for wider, long-term impact across 
+the  business.  Working  with  startups  in  this  way  means  new  ideas  are  injected  into  Arup’s  
+values, principles and policies. This is particularly relevant to the ethical considerations to be 
+made around the use, reuse and sharing of data. Working this closely enables both sides to 
+shape the other’s thinking.
+12 See http://theodi.org/current-start-ups.
+
+14 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+An experimental approach – where targets are often more loosely defined, with fewer concrete 
+objectives  or  plans  –  requires  an  attitude  to  licensing  and  Intellectual  Property  (IP)  that  is  
+different to that taken by most large organisations. According to Volker Buscher, this attitude 
+is particularly likely to be shared by startups incubated at the ODI:
+“Open innovation frameworks and the use of Apache licensing for code development 
+and sharing is really attractive to both sides. It allows us to create IP without having to 
+have complex legal agreements, lawyers, and background and foreground IP discussion 
+that just slows everything down in this new world.
+“What I found is that startups coming out of the ODI already have that understanding in 
+their fabric. Some of the bigger companies that we work with or other startups without 
+that background have a different view of the world. You spend more time with their 
+lawyers than with their developers.”
+Bringing about faster change
+From a startup’s perspective, Arup’s way of working provides a number of benefits, including 
+no  demands  for  equity,  the  retention  of  autonomy,  and  immediate  access  to  clients  and  
+markets. Volker Buscher says:
+“The principle thing we bring is scaling. If we set up the asset monitoring platform that 
+we are discussing with [the startups], we will be able to contact 100 clients within months 
+– a different scale and a different pace than they would have been able to otherwise.”
+For  Arup,  the  combination  of  skills  and  expertise  enables  it  to  scale  promising  projects 
+more quickly. Working in partnership with the startups also allows them to rapidly move into 
+emerging domains and seize opportunities that similar firms may not yet even be aware of. 
+Volker Buscher explains that:
+“The  biggest  cost  of  not  adopting  this  approach  would  be  the  loss  of  speed.   
+We’ve  been  working  with  data  and  data  analytics  forever  –  we  invented  some  of  the  
+structural analytics tools used around the world. That, in itself, is not new to us.
+“But when we understood the scale and complexity of distributed data architectures, 
+combined  with  wanting  to  get  involved  with  things  immediately,  this  approach  [was]  
+needed. It is so much quicker than hiring a whole bunch of people or organising complex 
+sub-consulting agreements.”
+
+15 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Arup is currently in the process of quantifying the exact benefits of adopting this approach to 
+open innovation. It is also exploring how it can publish its own open data in a way that creates 
+tangible commercial value. On reflection, Volker Buscher contrasts his company’s approach 
+with the one taken by other large organisations:
+“There  are  lots  of  big  businesses  that  have  got  accelerators  or  incubators  but  they  
+usually involve investing in the startup, taking equity out and having very clear IP rules 
+attached.  That’s  a  completely  reasonable  model  that  lots  of  companies  use.  We  are  
+exploring a different way of doing it.”
+
+16 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Syngenta supports sustainability with open data 
+Syngenta  is  a  global  agriculture  business  that  helps  farmers  make  better  use  of  their  
+available resources, primarily through agrochemical and seed production. In order to continue 
+to advance crop productivity, it invested more than $1.4bn in research and development (R&D) 
+across 150 international sites in 2014.
+Data-driven R&D
+Syngenta has a history of using publicly available data in its R&D. Alongside data related 
+to land, weather and soil conditions, it uses biological data that has been published openly 
+to  build  a  detailed  understanding  of  crop  (and  pest)  traits  –  like  tolerance  of  environmental  
+pressures  and  resistance  to  viruses.  Derek Scuffell,  Data  Strategist  for  R&D  Information 
+Systems at Syngenta, describes how:
+“We certainly have made use of a mix of satellite data that we buy and public satellite 
+data. In R&D, what we make really heavy use of is huge amounts of public molecular 
+biology data, which in Europe is mainly hosted by the European Bioinformatics Institute.”
+In  2014  Syngenta  funded  the  European  Bioinformatics  Institute  (EMBL-EBI)  to  extract   
+bioactivity  data  from  a  large  number  of  academic  journals.  The  data  covered  insecticides,  
+fungicides  and  herbicides,  including  more  than  40,000  compound  records  related  to  crop  
+protection. It was made available as open data through the ChEMBL database of bioactive 
+molecules – Syngenta’s first experience of making data available for anyone to access, use 
+and share.
+13
+Publishing Syngenta’s own open data
+A year later, the company decided to publish its own open data as part of its Good Growth 
+Plan. The plan addresses the long-term challenge of ensuring global food security for a rapidly 
+rising  global  population.  It  focuses  on  the  sustainability  of  Syngenta’s  business  and  seeks  
+to support transformation and change within the organisation by setting out six significant 
+commitments.
+14
+13 The European Bioinformatics Institute, (2014) ChEMBL_19 Released - Now with Crop Protection Data! [Blog] Available 
+at: http://www.ebi.ac.uk/about/news/service-news/ChEMBL-19-released. [Accessed 2016-03-08].
+14 Syngenta,  (2013)  Syngenta  launches  The  Good  Growth  Plan.  [Blog]  Available  at:  http://www.syngenta.com/global/
+corporate/en/news-center/news-releases/Pages/130919.aspx. [Accessed 2016-03-07].
+
+17 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+In  April  2015  Syngenta  collaborated  with  the  ODI  to  make  six  open  datasets  available  
+related to its Good Growth Plan, including descriptions of productivity, soil, biodiversity and 
+smallholder reach.
+15
+ The data will be updated yearly to measure the plan’s actual performance 
+against  its  stated  commitments.  It  is  collected  by  external  companies  as  well  as  Syngenta.  
+The  reporting  process,  its  quality  controls  and  evidence  is  independently  assured  by  PwC  
+and the datasets achieved Silver level Open Data Certificates, verified by the ODI. One of 
+Syngenta’s  key  motivations  for  collecting  and  publishing  data  in  this  way  was  to  develop  
+external trust in the plan, which is essential for strengthening collaboration between private 
+and public stakeholders for global food security. Making the data available has brought about 
+an unprecedented level of transparency for the company.
+Moving beyond transparency to wider use
+As  well  as  enabling  anyone  to  assess  the  performance  of  the  Good  Growth  Plan  for   
+themselves,  publishing  open  data  has  had  an  instrumental  role  in  the  plan’s  promotion  and  
+communication. Head of Data Sciences Graham Mullier explains how the open data release 
+caught public attention in a way that wasn’t expected:
+“We’ve done publicity around the Good Growth Plan in the past when it was launched. 
+The  interest  and  engagement  that  we  got  from  a  much  lower-key  open  data  press  
+release, all on its own, triggered similar levels of interest to some of the more expensive 
+media-driven  pushes  we  have  done  before.  We  were  surprised  at  the  way  in  which  
+people picked up on the story.”
+Syngenta  is  now  actively  exploring  other  potential  uses  of  the  data.  For  example,  its  
+productivity  dataset  includes  agricultural  efficiency  indicators  for  over  3,600  farms  in 
+41    countries  across  Europe,  Africa,  Latin  America,  North  America  and  Asia  Pacific.  
+Elisabeth  Fischer,  a  development  economist  at  Syngenta,  hopes  that  this  data  will   
+eventually be used by farmers around the world for resource efficiency benchmarking:
+“This is data that tells you how much input farmers needed in that year to produce a 
+certain output. The data can be very interesting in countries where such data doesn’t 
+exist to provide a reference point. For example, if I farm my land and I need significantly 
+more input than the benchmark, then maybe I have an opportunity to reduce my input 
+needs and maybe it helps me find that solution.”
+15 Syngenta,  (2015)  The  Good  Growth  Plan  Progress  Data.  [Online]  Available  at:  http://www.syngenta.com/global/
+corporate/en/GoodGrowthPlanData/Pages/progress.aspx. [Accessed 2016-03-07].
+
+18 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+In this scenario, a solution could then be developed by the farmer, together with their agronomic 
+advisors, in a way that meets the commitments of the Good Growth Plan itself. The company 
+is  looking  at  ways  the  data  could  be  improved  and  made  more  useful,  such  as  including  
+farming practices or other details. As Elisabeth Fischer explains:
+“[We see a need to] create a platform where farmers can get access to this information 
+and benchmark themselves against what others are doing. To make it more relevant, we 
+work to increase the scope of the data.
+“Eventually  we  want  this  data  to  help  empower  farmers  to  make  better  decisions  on  
+what works best for them and their land in order to feed a growing population. But this 
+needs more than just our data and our offer. It’s a piece of a puzzle and our contribution 
+to developing a collaborative and unbiased approach.”
+Adopting a more collaborative approach
+For  Syngenta,  opening  up  some  of  its  data  represents  a  wider,  ongoing  shift  to  a  more 
+collaborative business model in which data plays an increasingly significant part. It is estimated 
+that there will be more than 20.8bn Internet of Things (IoT) connected devices by 2020.
+16  
+As the 
+quantities of data collected by these devices in the agriculture sector grow, Graham Mullier 
+believes  that  Syngenta  will  need  to  work  in  tandem  with  others  to  meet  the  challenges  laid   
+out in the Good Growth Plan:
+“The rate of data generation is increasing. The granularity is getting finer and finer all 
+the time. All of that gives us loads more data to work with and the chances of any one 
+organisation being able to generate the data, host the data, analyse the data and come 
+up with brilliant answers all on their own seems vanishingly small. We have to find ways 
+of collaborating.”
+Through its own open data release and contributions to the Global Open Data for Agriculture 
+and  Nutrition  (GODAN)  initiative,  Syngenta  is  playing  an  active  role  in  bringing  about  this  
+collaboration. Ultimately, it is acutely aware of the costs of not taking this approach and not 
+opening up to others in the sector. Derek Scuffell explains his view that:
+“... if we don’t have an open data approach then Syngenta will miss out on opportunities 
+– those opportunities could be in new technologies or new research.”
+ 
+16 Sorrell,  S.  (2015)  The  Internet  of  Things:  Consumer,  Industrial  &  Public  Services  2015-2020.  [Online]  Available  at:  
+http://www.juniperresearch.com/researchstore/key-vertical-markets/internet-of-things/consumer-industrial-public-
+services. [Accessed 2016-03-07].
+
+19 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Meeting business challenges with open approaches
+As businesses get bigger, staying agile and innovative can get harder. The case studies that we 
+have examined in this report highlight five big business challenges and the open approaches 
+that these organisations are taking to tackle them.
+Third-party data: when and how to use it
+The availability of data for businesses, governments and people to use in their own decision 
+making  is  growing  every  year.  And  models  for  supplying  data  are  becoming  ever  more  
+sophisticated – from open data licensing to open APIs, open source data analytics tools and 
+platforms, to commercial licences and complex bilateral data-sharing contracts. Each of the 
+big  businesses  we  have  described  here  have  become,  at  least  in  part,  digital  businesses  
+that supply products and services directly to customers or internally with other parts of the 
+organisation.
+Arup  has  long-standing  experience  building  products  and  services  using  data  from  third   
+parties.  The  growing  availability  of  open  data  has  reduced  their  costs  and  created  
+opportunities for competitive advantage. Using open data provides Arup with more space 
+to innovate and test new products, in contrast with more traditional third-party data products 
+that  can  come  with  restrictive  terms  and  conditions.  The  remaining  challenges  for  Arup  are  
+around  data’s  availability  and  reliability.  It  is  easier  to  build  better  services  in  places  where  
+more data is available and has inherent flexibility, as this helps Arup to generate  accurate   
+insights and trial new approaches more cheaply and efficiently.
+Thomson  Reuters  has  taken  an  interesting  route  to  extracting  the  value  of  third-party  
+data. Because they have made their own reference data available as open data through 
+PermID,  the  team  hope  that  others  will  link  to  it  and  provide  them  with  additional  context  
+and information on the organisations they provide data about. This provides the potential for 
+Thomson Reuters’ data to be enriched and made more valuable by others, without any 
+extra effort on their part.
+
+20 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Maintaining leadership in competitive data markets 
+Some  businesses  have  traditionally  made  their  living  by  selling  access  to  data  that  they   
+have  collected,  modelled  and  integrated.  These  organisations  face  a  challenge  living  “in  a  
+post-scarcity  world  for  data”,  as  Dan  Meisner from Thomson Reuters put it. They need to 
+adapt their business models to the changing technological and competitive landscape.
+The  increasing  competition  felt  by  traditional  data  providers  in  the  face  of  the  web   
+of data is much like the problems faced by the publishing industry in the face of the web of  
+documents. New businesses and business models are emerging that disrupt traditional data 
+providers.  Data  collection  is  getting  cheaper  and  easier,  and  it  is  easier  now  than  ever  to  
+collaborate on data provision. Existing market leaders must find new business models to avoid 
+new competition undermining their business.
+Thomson  Reuters  is addressing these challenges through publishing open identifiers and 
+data about organisations to:
+ drive integration of its products with customer data, embedding ongoing use
+ reduce the cost of ownership of other Thomson Reuters products by making its 
+data easier to use
+ widen its market to include customers who need Thomson Reuters’ data but who 
+do not want to be locked into proprietary products
+Keeping costs low for the business and for customers
+Big businesses are more likely than most to grow through acquisition. As different organisations 
+are grafted onto each other, there are frequently systems and data assets that overlap or need 
+to  work  together.  Even  in  organisations  that  grow  organically,  issues  around  duplication  of  
+data,  systems  incompatibility  and  restrictive  data  licences  can  frustrate  ongoing  use.  And  
+as  organisations  increasingly  become  porous  and  open  to  working  with  each  other,  the  
+requirements for bringing data together spread outside the boundaries of a single organisation.
+For Thomson Reuters, the need to integrate internal systems and data resources led to the 
+creation of an open data product. Providing open data helped it to:
+ design internal systems that could adapt as Thomson Reuters grew
+ integrate Thomson Reuters’ needs with customer needs
+ drive uptake of Thomson Reuters products
+
+21 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+This pattern reflects similar evolution in Amazon, where what was to become Amazon Web 
+Services was initiated as a response to its CEO Jeff Bezos’ mandate that all Amazon data and 
+functionality be available through “externalisable” service interfaces.
+17
+The  challenge  of  system  integration  is  felt  as  much  by  customers  as  by  big  businesses.   
+Providing open interfaces can help provide efficiencies in-house and create value for customers.
+Staying agile in shifting environments
+While they bring scale, big businesses have a reputation for being sluggish. Slow responses 
+to new opportunities are a problem for businesses when their competitive advantage lies in 
+technological  capability.  It  is  unrealistic  to  expect  organisations  to  hold  all  the  experts  they  
+need  in-house,  but  it  can  be  hard  to  rapidly  take  advantage  of  new  opportunities  through   
+hiring  or  subcontracting,  particularly  when  there  is  legal  wrangling  over  the  ownership  of  
+intellectual property.
+Many  large  businesses  seek  to  inject  innovation  into  their  own  organisations  through   
+accelerator  or  incubator  programmes  that  invest  in  startups,  often  gaining  equity  and  
+intellectual property rights over what they develop. Arup’s approach is slightly different. While 
+it develops close working relationships with the startups it hosts, openness and flexibility form 
+the foundation of those relationships. This applies to code, to data, and to a way of operating 
+that centres around the free exchange of ideas between big and small businesses.
+For Syngenta,  releasing  open  data  was  part  of  its  drive  to  transform  and  change  itself  as  
+an organisation. Having externally visible data helps other stakeholders to monitor progress 
+and hold Syngenta to account, creating greater impetus for the company to see through its 
+commitments.
+17 Lane, K. (2012) The Secret to Amazon’s Success Internal APIs. [Blog] Available at: http://apievangelist.com/2012/01/12/
+the-secret-to-amazons-success-internal-apis.  [Accessed 2016-03-07].
+
+22 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Collaborating with clients and competitors to address  
+big challenges 
+While  big  businesses  may  dominate  their  sectors,  the  ‘wicked’  problems  that  they  face  
+can  seldom  be  tackled  alone.  Companies  operate  in  a  complex  environment  of  customers,  
+competitors,  suppliers,  partners,  governments,  charities  and  communities.  Sometimes  
+securing a long-term future for a big business means changing the way the sector works as 
+a whole.
+For Syngenta, the sector-wide challenge is how to ensure global food security. Recognising 
+the  importance  of  collaboration  with  private  and  public  stakeholders  to  achieve  this  goal,  
+Syngenta has used open data to:
+ develop trust with potential collaborators
+ encourage wider data sharing
+ incentivise collaboration and discovery
+
+23 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Big businesses can be big open businesses
+The big businesses that we have looked at in this report come from different sectors and have 
+different markets. In each case, however, the business has taken  an  open  approach  as  a  
+strategic response to challenges that they face.
+As part of their approach, Thomson Reuters, Arup and Syngenta have begun to:
+ understand their internal use of data, how it should be managed and developed
+ articulate  business  cases  for  improving  internal  data  capability  and  increasing  
+open data publication
+ improve the quality of data they hold
+ build trust and collaboration in the market
+ enable deeper engagement with customers, collaborators and future partners, 
+through feedback on data being published and its uses 
+ create partnerships with new startups and market entrants with an open ethos
+ build an organisational culture that is open to feedback and insight inside the 
+organisation, as well as outside in the environment it operates in
+Addressing   the   challenges   that   big   businesses   face,   and   taking   advantage   of   the    
+opportunities  that  the  data  revolution  brings,  requires  new  ways  of  thinking  and  operating  
+as  a  business.  This  is  not  only  a  technical  challenge  but  also  an  organisational  and  cultural  
+challenge. Big businesses that respond to these challenges are creating new business models 
+and ways of working that give them a competitive advantage, whatever the future brings.
+
+24 Open enterprise: how three big businesses create value with open innovation | Open Data Institute 2016
+Appendices
+About this paper
+This paper was written and produced by the Open Data Institute in 2016, based on interviews 
+with the teams at Thomson Reuters, Arup and Syngenta. If you have insights into open data’s 
+use and benefits for big business, share them with us at stories@theodi.org. If you are interested 
+in exploring the potential of open data further, consider joining our global network as an ODI 
+Startup, ODI Member or ODI Node. 
+Authors and contributors
+Authors: Jack Hardinges, Jamie Fawcett, Jeni Tennison and Tom Heath 
+Contributors: Ellen Broad and Amanda Smith
+Editor: Anna Scott
+Design: Christie Brewster
+Interview participants
+Damien McCloud, Digital Insight Leader, Arup
+Volker Buscher, Director, Arup Digital
+Derek Scuffell, Data Strategist for R&D Information Systems, Syngenta
+Elisabeth Fischer, Development Economist, Syngenta
+Graham Mullier, Head of Data Sciences, Syngenta
+Dan Bennett, Head of Enterprise Data Services, Thomson Reuters
+Dan Meisner, Head of Capability for Open Data, Thomson Reuters
+Tim Baker, Global Head of Content Strategy and Innovation, Thomson Reuters
+Wilbur Swan, Head of Enterprise Metadata Services, Thomson Reuters
+Acknowledgements
+We  would  like  to  thank  all  interview  participants  for  making  this  research  possible,  and  Ian  
+Brown,  University  of  Southampton,  for  his  collaboration  and  support  in  the  conduct  of  the   
+Thomson Reuters interviews.
+How to cite this report
+Please cite this report as: Open Data Institute (2016) Open enterprise: how three big businesses 
+create value with open innovation. London, UK. Available at http://theodi.org/open-enterprise-
+big-business.
+

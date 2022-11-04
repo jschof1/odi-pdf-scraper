@@ -1,0 +1,723 @@
+
+
+The Legal  
+Data Vision
+
+2
+
+3
+fair and sustainable legal sector that upholds public trust, and works in 
+the best interests of the people and organisations it serves.
+“Embracing and responsibly using data is critical to the future success 
+of the legal sector and the people it serves. Without data we cannot 
+innovate, hold ourselves to account or provide the clear counsel and 
+service people need. All within the sector need to work to improve 
+how data is collected and made accessible, including realising the 
+shared opportunities of open data in law.”
+Jenifer Swallow, 
+LawtechUK Director, Tech Nation 
+The Legal Data Vision is the result of a project led by LawtechUK, 
+working with the Open Data Institute (ODI) and a range of cross-sector 
+experts and others who share a common purpose, of responsibly 
+accessing and using legal data to drive innovation and serve business 
+and society.  
+“Improving access to data has the potential to transform the legal 
+sector, from supporting the development of exciting innovation, to 
+increasing trust and transparency. Building strong and trustworthy 
+data ecosystems that can deliver value to businesses and society 
+requires collaboration from a wide range of stakeholders, and we 
+welcome LawtechUK’s leadership in this area.”
+Diana Szasz, 
+Data Ecosystems and Innovation programme lead at the ODI
+This report does not represent government policy
+Purpose
+The legal world has yet to fully embrace the opportunities of data, 
+in decision-making, risk-mitigation, innovation, efficiency and value 
+generation. The Legal Data Vision is about changing that. 
+A strong, trustworthy legal data ecosystem will support better decision-
+making, drive innovation and the creation of more effective and 
+efficient services, fuel growth and productivity, and ultimately benefit 
+society. Responsible access and widespread use of data is critical to 
+the future success of the legal sector and those who rely on it. 
+Individual organisations alone cannot unlock the full potential of 
+legal data and navigate the associated ethical, privacy and security 
+considerations. Only collective action across the legal data ecosystem, 
+from individuals, organisations, government and regulators, can 
+establish the data assets, processes, standards and best practices that 
+will ensure the trustworthy use of data to meet society’s needs. 
+The Legal Data Vision represents a collective first step on the journey 
+towards leveraging legal data to drive innovation and build a strong, 
+The Legal Data Vision
+The Legal Data Vision
+is a shared aim for the legal sector to prioritise the 
+responsible use of and access to legal data to drive 
+innovation, uphold trust and deliver outcomes that 
+benefit those we serve
+
+4
+What is Legal Data? 
+Legal teams use and generate valuable data in multiple formats, 
+from every corner of their operations and client work. It comes from 
+legal documents, knowledge banks, spreadsheets, sales systems, 
+time recording, billing systems, forms, approval flows, policies, emails 
+and external sources such as case law and legislation.  It is collected, 
+produced and used across all practice areas, from corporate and 
+commercial, to family, to property, contentious and non-contentious.  
+This data, by virtue of its relevance to legal work, is classified as ‘legal 
+data’.  It covers a wide range, and is defined as follows:
+The scope of The Legal Data Vision is legal data within a commercial 
+and operational context, mindful of the work being undertaken on 
+providing access to public sources of data, such as the court reform 
+programme and the impending publication of court and tribunal 
+judgements via the National Archives - developments that are critical 
+to transparency, open justice and the growth of lawtech.  The scope 
+includes use of commercial and operational data to benefit wider 
+society, for example through projects like the Lawtech Sandbox.  
+Use cases for Legal Data
+Greater capture, use and shared access to legal data can improve 
+efficiency, productivity and transparency, support better decision 
+making, identify new  business models and revenue lines, and create 
+opportunities to address unmet and excluded legal needs through 
+data-led innovation.
+The goal is not to exploit legal data. Rather, legal data should be 
+seen as a valuable resource that can drive innovation and help 
+legal services deliver positive outcomes. Similarly, the goal is not to 
+make all legal data open access: confidentiality and legal privilege 
+are critical to legal services, and sensitive information needs to be 
+protected and intellectual property rights respected. 
+The Legal Data Vision
+Data used or generated in legal activities within organisations.
+
+5
+Examples of how data can be harnessed in the legal sector 
+The opportunities of increased insights
+• Insights from historic contracts inform decision-making and help 
+manage risk, such as understanding aggregate or typical liability 
+exposure, flagging anomalies or contracts outside compliance 
+and risk tolerance, identifying revenue opportunities, and 
+automating reporting or linking to data between systems.  
+• Collective access to such contract insights provides a greater 
+range of intelligence, to  reduce delay, complexity, and cost 
+in negotiations, and help quantify risk, by identifying market 
+standards and trends. Linking this through to legislation and 
+court data can further support decision-making, for example by 
+identifying contract clauses that result in court action and of what 
+quantum. 
+• Organisations are seeking to understand, track and address 
+environmental, social and governance (ESG) risks and take 
+increased responsibility for ESG. Sharing insights on ESG across 
+the legal community can help address the collective challenges, 
+e.g. an open source ESG risk database. 
+The opportunities of increased supply efficiencies
+• Standardising work requests enables insights to be gathered from 
+structured data to improve operational efficiency. For example, 
+structured intake forms capture and evaluate client demand, 
+repeat requests, and opportunities for automation. 
+• A common lexicon for describing legal matters and data would 
+help the evaluation of what a piece of legal work should cost, 
+and transparency and trust between legal practitioners and their 
+clients. It could also be used to develop systems for repeatable 
+legal processes and technology to streamline services and help 
+identify new business models and ways of working.   
+• Legal service provider performance data, and information about 
+quality standards and statistics covering diversity and inclusion, 
+sustainability etc, enables clients to benchmark, compare and 
+evaluate the services they receive from different providers. 
+The same data enables service providers to evaluate their own 
+performance, report to clients and regulators, and demonstrate 
+their standing in the market.  
+• Standardised labelling, data capture and protocols supports 
+interoperability between applications and facilitates data 
+portability between partners and suppliers. 
+   
+The opportunities of developing lawtech
+• Legal data can be used to train and refine machine learning and 
+artificial intelligence algorithms, build high quality, labelled data 
+sets and improve third-party lawtech solutions. It can inform 
+the development of in-house tools, new and improved products, 
+services and processes.  It can be used to build lawtech solutions 
+to address unmet legal needs and access to justice. 
+• For example: (a) data from commercial and corporate agreements 
+for the development of contract review tools for small businesses, 
+(b) law firm complaint data for tools to help consumers choose the 
+right legal professional, and (c) data from tenancy agreements 
+and employment contracts can be used to develop DIY tools to 
+help consumers understand their rights and responsibilities when 
+dealing with landlords or handling employment grievances. 
+The Legal Data Vision
+
+6
+business environment.  Many people working in the legal sector already 
+recognise this and are pro-actively using legal data to meet specific 
+legal needs and to support innovation.
+In order to unlock the value of legal data held within the sector, there 
+needs to be a shared vision to treat data as an asset and to work 
+together as a community to increase the capture, use and access to this 
+asset, so it can bring benefits to the sector and to society more broadly. 
+A Legal Data Framework
+Unlocking the power of legal data will be a journey. The shared purpose 
+outlined in this Legal Data Vision is a foundational step on that journey.
+Alongside The Legal Data Vision is a Legal Data Framework that any 
+organisation and the legal sector as a whole can use when thinking 
+about relationships and progress with legal data.  The framework 
+looks across three dimensions: within teams (I), between teams and 
+organisations (we), and collectively across the sector (all of us). 
+A Shared Vision for the Sector
+The volume of data is growing exponentially and organisations are 
+operating under the constraints of increasing complexity, uncertainty 
+and scrutiny.  The traditional, largely manual methods the legal sector 
+has used in its work are no longer appropriate for the 21st century 
+The Legal Data Vision
+The Legal Data Framework
+Why we need a Shared Legal Data Vision 
+LawtechUK identified the need for a shared purpose on legal data 
+through its cross-sector work programme, where a lack of (a) high-quality 
+usable data, (b) appreciation for and capability with data, and (c) data 
+use and access, presented a recurring challenge for legal innovation. 
+More commentary can be found in the LawtechUK report Shaping the 
+Future of Law.   
+Research commissioned by the UK Department for Digital, Culture, 
+Media and Sport, highlights barriers across sectors, including regulatory 
+uncertainty, lack of knowledge, costs and resourcing, and lack of 
+incentive. LawteckUK’s research largely mirrored these findings for the 
+legal sector and identified the lack of a shared vision, framework and 
+standards on use of and access to legal data as  a key priority to address, 
+highlighting five key challenges:
+• No shared vision or framework for improving access to data for 
+the legal sector 
+• Poor understanding about data, leading to lack of investment 
+• Perceived privacy and/or client confidentiality concerns 
+• Inconsistent approach to legal data governance and use 
+•  Lack of standards for legal data taxonomies and schemas
+ALL OF US: 
+Contributing to 
+collective legal data 
+initiatives for the 
+sector and society
+WE: Enabling 
+interoperability
+between teams
+and organisations
+I: Treating legal 
+data as a 
+valuable asset 
+within a team
+
+7
+The Legal Data Vision
+When it comes to increasing and ensuring responsible access to data, 
+one can view the opportunities for doing this on a spectrum from 
+closed to shared to open data. There is a common misconception that 
+all types of legal data are sensitive and confidential and therefore 
+should not be shared.  In fact, a good proportion of legal data is 
+neither sensitive nor confidential and/or can be accessed securely, 
+without using or exposing anything confidential.  This forms the basis 
+of the ‘Open Legal’ concept shared in the LawtechUK report Shaping 
+the Future of Law.
+
+8
+“As we learnt on a proof of concept testing sharing legal data 
+between legal teams and regulators, harnessing legal data is not 
+without challenge.  Where confidentiality is paramount, technology 
+often misunderstood and time and resources precious, legal 
+businesses and teams have stalled using their data. However, with 
+privacy enhancing technologies more advanced and regulators ready 
+to support, now is the time for legal businesses and teams that want 
+to lead to begin their data journey.”
+Alexandra Lennox, 
+Head of LawtechUK, Tech Nation
+The Legal Data Framework in practice 
+The Legal Data Framework is applicable to a wide range of 
+businesses, organisations and teams, including in-house legal 
+departments, legal businesses, lawtech pioneers, and others across 
+the public and private sector.  Each organisation and individual 
+will have different experiences and skills around data and different 
+motivations and concerns around using it and increasing shared 
+access to it. We understand that those who participate will apply 
+the Legal Data Framework according to their own pace, needs and 
+priorities, and contribute in their own way to achieving The Legal Data 
+Vision overall. 
+The Legal Data Vision
+‘I’
+ I recognise legal data as a valuable asset within my team
+Legal data is a valuable asset to be treated as such, and 
+managed responsibly to make it easier to access and use, such 
+as capturing it in usable formats, harnessing useful insights from 
+it, and building data capability and literacy to know how to work 
+with it. 
+ 
+‘ We’ 
+We will explore how to improve the use of and access to legal 
+data between the teams and organisations we work with
+Working together between teams, service providers, clients and 
+others is key to the effective use of legal data, such as enabling 
+portability of legal data, interoperability of systems, and 
+responsible access to shared insights. 
+‘All of Us’ 
+We welcome collaboration in legal data initiatives for the 
+sector and society
+Collaboration and shared learning within the legal sector as 
+a whole, and with other sectors, will help identify and realise 
+opportunities to use legal data to address collective challenges 
+and deliver sector, economic and societal growth, such as 
+through developing common data standards and lexicons, 
+datasets and resources, and testing new approaches and 
+technologies.  
+
+9
+A range of resources are available to help the legal community adopt 
+The Legal Data Vision.  These can be tailored to different levels of legal 
+data maturity and organisational goals, and built upon over time.
+An ongoing journey
+Harnessing data and applying the technologies it enables is an 
+ongoing process, and the capabilities, understanding, and 
+responsibilities of the legal community will advance and evolve  
+over time. 
+There is an opportunity for the legal and technology communities not 
+only to work individually towards the aims of The Legal Data Vision, 
+but also to work together to build out the roadmap for progress, 
+develop detailed use cases, and maximise their impact.  
+Many people within the legal sector are already working on different 
+aspects of the legal data journey, in the UK and worldwide.  There is 
+an opportunity to connect all the various work and related resources 
+globally.  Open dialogue, debate and collaboration towards a 
+common approach and standards will make it easier for people and 
+organisations to share, access and use better quality data, including 
+shared vocabularies and common language. There are many aspects 
+to tackle and embrace.  
+Realising The Legal Data Vision will shape the evolution of the legal 
+sector for the people and organisations we serve. Your engagement, 
+work and contributions on legal data are key to achieving this - we 
+can each identify and prioritise opportunities and actions more 
+relevant to our work, and forge those forward in collaboration to 
+transform our sector.  And as technology development continues 
+at pace, we can share ideas, successes and lessons learnt.  At 
+LawtechUK we will continue to play our part in identifying and 
+tackling sector challenges head on and bringing people together 
+through our targeted work programme.
+The Legal Data Vision
+Join the movement
+Add your voice to The Legal Data Vision by providing a 
+quote or case study via our contact form here, and share 
+your experiences, ideas, challenges and commitments 
+on LawtechUK’s social channels with the hashtag 
+#legaldatavision.
+Twitter - @lawtech_UK
+LinkedIn - lawtechuk
+
+10
+The Legal Data Vision
+About the development of The Legal Data Vision
+The Legal Data Vision is the result of a project led by LawtechUK 
+and the Open Data Institute, working with a range of cross-
+sector experts. 
+The Legal Data Vision was developed with a diverse range of 
+leaders and experts in the public and private sector over six 
+months.  Those leaders and experts helped inform and develop 
+the Vision. The insights and work completed can be found here.  
+LawtechUK is a government funded initiative within Tech 
+Nation, and has led the work to develop The Legal Data Vision 
+as part of its work programme to support the transformation 
+of the legal sector through technology, providing the strategy, 
+framework, network and programme leadership and delivery.
+The Open Data Institute is a non-profit organisation that exists 
+to help build an open, trustworthy data ecosystem.  The ODI 
+has provided cross-industry learnings and insights, undertaken 
+qualitative and desk-based research, provided resources, 
+contacts and tools, and supported project delivery.  
+
+11
+“Technology and data may be the answer to governance in 
+corporations and governance in society. The legal profession must 
+not be asleep at the wheel or allow the rule of law to be degraded. 
+Technology can enable better adherence to legal requirements as a 
+matter of course and data can record the truth of what is happening.”
+Rosemary Martin, 
+Group General Counsel and Company Secretary, Vodafone Group Plc, 
+and LawtechUK Panel member
+“Data-driven insight is one of the four pillars of my department’s 
+Knowledge, Capability and Innovation strategy. But I think we all 
+acknowledge that data drives almost everything our profession 
+seeks to achieve for our sector and our society. I have been pleased 
+to contribute to the creation of the Legal Data Vision and welcome 
+its focus on how ‘I’ and ‘We’ and ‘All of us’ can work collectively to 
+achieve the ambition it sets.”
+Ruth Ward, 
+Director of Knowledge, Government Legal Department
+“This work will give greater focus to the benefits that utilising legal  
+data can undoubtedly bring whether it be from delivering better 
+outcomes or greater customer satisfaction. If we can unlock this I 
+have no doubt we can harness the benefits that other sectors have 
+seen through end to end digital journeys and automation.”
+Chris Fowler, 
+General Counsel BT Technology, BT Group plc
+The Legal Data Vision
+Reflections from the legal community 
+on The Legal Data Vision
+“By 2030, our legal and court services will have been transformed by 
+technologies that have not yet been invented. In this era of increasingly 
+capable systems and ubiquitous online service, clients and court users 
+will be much more focused on the outcomes that these systems and 
+services deliver than in perpetuating our old ways of working. The 
+dominant role of technology will not be to streamline and improve 
+twentieth century processes. It will be to enable us to deliver outcomes 
+and a level of accessibility that were simply impossible in the analogue 
+world. Data will be at the heart of this fundamental change – both to 
+measure our progress and to fuel the systems themselves, many of which 
+will be based on machine learning. Accordingly, we require policies and 
+practices that strongly support the capture and re-use of justice data.”
+Professor Richard Susskind, 
+Author, President of the Society for Computers and Law, LawtechUK 
+Panel member
+“We have seen the transformative effects that implementing new 
+technology and using data can have on so many industries. In legal, 
+whether its contracts, litigation or legal processes, most of the data 
+within the industry still sits untapped, locked within traditional working 
+practices and analogue documents. This is however changing. Digital 
+delivery platforms and AI technologies are increasingly being used by 
+legal teams to capture, analyse and evaluate data. By harnessing the 
+data they have, organisations will be better able to proactively manage 
+legal risks, improve efficiencies and enhance their service levels, 
+either internally or to clients. There is also a far bigger opportunity 
+- by responsibly sharing some of this data, the legal community will 
+collectively benefit, whether that’s through managing shared risks, 
+driving further innovation in the sector or enhancing access to justice.”
+Bruce Braude, 
+Chief Technology Officer, Deloitte Legal UK
+
+12
+“‘Data’ – and how we use it – is a recurring theme when we’re looking 
+at symptoms and causes of some of the biggest challenges in our 
+organisation. And it is a fundamental enabler to achieving our 
+business vision and strategy. The work of the in-house legal team is 
+key in unlocking the real potential of data and our internal clients 
+have figured that out! But we can’t do it alone. I truly believe that we 
+can only drive this forward if we break down the silos within – and 
+work across - the legal ecosystem; and I’m really excited about the 
+Legal Data Vision.”
+Mark Gregory, 
+General Counsel, Rolls-Royce plc
+“We are working collectively with others in the sector to build an 
+environment where data-driven legal professionals will be able to 
+put information into the hands of the curious, the investigative, and 
+the analytical so that they can explore, understand, and creatively 
+address their client’s business, legal, risk and strategy problems. 
+As this Legal Data Vision project has shown, we need to work 
+collectively, on a cross-sector basis to make this a reality.”
+Sam Grange, 
+Knowledge Engineer, iManage
+The Legal Data Vision
+“Better use of data has become imperative for the businesses the 
+legal sector serves, otherwise companies will miss out on discovering 
+insights that drive innovation and lead to new ideas. Through the 
+power of data, we can improve our understanding of balancing risk 
+and opportunities, and  enable businesses to make higher quality 
+strategic and revenue generating decisions. We need a collective 
+vision for the sector to ensure that laws and regulations create 
+playing fields that are transparent, level and competitive.”
+Matthew Wilson, 
+General Counsel, Fremantle
+“Data is the single highest priority for our members at the Digital 
+Legal Exchange. Access to the right data is critical for corporate legal 
+departments seeking to track, report on and comply with complex 
+ESG obligations. Sharing data and insights across the legal ecosystem 
+can help to address this challenge.”
+Isabel Parker, 
+Executive Director, The Digital Legal Exchange
+“Being able to manage, understand and gain insights from all the 
+data that we are producing will transform not only the business of 
+law but our global society. Focusing on practical and ethical ways to 
+harvest and harness this wealth of information could lead to solutions 
+to some of our most challenging issues. It’s not easy, but it is hugely 
+important and LawtechUK is well placed to convene those who may 
+be able to come up with the answers.”
+Christina Blacklaws, 
+LawtechUK Panel Chair
+
+13
+“6 years ago in Vodafone Business Legal, we had very little data in 
+the team, we didn’t know how many contracts were being supported, 
+who was supporting them and whether we were supporting the right 
+things.  Starting small (initially using excel and then migrating to a 
+CLM platform) we started tracking the data.  We now know what we 
+are working on, which team or individual is supporting a matter, we 
+can prioritise work based on value, understand how long it takes us 
+to assign work, prepare a first draft, negotiate a contract and sign 
+a contract.  We can also notify our commercial colleagues when a 
+contract needs renewal or the customer hasn’t met all its financial 
+commitments.  Having data has revolutionised the way we work, and 
+we now wonder how we ran the department without it.”
+Amy McConnell, 
+Head of Legal Operations & Business Contracting, Vodafone Group plc
+“There are some things that can be done on a team level right now.  
+At GoCardless we have centralised and standardised incoming work 
+requests, so we can gather and report insights from structured data, 
+using a customised version of Jira Service Desk. We have also built 
+tooling into our CRM (Salesforce) that provides us with lots of data on 
+our contracts, including automatic allocation of a deal ‘colour’ that 
+allows us to tailor the legal team’s support and SLAs based upon deal 
+categorisation.  Treating data as a valuable asset, and collecting and 
+capturing it as such allows us to forecast more effectively as a team 
+and to provide a better service for our internal and external clients.”
+Ahmed Badr, 
+Chief Legal & Risk Officer, GoCardless
+The Legal Data Vision
+“Data mining to identify opportunities and risks is achievable but 
+requires an output driven lens - what are we collecting, who would 
+benefit from it and what does it tell us. Individual legal teams or 
+providers should utilise the vast data they have in existing tech stacks 
+and data, such as comparative score cards, intake and self-serve 
+processes, and evaluating value pyramids to demonstrate value.   As 
+a sector we’ve talked about data for a long time, The Legal Data 
+Vision is  moving to now doing something about it collectively.”
+Mo Zain Ajaz, 
+Founder, LEx360
+“Data is often the blind spot of corporate legal teams. Without access 
+to reliable data - at both an individual legal team and industry level 
+- in-house teams are unable to make informed decisions about their 
+functions: including where to deploy resource, when to change tack 
+and how best to improve service delivery. A unified Legal Data Vision 
+will go a long way to helping legal teams and their businesses make 
+better decisions.”
+Electra Japonas, 
+Co-Founder, OneNDA
+“The legal function-- like business-- must create a data-backed 
+culture and architecture designed for customers and society. The goal 
+is to access, analyze, apply, share, and protect data to enable faster 
+risk detection, mitigation, and early-resolution as well as to promote 
+better informed decision-making that positively impacts business and 
+society-at-large.”
+Mark Cohen, 
+Executive Chairman, The Digital Legal Exchange
+
+14
+“Outright data sharing is an antiquated model. It is highly inefficient 
+for data controllers and it does not protect data subjects. This 
+does not mean however that data must stay closed.  There are now 
+technologies available that can enable collaboration between 
+multiple organisations without data owners ever relinquishing control 
+of their data. Cross-sector collaborations like the LawtechUK multi-
+party legal data access proof of concept are vital for the legal 
+sector to realise the opportunities such new technologies bring in the 
+context of improving the responsible use of and access to legal data.”
+Sally Sfeir-Tait, 
+CEO, Regulaition
+“The amount of data in organisations is growing exponentially and 
+the data maturity of businesses and the legal teams that support 
+those businesses needs to keep pace.  There is, rightly, an expectation 
+from business leaders that legal will use data in the same way as 
+other teams and departments. It is becoming increasingly unfeasible 
+for anyone to tackle the legal data challenge alone.  The Legal Data 
+Vision is an exciting opportunity for us as a sector to collaborate and 
+obtain a level of consistency so we can all evaluate and communicate 
+our impact to our wider stakeholders.”
+Helen Lowe, 
+Head of Legal Operations, easyJet plc
+The Legal Data Vision
+“Machine learning will be irrelevant in law in the next 10 years, 
+instead, it will be replaced with lots and lots of labelled data. Labelled 
+legal data that has been reasoned on, discussed, argued and agreed, 
+questioned on and answered, and has lawyer summaries attached. 
+For us, that has to be the data play for the legal industry. With that 
+volume of high quality data; sharing and collaboration becomes 
+absolutely critical to ensure a fair and open market, and to avoid 
+a small number of large businesses being in control of this type of 
+knowledge and expertise. At Travers this is so important to us, we’ve 
+open sourced our Etatonna labelling platform to give the market a 
+head start. Etatonna is currently enabling many of our competitors, 
+who share this vision with us, to label their own legal data.  We 
+are committed to cross industry collaboration and to being at the 
+forefront of data labelling, to ensure we drive a better future for the 
+clients of our industry.”
+Shawn Curran, 
+Head of Legal Technology, Travers Smith
+“As the legal industry continues to mature its digital and data 
+capabilities, the need for intra-industry collaboration has become 
+ever more apparent. Participating in cross-sector initiatives, like the 
+LawtechUK Sandbox and the LawtechUK multi party data access 
+proof of concept have helped us to frame our own data challenges 
+within the context of the wider industry, as well as to gain hands-
+on experience with the technologies available to accelerate our 
+ability to extract greater value from our data, develop our internal 
+DigitalDNA and create better and tailored experiences for our clients 
+in an increasingly data driven and digitalised environment.”
+Tara Waters, 
+Partner, Head of Ashurst Advance Digital
+
+15
+“Being part of the LawtechUK multi party legal data access proof 
+of concept challenged us to think differently about the data we 
+hold and how it can be leveraged. Working closely with a diverse 
+stakeholder group provided the perfect platform for examining how 
+new and emerging technologies  can be used to facilitate responsible 
+and controlled access to data insights. But, we have to get the 
+foundations right first. Agreeing industry standards and acceptance 
+on sharing insights are two key challenges which the legal sector 
+needs to continue to work towards.  If we can get this right, the 
+potential gains are many multiples larger than the sum of parts.”
+Jeremy Coleman, 
+Head of Innovation, Norton Rose Fulbright
+“Data is a priority for us, as it is for many organisations and in house 
+teams. We all work in environments where data is key. We need to 
+work together on a shared understanding of how best to make use 
+of legal data so we can not only be proactive in advising on risks but 
+also make best use of the benefits it brings to our organisations.”
+Juliet Oliver, 
+General Counsel, Solicitors Regulatory Authority
+The Legal Data Vision
+“Data is an important enabler to delivering fairer outcomes, stronger 
+confidence and better services that meet society’s needs. We know 
+from our research that consumers find it difficult to access information 
+on price, service and quality. One dimension of this is ensuring that 
+regulatory information is easily accessible. Regulators are already 
+working together to support consistent and accessible regulatory 
+information for consumers, in line with recommendations from the CMA 
+on a “single digital register”. Regulators have an important role to play 
+in supporting an open-by-default data ecosystem in the legal sector.”
+Aisling O’Connell, 
+Technology and Innovation Policy Lead, Legal Services Board and 
+LawtechUK Regulatory Response Unit Panel Member
+“The work being done by LawtechUK on data [sharing] could contribute 
+meaningfully to the access to justice agenda in the UK. By way of one 
+simple example: by combining collections of everyday contracts such 
+as employment contracts, terms and conditions or tenancy agreements 
+with existing machine learning capabilities it would be possible to 
+create simple tools that would allow a user to upload a document 
+that they were being asked to sign and to get guidance on unusual or 
+missing terms. Today, there is a power imbalance between the well-
+advised businesses on the one hand and consumers, who can rarely 
+afford to take legal advice on such matters, on the other. Building such 
+data collections to enable these legal guidance products is incredibly 
+challenging for private business, for a host of reasons. With LawtechUK 
+or another “safe” data controller at the helm we could bring these 
+ideas to fruition - with wider access to data, would come wider access 
+to legal guidance and ultimately better consumer protection.”
+Nick West, 
+Chief Strategy Officer, Mishcon de Reya LLP
+
+16
+“At DWF we see data as one of the single biggest factors that will 
+enable our business to deliver more impactful innovation. Being 
+able to access and utilise larger and more consistently curated data 
+sets, is key to our ability to push more breakthrough innovations 
+that change how services are delivered rather just augment what 
+is already done. From our experience so far I  don’t see individual 
+organisations focussed on their own data getting us there, it will take 
+collaboration and a common vision.”
+Jonathan Paterson, 
+Managing Director - Innovation & Ventures, DWF
+“With the proliferation of technology and data increasingly available 
+across the legal profession, there is an obligation and opportunity 
+for the legal profession to work collectively to ensure data and data 
+insights are treated responsibly. Working together, data can be a 
+powerful tool that drives both innovation and action – providing a 
+robust foundation to foresee trends and measure impact against to 
+hold the profession accountable to the Rule of Law. LawtechUK is 
+perfectly placed to help shape a consistent and joint approach to 
+realise the potential for good of open data in law.”
+Dana Denis-Smith, 
+CEO, Obelisk Support and Founder of the First 100 Years Project
+The Legal Data Vision
+“There is huge potential for better access to and use of data to 
+support the legal sector across a range of opportunities, from risk 
+management, to trend analysis and resilience - preventing issues 
+not only cleaning up after them. Unlocking the value of data might 
+seem overwhelming, but it doesn’t need to be, and it is critical for 
+the legal sector to embrace it, if we are to attract and retain the next 
+generation of talent.”
+Ryan Swann, 
+Chief Legal and Risk Officer, Think Money Group
+“To truly harness the power of legal data, we need to collaborate.  
+Those who create data aren’t always the ones who store it, those who 
+store it aren’t always the ones who own it, those who own it aren’t the 
+ones to analyse it, and those who can analyse it don’t have access to 
+it.  To unlock, all these groups need to come together.  We know it’s 
+possible, we’ve seen it happen in the Lawtech Sandbox, we now need 
+it to happen at even greater scale.  The first steps have already been 
+taken and a community is coming together with a shared interest 
+and desire to solve the data problem.  We need more organisations 
+to step forward and be brave.  The opportunities are immense, think 
+about having the ability to get a 360 view of commercial contracts, 
+understanding how the law works in practice and knowing the 
+implications of every clause, every regulation – from drafting right up 
+to when it is being tested in a litigation. What’s the first data set we 
+tackle? Who’s the first to open the data vault?”
+Chris Grant, 
+LawtechUK Panel member
+
+17
+“Machines can greatly support humans in enhancing their 
+understanding and improving the efficiency of huge volumes of data. 
+This is proven and is as equally true for the legal industry as for, say, 
+medicine or finance.  Think of ‘machines’ as intelligent assistants, 
+rather than artificial intelligence – and it makes more sense.  However 
+– for these machines to be effective and for them to ‘assist’ in a 
+meaningful way – they need to be trained using lots of data, the more 
+data the better for the machines and the better for humans that work 
+with them.  Ultimately better for the ‘end client’ of legal services.  
+Data, rightly, needs to be protected.  But as with humans –a lesson 
+(or pattern) learned from that data is not the same as the data itself 
+(we often forget the facts but retain how we solved the problem) and 
+thus we need to find a common approach to accessing this data in 
+a way that enhances the industry (lessons learned) yet protects the 
+individual (personal data).  Surely if there was a sector that could 
+draft such a protocol – it has to be the legal sector.  We need to step 
+up and solve this today for the benefit of those we serve tomorrow.”
+Stephen Allen, 
+Vice President, Elevate Services 
+The Legal Data Vision
+“The opportunities of open legal as part of The Legal Data Vision 
+are exciting. Access to aggregated data insights from risk and 
+compliance in relation to government regulations would benefit 
+providers and clients alike. In corporate legal services, bilateral and 
+multi-lateral data sharing enable lawtech startups to train their AI 
+tools. In consumer-facing legal services, access to state-level data 
+is essential for service development and delivery.  Collaboration on 
+good data governance, priority setting by data type and the potential 
+value data aggregation can unlock, and harnessing network effects, 
+are essential, as part of a collective ecosystem approach, alongside 
+use of privacy-preserving machine learning technology.”
+Mari Sako, 
+Professor of Management Studies, Saïd Business School, University  
+of Oxford
+“There is no doubt the benefits the Legal Data Vision will bring. From 
+one end of the spectrum for legal firms, how they operate, how they 
+manage risk to how they can transform their services. Through to the 
+other end and the experience for litigants in person and the ability 
+to access justice in a simple, consistent and positive manner.  The 
+continual advancement in technology and the increasing use within 
+the sector does mean that to achieve this vision a common ground 
+needs to be found. Data capture, data sharing, interoperability, 
+data standards and security are all key. At the same time so is the 
+engagement throughout the entire process, through the Courts, 
+Tribunals and beyond, to ensure that this vision continues to drive up 
+standards and quality, whilst at the same time reducing complexity, 
+costs and time regardless of what stage in the process.”
+Simon Bradford, 
+Regional Vice President, Public Sector UK, Salesforce
+
+18
+“Data is key to legal technology innovation but it can be challenging 
+to access due to considerations around client confidentiality and 
+Legal Professional Privilege (LLP). The Law Society of Scotland is 
+committed to helping those holding data to understand what can and 
+cannot be released, while ensuring our rules and guidance is a clear 
+as it can be.”
+Paul Mosson, 
+Director of Member Services, Law Society of Scotland
+“The legal profession is only starting to grasp the potential of what 
+it can do for itself and for its clients through the use of data. But at 
+the moment we all have only a small subset of the available data 
+quite often stored in disparate systems and not always captured 
+consistently nor captured in a format that enables it to be accessed 
+easily. A common framework that enables the capture of industry 
+wide standard data sets that, in turn, can be made available for reuse 
+within the regulatory and statutory frame work in which we need to 
+operate will accelerate what the industry will be able to achieve for 
+its clients.”
+Stuart Whittle, 
+Business Services and Innovation Director, Partner, Weightmans
+The Legal Data Vision
+
+19
+

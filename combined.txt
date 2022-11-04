@@ -1,0 +1,1679 @@
+
+
+27/10/2022, 14:12Diverse UK companies are working with open data – The ODI
+https://theodi.org/article/research-open-data-means-business/1/10
+Diverse UK companies are working with open data
+Fri Sep 9, 2016
+Share
+Many different types of companies in the UK are harnessing the benefits of
+open data.
+Diverse UK companies are working with open data
+Many different types of companies in the UK are harnessing the benefits
+of open data
+We identified and analysed 270 companies that use, produce or invest in open data
+as part of their business, using desk research, surveys and interviews about their
+experiences. The open data companies we studied have an annual turnover of
+over £92bn, and over 500k employees between them. This shows the scale of
+open data’s potential value in business.
+This section explains our findings that UK open data companies vary by location,
+age, industry and size; there is not one single model that defines a UK open data
+company.
+You can explore our findings on business strategies, the kinds of open data that
+companies use or produce, the challenges they face in doing so and some real-life
+company examples of open data innovation in sections to the right on this page.
+What is open data?
+Open data is data that anyone can access, use and share. For data to be
+considered ‘open’, it must be published in an accessible format, with a licence that
+permits anyone to access, use and share it.
+What is an open data company?
+We define an open data company as one that uses, produces, or otherwise invests
+in open data as a key aspect of its work. It could be a data publisher, making data
+open for others to use. It could be a user, creating services with open data made
+available by other platforms. Or it could be an enabler, training or advising others in
+how to work with open data.
+Knowledge & opinion >
+
+27/10/2022, 14:12Diverse UK companies are working with open data – The ODI
+https://theodi.org/article/research-open-data-means-business/2/10
+Open data companies are distributed across the UK
+UK companies do not need to be small, agile startups located in the tech
+communities of East London to engage with open data. Our research revealed that
+open data companies are located across Scotland, Wales, Northern Ireland and all
+regions of England.
+Figure 1.1: Map showing the location of 270 UK open data companies determined by main trading address, where
+available (223 companies), otherwise by registered company address (47 companies).
+
+27/10/2022, 14:12Diverse UK companies are working with open data – The ODI
+https://theodi.org/article/research-open-data-means-business/3/10
+Table 1.1: Location of 270 open data companies by country and region (based on ONS regions as defined in the
+National Statistics Postcode Lookup). Locations determined by main trading address where available (223
+companies), otherwise by registered company address (47 companies). Frequencies shown in brackets. UK
+companies frequencies from ONS UK Business: Activity, Size And Location - 201.
+While open data companies are located across all parts of the UK, the distribution
+between regions is uneven. Some of this skew can be attributed to the distribution
+of companies more generally, but not all. For example, around half (51%) of the
+open data companies identified are located in London (compared to 17% of all
+businesses based on ONS figures). We can look more closely at these companies
+by mapping their distribution across the capital.
+
+27/10/2022, 14:12Diverse UK companies are working with open data – The ODI
+https://theodi.org/article/research-open-data-means-business/4/10
+Figure 1.2: Map showing the location of 139 London-based open data companies determined by main trading
+address, where available, otherwise by registered company address.
+Open data companies are spread across London, covering 19 boroughs. For a full
+breakdown of companies by borough, please see Appendix Table A1.1. The
+highest concentrations of these companies in individual boroughs can be found in
+Camden and Westminster (both 17%). More than one quarter (26%) are based in
+the boroughs of Hackney and Islington combined. This can likely be attributed to
+the East London technology cluster around Old Street roundabout, which is located
+on the border of the two boroughs. This cluster represents 13% of all open data
+companies in the UK. So while open data companies are evidently not exclusively a
+‘Silicon Roundabout’ phenomenon, they have a disproportionately high presence in
+this area.
+UK companies old and new are investing in open data
+Open data companies in the UK vary in age, as revealed through analysis of their
+incorporation dates.
+
+27/10/2022, 14:12Diverse UK companies are working with open data – The ODI
+https://theodi.org/article/research-open-data-means-business/5/10
+Table 1.2: Age of UK open data companies by incorporation date. Frequencies shown in brackets. UK companies
+frequencies from ONS UK Business: Activity, Size And Location - 2013.
+Open data is not the sole domain of startups and young companies – only about a
+quarter (26%) of open data companies are less than 3 years old. The median age
+for a UK open data company is eight years, with just over a third of companies
+(34%) between four and nine years old. When this is considered alongside the 39%
+of companies that are more than 10 years old, it becomes clear that open data can
+be leveraged by well-established companies as well as recent startups. In fact, the
+oldest identified open data company is over a century old.
+UK companies across a range of industries are using open data
+Open data companies in the UK are operating in a wide variety of 13 industries. We
+can use UK Standard Industrial Classification (SIC) codes to determine which
+broad industry groups they operate in.
+
+27/10/2022, 14:12Diverse UK companies are working with open data – The ODI
+https://theodi.org/article/research-open-data-means-business/6/10
+Figure 1.5: Industry classification of "other industry" category in Figure 1.4
+
+27/10/2022, 14:12Diverse UK companies are working with open data – The ODI
+https://theodi.org/article/research-open-data-means-business/7/10
+Table 1.3: Industry classification of UK open data companies and all companies by ONS broad industry group.
+Frequencies shown in brackets. UK companies frequencies from ONS UK Business: Activity, Size And Location -
+2013 (Table B1.1).
+Companies we identified operate in 13 out of the 17 broad industry groups
+recognised by the ONS. Over half (54%) of the open data companies operate in
+the information and communication industry. This is notably larger than the 8%
+of all UK companies in this industry, which was to be expected given the focus of
+this research.
+Professional, scientific and technical activities made up over a fifth (21%) of all
+open data companies. A further 11% of open data companies are in the category
+of business administration and support services. The remaining ten industries
+each have a relatively small amount of representation. According to the SIC
+industry classifications of broad industry groups, open data companies were not
+
+27/10/2022, 14:12Diverse UK companies are working with open data – The ODI
+https://theodi.org/article/research-open-data-means-business/8/10
+represented in agriculture, forestry & fishing, accommodation & food services,
+property or motor trades.
+While the SIC industry classifications are able to provide a picture of the industries
+in which open data companies operate, they do have some limitations. Given the
+system was first designed in the 1940s and the codes were last updated in 2007, it
+may fail to effectively capture emerging industries and technologies.
+A second issue to be considered is that SIC codes may not accurately denote the
+industry which open data companies work in. For example, companies that provide
+open data products and services may be classified under information and
+communication, even though they provide the majority of their products and
+services to specific industries, such as ‘Agriculture, forestry & fishing’,
+‘Accommodation and food services’ or ‘Property’. This explains the zero
+frequencies shown in the table for these broad industry groups, despite the
+presence of companies such as Syngenta, FoodTrade and Illustreets in this study.
+UK companies large and small are using open data
+Micro, small, medium and large enterprises are working with open data. Using our
+survey data, we can closely examine the size of these companies, in terms of
+number of employees.
+Figure 1.6: Responses to the question "What is the size of your company?" (n=79)
+
+27/10/2022, 14:12Diverse UK companies are working with open data – The ODI
+https://theodi.org/article/research-open-data-means-business/9/10
+      
+Creative Commons Licence
+Open Data Institute, 5th Floor, Kings Place, 90 York Way, London N1 9AG
+Privacy policy Contact us
+Table 1.4: Responses to the question "What is the size of your company?". Frequencies shown in brackets (n=79).
+UK companies frequencies from ONS UK Business: Activity, Size And Location - 2013 (Table B1.2).
+UK open data companies vary in size, from those with fewer than 10 employees to
+those with more than 1000. The majority (70%) of these companies can be defined
+as micro-enterprise companies (with fewer than 10 employees). Small- and
+medium-sized businesses (SMEs), with between 10 and 250 employees, make up
+the majority of the remaining companies (23% of all companies).This is not to say
+that larger companies are not also well-represented. In fact, 8% of responding
+companies are large or enterprise sized, in having 251 or more employees.The
+findings in this section tells us that open data can benefit diverse companies at
+some level, regardless of their location, age, sector or size. The following sections
+focus on business strategies, the kinds of open data that companies use or
+produce, the challenges they face in doing so and some real-life company
+examples of open data innovation.
+How to cite
+Please cite this report as: Open Data Institute (2015) Open data means business:
+UK innovation across sectors and regions. London, UK. Available at open-data-
+means-business-uk-innovation-sectors-regions
+NEXT PAGE
+
+27/10/2022, 14:12How UK companies are using open data to innovate – The ODI
+https://theodi.org/article/research-open-data-means-business-pg2/1/7
+How UK companies are using open data to innovate
+Fri Sep 9, 2016
+Share
+Our research demonstrates that UK companies are using open data to create
+new products and develop new business models, and that this is taking
+place across diverse company types and sizes.
+How UK companies are using open data to innovate
+Our research demonstrates that UK companies are using open data to create
+new products and develop new business models, and that this is taking place
+across diverse company types and sizes.
+Open data startups: forming new businesses based on open data
+Open data startups are emerging micro enterprises formed to explicitly exploit the
+benefits of open data. Often this comes in the form of a new product or service
+which depends on open data to exist. Across a range of industries the open data
+startup community are critical disruptors, challengers and innovators.
+We identified a number of open data startups that are focused on impact other than
+purely economic i.e. social and environmental. For example, FoodTrade does not
+just consume open data to develop its allergen compliance tool; it also aspires to
+redesign the food system in a more sustainable way:
+“Transparency is a failure of the food system at the
+moment. So there is a great opportunity for an open data
+revolution to come in and disrupt the food system.
+FoodTrade want to be the Wiki of the food system. We want
+to make market intelligence open to people so that they
+could then help themselves and start trading with each
+other. Our goal, from the start, was to make the food
+system sustainable and responsible.”
+“
+Knowledge & opinion >
+
+27/10/2022, 14:12How UK companies are using open data to innovate – The ODI
+https://theodi.org/article/research-open-data-means-business-pg2/2/7
+– Ed Dowding, FoodTrade
+SMEs: diversifying product portfolios with open data
+Our research has identified a number of cases of established SMEs using open
+data to diversify their product and service offerings.
+For example, GeoLytix offers data analytics services to large retailers. Open data
+enabled the company to both create a distinctive brand in a market dominated by
+large enterprises, but also develop a new line of unique data products that clients
+can purchase for their internal analytics operations:
+– Sarah Hitchcock, GeoLytix
+Similarly, Shoothill, a company specialising in marketing campaigns for the creative
+industries, started developing open data products when commissioned to integrate
+data from the Environment Agency in web-based street maps. This initial project
+led to a product line based on flood alerts, including GaugeMap which has been
+recognised for its innovative and easy-to-use visualisations based on open data.
+Entering the open data ecosystem enabled Shoothill to build expertise in handling
+environmental data and develop new consulting services around it:
+”
+“We started to create open data products in order to
+provide better quality data analytics to our customers.
+Especially smaller companies that didn’t have the capacity
+to build these datasets on their own. We realised that
+being a data consultancy is a profitable line of work. As a
+small for-profit company, open data products allow us to
+build reputation in our sector and expand our customer
+base, but also contribute back to the ecosystem and help
+improve the quality of open data.”
+“
+”
+“A lot of people have seen our flood maps now. Our brand
+is a brand that they can trust. We have establish an area of
+expertise. We’re good with environmental data, we know
+what we’re doing, we’ve got a lot of experience in it.
+People are engaging with us to build systems that use
+either part or some of this data or mix it with other data
+“
+
+27/10/2022, 14:12How UK companies are using open data to innovate – The ODI
+https://theodi.org/article/research-open-data-means-business-pg2/3/7
+– Rod Plummer, Shoothill
+Mime Consulting, a boutique consultancy in the educational sector, shows how
+open data products can help companies to grow their customer base within their
+sector and reach new customer segments:
+– Steve Preston, Mime Consulting
+Large companies: embracing open data
+Arup are demonstrating how a big company can embrace open data. The company,
+in the context of its digital.Arup services for the built environment, uses open data
+for the development of products and services offered to their clients.
+One such example is The Hazard Owl, Arup’s Risk Information Action System. By
+using real-time natural hazard information from public feeds, the system alerts
+clients of natural disasters to initiate risk mitigation and business continuity plans.
+Arup not only embed open data in their technical infrastructure; they also use it as a
+tool to improve engagement between citizens and city leadership.
+sets, to come up with something useful. This has become
+quite a big part of our business.”
+”
+“Open data helped us raise awareness of the importance
+of data-driven decisions guiding post-GCSE educational
+choices. It also enabled us to gain access to more schools
+and local authorities that wish to explore the possibilities
+offered by open data.”
+“
+”
+“Arup is now moving to the next level: how to develop
+technical architectures to make this data flow? How do you
+set up in a city or at a city scale, architectures and
+standards that allow the reduction of cost and friction but
+also respect privacy and trust issues around data? And I
+think the open data framework again is one of the key
+methodologies to do that.”
+“
+
+27/10/2022, 14:12How UK companies are using open data to innovate – The ODI
+https://theodi.org/article/research-open-data-means-business-pg2/4/7
+– Volker Buscher, Arup
+How UK companies work with open data
+UK companies play a range of different roles when it comes to open data, and our
+research reveals a number of these.
+Figure 2.1: Responses to the question "How does your company currently use open data?" See Appendix Table
+A2.1 for a table of responses including frequencies. (n = 79, multiple responses allowed
+Nearly two thirds of companies surveyed (63%) are processing open data,
+unsurprising given that open data quality is often a key concern for businesses.
+Almost as many companies are developing products using open data (59%) and
+providing insights based on open data (57%).
+Fewer companies are providing open data infrastructure (42%). This may reflect
+the dynamic that in most contexts there are fewer infrastructure providers than
+users of their infrastructure. A sizeable number of companies responding to the
+survey are publishing open data (41%), which is consistent with our findings
+that government and the public sector is not the sole source of open data.
+These open data roles do not appear to be exclusive pursuits. Indeed, we found
+that over three quarters of respondents (79%) were carrying out two or more of
+these functions.
+Business approaches to open data products and services
+”
+
+27/10/2022, 14:12How UK companies are using open data to innovate – The ODI
+https://theodi.org/article/research-open-data-means-business-pg2/5/7
+When it comes to pricing for open data products and services, open data
+companies are using a variety of different methods. In fact, over a quarter (28%) of
+companies indicated they were using two or more mechanisms of the mechanisms
+described below, either for the same or different open data offerings.
+Figure 2.2: Responses to the question "Which pricing mechanism(s) does your company use for its open data
+products and/or services?" See Appendix Table A2.2 for a table of responses including frequencies. (n = 72, multiple
+responses allowed).
+The majority of respondents (57%) are providing products and services which give
+unlimited free access to everyone. The reasons for doing so vary for particular
+companies and for particular products. One key driver identified by interviewees is
+the role open data offerings can have in attracting customers to companies’ other
+products and services.
+– Ian MakGill, Spend Network
+Over a tenth of companies (14%) provide free access to a subset of users. This can
+be another means by which to attract and retain customers.
+“It’s better to give some of it away and use it to convert
+customers.”
+“
+”
+“
+
+27/10/2022, 14:12How UK companies are using open data to innovate – The ODI
+https://theodi.org/article/research-open-data-means-business-pg2/6/7
+      
+Creative Commons Licence
+– Steve Preston, Mime Consulting
+In addition, over a quarter of companies (28%) are providing rate or volume limited
+access to their open data offerings, indicating the adoption of freemium pricing
+models for open data products and services, as in many other areas of the digital
+economy.
+Almost a third of respondents (29%) provide only paid for products and services.
+Companies offering paid for consultancy services may explain the prevalence of
+this model. In addition a number of companies explicitly stated that their pricing was
+dependent upon the client.
+The findings in this section indicate that UK open data companies, collectively, are
+adopting a wide variety of commercialisation approaches. Further research is
+required to more thoroughly understand the specifics and benefits of various
+business models when applied to open data products and services.
+The other sections in this report focus on the range of companies investing in open
+data, the kinds of open data that companies use or produce, the challenges they
+face in doing so and some real-life company examples of open data innovation.
+How to cite:
+Please cite this report as: Open Data Institute (2015) Open data means business:
+UK innovation across sectors and regions. London, UK. Available at open-data-
+means-business-uk-innovation-sectors-regions
+PREVIOUS PAGE / NEXT PAGE
+“We intend to make the core features of Skills Route
+accessible for free by schools and their students. We’ve
+found that when you get your product into people that like
+it, they’re your best salespeople. We know there is a
+demand for this; it is about raising awareness, and
+developing a good product that meets a clear need.”
+“
+”
+
+27/10/2022, 14:13Open data that drives business – The ODI
+https://theodi.org/article/research-open-data-means-business-pg3/1/5
+Open data that drives business
+Fri Sep 9, 2016
+Share
+UK companies are using government and non-government open data from a
+wide range of sectors.
+Open data that drives business
+UK companies are using government and non-government open data
+from a wide range of sectors
+The UK is ranked top of 86 countries by the Open Data Barometer, which
+measures a country’s readiness to secure benefits from open data, its publication
+of key datasets and evidence of emerging impacts from open government data.
+The UK’s central repository of public sector open data, data.gov.uk, contains nearly
+15,000 datasets published with an Open Government License. Substantial open
+data resources are also published by non-government sources, such as nonprofits
+and community groups.
+Uses of government open data
+A large proportion (70%) of companies that responded to our survey use open data
+provided by government.
+Survey respondents were also asked to list the government datasets used in their
+companies. In total, 25 different open data sources were named, spanning central
+and local government and other public sector bodies, with numerous examples
+given of specific datasets. Many companies listed multiple datasets, with some
+stating that they used too many to list for the purposes of the survey. Appendix
+Table A3.1 summarises the survey responses on this topic.
+Ordnance Survey (OS) was cited most frequently (27% of companies) as an open
+data source. OS is Britain’s national mapping agency and a member of the Public
+Data Group. It has operated as a government-owned company since 1 April 2015.
+Companies also use open data related to local regions. Local and regional
+government (listed by 18% of companies) and the Department for Communities
+and Local Government, a ministerial department concerned with community policy
+Knowledge & opinion >
+
+27/10/2022, 14:13Open data that drives business – The ODI
+https://theodi.org/article/research-open-data-means-business-pg3/2/5
+(listed by 14% of the companies), are sources of open datasets that companies use
+recurrently.
+Other sources of open government data listed frequently include the Department
+for Transport and related bodies, the Office for National Statistics (ONS)
+and Companies House, which were listed by 20%, 18% and 14% of respondent
+companies respectively.
+Uses of non-government open data
+Almost half (49%) of the surveyed companies use open data from non-government
+sources such as businesses, nonprofits and community projects.
+The companies we surveyed were asked to list the datasets they use from non-
+government sources. Appendix Table A3.2 summarises the responses. Together,
+they named 14 different sources, and listed a variety of different datasets within
+them.
+Use of open geographic data is particularly popular amongst those companies
+that listed specific open data sources in their responses. OpenStreetMap, an
+openly licensed map of the world created by volunteers – with extensive
+annotations available as open data – is used by 24% of these companies.
+Companies also use open data from various non-governmental, international
+projects, generally developed by communities of members seeking to make large
+quantities of data available for widespread use. Projects such
+as DBpedia, geonames, Wikimapia, p-lei.org,
+DMOZ, OpenCorporates and OpenCharities are all cited as sources of open data
+used by the companies.
+Transport-related data sources are also popular. These include Traveline,
+the Association of Train Operating Companies (ATOC), the General Transit Feed
+Specification (GTFS), the National Aeronautics and Space Administration (NASA)
+and the National Air Traffic Services (NATS).
+We can identify how companies use a combination of government and non-
+government open data by looking at those that responded to both of the above
+questions. Appendix Table A3.3 summarises these combined responses.
+The most number of respondent companies (39%) use open data from both
+government and non-government sources, although only a tenth (10%) are using
+non-government open data exclusively. This may indicate the importance of the
+role of government in the open data ecosystem, as a publisher of data to support
+development of new products and services, and as the driver of policy interventions
+related to open data and innovation.
+It is important to note that around a fifth of respondents (21%) stated that they were
+not using data from either type of source, which could represent those companies
+
+27/10/2022, 14:13Open data that drives business – The ODI
+https://theodi.org/article/research-open-data-means-business-pg3/3/5
+that solely provide infrastructure and/or publish open data and do not make use of it
+themselves.
+What types of data do companies use most
+When describing the open data they use, companies were able to select multiple
+sectors. Their responses show that data from a wide range is being used.
+Figure 3.1 - Responses to the question "What types of open data does your company use?" (n=76, multiple
+responses allowed). See Appendix Table A3.4 for a table of responses including frequencies.
+Geospatial/mapping open data is used by more than half (57%) of all respondent
+companies. Several other types of open data are used by more than a third of
+respondents, namely transportation (43%), environment (42%), demographics
+& social (40%) and business (38%) data.Respondent companies often use open
+data from multiple sectors. In fact, 79% of companies use data related to more
+than one sector and 14% of them use data related to more than 10. The mean and
+median number of data types by sector used by companies is 4.75 and 4
+respectively. These usage statistics, combined with detailed statements made by
+the companies interviewed, suggests that commercial value can be drawn from
+combining open datasets.
+“
+
+27/10/2022, 14:13Open data that drives business – The ODI
+https://theodi.org/article/research-open-data-means-business-pg3/4/5
+Companies could select ‘other’ for data they felt was not covered by the prescribed
+list of sectors, and to name those they used. They listed sectors like ‘3D’, ‘crime’,
+‘Internet of Things’, ‘jobs data’ and ‘political’. These responses not only further
+reflect the wide breadth of open data use by sector, but also open data use in
+combination with other emerging technologies. For example, the development of
+“How do we make money? Well, people are engaging with
+us to build systems that use [...] this [Environment Agency]
+data or mix it with other datasets, to come up with
+something useful. So it’s become quite a big part of our
+business.”
+“
+– Rod Plummer, Shoothill
+”
+“The data was siloed. You couldn’t search across multiple
+company registers, you couldn’t search for directors
+across multiple jurisdictions and you couldn’t combine the
+information from those registers together. We felt that the
+need was essentially to create a single unified interface to
+all of this data, allowing it to come together. Insight
+generally comes from combining more than one dataset
+together. As each dataset becomes available as open
+data, the opportunities for taking that and coming up with
+completely new business models, and new ideas about
+what’s possible, are tremendous.” 
+– Chris Taggart, OpenCorporates
+“
+”
+“Individual datasets? Yes they are accessible, but
+individual datasets by themselves don’t really add that
+much value. It’s only when you combine it, you clash things
+together, that you start seeing some value coming out of
+it.” 
+– Clifford McDowell, Doorda
+“
+”
+
+27/10/2022, 14:13Open data that drives business – The ODI
+https://theodi.org/article/research-open-data-means-business-pg3/5/5
+      
+Creative Commons Licence
+Open Data Institute, 5th Floor, Kings Place, 90 York Way, London N1 9AG
+Privacy policy Contact us
+widespread 3D printing capabilities and the growth of Internet of Things networks
+will raise new questions about the potential of open data. Companies in the UK are
+beginning to address these questions.
+The other sections in this report focus on the range of companies investing in open
+data, business strategies, the challenges they face and some real-life company
+examples of open data innovation.
+How to cite
+Please cite this report as: Open Data Institute (2015) Open data means business:
+UK innovation across sectors and regions. London, UK. Available at open-data-
+means-business-uk-innovation-sectors-regions
+PREVIOUS PAGE / NEXT PAGE
+“You could have a situation where we are building a silo of
+data around, say, Camden or something, but actually there
+are so many use cases that need to be fulfilled. If you don’t
+have an easy data exchange, the industry is not going to
+grow. The reason why the web has taken off is because we
+got rid of the silos. I think for Internet of Things the same
+thing needs to happen in order to [have the same]
+explosion.” 
+– Yodit Stanton, OpenSensors.io
+“
+”
+
+27/10/2022, 14:13Challenges for open data companies – The ODI
+https://theodi.org/article/research-open-data-means-business-pg4/1/13
+Challenges for open data companies
+Fri Sep 9, 2016
+Share
+Data quality and licensing terms are critical factors for companies using
+open data.
+Challenges for open data companies
+Data quality and licensing terms are critical factors for companies
+using open data
+In our survey, we asked companies to rate how far eight issues, or characteristics,
+influence their use of open data. These issues were derived from an assessment of
+open data publishing best practices, based on the Open Data Certificates – a set of
+standards designed to help make open data easier to find, share and use.
+Knowledge & opinion >
+
+27/10/2022, 14:13Challenges for open data companies – The ODI
+https://theodi.org/article/research-open-data-means-business-pg4/2/13
+Figure 4.1 - Responses to the question "Please indicate the extent to which each of the following issues influence
+your company's decision to use open data." (n=74) (Note that the percentages for ‘Accuracy of data’ sum to 101%
+due to rounding.) See Appendix Table A4.1 for frequencies.
+The eight issues appear to have varying levels of influence on a company’s
+decision to use open data. We provided a free-form response field so companies
+could elaborate on these and share further insights. The responses were mapped
+against the eight prescribed issues and are quoted throughout the discussion
+below.
+Accuracy
+Many companies that responded (80%) found accuracy of data important, with 39%
+of companies saying it had great influence on their decision to use open data.
+Example responses (related to accuracy of the data) to the question “If you wish to
+elaborate on any of these issues, please do so”:
+The data accuracy issues shared by companies through their survey responses
+and in-depth interviews fall into two categories: i) inaccuracies and quality issues
+with the data itself, and ii) significantly varying quality and presentation of
+similar data between different publishers, such as government spending data by
+department.
+Some of the main issues companies raised around data accuracy were that data
+can be collected or presented inconsistently, and often it is not granular
+enough. Regarding crime data, for example:
+“Pricing is not an issue as long as the data is of great
+quality (accuracy) and desirable.”
+“
+”
+“There is little or no benefit to the user if they do not trust
+that the data is accurate and up-to-date.”
+“
+”
+“The second [issue] is changes in the data – [the police]
+keepontinkeringwithwhattheyshouldincludeinitA
+“
+
+27/10/2022, 14:13Challenges for open data companies – The ODI
+https://theodi.org/article/research-open-data-means-business-pg4/3/13
+Other accuracy issues highlighted by companies surround the various different
+standards for data collection and publication, which cause problems when
+combining data from multiple sources:
+Licensing
+An open licence is one that enables anyone to access, use and share data,
+including companies who can use it to develop commercial products and services.
+Over half (55%) of the companies said that the way that datasets are licensed had
+a great influence on their decision to use data. Only 8% suggested that licensing
+had little or no influence.
+Example response (related to licensing of the data) to the question “If you wish to
+elaborate on any of these issues, please do so”:
+keep on tinkering with what they should include in it. A
+case in point being our local authorities have a 101
+incident, which is [classed as being] anti-social behaviour.
+So if you see a burnt-out car, or someone’s done graffiti, or
+someone’s dumped a mattress in the street, it’s antisocial
+behaviour but it’s not a criminal offence.
+The local authorities catch incidents and they give that
+information to the police. The police could very easily
+break that down, and that could be easily mapped and
+presented back to you as a citizen. But they just group it all
+under ‘anti-social behaviour’ and refuse to release that
+information.” 
+– Clifford McDowell, Doorda
+”
+“We take data from over 330 different publishers [...] not
+one of them does the same thing as the next one and most
+of them don’t do the same thing month to month. I’ve got
+170 councils in our dataset [...] Some publish virtually
+nothing, some publish a lot. The variance in quality of the
+data is incredibly difficult. Data quality is a big issue. 
+– Ian Makgill, Spend Network
+“
+”
+“Licensing terms of the dataset should include commercial
+“
+
+27/10/2022, 14:13Challenges for open data companies – The ODI
+https://theodi.org/article/research-open-data-means-business-pg4/4/13
+The UK Open Government Licence is the required licence for use by all central
+government departments and agencies publishing open data and its use is
+encouraged for local authorities and other areas of government.
+The Creative Commons public domain licence (CC0) and attribution licence (CC-
+BY) are commonly used open licences for non-government data, and, similarly to
+the UK Open Government License, allow for commercial reuse of the data. The
+Creative Commons attribution and share-alike licence (CC-BY-SA) is also used, but
+may limit a company’s ability to use that data for commercial products and services
+by requiring them to also attach the same open licence to the data they derive.
+Timeliness, provenance and accessibility
+Companies indicated that data timeliness, provenance and access also influence
+their decision to use open data, with 31%, 42% and 35% of them citing it as having
+great influence, respectively.
+Example responses (related to the timeliness, provenance and ease of access to
+the data) to the question “If you wish to elaborate on any of these issues, please do
+so”:
+Timeliness of data
+Provenance of data
+use.”
+”
+“There is little or no benefit to the user if they do not trust
+that the data is accurate and up-to-date.”
+“
+”
+“Ideally [data] has scheduled updates (e.g.
+OpenStreetMap every 60 seconds)”
+“
+”
+“
+
+27/10/2022, 14:13Challenges for open data companies – The ODI
+https://theodi.org/article/research-open-data-means-business-pg4/5/13
+Ease of access to datasets
+Timeliness of data is discussed more by some of the companies interviewed in-
+depth. In particular, companies would like data to be published with as little delay
+as possible, often driven by the need to combine datasets, which are more timely:
+“Provenance is vital unless you can independently verify.”
+”
+“It is notable that public data stores are ordinarily
+presented as ‘separate’ from corporate web pages, such
+that open data of relevance to specific policy objectives
+and/or services do not appear in the same place to
+promote awareness of them and/or facilitate ease of
+access for non-technical users.”
+“
+”
+“The current ‘improvements’ being implemented at
+government level has hindered much of our work due to
+data moving [and] data links often not working.”
+“
+”
+“We use [claimant data from the Office of National
+Statistics] and we compare that with the number of [job]
+vacancies that we observe on Adzuna. I would say that
+one frustration, which you may have heard from other
+sources as well, is the timeliness of that data. In particular,
+the ONS data is effectively a month or two (or possibly
+even longer) out of date before it gets made available. 
+I appreciate some of the reasons why there is a delay, but
+it does feel like there is scope for reducing some of that
+delay. That’s one of the biggest limitations that we see
+because obviously our data, due to the nature of our
+business, is very much real-time. At any minute of the day
+tlhjbdt’td
+“
+
+27/10/2022, 14:13Challenges for open data companies – The ODI
+https://theodi.org/article/research-open-data-means-business-pg4/6/13
+Data provenance relates to its source and the way it has been collected, used and
+modified. Clear data provenance helps users to understand the context around the
+open data, and allows them to use it with confidence. For example:
+Open data being difficult to access was another issue raised by the companies.
+This is generally down to many different sources of open data, including websites,
+data stores and portals:
+we can see exactly how many job adverts we’ve got and
+what the average salaries are, whereas there’s this quite
+big lag between data being collected by the ONS and the
+publication of that data.” 
+– James Neave, Adzuna
+”
+“I very much run as a stream, I have to constantly flow with
+data. I want to constantly be as fresh as possible. Albeit
+some datasets may only be released once a year, but it’s
+enough for some people so you can do direct comparison
+year on year. But if you’re just dropping in random bits of
+data, it’s not a lot of use to people, it’s got to be a constant
+flow so you can map trends and compare the previous
+activity and so on.” 
+– Clifford McDowell, Doorda
+“
+”
+“We provide clear, unambiguous data with provenance, so
+we say where we got it from and when we got it. That sort
+of thing is quite hard to get in the business information
+world and we do it in an effective, efficient way that is more
+effective and more efficient than the companies getting it
+themselves. 
+People are wanting to combine data together and that lack
+of provenance really makes the data much less useful. 
+– Chris Taggart, OpenCorporates
+“
+”
+
+27/10/2022, 14:13Challenges for open data companies – The ODI
+https://theodi.org/article/research-open-data-means-business-pg4/7/13
+Data formats, accompanying documentation and support from publishers all
+have less of an impact on whether or not companies use open data.
+Responses regarding the data formats did, however, reveal a variety of opinions on
+this topic. These particularly relate to the provision of open data in computer-
+accessible and machine-readable formats, via an Application Program Interface
+(API), for example, or in linked data form.
+Example responses (related to the format of the data) to the question “If you wish to
+elaborate on any of these issues, please do so”:
+“There’s no central data point [...] I know you have the
+Cabinet Office website, data.gov.uk, but you have to
+monitor that [...] There’s lots of local websites and there’s
+the Land Registry as well. There’s also Police.co.uk, there’s
+many other areas where data is being sent out. Again
+that’s all released in different ways in different formats. A
+lot of companies don’t even know about the demographic
+data, or the social economic data, that’s available. So it’s
+as much about market intelligence as it is about making
+that data accessible.” 
+– Clifford McDowell, Doorda
+“
+”
+“That’s another problem, if there’s too much [data], you
+can’t find it. There [are] different places to find different
+bits, you’ve got data.gov, you’ve got all these different
+websites, all these different agencies. They’ve all grown
+organically and separate from each other and I know
+everybody would love one enormous data place where
+you go to get all your data. The trouble is if that site isn’t
+really good, you’re never going to find it.” 
+– Rod Plummer, Shoothill
+“
+”
+“Data need to be in a computer readable format. The
+format type does not matter.”
+“
+
+27/10/2022, 14:13Challenges for open data companies – The ODI
+https://theodi.org/article/research-open-data-means-business-pg4/8/13
+The companies didn’t choose to elaborate on the issues of accompanying
+documentation or help and support from publishers, which also have relatively low
+influence on the decision to use open data.
+This may be an artefact of the employees who responded to the survey on the
+behalf of their companies, many being technology specialists and/or working
+closely with open data. Those with expertise may not need help and support from
+publishers or accompanying documentation.
+Other challenges
+A further challenge surrounding the use of open data – which wasn’t addressed
+explicitly in the eight issues discussed – was revealed when the companies were
+askedtodescribewhethertheyhadpreviouslyusedopendatabutstopped
+”
+“Access to data via an API (of whatever sort) is usually a
+big advantage for us.”
+“
+”
+“There are a number of reference datasets that we wish the
+UK public sector would provide in linked data form. If they
+did, we’d use them a lot.”
+“
+”
+“Has to be processable using opensource tools”
+“
+”
+“Has to be complete datasets i.e. not stuck behind a
+sparql endpoint”
+“
+”
+
+27/10/2022, 14:13Challenges for open data companies – The ODI
+https://theodi.org/article/research-open-data-means-business-pg4/9/13
+asked to describe whether they had previously used open data but stopped.
+This challenge concerns the continuity of open data publishing. Some
+companies said the open data that they had previously used to develop a product
+or service had not been updated or had become unavailable.
+Example responses (related to the continuity of data publishing) to the question “If
+your company has previously used open data in particular products and/or services
+but ceased to do so, could you please describe why?”
+The responses describe issues surrounding discontinuous publishing,
+particularly by government. Companies describe how data they used was produced
+as a one-off and not maintained as an ongoing release. The usefulness of Freedom
+of Information (FOI) requests, and the data they may release, to companies in the
+UK is also questioned:
+“Still use old version but, for example, VisitEngland no
+longer appear to maintain their list of tourist attractions.”
+“
+”
+“– because, the map was produced as a ‘one off’ and
+wasn’t updated.”
+“
+”
+“There is a long way to go before we get real open data
+from government – many requests are treated as FOIs not
+data provision. All work with Gov data is fragile as you
+cannot guarantee that the following year a different data
+officer won’t take a different view as to what will be realised
+and why.”
+“
+”
+“The biggest issue [with open data] is someone could just
+stop providing a dataset. That’s the biggest problem. So if
+someone comes awry or it just gets taken away, I can’t end
+upforcingthemtoreleasedatasetsthat’sthebiggest
+“
+
+27/10/2022, 14:13Challenges for open data companies – The ODI
+https://theodi.org/article/research-open-data-means-business-pg4/10/13
+The need for more open data to be published by government is a common issue
+raised by companies interviewed. Companies discuss in detail what kinds of open
+data could be used commercially, with two distinct themes emerging from the
+interviews.
+The companies suggest that there is still more work to be done on the part of
+government to release open data. The partial release of spend statements and
+other transaction data by publicly-funded entities, such as the NHS, is a challenge
+for companies developing products and services. This partial release, and
+subsequent demand for more open data to be published, can result from
+inconsistencies in publishing across government entities, or incompleteness of the
+data they do publish. For example:
+up forcing them to release datasets, that’s the biggest
+problem. 
+If I was to [make] a Freedom of Information request, that
+would be a one-off and within a few weeks would pretty
+much become useless to people.” 
+– Clifford McDowell, Doorda
+”
+“I don’t mind inconsistency in the publishing [of the open
+data]. What  is really problematic  is not publishing at all. For
+example, nearly half of the NHS doesn’t have to publish
+spend statements  because they’re supposed to be
+independent of central control  .  Localism shouldn’t be used
+as an excuse to create a democratic deficit ,     a nd when I
+say not publishing, that could  be about sub-quality data as
+well as no data. There’s a difference between dirty data,
+where we can extract it if we work on it, and data that
+doesn’t have information. So give me a  six months of
+transactions without any dates, that’s no use.  We can’t
+work with that.  S o that’s the first challenge,  getting useable
+data.” 
+– Ian Makgill, Spend Network
+“
+”
+“The future of open data is in the hands of governments
+because what we’re talking about, for the most part, is
+“
+
+27/10/2022, 14:13Challenges for open data companies – The ODI
+https://theodi.org/article/research-open-data-means-business-pg4/11/13
+Companies also describe how the release of more open government data could
+realise commercial opportunities by enabling them to develop better or new
+products and services:
+core public data that was always meant to be part of the
+public record but that over the last 10 or 20 years has
+turned into something that they sell. I think that the UK has
+led the world in this and is now starting to genuinely reap
+benefits from this, in terms of both innovation and in
+internal processes. Governments, particularly those
+governments that sign the Open Data Charter, need to
+follow that through otherwise all the things they talked
+about to do with transparency, better governance,
+innovation and so on, will not come to fruition. I think if we
+want those things, if we want good governance, if we want
+transparency, if we want a healthy democracy and if we
+want innovation, then open data is an absolute requirement
+because all of those statutory core datasets are essential
+to this.” 
+– Chris Taggart, OpenCorporates
+”
+“Open data needs to go more local. I think [government]
+needs to start getting some pressure applied on [local
+councils]. Where are the public toilets? Some release [that
+data] some don’t. 
+[Data about] how tall [the trees are], about the local parks,
+about dogs being caught, anti-social behaviour incidents,
+social housing, planning applications, a request for a new
+planning application [and] why it’s been rejected – all this
+should be freely available online in a standard format, so
+you, as a citizen, can just tap in instantly and see what’s
+happening. If data was more freely available we would be
+even more adult about how we engage with government.” 
+– Clifford McDowell, Doorda
+“
+”
+“The open data portion of Companies House information is
+itdbtitilittlbitliitdditldbfl
+“
+
+27/10/2022, 14:13Challenges for open data companies – The ODI
+https://theodi.org/article/research-open-data-means-business-pg4/12/13
+You can find a summary of open data issues that could be addressed by
+government to continue to drive innovation in our conclusion and
+recommendations.
+How to cite
+Please cite this report as: Open Data Institute (2015) Open data means business:
+UK innovation across sectors and regions. London, UK. Available at open-data-
+means-business-uk-innovation-sectors-regions
+PREVIOUS PAGE / NEXT PAGE
+quite good but it is a little bit limited and it would be useful
+if they could make more of it publicly available. 
+It would be valuable for us because we’d be able to
+provide more information about employers for our users so
+that, say you click on a particular job advert on Adzuna,
+you could for example see that [...] the employing
+company is Tesco. Then, if we were able to get the
+information from Companies House open data, we could
+have a more detailed page of information about Tesco
+talking about, for example, the total size of the business,
+number of staff, turnover, revenue and profit over the last
+few years. I believe that only some of that interesting
+information is currently available through Companies
+House open data.” 
+– James Neave, Adzuna
+”
+“Transparency is good but I think a more interesting aspect
+[of public sector data release] is when you can use that
+data to make better decisions [...] to either improve the
+way that somewhere is governed or to make better use of
+limited money” 
+– Bill Roberts, Swirrl
+“
+”
+
+27/10/2022, 14:13Examples of UK companies using open data – The ODI
+https://theodi.org/article/research-open-data-means-business-pg5/1/9
+Examples of UK companies using open data
+Fri Sep 9, 2016
+Share
+How are UK companies working with open data?
+Examples of UK companies using open data
+Arup 
+Adzuna 
+Doorda
+FoodTrade 
+GeoLytix 
+Mime Consulting 
+OpenCorporates 
+OpenSensors.io 
+Shoothill 
+Spend Network 
+Swirrl 
+TransportAPI 
+How to cite
+How are UK companies working with open data?
+In this section we highlight 12 companies that use or produce open data as part of
+their work in different ways. From smart city planning to flood warnings, job
+opportunities to education options, the companies use open data to offer
+diverse services to businesses, government and individuals.
+Arup
+Arup uses open data to help plan smart cities and mitigate against risk and natural
+disasters in the built environment.
+Arup is a multinational professional services firm of designers, planners, engineers,
+consultants and technical specialists. It provides engineering, design, planning,
+project management and consulting services for the built environment.
+Open data is an important part of Arup’s work with smart cities and the technology
+thatsupportsthemAruphasdevelopedpolicyframeworksthatfocusontheroleof
+Knowledge & opinion >
+
+27/10/2022, 14:13Examples of UK companies using open data – The ODI
+https://theodi.org/article/research-open-data-means-business-pg5/2/9
+that supports them. Arup has developed policy frameworks that focus on the role of
+open data to deliver new, better or more efficient services in cities, while
+responding to decreasing public sector budgets. Arup incorporates open data as
+part of the technical architecture required to overcome constraints in cities such as
+traffic and congestion, and improve engagement between citizens and city
+leadership. The company has developed a risk information action system, The
+Hazard Owl, which uses real-time natural hazard information from public data
+feeds. It is used to alert clients of natural disasters so they can mitigate against risk
+and help to protect their business.
+Arup also sees open data as an increasingly meaningful source of information for
+the analytics and advisory services it provides.
+Website: arup.com 
+Twitter: @ArupGroup 
+Headquartered: London, UK 
+Company size: Large 
+Number of employees: 11,355 
+Annual turnover: £1,048,276,000
+Adzuna
+Adzuna simplifies the job hunting process by helping users better understand the
+market and find the best jobs for them.
+Adzuna is a search engine that aggregates job adverts to provide a comprehensive
+view of the jobs market. It combines adverts from several hundred different online
+sources, including the largest online job boards and vacancies advertised directly
+by employers. This gives job hunters access to over 1 million job adverts at a
+given time.
+Adzuna uses open data to develop its Job Index, which provides an accurate,
+complete and timely view of the UK jobs market. The Job Index compares Labour
+Market Statistics (Jobseeker’s Allowance Claimant Count), published by the Office
+for National Statistics, with Adzuna’s jobs data to generate new metrics such as
+jobseekers per vacancy by location. These are reported in its monthly Job Market
+Report, which can be used by job hunters to compare the availability of jobs in
+different areas of the country.
+The company also provides free access to its jobs data via an application program
+interface (API). The aim is to allow third-parties to reuse the data aggregated by
+Adzuna to power job-search services in their websites and develop new
+applications.
+Website: adzuna.co.uk 
+Twitter: @Adzuna 
+Headquartered: London, UK 
+Companysize:Small
+
+27/10/2022, 14:13Examples of UK companies using open data – The ODI
+https://theodi.org/article/research-open-data-means-business-pg5/3/9
+Company size: Small 
+Number of employees: 10-50
+Doorda
+Doorda uses open data to help citizens and businesses discover and understand
+what is happening on their streets and in their local communities.
+Doorda is a startup company that specialises in bringing together different open
+government datasets into a single online map. This enables citizens to access,
+understand and engage with public information on their local area.
+Doorda aggregates open data from a number of different sources, including Ofsted,
+the Land Registry, the Food Standards Agency, the NHS and the Home Office.
+Citizens can use it for a number of different purposes. These include searching for
+properties, locating schools, understanding road safety, identifying crime and
+anti-social behaviour hotspots, comparing restaurant hygiene and accessing
+local news.
+The company also specialises in making open data accessible and useful to
+businesses and government in unique, innovative ways. Through access to the
+Doorda API, users can work with vast quantities of open data to develop new
+commercial understanding of an area. Doorda also provides advisory services for
+businesses, enabling them to investigate the availability of wider open data relevant
+to their interests and create bespoke data solutions to provide local, national and
+international insights.
+Website: doorda.com 
+Twitter: @Doorda 
+Headquartered: London, UK 
+Company size: Micro 
+Number of employees: fewer than 10
+FoodTrade
+FoodTrade maps the food supply chain system to help people buy and sell fresh
+produce, contributing to the creation of a fair, sustainable and local food system.
+FoodTrade is an online food platform that brings together local food producers
+and consumers. Producers, such as small farmers, restaurants or individuals, can
+feature their produce and map their supply chains to find new consumers and
+collaborators. Consumers can also use its search tools to find producers and
+sellers of various different types of food.
+FoodTrade has enrolled more than 1,600 businesses into its platform to date, and
+has facilitated more than 1,300 connections between them and other users. As a
+result, FoodTrade can map supply chains and promote transparency within the
+food sector, in which most supply chain data remains closed.
+
+27/10/2022, 14:13Examples of UK companies using open data – The ODI
+https://theodi.org/article/research-open-data-means-business-pg5/4/9
+FoodTrade recently launched FoodTrade.Menu, an automatic allergen labeller that
+uses open data from the Food Standards Agency. It can be used by restaurants
+and caterers to ensure their menus comply with allergen regulations. The menu
+data can then be fed into the FoodTrade platform to create ingredient lists and
+link users with local suppliers based upon the ingredients they need. FoodTrade
+will then make this extensive menu, produce and marketplace data available to the
+public through open APIs.
+Website: foodtrade.com 
+Twitter: @foodtradeHQ 
+Headquartered: Bristol, UK 
+Company size: Micro 
+Number of employees: fewer than 10
+GeoLytix
+GeoLytix combines geospatial data with domain expertise to help people make
+better decisions about the location of their businesses.
+GeoLytix is a specialist geospatial data and consultancy company. It offers a wide
+range of products based on geospatial data, such as maps, boundary data and
+points of interest, as well as analysis, training and consultancy services to
+develop new commercial insight.
+A number of the company’s geodata products are based on open data from
+sources such as Transport for London (TfL), the Land Registry, the Department for
+Education, the Department for Health and OpenStreetMap. GeoLytix develops
+them by processing and adding new value to existing open datasets or by
+creating new, novel ones using open data. These data products can be purchased
+off-the-shelf with transparent licensing terms.
+GeoLytix also releases a selection of its geodata products as open data. These
+include processed census data, a snapshot of postal sector boundaries, a subset of
+retail places, workplace data and manually geocoded supermarket locations.
+GeoLytix also develops complex, bespoke models to help business solve their
+location challenges.
+Website: geolytix.co.uk 
+Twitter: @Geolytix 
+Headquartered: London, UK 
+Company size: Micro 
+Number of employees: fewer than 10
+Mime Consulting
+Mime Consulting uses open data to enable students and their families to make
+informed decisions about their educational choices and career paths.
+MimeConsultingisadataconsultancycompanyItoffersarangeofmanagement
+
+27/10/2022, 14:13Examples of UK companies using open data – The ODI
+https://theodi.org/article/research-open-data-means-business-pg5/5/9
+Mime Consulting is a data consultancy company. It offers a range of management
+information services including data warehousing, analysis, visualisations and
+dashboard design. It also offers user-friendly software and website design to help
+automate data collection, analysis and reporting.
+The company has developed Skills Route, a platform designed to help young
+people make informed choices regarding their education. Skills Route
+combines students’ chosen subjects, grades and location with open data to provide
+personalised university, further education and employment options available in
+the future. It also shows how these choices can influence their career paths and
+future remuneration for their work.
+Skills Route’s projections are based on open data published by the Department for
+Education. Specifically, it uses the Level 3 value-added dataset (L3VA), which
+captures the progression of students between Key Stage 4 education and the end
+of their Level 3 qualification (which includes A-Levels and vocational equivalents). It
+also uses other open data from the Higher Education Statistics Agency (HESA) and
+the UK Commission on Employment and Skills (UKCES) to ensure that it shows
+students the full range of further and higher education opportunities.
+Website: mimeconsulting.co.uk 
+Twitter: @SkillsRoute 
+Headquartered: London, UK 
+Company size: Micro 
+Number of employees: fewer than 10
+OpenCorporates
+OpenCorporates makes information about companies and the corporate world
+more accessible, discoverable and usable for citizens and businesses.
+OpenCorporates is the world’s largest open database of company information.
+It has collected data for over 84 million companies from over 100 jurisdictions and
+aims to record a URL for every corporate entity in the world. Users can search
+the database for a particular company or browse companies by jurisdiction, to
+identify characteristics such as company type, trading status, incorporation date,
+registered address and company directors.
+OpenCorporates aggregates data from a number of different sources, often through
+automated scraping of web pages and PDFs. Sources include national company
+registers, government websites, national information centres, official company
+filings, gazettes and data released under the Freedom of Information Act.
+Access to OpenCorporates’ data is enabled via an API, and reuse of the data is
+governed by an Open Database Licence with share-alike and attribution clauses.
+This requires users to publish their work back to to the open data community as
+open data. Those who wish to use the data without the share-alike restrictions, or
+API rate and volume limits, can do so under commercial licensing agreements.
+Usersincludejournalists,governments,majorcreditreferenceagenciesand
+
+27/10/2022, 14:13Examples of UK companies using open data – The ODI
+https://theodi.org/article/research-open-data-means-business-pg5/6/9
+Users include journalists, governments, major credit reference agencies and
+anti-money laundering organisations, which use the data to better understand,
+monitor and regulate companies around the world.
+Website: opencorporates.com 
+Twitter: @opencorporates 
+Headquartered: London, UK 
+Company Size: Micro 
+Number of employees: fewer than 10
+OpenSensors.io
+OpenSensors.io provides an Internet of Things (IoT) platform that helps users
+create smart products and services to build better connected systems and
+environments.
+OpenSensors.io offers smart products and services such as real-time data
+access, data security and storage, analytics and machine learning via its IoT
+platform.
+OpenSensors.io’s real-time messaging engine can process millions of messages a
+second from any internet-connected device, such as a sensor or camera.
+Businesses can use the platform for many purposes – from automating huge
+networks of car parks through licence plate recognition cameras and motion
+sensors to optimising office spaces by configuring devices such as thermostats,
+lights and locks to respond to the preferences of the people working in them.
+Anyone using the Opensensors.io platform to publish data can use it for free,
+providing their device publishes their work as open data. As a result, the platform
+provides access to valuable real-time and historical open data generated in
+thousands of projects and their connected devices. This enables other individuals
+and businesses to use the data to experiment, innovate, research and incorporate it
+into their own products and services.
+Website: opensensors.io 
+Twitter: @OpenSensorsIO 
+Headquartered: London, UK 
+Company size: Micro 
+Number of employees: fewer than 10
+Shoothill
+Shoothill creates visuals and tools to convert geospatial and statistical data into
+dynamic, accessible information on flood risks.
+Shoothill is a software development company that specialises in data visualisation
+and online mapping. It currently offers three mapping products that can be used to
+understand and reduce the risk of flooding in the UK, based on open data provided
+by the Environment Agency.
+
+27/10/2022, 14:13Examples of UK companies using open data – The ODI
+https://theodi.org/article/research-open-data-means-business-pg5/7/9
+ygy
+Shoothill’s FloodAlerts product is an online graphical representation of flood
+warnings, which provides localised updates to keep users informed about
+flooding in their area. Shoothill’s GaugeMap is a live map of river levels, based on
+data from 2,400 river level monitoring gauges and is updated every 15 minutes.
+Each gauge is assigned a Twitter account for local citizens to follow, which tweets
+snapshots of this data twice every day. Users can also visualise flood risks and
+calculate the risk of flooding to their property by river or sea, using Shoothill’s
+Check My Flood Risk.
+Shoothill also provides access to selected Environment Agency data through APIs,
+which enable others to develop new products and tools using the data. This
+includes the Flood Data, River & Tidal Levels, Groundwater, River Flow and 3-Day
+Flood Forecast datasets.
+Website: shoothill.com 
+Twitter: @Shoothill 
+Headquartered: Shrewsbury, UK 
+Company size: Small 
+Number of employees: 10-50
+Spend Network
+Spend Network helps the public sector to spend more efficiently and helps
+suppliers to compete for public sector contracts.
+Spend Network is an innovative startup using public sector spending data to
+develop new products and services. It aggregates public sector spending, tender
+and contract data for the UK and EU from around 330 different sources, collected
+through government websites, APIs and Freedom of Information requests.
+Access to Spend Network’s data is provided via an API, which contains information
+on the spending between UK public sector organisations and their suppliers for
+over 30 million transactions, worth over £878bn. Typical services for businesses
+include spending and contracting data analysis to forecast tender pricing and
+timelines. Spend Network also helps the public sector to understand its spending
+patterns and identify inefficiencies in the procurement process.
+The company plans to launch a procurement pipeline product for public sector
+organisations. The pipeline will visualise spending patterns in the public sector and
+alert potential suppliers to contracting opportunities, helping them to better prepare
+for and win public sector contracts.
+Website: www.spendnetwork.com 
+Twitter: @SpendNetwork 
+Headquartered: London, UK 
+Company size: Micro 
+
+27/10/2022, 14:13Examples of UK companies using open data – The ODI
+https://theodi.org/article/research-open-data-means-business-pg5/8/9
+py
+Number of employees: fewer than 10
+Swirrl
+Swirrl helps organisations organise and publish their data using open standards
+that ensure it can be accessed and used by others.
+Swirrl is a small technology company that provides open data publishing solutions
+to make data easy to find, understand and reuse. Swirrl’s PublishMyData
+platform is used by public and private sector groups to publish and manage their
+data online in structured, machine-readable forms.
+Swirrl helps publishers to meet open standards from the World Wide Web
+Consortium (W3C). It creates custom browsing and discovery features, such as
+visualisations and applications, to ensure complex data can be used by non-
+technical users.
+Swirrl also provides training, consultancy and custom support services, to help
+organisations better understand how to unlock the benefits of open data. The
+company plans to release new features for both publishers and users to enable
+data to be used more easily, and to help develop smart cities with its open data
+expertise.
+Website: swirrl.com 
+Twitter: @swirrl 
+Headquartered: Stirling, UK 
+Company size: Micro 
+Number of employees: fewer than 10
+TransportAPI
+TransportAPI unifies transport data from key industry sources to help individuals
+and businesses to create new transport-related products and services.
+TransportAPI is a transport solutions platform that seeks to create a single,
+comprehensive source of UK transport information. It consolidates timetables,
+routes, live running and performance history information for a wide range of
+transport types, including cars, buses, trains and bicycles.
+Open data from a number of sources is aggregated into Transport API’s unified
+platform, accessible via an API. These sources include Transport for London (TfL),
+the Department for Transport, Network Rail, Traveline and OpenStreetMap. Access
+to the API is based on the usage rate required by the user, with free access
+provided for limited use and different commercial packages available to users with
+more advanced requirements.
+Businesses can use Transport API’s accurate, detailed and timely transport
+
+27/10/2022, 14:13Examples of UK companies using open data – The ODI
+https://theodi.org/article/research-open-data-means-business-pg5/9/9
+      
+Creative Commons Licence
+Open Data Institute, 5th Floor, Kings Place, 90 York Way, London N1 9AG
+Privacy policy Contact us
+pyp
+data for a range of commercial purposes, from advertising to journey planning. It
+has fostered a network of over 1,100 developers and organisations that work with
+the data to create apps and other services.
+Website: transportapi.com 
+Twitter: @TransportAPI 
+Headquartered: London, UK 
+Company size: Micro 
+Number of employees: fewer than 10
+Note: Company sizes are based on the European Commission’s Directorate
+General for Enterprise and Industry’s classification of enterprise categories.
+How to cite
+Please cite this report as: Open Data Institute (2015) Open data means business:
+UK innovation across sectors and regions. London, UK. Available at open-data-
+means-business-uk-innovation-sectors-regions
+PREVIOUS PAGE / NEXT PAGE
+
+27/10/2022, 14:13Conclusions & recommendations – The ODI
+https://theodi.org/article/research-open-data-means-business-pg61/5
+Conclusions & recommendations
+Fri Sep 9, 2016
+Share
+This study has demonstrated the breadth and depth of business use of open
+data.
+Conclusions & recommendations
+Conclusions
+This study has demonstrated the breadth and depth of business use of open data.
+The 270 open data companies we looked at ranged from startups to established
+companies, from micro-businesses to large enterprises, and came from every
+corner of the country.
+Some companies, such as Arup and Spend Network, are using open data to help
+them understand their markets, to build new products and services, and to give
+them an edge over their competitors. Others, such as Swirrl and TransportAPI, are
+finding a new market opportunity in providing the tools that help others to benefit
+from open data. Innovators, such as Syngenta and GeoLytix, are adding value to
+their business by publishing open data that everyone can benefit from.
+Our research shows early evidence of the economic, social and environmental
+benefits of open data beyond the new and existing businesses that it
+enables. Adzuna uses open data to help job hunters find appropriate
+work. Mime Consulting draws on open data to help students make informed
+choices about their education and career choices. Shoothill provides
+visualisations and tools based on open data to give a better understanding of the
+risk and impact of flooding.
+These companies are the first movers in a growing ecosystem. Our study reveals
+that they are still predominantly technology companies, and focused in London. As
+the utility of available open data grows, and as its potential is recognised, we
+expect these biases to break down further. The diversity that this study has
+revealed illustrates the potential for organisations of all shapes and sizes to
+work with open data, not only for their own benefit, but for the benefit of our
+economy, society and planet.
+Our future research will aim to deepen our understanding of the nature and scale of
+the value created by open data by quantifying the benefits that are being felt by
+Knowledge & opinion >
+
+27/10/2022, 14:13Conclusions & recommendations – The ODI
+https://theodi.org/article/research-open-data-means-business-pg62/5
+open data companies and their customers. We will examine more of the ways in
+which UK companies work with open data, the barriers they face and how the
+adoption of open data might be accelerated.
+Recommendations for business
+The open data companies featured in this report are varied in their size, location
+and age, and showcase many different ways of using open data. The report
+provides a basis for all companies to seek out, explore and learn from these
+examples; to adapt the approaches for their own business or create completely
+new ones.
+Companies of all shapes and sizes can benefit from the opportunities that
+open data brings. All companies can use open data when making strategic
+decisions. Some may be able to use open data to improve or enhance existing
+products and services. A few may discover new opportunities to act as
+intermediaries, providing open data tools to a growing market. More may discover
+the potential of publishing open data to better connect with customers, suppliers
+and partners, or simply to demonstrate their corporate and social responsibility.
+As a company, now is the time to get to grips with the opportunities that all kinds of
+data – closed, shared and open – can bring to your business.
+A good first step is to become familiar with the open data resources, from both
+government and non-government sources, that you can use within your business.
+Top of your list are likely to be demographic statistics from the Office of National
+Statistics, and geospatial open data from Ordnance Survey and Open Street Map.
+Other data will be sector specific, and while the government has adopted an open
+by default policy in some cases you may need to request the data you need.
+The Finding Open Data guide provides many useful starting points for locating and
+requesting relevant data.
+Developing your company’s capacity to take advantage of data, both at the
+analytic and at the strategic level, is vital. To make the most of the potential that
+data has to offer, your employees need to be able to work with data, understand
+which data to trust, and incorporate data publication and use into your business
+model. The ODI offers a range of courses suiting everyone from executives to
+technicians, which can equip your business with the skills it needs.
+As with any novel area, the best source of intelligence about the opportunities for
+using open data, the barriers you will encounter, and how to surmount them, will
+come from companies who are already on this journey. Whether these companies
+are in your sector or beyond, forging connections with others who have
+experienced similar challenges provides opportunities to learn and find potential
+allies. Becoming an ODI Member is one way to connect with other organisations
+who are working with open data.
+The business opportunities around open data are boundless. At the ODI, we
+
+27/10/2022, 14:13Conclusions & recommendations – The ODI
+https://theodi.org/article/research-open-data-means-business-pg63/5
+ppp
+want to learn more about the innovation, the challenges and the impact of open
+data within companies. If you have an interesting story to share, or want to learn
+more about how open data can benefit your business, please get in touch.
+Recommendations for government
+Open data is fueling new products and services from UK companies across every
+sector. This study has shown that open data is a technology that can be used by
+everyone.
+The rapid growth of open data companies in the UK has been enabled in no small
+part by strong political leadership on open data. Over the past decade,
+successive UK governments have re-affirmed their commitment to open data as
+raw material for innovation, and sought to put in place policies that help
+government, businesses and people realise its benefits.
+This study also tells us clearly that the UK open data environment can still be
+improved. Some key findings have emerged from the issues encountered by
+companies using open data.
+Firstly, fundamental to a company’s ability to build viable products and services
+using open data is certainty on two key points:
+1. the data needed is made available as open data
+2. it will continue to be made available as open data
+Several companies interviewed noted that while data publication (‘getting the data
+out there’) has been a priority for government, in many cases the data that has
+most economic potential for companies is not available as open data (geospatial
+data and address data cited as two examples). In some cases where the data was
+available as open data, companies could not be sure it would continue to be
+published.
+Secondly, where companies could identify open data for potential use, several
+factors influence their ability to innovate. While a range of issues were
+acknowledged by companies surveyed, three key issues emerged:
+1. lack of accuracy and poor quality of the data
+2. licensing of the data
+3. ease of access to that data
+These are areas that require further attention by data publishers, to maximise
+reuse. Ultimately, while open data is being used by a significant number of UK
+companies to underpin new products and services, its foundations can be fragile.
+Data quality and reliability issues continue to hinder innovation.
+We therefore recommend that government continues to release as open data the
+datathatcompaniescanbenefitfrominparticularexpandingtherangeof
+
+27/10/2022, 14:13Conclusions & recommendations – The ODI
+https://theodi.org/article/research-open-data-means-business-pg64/5
+data that companies can benefit from, in particular expanding the range of
+geospatial data that is available and working towards the release of open address
+data.
+Further, we recommend that government should tackle the issues of accuracy,
+quality and reliable access to data. The ODI’s Open Data Certificates provide a
+measure of the quality of availability of open data and can provide detailed
+recommendations for improvements for individual datasets.
+Improved open data reliability could also be supported by the government
+encouraging or mandating the use of open data in its own decision making:
+– Ian Makgill, Spend Network
+Ministers, for example, could require the inclusion of the data and analysis
+underpinning any policy decision to be published as open data, as part of any
+impact assessment. This would serve to stimulate the release of data that is
+important to policy decisions (and therefore in the public interest), to encourage
+government to adopt evidence-based policy making, and to improve the quality and
+availability of data from the public sector.
+While this study has shown wide use of open data by companies within the UK, a
+direct result of the open data policies that have been put in place by the
+government over the last five years. But there is still more to do to improve the
+quality of publication, to make public sector open data a source that companies can
+rely on.
+How to cite:
+Please cite this report as: Open Data Institute (2015) Open data means business:
+UK innovation across sectors and regions. London, UK. Available at open-data-
+means-business-uk-innovation-sectors-regions
+“What if the government actually used open data for
+making decisions? Wouldn’t it get better? If there’s a spend
+analysis tool that’s out there that’s actually really good,
+either open up that data or use your statements to do your
+spend analysis. If [government] really want to improve the
+quality of open data, use it.”
+“
+”
+
+27/10/2022, 14:14Appendices – The ODI
+https://theodi.org/article/research-open-data-means-business-pg8/1/3
+Appendices
+Fri Sep 9, 2016
+Share
+Authors, editor, web production, acknowledgements, list of interview
+participants and related resources.
+Appendices
+Authors
+Jack Hardinges
+Jamie Fawcett
+Elpida Prasopoulou
+Tom Heath
+Jeni Tennison
+Ellen Broad
+Amanda Smith
+Editor
+Anna Scott
+Web production
+Kathryn Corrick
+Phil Lang
+Acknowledgements
+We would like to acknowledge the contribution to this research of:
+All featured companies, survey and interview participants
+Contributors to the database of open data companies
+The GovLab‘s Open Data 500 team, on whose work some of our survey
+questions were based
+Members of the ODI team: Anna Scott, Emma Thwaites, Gavin Starks, Helen
+Desmond, Jeni Tennison, Kathryn Corrick and Phil Lang
+The OpenDataMonitor project, funded by the European Union’s Seventh
+Framework Programme for research, technological development and
+demonstration under grant agreement no 611988, which has supported this
+researchinpart
+Knowledge & opinion >
+
+27/10/2022, 14:14Appendices – The ODI
+https://theodi.org/article/research-open-data-means-business-pg8/2/3
+research in part.
+List of interview participants
+Adzuna: James Neave, Head of Data Science
+Arup: Volker Buscher, Director
+Doorda: Clifford McDowell, CEO & Founder
+FoodTrade: Ed Dowding, CEO & Founder
+Geolytix: Sarah Hitchcock, Partner
+Mime Consulting: Steve Preston, Director
+Open Utility: James Johnston, CEO & Co-Founder
+OpenCorporates: Chris Taggart, CEO & Co-Founder
+OpenSensors.io: Yodit Stanton, CEO & Founder
+Shoothill: Rod Plummer, Managing Director
+Spend Network: Ian Makgill, Managing Director
+Swirrl: Bill Roberts, Founder
+Related resources
+All resources are provided under a Creative Commons – Attribution 4.0 (CC BY
+4.0) licence.
+Database of open data companies
+View as a Google Sheet.
+Download all tables as .xlsx.
+Please visit spreadsheet to download individual tables in .csv format.
+Tables featured or referenced in the report
+View as Google Sheet.
+Download all tables as .xlsx or .pdf.
+Please visit spreadsheet to download individual tables in .csv format.
+Survey sent to participating open data companies
+View as Google Doc.
+Available to download as .pdf.
+All graphics are made available on GitHub
+Licensing attributions
+The summary and section on the diversity of open data companies contain:
+Maps which use map tiles by Stamen Design, under CC BY 3.0. Data
+by OpenStreetMap, under ODbL (Open Data Commons Open Database
+License).
+The section on the diversity of open data companies and appendices
+tablescontain:
+
+27/10/2022, 14:14Appendices – The ODI
+https://theodi.org/article/research-open-data-means-business-pg8/3/3
+      
+Creative Commons Licence
+Open Data Institute, 5th Floor, Kings Place, 90 York Way, London N1 9AG
+Privacy policy Contact us
+tables contain:
+Analysis adapted from data from the Office for National Statistics licensed
+under the Open Government Licence v.3.0.
+UK Business: Activity, Size and Location, 2013
+Analysis of country and regional distribution (for Great Britain) and the London
+borough distribution based on data from the Office for National
+Statistics licensed under the Open Government Licence and the Ordnance
+Survey OpenData Licence.
+National Statistics Postcode Lookup (NSPL) Feb 2015
+Public database contains:
+Data from, and data adapted from, Companies House.
+Data adapted from data from the Office for National Statistics licensed under
+the Open Government Licence v.3.0
+ONS broad industry groups from UK Business: Activity, Size and Location,
+2013
+UK SIC Code 2007 from UK Standard Industrial Classification of Economic
+Activities 2007 (UK SIC 2007) – Summary of structure
+How to cite this report
+Please cite this report as: Open Data Institute (2015) Open data means business:
+UK innovation across sectors and regions. London, UK. Available at open-data-
+means-business-uk-innovation-sectors-regions
+PREVIOUS PAGE
+
+27/10/2022, 14:14Methodology – The ODI
+https://theodi.org/article/research-open-data-means-business-pg7/1/4
+Methodology
+Fri Sep 9, 2016
+Share
+Our research followed a mixed-methods design and was organised in three
+consecutive phases — identifying, surveying and interviewing open data
+companies.
+Methodology
+Our research followed a mixed-methods design and was organised in three
+consecutive phases — identifying, surveying and interviewing open data
+companies – as summarised in Figure 7.1 below:
+our research into UK open data companies
+This blend of desk research, surveying and interviews is conducive to studying an
+emerging phenomenon (Hesse-Bider, 2010) — in this case the commercial
+exploitation of open data. Specifically, it enabled us to gather and analyse a
+breadth of data covering both quantitative characteristics of UK open data
+companies and qualitative accounts of their perspectives and experiences.
+Identifying UK open data companies
+In the first phase of the study we used desk research to identify companies working
+with open data in the UK. Initially, we aggregated information from internal
+resources, such as the ODI membership and contact directories, to identify and
+develop a working list of candidate ‘entities’. At this stage of the research we kept a
+wide variety of entity types in scope including, for example, individual developers,
+companies not registered in the UK and charities. Analysis of publicly-available
+sources, such as data.gov.uk case studies, enabled us to increase this candidate
+Knowledge & opinion >
+
+27/10/2022, 14:14Methodology – The ODI
+https://theodi.org/article/research-open-data-means-business-pg7/2/4
+list to include 739 entities.
+We then conducted extensive additional desk research using open data from
+Companies House and the Office for National Statistics to collect specific pieces of
+data about each entity, such as legal company type and trading status. Using
+publicly accessible sources we developed our own descriptions of the entity and
+their open data usage. We also identified trading addresses and relevant contacts’
+names and email addresses from public sources.
+In order to limit our broader candidate list to valid UK open data companies we then
+developed and applied the following selection criteria:
+1. Must have a UK company number
+2. Must be an active company
+3. Must not have a dormant UK Standard Industrial Classification (SIC) code
+4. Must be a valid company type (Community Interest Company, Industrial and
+Provident Society, Limited Liability Partnership, PRI/LBG/NSC, PRI/LTD BY
+GUAR/NSC, Private Limited Company or Public Limited Company)
+5. Must not be a registered charity
+Applying these criteria reduced the candidate list from 739 entities to 399
+companies potentially working with open data in some capacity.
+Surveying UK open data companies
+In September 2014 we launched a survey to further explore how UK companies
+were working with open data. The survey targeted the companies on our filtered
+candidate list, with the exception of 15 for whom contact details were not available.
+This left a target group of 384 companies who we invited by email to complete the
+survey. This invitation was sent on 2014-09-23.
+At this stage, we also made the candidate list of UK open data companies available
+through the ODI website, to give companies the opportunity to see the information
+we had collected about them and their involvement with open data, and to provide
+us with feedback. We sent two reminder emails at 10 day intervals, on 2014-10-03
+and 2014-10-13, before closing the survey on 2014-11-01.
+In creating the survey, we followed Couper (2011) to produce an instrument that
+addressed pertinent issues while maximising response rates among very busy
+professionals. The questions were informed by systematic survey of open data
+literature (academic, government and industry) to identify the core themes in the
+field, and designed to cover various aspects of commercial open data activities,
+such as revenue streams, pricing mechanisms, datasets used, products and
+services developed, and challenges related to open data reuse.
+We received 77 survey responses from those companies invited to participate via
+email, which represents a response rate of 20%. An open call to complete the
+surveywasalsolaunchedviathe@ODIHQTwitteraccount,resultinginfive
+
+27/10/2022, 14:14Methodology – The ODI
+https://theodi.org/article/research-open-data-means-business-pg7/3/4
+survey was also launched via the @ODIHQ Twitter account, resulting in five
+additional completed surveys and 82 responses in total. We then aggregated and
+cleansed these to remove duplicate, incomplete and/or inadequate responses,
+leaving 79 valid responses for analysis.
+We analysed the resulting data using the ‘R’ statistics package and Google Sheets.
+A number of questions, primarily those involving free text answers, required a
+degree of re-coding. This was carried out to align, where possible, very specific free
+text answers with existing broader categories, in order for them to be included in
+the quantitative analysis. Logical inconsistencies between questions were also
+corrected. For example, where a respondent listed (in response to Question 10)
+non-government datasets they use, but failed to indicate in response to Question 9
+that they use non-government datasets, we re-coded the response to Question 9 to
+give an affirmative answer.
+For question 14 we asked companies to indicate the importance of eight different
+aspects of open data to their engagement. To analyse these together to look at
+relative importance meant we could only use companies which provided answers to
+all eight parts. In some cases companies answered some but not all questions. In
+order to maximise the analysis and include as wide a range of opinions as possible
+we used imputation. This entailed replacing missing values where companies had
+answered a majority of the parts (5, 6 or 7). The missing values were replaced by
+the mean of the other answers to that part so that the analysis would not be greatly
+affected.
+Some questions with non-numeric responses required grouping similar answers
+into categories in order to enable meaningful analysis. For example, in questions 8
+and 10, responses were grouped by data provider in order to identify how often
+each supplier was mentioned by companies. This involved recognising and
+grouping together suppliers who were mentioned in a variety of ways, for example
+“Ordnance Survey”, “OS” and examples of specific datasets such as “Codepoint”.
+Interviewing UK open data companies
+Following collection of the survey responses, we conducted follow-up interviews
+with 12 companies who had completed the survey. This enabled us to gain further
+insights into their work with open data.
+We selected companies for interview from a range of industry sectors, and who
+play varied roles within the ecosystem. In addition, we endeavoured to select
+companies with innovative products and services that have the potential to grow or
+scale in the future. This enabled us to further explore factors which may encourage
+or stifle more widespread commercial reuse of open data.
+The interview questions followed the themes of the survey questionnaire. However,
+we adopted an open ended interview format to encourage interviewees to elaborate
+on their work with open data. All interviews were completed either in person or via
+Skypeandlastedbetween30and60minutes
+
+27/10/2022, 14:14Methodology – The ODI
+https://theodi.org/article/research-open-data-means-business-pg7/4/4
+      
+Creative Commons Licence
+Open Data Institute, 5th Floor, Kings Place, 90 York Way, London N1 9AG
+Privacy policy Contact us
+Skype and lasted between 30 and 60 minutes.
+The interviews were recorded and transcribed for analysis according to the topics
+covered in the survey (Saldaña, 2009). New themes also emerged from these
+interviews, adding further insight to the survey responses. In particular, these
+concerned the challenges facing open data companies, including discontinuous
+publishing and the need for more data to be published.
+The data from the interviews was used, in part, to write the UK open data company
+use cases and provide a snapshot of their experiences with open data.
+Refining the list of UK open data companies
+Following completion of the survey and interviews we re-evaluated the 399
+companies included in our original candidate list to ensure there was sufficient
+publicly-documented evidence of their work with open data to warrant inclusion in
+the final list. This process resulted in the set of 270 companies you can find in
+the public database. Open data about these companies, sourced from Companies
+House, informed our analysis of the the scope and diversity of open data
+companies in the UK.
+References
+Couper, Mick P. (2011). The Future of Modes of Data Collection. Public Opinion
+Quarterly, 75(5): 889–908.
+Hesse‐Biber, S.N. (2010). Mixed Methods Research: Merging Theory with Practice.
+New York: Guilford Press.
+Saldaña, J. (2009). The Coding Manual for Qualitative Researchers. London: Sage.
+PREVIOUS PAGE / NEXT PAGE

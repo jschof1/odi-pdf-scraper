@@ -1,0 +1,790 @@
+
+
+1
+
+Contents
+About2
+Background3
+The importance of secondary use of health data in the European region4
+The 2021 European Health Data Space consultation6
+EU policy on secondary use of health data7
+Relevant EU-wide policy7
+Overview of current strategic direction10
+Analysis of key aspects of EU policies and implementation12
+Forward look15
+About
+This white paper was commissioned by Roche and researched and produced by
+the Open Data Institute and published in July 2021. The lead author is Mark Boyd,
+and the wider project team includes Mahad Alassow, Milly Zimeta, and Jeni
+Tennison.
+If you want to share feedback by email or would like to get in touch, contact us at
+policy@theodi.org.
+Open Data Institute 2021 / White paperEU policy on secondary use of health data2
+
+Background
+"Despite progress in recent years, high-quality data are not routinely collected in
+all settings, major health challenges are not adequately monitored, and effective
+interventions are not directed to the right people, at the right time and at the right
+place. This impacts policies and programmes and consequently, the health of
+entire populations. Similarly, in order to meet the shared SDG commitment to
+“leave no-one behind”, we need disaggregated data to ensure equitable health
+outcomes. This means we must strengthen comprehensive data systems,
+collaborate with other sectors, and apply innovative digital technologies to collect,
+analyse and use data to make informed decisions and deliver impact."
+-Dr Tedros Adhanom Ghebreyesus, WHO Director-General
+1
+The global Covid-19 pandemic has altered many of our societal and economic
+systems. Health data infrastructure has played a key role in enabling research to
+be shared, for disease and variant spread to be tracked and monitored, for
+cross-border care to be managed, and for cross-sector collaboration to be
+encouraged. However, the pandemic also revealed multiple gaps and barriers that
+prevented the free flow of data in a manner that is ethical, equitable and respects
+individual privacy. Concerns with privacy in Covid-19 app contact tracking, the
+inability for systems to analyse and share data on subpopulations facing greatest
+inequalities, interoperability barriers in sharing patient data across national
+borders, and the limited pooling of research data to understand potential
+treatment options were all evident across 2020.
+2
+But even before the pandemic, there was an urgent need to optimise healthcare
+systems and manage limited healthcare resources more effectively to meet the
+needs of growing, and often ageing, populations. Global and European-wide
+priorities to reduce inequalities require new action strategies. Technological
+advances enabling the use of large datasets coupled with artificial intelligence and
+machine learning algorithms to assess new therapeutic interventions to be tested
+and developed at pace need to be matched with ethical review and
+reimbursement and investment policies. There is also confusion in requirements
+for data localisation and storage, and impacts of procurement and contract
+arrangements with technology providers on data privacy and capacity to share
+data across borders.
+Now, coupled with the urgency of the pandemic, there is a heightened need to
+resolve how health systems will govern and steward health data to develop early
+diagnostic and health surveillance systems. This need is being matched by
+accelerated willingness to adopt digital healthcare solutions, and greater societal
+interest in understanding and ensuring personal data is managed responsibly and
+ethically.
+2
+Secretary-General of the Council of Europe, "State of democracy, human rights and the rule of law",
+https://rm.coe.int/annual-report-sg-2021/1680a264a2and the human rights and COVID-19 website of the
+Council of Europe: https://www.coe.int/en/web/portal/covid-19
+1
+WHO (2021), "Global report on health data systemsand capacity, 2020",
+https://cdn.who.int/media/docs/default-source/world-health-data-platform/score/who_2021-01-31_global-
+report-score_tb_v2.pdf
+Open Data Institute 2021 / White paperEU policy on secondary use of health data3
+
+The importance of secondary use of health data
+in the European region
+Secondary use of health data plays a central role in enabling all of these potential
+future trajectories. The Open Data Institute (ODI) has been commissioned by
+Roche to undertake a policy research project analysing the emerging secondary
+use of health data in the policy environment. This project seeks to identify
+opportunities that strengthen the European health data ecosystem. The project
+focuses on how secondary uses of health data can be enabled, while respecting
+individual health data privacy, and a final report and associated tools are expected
+to be published around September/October 2021.
+This project defines the secondary use of health data as:
+‘The use of aggregated health data from population-level sources
+including electronic health records, wearables technologies, health
+insurance claims data, health registry data (or burden of disease
+registries), drug consumption data, and data collected through
+research to improve personal care planning, medicines development,
+safety monitoring, research and policymaking.’
+Enabling secondary use of health data is a cornerstone of a health data
+ecosystem, and it requires a policy and implementation environment that protects
+personal data while enabling research and innovation.
+Secondary use of health data enables a wide range of use cases and benefits
+across the entire healthcare system, as described in Table 1, below.
+Open Data Institute 2021 / White paperEU policy on secondary use of health data4
+
+Table 1: Key potential use cases from secondary use of health data
+and the benefits they enable
+Use casesOptimise health systemsImprove the patient
+journey
+Encourage
+patient–public
+participation
+Expand innovation
+Key
+benefits
+enabled
+●
+Reduce healthcare
+costs
+3
+●
+Increase planning and
+more efficient resource
+allocation
+●
+Allow equity-focused
+prioritisation
+4
+●
+Modernise
+reimbursement and
+pricing models
+5
+●
+Enable insights for
+population health
+management, early
+diagnosis, prevention
+and healthy living
+6
+●
+Early, personalised
+and advanced
+diagnostics
+●
+Personalised care
+pathways and
+clinical decision
+support systems
+●
+Rapid access to
+personalised
+interventions
+●
+Remote monitoring
+and care via digital
+health apps and
+tools
+●
+Allow patient
+contribution of
+personal data
+●
+Leverage real-world
+data for health
+conversations
+●
+Enhance
+preventative care
+●
+Enable self
+management of
+chronic illness
+●
+Enable new research
+●
+Expand innovative
+medicine and
+technology
+development
+7
+●
+Facilitate predictive
+modeling
+●
+Reduce research
+risks
+●
+Allow new market
+entrants and
+encourage startups
+to work
+collaboratively with
+existing stakeholders
+●
+Strengthen
+assessment of
+health technologies
+Health data is often considered for secondary uses in medical research. This use
+case is expected to grow significantly with the use of artificial intelligence:
+datasets collected from electronic health records or from other clinical trials and
+research could be used to train machine learning algorithms when assessing
+potential effectiveness of new therapies, for example. This requires new ethical
+models of risk assessment. But health data is alsoused for other secondary
+8
+purposes, including to optimise health resource allocation and expenditure.
+An emerging use case is the secondary use of health data to support personalised
+healthcare along the entire patient journey. Whileelectronic healthcare data can
+9
+be used to improve healthcare decision-making for a patient (for example, by
+reducing risks of pharmaceutical contraindications when a patient has multiple
+prescribing healthcare professionals), an emerging use case for secondary use of
+health data is when an individual patient's healthcare data is compared with
+aggregated data from others with similar profiles. Drawing on this dataset enables
+precision medicine to emerge: healthcare professionals can create more
+personalised care pathways and speed up personalised intervention decisions.
+9
+Bignens, et al (2020), 'Consensus Paper on the BuildingBlocks for Personalised Healthcare',
+https://futureproofinghealthcare.com/sites/default/files/inline-files/PHC%20building%20blocks_Consensus
+%20paper_FINAL.pdf
+8
+Jungkunz et al (2021), 'Secondary Use of ClinicalData in Data-Gathering, Non-Interventional Research or
+Learning Activities: Definition, Types, and a Framework for Risk Assessment',
+https://www.jmir.org/2021/6/e26631
+7
+European Medicines Agency (2020), ‘GDPR and the secondaryuse of health data’
+6
+Journal of Law and the Biosciences (2020),’The useof data from electronic health records in times of a
+pandemic—a legal and ethical assessment’
+5
+BMC (2020), ‘A systematic literature review of healthconsumer attitudes towards secondary use and
+sharing of health administrative and clinical trial data: a focus on privacy, trust, and transparency’,
+4
+The Lancet Digital Health (2021), ‘Health data poverty:an assailable barrier to equitable digital health care’,
+3
+HIMSS, D’Amore, Mitchell (2020), ‘Electronic HealthRecord Data Governance and Data Quality in the Real World’
+Open Data Institute 2021 / White paperEU policy on secondary use of health data5
+
+The 2021 European Health Data Space
+consultation
+The creation of a European Health Data Space (EHDS) is one the key priorities of
+the European Commission in the area of health. It is one of the first initiatives to
+extend the work outlined in the European Strategy for Data. The purpose of the
+10
+EHDS is to promote health-data exchange and support research on new
+preventive strategies, as well as on treatments, medicines, medical devices and
+outcomes.
+This white paper shares some of our initial analysis on the overall European health
+policy environment and is intended to support stakeholders understand current
+issues in enabling secondary use of health data in advance of theEuropean
+Health Data Space consultation, which currently endson 26 July 2021.
+This public consultation focuses on:
+●
+the access to and use of health data for healthcare provision, research
+and innovation, policy-making and regulatory decision;
+●
+fostering a genuine single market for digital health services and products,
+including innovative ones.
+11
+This will be an opportunity for stakeholders to share their perspectives on what
+key data governance components should be addressed by the European Health
+Data Space in order to ensure health data creates benefits for everyone, while
+protecting privacy.
+The ODI's recent work on health data policy may also be useful to review when
+considering responses to the European Health Data Space consultation.
+This work includes:
+●
+HowCovid-19 symptom tracker appscan collate health-surveillance
+data for early diagnostics, without exposing personal health data.
+●
+The roledata intermediariescan play to protect theprivacy of health
+data while also making anonymised, aggregated health data available
+for scientific research.
+●
+The opportunity of secondary use of health data toopen new markets
+in physical activity businesses, which in turn generategreater
+preventative health opportunities for local populations.
+●
+How competitive industry stakeholders are able to collaborate and
+share clinical trial data on global health challengessuch as antimicrobial
+resistance, while still protecting their commercialadvantage.
+●
+Summary of the global data governance environment, including current
+debates on health data as a global public good, and current maturity of
+fata governance globally and emerging best practices, created as
+pre-reads for the WHO Data Governance Summit, heldon 30 June
+2021.
+11
+Description of EHDS and the goals of the public consultation were taken from the background paper for
+the public consultation:
+https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_21_2083/IP_21_2083_EN.pdf
+10
+European Commission (2020), European Strategy for Data,
+https://digital-strategy.ec.europa.eu/en/policies/strategy-data
+Open Data Institute 2021 / White paperEU policy on secondary use of health data6
+
+EU policy on secondary use
+of health data
+Overall, Europe presents an exciting policy base for the creation of secondary
+use of health data.In the last two years, in linewith the European Strategy for Data
+, a health data policy environment conducive to enablingsecondary use cases has
+12
+started to emerge. Policies and strategies increasingly take a joined-up approach.
+Our research has identified that four biggest challenges remain:
+●
+Differing interpretations of GDPR and lack of legislative clarity on how to
+enable secondary use of health data while maintaining Europe’s strong
+foundation of data privacy
+●
+Fragmentation in initiatives and approaches across Europe negatively
+affecting member states’ ability to support each other and encourage
+participation from all stakeholders
+●
+Lack of agreed common data models and open standards creating
+barriers for interoperability and reuse of health data
+●
+Limited focus on identifying opportunities to leverage secondary use of
+health data to reduce health inequalities.
+Relevant EU-wide policy
+There are two main policy areas that impact on secondary use of health policy, as
+shown in Table 2 below. We have categorised these as:
+●
+European vision for a data-enabled future:These policiesand directives
+recognise the importance of data for enabling an open, innovative society
+and economy. This group of policies and legal instruments seeks to create
+the appropriate regulations, policy supports, investment and strategic
+direction that enable data to be shared to improve health outcomes for all
+people living in Europe.
+●
+Digital transformation of healthcare:These policies,initiatives and
+institutions look to modernise aspects of the healthcare sector and
+increase interoperability, within a member state and across borders, and
+to encourage collaborative networks that create new solutions for
+healthcare challenges.
+12
+European Commission (2021), ‘A European Strategy forData. Shaping Europe's Digital Future’,
+https://digital-strategy.ec.europa.eu/en/policies/strategy-data
+Open Data Institute 2021 / White paperEU policy on secondary use of health data7
+
+Table 2: Relevant European policies categorised by main theme
+European vision for a data-enabled futureDigital transformation of healthcare
+●
+General Data Protection Regulation
+13
+●
+European Strategy for Data
+14
+○
+Data Governance Act
+15
+●
+White Paper on Artificial Intelligence
+16
+●
+Final Report and Action Plan from the
+Commission Expert Group on FAIR Data
+17
+●
+Europe’s Digital Decade
+18
+●
+Communication on enabling digital
+transformation of health and care
+19
+○
+Commission Recommendation on
+a European Electronic Health
+Record exchange format
+20
+●
+1+ Million Genomes initiative
+21
+●
+European Reference Networks
+22
+●
+Electronic Exchange of Social Security
+Information
+23
+●
+Integrating Healthcare Enterprise
+24
+●
+eHealth Network
+25
+●
+One Health Action Plan Against AMR
+26
+In many instances, over the past three or four years, these two categories of work
+have been operating independently of each other. And while the strategies that are
+related to ‘Europe’s vision for a data-enabled future’ often reference other policies
+within that grouping, policies and initiatives within the ‘digital transformation of
+healthcare’ category often have a more independent implementation approach.
+This can be seen in the fragmentation, lack of common data models, and
+complexity of individual pilot and research studies being undertaken within
+healthcare digital transformation efforts.The shortcomingsof integrating this
+policy work were sorely tested during Covid-19, where implementations of
+electronic health records by EU member states often led to a lack of
+interoperability and data fragmentation across borders, and limitations in the
+ability to collect and compare data from different regions to assess Covid-19 rates
+and healthcare access.
+There is a third emerging grouping of policy work that could create a bridge
+between these two often disconnected areas. The following initiatives represent
+an opportunity for a new dialogue and a new collaborative approach focused
+on enabling the secondary use of health data.To achievemany of the intended
+health policy goals described in the following European policies, access to health
+data for secondary use purposes will be essential. This will involve multiple
+stakeholders from across the digital, healthcare, and privacy domains. The key
+policies and initiatives driving this joined-up approach are:
+26
+European Commission (2017), ‘A European One HealthAction Plan against Antimicrobial Resistance
+(AMR)’,
+25
+European Commission, n.d., ‘eHealth Network | PublicHealth’
+24
+EUR-Lex (2015), ‘Commission Decision (EU) on theidentification of ‘Integrating the Healthcare Enterprise’
+profiles for referencing in public procurement’
+23
+European Commission, n.d., ‘Digitalisation in socialsecurity coordination - Employment, Social Affairs & Inclusion’,
+22
+European Commission, n.d., ‘European Reference Networks’
+21
+European Commission (2021), ‘European “1+ MillionGenomes” Initiative’
+20
+European Commission (2019), ‘Recommendation on a EuropeanElectronic Health Record exchange
+format’
+19
+European Commission (2019), ‘Communication on enablingthe digital transformation of health and care in the Digital Single Market’
+18
+European Commission (2021), ‘Europe's Digital Decade:Commission sets the course towards a digitally empowered Europe by 2030’
+17
+European Commission (2018), ‘Turning FAIR into Reality’,
+16
+European Commission (2020), ‘White Paper On ArtificialIntelligence - A European approach to excellence and trust’
+15
+European Commission (2021), ‘European data governance’
+14
+European Commission (2021), ‘A European Strategyfor Data. Shaping Europe's Digital Future’
+13
+EUR-Lex (2018),General Data Protection Regulation(GDPR)
+Open Data Institute 2021 / White paperEU policy on secondary use of health data8
+
+●
+European Health Data Space
+27
+●
+Pharmaceutical Strategy for Europe
+28
+●
+European Medicine Authority Regulatory Science to 2025
+29
+●
+Europe’s Beating Cancer Plan.
+30
+While these policies have other primary goals, a key common element of the
+strategic work required for successful implementation of each of these initiatives is
+the availability of health data for secondary use cases. Improving the secondary
+use of the health data ecosystem will help ensure the success of the wider goals
+articulated in these policies. It is encouraging that, in contrast to the earlier
+healthcare modernisation policies, these more recent papers are able to identify
+the other, current, related bodies of work that are encouraging the acceleration of
+data and digitally enabled healthcare systems.
+These documents, as shown in Figure 1, below, tend to be more recent, and ask:
+●
+What are the health sector implications of those policies that outline the
+European vision for a data-enabled future?
+●
+How can current initiatives focused ondigital transformationof
+healthcareincorporate the policy directions of thevision for a
+data-enabled future?
+Figure 1:
+How relevant European health data policiesare connected when
+categorised by main theme
+30
+European Commission (2021) ‘Europe's Beating CancerPlan v.24’,
+29
+European Medicines Agency (2020), ‘EMA RegulatoryScience to 2025’
+28
+European Commission (2020), ‘A pharmaceutical strategyfor Europe | Public Health’,
+27
+European Commission, n.d, ‘European Health Data Space| Public Health’
+Open Data Institute 2021 / White paperEU policy on secondary use of health data9
+
+Overview of current strategic direction
+The European Commission has significant potential to create a cohesive
+ecosystem enabling the secondary use of health data. This will require
+supporting member states to implement standardised, interoperable, and
+collaborative health data strategies.The Commission’s‘European Strategy for
+Data’ aims to create a consciously ethical approach, including robust data
+protections for people and a commitment to strengthening data access and
+enabling data sharing for social benefit. Policies recognise the move towards
+collecting and managing ‘big data’ as an input source for innovation.
+However, the paradigm shift of the ‘big data revolution’, which has enabled
+large-scale and rapid data collection of rich or granular data, and new kinds of
+advanced data analysis or digital products and services, also brings challenges.
+Much of the legislation and regulation around data collection, management,
+governance and use was developed and ratified before big data technological
+developments. Their rapid growth and uptake, and the associated rate of change,
+can make it difficult for policymakers to feel confident that they are anticipating
+future needs, risks, and opportunities. Similarly, new potential uses of health data
+– including the secondary uses of health data for personalised healthcare – are not
+always easily navigated within existing health data policies.
+Much hope is being placed on the ability of the proposed European Health
+Data Space to overcome current fragmentation and create a new open health
+data ecosystem for Europe.The European Health DataSpacewill aim to:
+31
+●
+promote safe exchange of patients’ data (including when they travel
+abroad) and citizens’ control over data about their health
+●
+support research on treatments, medicines, medical devices and
+outcomes
+●
+encourage the access to and use of health data for research,
+policymaking and regulation, with a trusted governance framework and
+upholding data-protection rules
+●
+support digital health services
+●
+clarify the safety and liability of artificial intelligence (AI) in health.
+The European Health Data Space is intended to become ‘a system for data
+exchange and access which is governed by common rules, procedures and
+technical standards to ensure that health data can be accessed within and
+between Member States, with full respect to for the fundamental rights of
+individuals’.
+32
+The Joint Action Towards the European Health Data Spaceis the initial step
+33
+to create this network.Ideally, this network willtake a multi-stakeholder
+approach that encourages participation by industry, regulators, healthcare
+providers, health surveillance and data system operators, patient advocacy and
+consumer groups, emerging health tech startups, privacy and digital rights
+advocates, and researchers. Drawing on examples for digital government
+frameworks,this network could identify key use casesand priorities of work,
+34
+34
+Publications Office of the EU (2020), ‘An ApplicationProgramming Interfaces (APIs) framework for digital government’,
+33
+TEHDAS (2020), ‘Joint Action for the European HealthData Space’
+32
+European Commission (2019),Assessment of the EUMember States’ rules on health data in the light of GDPR
+31
+EUR-Lex (2016), ‘EU eGovernment Action Plan 2016-2020Accelerating the digital transformation of government’
+Open Data Institute 2021 / White paperEU policy on secondary use of health data10
+
+facilitate the use of open standards and common data models, and agree to build
+shared services and common datasets that could be used as the backbone for
+industry innovation.
+On 23 June, the project group overseeing Towards the European Health Data
+Space released a progress report that confirms the fragmentation challenges that
+occur when attempting to share health data for secondary uses. They note that
+35
+current fragmentation in General Data Protection Regulation (GDPR)
+implementation approaches at the member state level and the complex legislative
+context at the European level (in which at least 15 legal provisions across multiple
+legislations were identified) are preventing new public goods to be generated from
+sharing and reusing health data for secondary purposes. The report recommends
+that secondary use of health data be governed by specific legislation and eight
+key elements are discussed where health data governance legislation could be
+applied, including:
+●
+Patient, consent, and rights of the citizen
+●
+Protection and promotion of public health
+●
+Health research and specific data types
+●
+Health data as highly sensitive data
+●
+Exceptional need for data and cyber security
+●
+Health data in the private sector
+●
+Complex semantic interoperability
+●
+Fragmented regulatory framework at national level.
+The work of the European Medicine Agency (EMA) and strategies detailed in the
+Pharmaceutical Strategy for Europe outline how foundations could be built to
+enable this collaborative data ecosystem model:
+●
+EMA has supported the Ethics Guidelines for Trustworthy AIand,
+36
+through its Heads of Medicines Agencies (HMA)/EMA Big Data Steering
+Group,has outlined how these guidelines could helpinform the work of
+37
+an ethics committee to oversee secondary use of healthcare data, and
+help in the creation of a code of conduct for the health industry on
+secondary use of health data
+●
+Investment has led to the development of real-world data infrastructure
+(DARWIN EU: the Data Analysis and Real World Interrogation Network)
+38
+and has supported pilot models that test use of real-world data
+infrastructure for detecting drug safety issues
+●
+The need to create standardised tools for health technology assessment
+for use across Europe has been identified.
+38
+European Medicines Agency (2020), ‘2.2. Proposal fora Data Analytics and Real-World Interrogation Network (DARWIN)’,
+37
+European Medicines Agency (2020), ‘Big data’
+36
+European Commission (2019), ‘Ethics guidelines fortrustworthy AI’,
+35
+TEHDAS (2021), 'Why health is a special case for data governance,'
+https://tehdas.eu/app/uploads/2021/06/tehdas-why-health-is-a-special-case-for-data-governance-2021-0
+6-23.pdfavailable from:
+https://tehdas.eu/news/tehdas-analysis-health-data-needs-dedicated-eu-regulation/
+Open Data Institute 2021 / White paperEU policy on secondary use of health data11
+
+Analysis of key aspects of EU policies and
+implementation
+The following common themes were identified as risks and blockers in the current
+policy environment that may impact on the development of open and trustworthy
+secondary use of health data ecosystems.
+Governance:There are high expectations that the forthcomingEuropean Health
+Data Space will build common data governance systems. Various European-wide
+policy documents, and research papers aimed at understanding the secondary
+use of health data policy context, have come to similar conclusions:
+●
+that there needs to be shared agreement on data consent mechanisms,
+codes of conduct for use and sharing of data, common data models and
+data standards
+●
+that common infrastructure needs to be built
+●
+that greater multi-stakeholder collaboration must be facilitated.
+As this work commences via the Joint Action Towards the European Health Data
+Space, stakeholders will be required to share their opinions and implementation
+practices. This will require industry stakeholders and member states themselves to
+share and agree on various models and ways forward.
+One of the challenges to date, and part of the reason for the cycle of
+recommendations in recent years, is that there are limited examples of
+implementation and there is a reticence to express clear opinion on how to
+implement the specific components being proposed. For example, open
+standards are proposed, but which open standards to implement are often not
+stipulated. Multiple data models exist, but there is no agreement on which should
+be adopted. Sample codes of conduct are also often unavailable or unspecified. In
+the past two years, including in a major review of the fragmentation in
+implementing the GDPRas it applies to health datause cases, report findings
+39
+have returned to noting the need for codes of conduct and data infrastructure, yet
+avoid stating what code of conduct principles should be adopted or how data
+infrastructure should be organised.
+One example of how the lack of data governance maturity is in the area of data
+sharing. Data sharing is still fairly minimal across Europe, outside specific
+initiatives. The ambitious 1+ Million Genomes initiative,signed by 23 countries
+40
+across Europe, with the aim ‘to make the personal genomic datasets accessible in
+a secure manner for collective diagnostic purposes and prevention, and for
+research and innovation’ found that the greatest challenge was using existing
+datasets consistently and with the consent of patients. Electronic health record
+data systems are often insufficiently advanced to enable sharing of data beyond
+the clinical care setting.
+40
+European Commission (2021), ‘European “1+ MillionGenomes” Initiative’,
+https://ec.europa.eu/digital-single-market/en/european-1-million-genomes-initiative
+39
+European Commission (2019),Assessment of the EUMember States’ rules on health data in the light of
+GDPR
+Open Data Institute 2021 / White paperEU policy on secondary use of health data12
+
+Through the ODI's work for the World Health Organization, we have identified a
+41
+range of data governance components that need to be addressed at the
+structural, legal and technical levels. Work packages within the Towards the
+European Health Data Space project are already prioritising some of these
+themes. Longer term, the European Health Data Space will need to help
+harmonise principles, share best practices, and provide or identify tooling to
+support stakeholders to mature their health data governance in the areas shown in
+Figure 2, below.
+Figure 2:
+Key areas of health data governance thatwill need to mature with
+best practices and tooling
+Increased collaboration and exchange:Across Europe,there are a wide range
+of initiatives in sub-sector domains that seek to encourage data sharing. The
+European Joint Programme on Rare Diseases, for example,is a European health
+42
+reference network aimed at improving clinical care and sharing data for research.
+There is a need for greater understanding of how learnings from these models can
+translate to whole-of-Europe policy and data ecosystem environments.
+Role of health data in reducing inequalities:Theeconomic and societal benefits
+of enabling personalised healthcare are rarely calculated and described in
+European health policy documents beyond broad statements that they are
+expected to create substantial benefits. A new European Partnership on
+Personalised Medicinehas been identified for establishmentin 2023, and
+43
+43
+European Commission, n.d., ‘General Information Preliminarytitle of the European Partnerships European Partnership
+for personalised medicine’
+42
+EJP RD – European Joint Programme on Rare Diseaseshttp://www.ejprarediseases.org/
+41
+The ODI (2021), Preread 3: Data governance maturityand best practices,
+https://cdn.who.int/media/docs/default-source/world-health-data-platform/events/health-data-governance-
+summit/preread-3-who-data-governance-summit_data-governance-of-health-data.pdf?sfvrsn=ffbd4a33_1
+0
+Open Data Institute 2021 / White paperEU policy on secondary use of health data13
+
+recognition of the value of personalised healthcare is being referenced in new
+health policies such as Europe’s Beating Cancer Plan. This plan shows how
+44
+there are expectations that the European Health Data Space and the 1+ Million
+Genomes initiative will solve current challenges in the use of data for personalised
+healthcare. There are few documents that describe how health data could be
+leveraged to reduce health inequalities. For example, when large datasets are
+pooled, it is possible to create meaningful analysis that addresses specific
+subpopulation needs.
+In the current legislative agenda, the European Parliament has prioritised social
+fairness and prosperity and the mitigation of negative consequences of the
+Covid-19 crisis for vulnerable social groups. Toalign with these priorities, current
+45
+health policy work could better describe the potential role of secondary use of
+health data in reducing health inequalities.
+On a global level, Europe's GDPR legislative context is influencing data privacy
+legal contexts in other countries, including in low- and middle-income countries.
+Donors and philanthropy organisations based in Europe are requiring their
+partners in the Global South to adhere to health data regulatory environments that
+align with the GDPR. This can stall funding to agencies in the Global South who
+find themselves needing to build data governance systems that address GDPR
+requirements to receive funding, in addition to meeting the local regulatory
+context. These GDPR requirements may also impose western values on data
+privacy and regulation that do not necessarily align with local cultural values, such
+as those described in the CARE Framework, developed by First Nations and
+Indigfenous Peoples networks. While the European Health Data Space is
+predominantly about governing health data in a European setting, the adoption of
+standards and legislation in Europe will have global influence. If health data is to
+be governed by the EHDS under new legislation, this cannot be considered in
+isolation from the rest of the world, as the European context affects global health
+research. Consideration should be given to how European health data governance
+could impact on geopolitical relationships, and in particular, on Europe's
+commitments to the Sustainable Development Goals and the ability of low- and
+middle-income countries to collect and use health data to benefit local
+communities.
+Investment:Funding of health system transformationis often limited across EU
+member states. Member states may be able to access new funding through the
+European Recovery and Resilience Facilityto enablemodernisation of data
+46
+infrastructure, as has been proposed by the 1+ Million Genomes initiative. EMA
+47
+is currently working on standardised tools for health technology assessment.
+There is currently limited standardisation in models for collecting data on social
+health insurance, which could be used to help drive greater planning and
+healthcare service optimisation.
+47
+European Commission (2021), ‘European “1+ MillionGenomes” Initiative’
+46
+European Commission (2021),Recovery and ResilienceFacility | European Commission
+45
+European Commission (December 2020), 'Joint Declarationof the European Parliament, the Council of
+the European Union and the European Commission'
+https://ec.europa.eu/info/sites/default/files/joint-declaration-legislative-priorities-2021.pdf
+44
+European Commission (2021),‘2021 01 25 Communication- Europe's Beating Cancer Plan v.24’,
+Open Data Institute 2021 / White paperEU policy on secondary use of health data14
+
+Forward look
+Overall, there are encouraging signs at the European level that health data
+ecosystems are maturing to support secondary use of health data; however,
+many of the initiatives are still fragmented and there will be significant work
+required to establish robust health data ecosystems and infrastructure for
+data reuse.Newer policy developments are showinga greater focus on
+coordinating strategies across various stakeholders, initiatives and, importantly,
+member states.
+However, one of the central challenges remains the disconnect between the
+European GDPR and opportunities to reuse health data in innovative ways. While
+the GDPR provides a strong foundation for secondary use of health data,data
+governance tools are needed to enable data reuse within, and beyond, the
+European healthcare system. Examples include codes of conduct, ethics
+committees, infrastructure for real world data and real world evidence,
+stronger data institutions, and clearer legal frameworks.
+The challenge in recent years is that data governance gaps are well known, but
+there has been a lack of consensus building to encourage new agreements and
+create the necessary infrastructure beyond one-off pilot projects. Multiple reports
+and project summarieshave agreed that current approachesto data collection
+48
+and sharing are fragmented, and that ethical frameworks are needed to oversee
+how data will be shared in future with appropriate protections for sensitive data.
+But action has not yet been taken to create the multistakeholder settings that
+encourage agents to resolve the roadblocks. We hope that the EHDS will facilitate
+a clear roadmap that creates mechanisms to co-operate to this end.
+This white paper aims to share some initial research we have undertaken when
+mapping the secondary use of health data policy landscape in Europe. We are
+releasing it now to support European health data stakeholders to consider the
+current policy landscape when responding to the European Health Data Space
+consultation which closes on 26 July 2021.
+We invite readers tocontact ODIto discuss any feedbackon this report and to
+share perspectives on how best to shape a trusted and trustworthy health data
+ecosystem for secondary use of health data in the European region.
+Find out more about thiswhite paper, and the accompanyingbriefing event here.
+48
+Including:'Why health is a special case for datagovernance',A pharmaceutical strategy for Europe|
+Public Health’, ‘An Application Programming Interfaces(APIs) framework for digital government’,
+Assessment of the EU Member States’ rules on health data in the light of GDPR', ‘Proposal for a Data
+Analytics and Real-World Interrogation Network (DARWIN),2021 01 25 Communication - Europe's Beating
+Cancer Plan v.24
+Open Data Institute 2021 / White paperEU policy on secondary use of health data15

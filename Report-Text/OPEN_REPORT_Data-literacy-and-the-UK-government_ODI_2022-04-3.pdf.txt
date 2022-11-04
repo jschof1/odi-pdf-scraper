@@ -1,0 +1,1657 @@
+
+
+↡
+
+Contents
+Summary3
+Background8
+Chapter 1: Data literacy: what it is and why it matters11
+How the ODI thinks about data literacy12
+Figure 1: ODI Data Skills Framework13
+The importance of measuring data literacy14
+Figure 2: ODI Levels of Data Literacy15
+Data literacy and other types of literacy16
+Literacy and numeracy16
+Financial literacy16
+Digital literacy17
+Media literacy18
+AI literacy18
+Other literacies19
+How these overlapping literacies relate to the ODI framework20
+Chapter 2: Data literacy and the UK government21
+In the National Data Strategy22
+In the National AI Strategy24
+In other documents24
+In individual government departments27
+How these definitions relate to the ODI framework28
+How others think about data literacy28
+In the AI Roadmap30
+How other definitions relate to the ODI framework31
+Chapter 3: Public sector data literacy initiatives for government32
+How training, learning and development works inside government33
+Curriculum and campus34
+Functions and professions35
+Data masterclasses36
+Other initiatives37
+Assessing the offer against the ODI framework40
+Chapter 4: Public sector data literacy initiatives for others41
+The National Data Strategy41
+Beyond the National Data Strategy42
+Assessing the offer against the ODI framework44
+Next steps45
+Annex47
+Public sector data literacy initiatives
+for government47
+Public sector data literacy initiatives for others48
+Stakeholder engagement48
+Open Data Institute | April 2022 | Data literacy and the UK government1
+
+About
+This report, published in April 2022, draws upon previous ODI work – including our
+own Data Skills Framework – as well as desk research and interviews with key
+stakeholders to understand the UK government’s current approach to data literacy.
+The lead author is Gavin Freeguard (Special Adviser) and the wider project team
+included Dr Mahlet “Milly” Zimeta (Head of Public Policy), Dr Dave Tarrant
+(Programme Lead – Data Literacy, Senior Learning Advisor) and Violeta Mezeklieva
+(Consultant and EU business development lead).
+If you want to provide feedback or get in touch, contact us atpolicy@theodi.org
+This is work in progress. It is likely to be updated as
+we continue our work. Keep an eye out for updates!
+How can it be improved? We welcome suggestions
+from the community in the comments.
+Open Data Institute | April 2022 | Data literacy and the UK government2
+
+Summary
+One of the six points in theODI’s manifestofor openand trustworthy data
+ecosystems and a world where data works for everyone is data capability:
+‘Everyone must have the opportunity to understand how data can be and is
+being used. We need data literacy for all, data science skills, and experience
+using data to help solve problems’.
+This paper aims to map the UK government’s activity on ‘data literacy’, as part of
+the ODI’s work in support of theUK National DataStrategy(NDS). The ODI
+understands ‘data literacy’ as ‘the ability to thinkcritically about data in different
+contexts and examine the impact of different approaches when collecting, using
+and sharing data and information’. It goes beyond the technical skills involved in
+working with data.
+The UK government recognises the importance of data skills – ‘for a data-driven
+economy and data-rich lives’ – by making itone ofthe four pillars of the NDS.
+Within this, it says that ‘foundational data literacy will be required by all’.
+How the government approaches ‘data literacy’ for its own workforce, in its
+attempts to increase the use of data in policymaking and service delivery, engages
+Mission 3 of the NDS – ‘transforming government’s use of data to drive efficiency
+and improve public services’. Its policies and initiatives for the wider population
+engage Mission 1, on ‘unlocking the value of data across the economy’. But the
+government’s work on Mission 3 will also have an impact on Mission 1, as we
+argued inour earlier reportmapping the organisationsresponsible for data across
+the UK government.What the government does internallycan also affect the wider
+economy and society, particularly given its role inleading by example, providing
+support (eg in publishing resources), and collaborating with others. As a major
+employer in its own right – public sector employment accounts formore than a
+sixth of all employment in the UK– efforts to upskillits own workforce may have
+an impact on other sectors, as it shapes the employment market and workers
+move in and out of the public sector.
+This paper, based on desk research and interviews with key stakeholders,
+attempts to understand how the UK government is approaching data literacy, for
+example by looking at how government (and others) think about ‘data literacy’ and
+how this is reflected in initiatives to build data capability, both within the public
+sector and for the wider population.
+Open Data Institute | April 2022 | Data literacy and the UK government3
+
+It finds that:
+1.While everyone – in documents from the NDS totheAI Roadmap, and in
+conversations with key stakeholders – agrees that data literacy for all is
+important, government has no consistent definition of ‘data literacy’
+(reflecting the difficulty in settling on a definition found in the wider
+literature). ‘Data literacy’ is often mentioned without being defined or
+developed further. And it is quickly elided with more specialist, technical
+data skills.There are several different strategies,documents and training
+1
+offers, but there is no obvious overarching framework for thinking about
+data literacy. And these initiatives appear to ignore the government's own
+earlier work, such as itsframework for essentialdigital skills. The lack of
+definitions, combined with the multiple spheres and subjects ‘data literacy’
+spans, can make measuring data literacy a challenge.
+2.There are also other overlapping types of literacy – digital literacy, media
+literacy, AI literacy, statistical literacy, tech literacy, information literacy,
+analytical literacy, evaluation literacy and mathematical literacy all feature in
+government documents and discussion alongside numeracy and financial
+literacy. Data literacy is foundational for many of these. The NDS recognises
+both the overarching problem with definitions, and these overlapping or
+‘parallel’ skills, but government has not yet delivered its promised definition
+of data literacy, or mapped out the distinctions between these skills and
+their importance for the wider economy.
+3.In 2021,we attempted to map the organisations responsiblefor ‘data’ in
+government, because of our documented concern thatresponsibility was
+fragmented across multiple bodies, work was being duplicated, and
+different initiatives were not well aligned with each other. With several
+different organisations responsible for ‘data literacy’ in government, and
+the lack of a consistent definition across government, there is still a risk of
+fragmentation, duplication and contradiction, and of not being able to
+work out to what extent this is the case.
+1
+We are conscious that our own framework is called aData Skills Framework, even though it includesmore
+strategic and critical skills that we describe as ‘literacy’ as well as more technical skills. For more on the
+framework, see chapter 1.
+Open Data Institute | April 2022 | Data literacy and the UK government4
+
+4.The government organisations with particular responsibility for data literacy in
+the public sector appear to be making good progress and seem well aware of
+the work that others are doing. There has been a welcome focus on improving
+data capability within the civil service, withtheGovernment Skills and
+Curriculum Unit(GSCU) and the various data-relatedfunctions and professions
+(particularly theAnalysis FunctionandGovernmentStatistical Service)
+producing and consolidating lots of training resources. In government
+documents and in interviews, theData Masterclasses(originally for senior
+leaders, but now offered to others), originated by the GSCU, then run jointly by
+10DS (the Number 10 Data Science team) and theOfficefor National Statistics
+(ONS) Data Science Campusand taken over by the latter,feature prominently
+as a good example of teaching data literacy. However, it may still be possible
+to better collect the wealth of material under a ‘data literacy’ heading and
+understand what different organisations are doing on data literacy. And despite
+the increasing amount of data literacy support available to people inside
+government, much of it is provided through data-oriented professions and
+functions, and some stakeholders we spoke to were conscious that more could
+be offered at more general, basic and junior levels
+5.Despite the government’s recognition of the importance of data literacy for
+the wider population, there appears to be less activity and less alignment,
+particularly with what the government is doing internally. TheDepartment
+for Digital, Culture, Media and Sport(DCMS), throughthe NDS, is a key
+player, working with other organisations including theDepartment for
+Education(DfE) and theOffice for Students(OfS)on specific projects. The
+Information Commissioner’s Office(ICO) (as the bodyresponsible for
+regulating data rights, including data protection) and increasinglyOfcom
+(responsible for overseeing a great deal ofthe OnlineSafety Bill) are likely to
+play a role. But this appears less developed and less coherent than the
+government’s internal offering. And, despite some big initiatives like the
+Online Media Literacy Strategy, most initiatives focuson the individual as
+employee, with an emphasis on the benefits to the workforce, rather on the
+individual as citizen and the benefits to them within society – the
+‘data-driven economy’ rather than the ‘data-rich lives’ mentioned in the
+NDS.
+Open Data Institute | April 2022 | Data literacy and the UK government5
+
+There is some promising work going on, particularly in upskilling public servants.
+But a lack of consistent definition of ‘data literacy’ and a lack of alignment,
+especially between initiatives focused on the public sector workforce and those
+focused on the public more generally, mean that there is still work to do.
+Key issues that need to be addressed include:
+●
+The lack of definitions around ‘data literacy’ and the other,
+overlapping types of ‘literacy’.Something like theODI Data Skills
+Framework(with its hexagons of different topics,see figure 1 on page 12)
+and the forthcoming ODI Levels of Data Literacy (see figure 2 on page 14)
+could help give some shape to this, as could a guide to how the various
+other overlapping literacies relate to foundational data literacy and how
+government thinks they all intersect.
+●The risk of fragmentation, duplication and lack of awareness of
+different work across government.Consistent definitionscould mitigate
+this, and there has been excellent work within government to pull together
+different resources from across different professions and functions – but
+making such resources even easier to find and access – perhaps grouped
+under a ‘data literacy’ heading – will make them easier for people to use
+and integrate into their own training plans.
+●The particular disconnection between government’s internal
+initiatives and its public-facing data literacy work.The resources and
+training offered inside government feels more extensive than many of the
+current external initiatives. Increased openness about the materials
+available, within government and to the wider population, could be of real
+benefit and support government’s ambitions for data literacy for the wider
+population and workforce.
+Open Data Institute | April 2022 | Data literacy and the UK government6
+
+Background
+In the 21
+st
+Century, every organisation is a dataorganisation, and should be
+thinking about how it uses data and its role in wider data ecosystems.
+Similarly, every role is now a data role. Whatever our job, we need some grasp of
+data – its opportunities and its limitations – to perform effectively. Some jobs will
+require more data capability than others – an entry-level administrative role and
+developing sophisticated machine learning tools will have different needs – but it
+is no longer acceptable to say ‘I don’t do data’.The ‘data economy’is growing
+2
+and accounted for more than 4%of UK GDP in 2020,and underpins billions of
+pounds of imports and exports.
+But all of this also applies to our roles outside work, as citizens, in households and
+families, in our roles across the rest of our lives, as we all try to use, interpret and act
+upon information. And if the government wants to investigate and implement more
+ambitious data-related and artificial intelligence-enabled initiatives, they will require
+public trust and understanding to succeed: citizens will need to have more than a
+basic grasp of data so they can scrutinise and support such plans.
+One of the six points in theODI’s manifestofor openand trustworthy data
+ecosystems and ‘a world where data works for everyone’ is data capability:
+‘Everyone must have the opportunity to understand how data can be and is
+being used. We need data literacy for all, data science skills, and experience
+using data to help solve problems’.And it is why‘data literacy’ – which the ODI
+defines as being able to think critically about data in different contexts and
+examine the impact of different approaches when collecting, using and sharing
+data and information – is no longer a niche topic.
+Data is a particular focus of the UK government plans at present. The pandemic
+response brought data into the heart of government decisions like never before:
+one minister described it as a ‘high watermark ofdata use’. The government’s
+work and plans for the country are increasingly dependent on data, with aNDS,
+UK Innovation Strategy,National AI Strategy, avisionfor foreign policythat
+highlights the UK’s global role in AI and setting international standards, and a
+multiplicity of organisationssupporting the use ofdata across government. The
+forthcomingIntegrated Data Serviceand government’srecent proposals for data
+protection reformhighlight its commitment to greatersharing of data between
+public sector organisations and between the public and other sectors. As the
+government does more with data, the public sector workforce and the general
+public need more confidence in understanding what it is doing.
+2
+For some discussion of this in a business context, listen to the ODI’sInside Business podcast: Therole of
+data literacy in building a trusted brandfrom March2022.
+Open Data Institute | April 2022 | Data literacy and the UK government7
+
+The government recognises the importance of data skills – ‘for a data-driven
+economy and data-rich lives’ – by making itone ofthe four pillars of the NDS.
+Within this, it says that ‘foundational data literacy will be required by all’. The NDS
+recognises these challenges for industry andfor itself:
+Despite the many benefits that can be derived from data, institutionalised data
+culture – where data is seen as everyone’s job and where data is seen to support
+outcomes at all levels – is lacking in many organisations across government and the
+wider public sector... everyone, regardless of seniority or profession, should see
+data as a priority in their role – with data supporting each step of policy and delivery,
+from scoping to ongoing performance tracking, evaluation and improvement.
+The government’s approach to data literacy for its own workforce will have an
+impact on the wider economy, as it leads by example, provides support (such as
+making resources available) and collaborates with others. And it is a major
+employer in its own right (public sector employment accounts formore than a
+sixth of all employment in the UK), helping to shapethe wider employment market,
+with workers moving in and out of the public sector.
+Data literacy initiatives have a role in society, as well as the economy, as they can
+support individuals, groups and organisations to play an active role in our
+increasingly data-dominated world. They are also vital in government’s attempts to
+build trust as it embarks on more advanced projects involving data and
+technologies and techniques, like artificial intelligence (AI), as the public will need
+some understanding of its plans and products.
+So how exactly is the UK government thinking about data literacy, as it aims to
+upskill its own workforce to better use data in making policy and delivering
+services to the public, and strengthen data sharing between departments and
+between government and other sectors? What initiatives are underway to
+improve data literacy within government? And what is it doing to foster data
+literacy more widely, in the general population and workforce? This report offers
+some answers to these questions.
+Open Data Institute | April 2022 | Data literacy and the UK government8
+
+This report draws on desk research and stakeholder interviews, and focuses on
+the ‘supply side’ – what the government is doing to get the right structures and
+support in place – rather than the ‘demand side’ – such as the public expecting a
+more data literate government. One stakeholder we interviewed used the
+Covid-19 pandemic as an example of where the public had driven improvements
+in government – a desire for more and better data and better presentation at
+Downing Street press conferences forced government to publish better data and
+present it more clearly. They wondered whether similar public demands in the
+future could help encourage data literacy in government and in the wider
+population. (We hope this complements the work currently underway by others,
+includingthe Centre for Data Ethics and Innovation(CDEI) and civil society
+organisations such as the Ada Lovelace Institute, on the importance of public
+understanding, trust and engagement.)
+Open Data Institute | April 2022 | Data literacy and the UK government9
+
+Chapter 1: Data literacy:
+what it is and why it matters
+“
+Data skills deliver benefits across the board. Businesses are more likely
+to be competitive in today’s digital-driven economy if they can use data
+effectively. Likewise, data-literate individuals are more likely to benefit
+from and contribute to the increasingly data-rich environments they live
+and work in, while data-driven companies can deliver significant
+productivity benefits to their own business and the wider economy.
+DCMS,National Data Strategy
+We live in the information age. There is more ‘data’ than at any point in human
+history. This data can be used for good, provide us with more economic and
+social opportunities than ever before, and help us be better informed; or it can be
+used to exploit, to exclude, and to confuse. Helping people navigate this data-rich
+world is therefore vital.
+There are already divides in how we interact with this world.A 2020 report on
+digital inclusion and online safetyby the Good ThingsFoundation has found that
+‘low media, digital and personal data literacy leaves people open to risks and
+harms: financial, social, emotional, personal and psychological’. Greater
+knowledge about data and how it is and can be used can help counter this, but
+‘people in lower socio-economic groups are less likely to see the benefits of
+sharing their data, and more likely to feel powerless to address data-related
+harms; while ethnic minority groups are slightly less likely to trust that their data
+will be secure’. The government’s own tracker ofpublicattitudes towards data and
+AI, run by the CDEI for the first time in 2022, findsthat only 20% of those with low
+‘digital familiarity’ know ‘at least a fair amount about how data is used and
+collected’, compared to 45% of the general population.
+Greater data literacy can help people in their working and social lives. This isn’t a
+view confined to the government’s policies towards data, such as the NDS: its
+2021Plan for Growth(‘Build Back Better’) notes that‘more than a quarter of the
+working-age population in England have low literacy or numeracy skills’, citing the
+Industrial Strategy Council’s forecast that ‘five million workers could become
+acutely under-skilled in basic digital skills by 2030’. The plan adds: ‘This holds
+back those people from employment, limits their ability to progress, reduces
+economic growth, and makes the UK a less attractive place to invest’.
+Open Data Institute | April 2022 | Data literacy and the UK government10
+
+How the ODI thinks about data literacy
+“
+Data literacy is the ability to think critically about data in different
+contexts and examine the impact of different approaches when
+collecting, using and sharing data and information.
+Open Data Institute
+Following a blogpost on ‘data literature’ by ODI’sformer CEO, Jeni Tennison, we
+often compare technical data skills to studying the English language, and ‘data
+literacy’ to the study of English literature. Where the study of language focuses on
+reading and writing and the production and manipulation of letters and words, the
+study of literature ‘focuses on the study of that language in use, the material
+produced by different authors, their use of different techniques, the context in
+which they produced their works and the impact their work had’. If data language
+involves the requisite technical skills to collect, analyse and visualise data, then
+data literature or data literacy should be ‘the study of data and how it is collected,
+used and shared by different organisations’.
+Another metaphor might be that of a car. We don’t all need to know how to build a
+car – although we do need some people with the technical skills to do so. But
+most of us do need to know the basics: how brakes and tyres perform in different
+weather conditions, the rules of the road, and the impact of buying an electric car
+rather than a diesel.
+Technical data skills are vital – we need specialists who can build tools, write code and
+do things with data – but we also need everyone to have some ability to critique the
+use of data, understand its limitations and recognise its impact on society. We need a
+3
+blend of those skills to unlock the value of data for the economy and society. We need
+commercial awareness and understanding of how to identify the opportunities and
+risks of data-driven innovation and how to govern emerging technologies responsibly.
+4
+Increased data literacy in a population should help governments, businesses and other
+organisations evolve their data practices and become more trusted with data as a
+4
+‘A new finding from the interview data is the need for data scientists to have good business skills in order to
+be able to understand business needs and to be able to effectively communicate insights. This is different from
+domain expertise in that business skills are the skills required to make domain expertise effective.’ EDSA
+(2015), ‘D1.2 Study Evaluation Report 1’,
+https://edsa-project.eu/edsa-data/uploads/2015/02/EDSA-2015-P-D12-FINAL.pdf
+3
+‘When we asked which additional skills data scientists should have, communication and presentation skills
+topped our list; other frequently demanded expertise is in teamwork, social skills and data management. Data
+scientists are often hired with high expectations regarding their abilities to transform business tactics and
+strategies; thus soft‐skills such as these are seen as desirable and need greater focus in data science training.’
+EDSA (2016), ‘D1.4 Study Evaluation Report 2’,
+https://edsa-project.eu/edsa-data/uploads/2015/02/EDSA-2016-P-D14-FINAL-withouthPrivateAppendix.pdf
+Open Data Institute | April 2022 | Data literacy and the UK government11
+
+result. Data literacy might include:
+●
+Comparing and contrasting how different people use numbers, graphs
+and infographics to convey important messages on topics such as climate
+change, population growth or global pandemics.
+●Evaluating the impact of bias and limited sampling on important decisions, such
+as those in the criminal justice system or when hiring workers for a company.
+●Examining the ways that data is collected and the purposes of this
+collection, such as irregular collection in a census, how sensors in trains,
+cars and busses keep those vehicles running, or our interactions with
+digital assistants.
+It is worth underlining that these definitions do not apply only to numerical data.
+The ODI’sData Skills Frameworkclarifies and categorisesvarious different data skills:
+Figure 1: ODI Data Skills Framework
+On the right-hand side are the more technical and practical skills involved in data
+analysis and engineering. But on the left are those more critical, contextual and
+strategic skills that might be involved in data literacy, supporting people to
+understand and critique how data is and can be used. Down the middle are the skills
+associated with being a ‘data translator’, someone able to balance both sides.
+Open Data Institute | April 2022 | Data literacy and the UK government12
+
+The importance of measuring data literacy
+Measuring data literacy is obviously important for understanding what the current
+situation is, what aspects are particularly in need of improvement, where best to
+target training and support, and to understand what progress is being made on
+everything from the ambitions of the NDS to the necessary improvements in digital
+skills recognised by the Plan for Growth.
+But those working on data literacy, in government and elsewhere, note the
+challenges in measuring data literacy and its impact in understanding the impact
+of interventions. A good example of these was provided by the ONS in 2018. It
+consideredcreating a ‘data literacy scale’, basedon the
+Government Digital
+Service (
+GDS)’sdigital literacy scale, which couldscore people from ‘beginners’
+(little interaction with data) to ‘pioneers’ (being able to deploy machine learning
+and AI). One of the biggest challenges came from ‘conflating a number of different
+spheres’ in trying to come up with an assessment scale, with those spheres
+including everything from data formats, and tools and practices often associated
+with data science, to understanding the limitations of data, visualising data,
+understanding its licensing and re-use, right up to understanding the reason for
+using the data in the first place. The lack of a consistent definition of ‘data literacy’
+is clearly a hindrance.
+As is the lack of previous work, metrics and data on measuring literacy and skills.
+TheNDS evaluation and monitoring frameworkacknowledgesthis noting that,
+while the evidence base on the ‘data skills gap’ in business is improving (including
+throughwork commissioned by DCMS), ‘there are fewstanding metrics reported
+on a regular basis’ and there is ‘limited evidence on the level of data skills in the
+general population, and about the demographic breakdown of people with data
+skills in the general workforce’.
+There will be some usable, if limited, metrics available. These will include metrics
+on individual training courses, such as completion rates, or detailed evaluations of
+particular initiatives, such asthe current DCMS projectwith the OfSto improve
+foundational data literacy on non-data university courses.
+In a forthcoming conference paper, ‘Towards benchmarking data literacy’, the
+5
+ODI’s Calum Inverarity, Dr David Tarrant and Emilie Forrest, with Phil Greenwood
+from Glacis, propose a framework to help individuals and teams assess their level
+of data literacy:
+5
+Calum Inverarity, Dr David Tarrant, Emilie Forrest, and Phil Greenwood (20220, ‘Towards Benchmarking Data
+Literacy’. In Companion Proceedings of the Web Conference 2022 (WWW ’22 Companion), April 25–29, 2022,
+Virtual Event, Lyon, France. ACM, New York, NY, USA, 9 pages.
+Open Data Institute | April 2022 | Data literacy and the UK government13
+
+Figure 2: ODI Levels of Data Literacy
+LevelCriteria
+Below Level
+1
+Able to recall a single piece of specific information as presented
+in a graph or chart. Not required to understand the structure or
+meaning of the data.
+Level 1Able to understand the meaning of information or data
+presented to you.
+Able to explain what a simple graph means.
+Level 2Able to consider where the information has come from and how
+this impacts the message being presented.
+Able to paraphrase and make low-level inferences from data and
+how it is presented.
+Able to interpret data to state a new fact or existing one in a new
+way.
+Level 3Able to question the validity of claims, such as a misleading
+graph, and can spot fake news.
+Able to interrogate data and information from a variety of
+sources.
+Able to understand wider context and subtleties, and some
+limitations or bias in how data is collected, used and shared.
+Level 4Able to evaluate the methodology behind how the data was
+collected and interpreted and what impact that has on the
+conclusions drawn.
+Able to bring together data from different sources or collected
+with different methodologies to draw new conclusions and make
+informed decisions about current or future direction.
+Level 5Able to synthesise or create original ideas based upon a
+thorough evaluation of a broad range of data/information
+sources combined with specialist knowledge.
+Able to recognise your own biases and limitations, as well as
+those already present in the data/information resulting from how
+it was originally collected or interpreted. Also able to recognise
+what biases or limitations that might result in, including deeper
+societal biases that might not have been corrected for, and take
+appropriate steps to mitigate for that bias.
+The authors note some of the problems with self-assessment – people will be
+generous to themselves, and the wide range of topics covered by ‘data literacy’
+means respondents will have their own interpretations of the necessary skills and
+their relative importance, for example. But a framework such as this can help
+individuals and organisations understand their basic literacy levels.
+Open Data Institute | April 2022 | Data literacy and the UK government14
+
+Data literacy and other types of literacy
+How the government defines ‘data literacy’ has a big impact: the UK public sector
+is responsible formore than one sixthof all employmentin the UK, and what the
+government does sets the example, policies and education and training provision
+that others will follow and work with. In UK government documents, ‘data literacy’
+is often used interchangeably or quickly elided with ‘data skills’. But there are also
+other overlapping ‘literacies’ which feature in these documents. There is a risk of
+fragmentation, duplication and contradiction in government’s work across these
+different definitions if the government does not consider them – and where to
+invest its time, attention and money – more coherently. Nonetheless, many of the
+aspects of ‘data literacy’ are foundational to the other kinds of literacy.
+Literacy and numeracy
+It is worth acknowledging the even more foundational literacy and numeracy,
+described by Prime Minister Boris Johnson as ‘the building blocks of a
+world-class education’ which ‘unlock the learning, knowledge and skills that every
+child needs to succeed in later life’ at the launch ofthe Schools White Paperin
+March 2022. The ‘functional skills framework’ fromOfqual, the examination and
+qualification regulator, includes English and mathematics alongside Information
+and Communication Technology and ‘digital skills’ as ‘fundamental, applied
+skills...which help people to gain the most from life,learning and work’. (‘Data
+literacy’ would appear to be fundamental to most of these, but is not recognised
+here as a fundamental skill in its own right.)
+Financial literacy
+There is also the widely-recognised ‘financial literacy’,defined by the European
+Commissionas ‘the knowledge and skills needed tomake important financial
+decisions’, witha recent grantfrom the government’sLevelling Up Fund for a
+wellbeing and employment fund in the Scottish Borders aiming to improve
+financial literacy alongside digital skills and mental health. Although GOV.UK
+includes a2019 paper on financial literacy and conceptsin financial
+decision-making(from the Foreign, Commonwealth andDevelopment Office), this
+is an independent academic paper rather than government policy.
+Open Data Institute | April 2022 | Data literacy and the UK government15
+
+Digital literacy
+The main synonym or similar concept is ‘digital literacy’ (this features 142 times on
+GOV.UK as of late March 2022, compared to 25 results for ‘data literacy’).
+Although this term again lacks consistent definition, there are exceptions: ‘digital
+literacy’ sometimes appears in assessments of new digital services, and the
+Government Digital Service has a ‘digital inclusionscale’ which ranks users
+according to their attitudes towards the internet (from ‘actively disengaged’ to
+‘confident explorers’). Most uses of ‘digital literacy’ appear to refer to people’s
+ability to use the internet and access online services – the 2022National Cyber
+Security Strategyworries that ‘digital divides havealso created uneven access to
+online services and exposed people to online abuse and harms due to limited
+digital literacy and awareness of the cyber security measures we can all take to
+stay secure online’. A 2021 report on ‘Harnessingtechnology for the long-term
+sustainability of the UK’s healthcare system’ notedthat ‘support for those from
+disadvantaged groups to improve their digital literacy and/or confidence in using
+digital tools and equitable access to online services’ must be ‘placed at the heart
+of the system’ if health inequalities are to be addressed. Digital exclusion –
+including a lack of digital literacy – is a major theme of the CDEI’sAI Barometer
+2020(it also identifies a lack of ‘public e-healthliteracy’, with people unable to
+assess the reliability and accuracy of different online health information sources,
+as a problem).Elsewhere, CDEI calls for regulatorsto better coordinate their digital
+literacy campaigns. A2016 Reviewof publicly fundeddigital skills qualifications
+argues that ‘digital literacy must be given the same importance as numeracy and
+literacy’ and general digital skills should be integrated with technical and
+professional progression routes. It also highlights the need for a shared language
+and calls for government to take ‘completing the jigsaw’ seriously and ‘consider
+how to bring together the findings of this and other reviews to deliver a coherent
+flow of relevant digital skills for the UK economy’.
+Parliamentarians – who tend not to talk much about data literacy – are also fans of
+increased digital literacy. The Digital, Culture, Media and Sport Select Committee’s
+2019 report on disinformation and ‘fake news’recommendsthat ‘digital literacy
+should be a fourth pillar of education, alongside reading, writing and maths’. A
+2017Lords select committee on growing up with theinternetalso supports digital
+literacy as a fourth pillar of education and defines it as ‘the skills and knowledge to
+critically understand the internet’ which is ‘vital for children to navigate the online
+world’ and ‘an essential requirement of the future workforce’. In these examples
+‘digital literacy’ seems to include how people navigate the online world, but not
+the more basic digital skills (for example, being able to turn on and operate digital
+devices) outlined in the government’s ownessentialdigital skills framework.
+Open Data Institute | April 2022 | Data literacy and the UK government16
+
+Media literacy
+There is a great deal of overlap between how ‘digital literacy’ is implicitly defined
+and another term, ‘media literacy’ (80 results on GOV.UK). There is at least one
+clear definition of this term from communications regulator Ofcom, that has a
+statutory duty to promote media literacy, and defines it as ‘the ability to use,
+understand and create media and communications in a variety of contexts’. It
+publishes media literacy tracker surveys and runs a media literacy programme,
+Making Sense of Media. A recentOfcom/LSE rapid evidenceassessmentin
+2021 highlights three types of media literacy skills (critical thinking, evaluation
+strategies, knowledge of operation of news and media industries) with a
+consistently positive effect on engaging with misinformation. There is a fair
+amount of discussion of media literacy in relation tothe Online Safety Bill–
+which the 2021Online Media Literacy Strategycomesout of. This identifies
+people understanding how personal data is used, and understanding how data
+fits into algorithms and the wider operation of the online environment as two of
+its five principles. Additionally, DCMS hasa collectionof online media literacy
+resources, media literacy is mentioned in the 2021/22Digital Regulation
+Cooperation Forum workplanand there is aMedia LiteracyTaskforce Steering
+Board(GOV.UK lists its members but provides littlefurther information). It even
+crops up in the government’s major foreign policy publication,Global Britain in a
+Competitive Age: the Integrated Review of Security, Defence, Development and
+Foreign Policyin 2021, with a pledge to support itas part of tackling online
+harms and disinformation.
+Having heard various definitions, a 2018 Lords select committee report, on ‘digital
+technology and the resurrection of trust’, actuallycombines and defines digital and
+media literacy: ‘We use the term ‘digital media literacy’ because our purposes go
+beyond, but do include, the functional skills required to use technology. We define
+digital media literacy as being able to distinguish fact from fiction, including
+misinformation, understand how digital platforms work, as well as how to exercise
+one’s voice and influence decision makers in a digital context.’
+AI literacy
+Although ‘AI literacy’ doesn’t appear by itself, it appears as ‘AI and data literacy’ in
+the 2021 AI Roadmapfrom the AI Council, a group ofindependent experts advising
+government (discussed again below). Despite the risk of getting carried away with an
+exciting and ‘shiny’ technology, the AI Roadmap provides some of the most holistic
+thinking and substantial recommendations around data literacy. Some government
+interviewees thought there was an advantage to talking about literacy attached to a
+more exciting technology, as ‘you can use the shiny thing to get people interested in
+the basics’. This may be especially important as people will not always know what
+such terms mean, and can either dismiss the concept as ‘newfangled nonsense’ they
+don’t need to think about, or become overenthusiastic about it as a ‘magic bullet’,
+underlining the need for greater literacy.
+Open Data Institute | April 2022 | Data literacy and the UK government17
+
+Other literacies
+‘Statistical literacy’ makes a few appearances. It isdescribed by a former president
+of the Royal Statistical Society as ‘an essential life skill: the need to make decisions
+based on numerical data confronts us all in every aspect of our professional and
+personal lives’; is referenced in government’s 2021Life Sciences Vision, which
+demands ‘digital, computational and statistical literacy’; and the UK Statistics
+Authority’s (UKSA) strategy for 2020 to 2025 ‘Statisticsfor the public good’, which
+says the UKSA ought to advocate for greater statistical literacy, since ‘in our
+data-rich society a good level of statistical literacy will help individuals deal with
+their finances, understand risk or hold the powerful to account’. ‘Mathematical
+literacy’ is mentioned a couple of times, notably in 2021’sQuantifying the UK Data
+Skills Gap, where ‘a review of curriculum contentand mathematical literacy
+demonstrates the need for rapid change to ensure a ‘fully data-literate population’.
+‘Information literacy’ also features on GOV.UK, particularly in the context of libraries
+– includingplans to support library workersteachmembers of the public about it as
+part of the Online Media Literacy Strategy. There are also a few mentions of ‘tech
+literacy’, which does not appear to be defined anywhere on GOV.UK.
+Conversations with people in government also introduced ‘analytical literacy’ and
+‘evaluation literacy’. The latter appears in a 2021 report by the National Audit
+Office,Evaluating government spending, which arguesthe use of evaluation
+across government is ‘variable and inconsistent’ and that part of the problem is
+officials lacking the ‘evaluation literacy’ to understand evidence before making
+decisions. The analysis function and policy profession are conducting an audit to
+understand what skills there are.
+‘Cyber literacy’ gets a solitary mention on GOV.UK – in an assessment of a new
+‘Report A Cyber Incident’ service which says that‘the team should look more at
+users with low cyber literacy’ – but cyber skills are also moving up the government
+agenda (as seen in this consultation oncyber skills,and the provision of theCyber
+Explorerslearning platform).
+Open Data Institute | April 2022 | Data literacy and the UK government18
+
+How these overlapping literacies relate to the ODI framework
+Like the ODI, the Good Things Foundation, inits reporton digital inclusion and
+online safety, has noticed these overlaps. (The GoodThings Foundation defines
+data literacy as ‘people’s understanding of the value of their personal data, how it
+is used and how to control this’, rather than people’s ability to interpret data.) It
+argues that ‘the types of literacy which citizens need today are more complex than
+even a couple of years ago’, and quotes the University of Liverpool that the
+different types of digital and data literacy citizens need, involve ‘not only being
+able to read and verify news and content, but also, understand the technical and
+media economics of digital platforms, how they are funded, what their different
+features and affordances mean and how they function, how to change their
+privacy and content settings and importantly their individual and collective rights’.
+The skills involved in thinking about, understanding and using data that underpin
+and define the many other related ‘literacies’ are complex and various. TheODI
+understanding of ‘data literacy’– including comparingand contrasting how
+different people use data, evaluating the impact of bias and sampling, and
+examining how and why data is collected – is also key to making sense of all of
+these definitions and how they work together. Our definition of data literacy
+doesn't just overlap with these other types of literacy, it is fundamental to
+understanding them, as highlighted by the variety of hexagons in the ODI’s Data
+Skills Framework and the forthcoming conference paper authored by members of
+the ODI team.
+Definitions of ‘digital literacy’ in particular tend to engage the hexagons on the
+right-hand side of our Data Skills Framework (the more technical and practical
+skills involved in data analysis and engineering). Where that overlaps with media
+literacy and internet use, it tends to engage the hexagons on the left-hand side
+(those more critical, contextual and strategic skills that might be involved in data
+literacy), literacy-related hexagons come into play. The AI Roadmap’s definition
+covers both sides, while two of the AI Strategy’s ways of thinking about skills –
+using and inspiring – also engage some of the left-hand side. The various
+definitions also engage different levels of the ODI Levels of Data Literacy, with
+some saying everyone should have some level of familiarity, and others – such as
+analytical and evaluation literacy – perhaps focusing more on seasoned
+professionals.
+Open Data Institute | April 2022 | Data literacy and the UK government19
+
+Chapter 2: Data literacy
+and the UK government
+How the government defines data literacy shapes everything from the foundational
+and advanced education, training and support it makes available, to how other
+organisations think about data literacy. The challenges government faces in using
+data will be faced by other organisations too – and how government frames,
+conceptualises and counters these challenges will lead others by example.
+There is no single, consistent definition of ‘data literacy’ in use by the UK
+government. Its NDS, for example, states ‘there is no widely agreed definition of
+data skills’.
+Speaking to those in government working on data skills and data literacy elicits
+various working definitions of data literacy. These are often focused on evidence and
+analysis for policymaking, and such stakeholders readily acknowledge ‘data literacy’
+isn’t properly defined anywhere. Our interviewees offered definitions including:
+●
+Data literate people are those confident enough to ask the right questions
+about the data, understand what they can and can’t do with it, and
+appreciate that data is always a story – none of it is perfect, so they must
+understand where it has come from and what it really means
+●We should take a further step back and ask why we think data literacy is
+necessary, to which the answer is that government needs people to
+understand data, especially from a policymaking point of view
+●On a practical level, people need to be data literate to understand whether
+the evidence backs up their argument, or not
+●Data literacy is ‘the ability to analyse evidence; take the right conclusions
+from it or understand when you can’t take certain conclusions from it; be
+able to spot when the data informing evidence is patchy, biased or
+non-authoritative; be able to spot when you can’t make informed
+decisions based on the data presented; and be able to articulate all of
+those things.’
+These definitions tend to match up with a large part of the right-hand side of the
+ODI’s Data Skills Framework, around data analysis, although they also raise
+aspects of leadership (which is explored on the left-hand side), particularly
+thinking about developing policy and acting upon data. In understanding the
+imperfections and limitations of data, there is also implicit engagement with
+‘working ethically’. The need for everyone to have some data literacy in these
+definitions means that it engages the ODI Levels of Data Literacy from the lowest
+levels upwards.
+Open Data Institute | April 2022 | Data literacy and the UK government20
+
+In the National Data Strategy
+While acknowledging the lack of widely agreed definitions,the NDSuses ‘data
+skills’ to
+broadly to cover the full range of basic, technical, governance and other
+skills – including project management, governance and problem solving –
+needed by practitioners to maximise the usefulness of data
+and ‘basic data literacy’ as requiring
+some knowledge of data uses, some ability to assess the quality of data
+and its application, and the skills to conduct basic analysis...[w]hile we do
+not all need to become data scientists, everyone needs some level of data
+literacy in order to operate successfully in increasingly data-rich
+environments.
+Although the NDS notes that the education system needs to better prepare
+everyone for ‘increasingly data-rich lives and careers’, the emphasis of much of the
+document is on the latter – data-rich careers, rather than data-rich lives. There is a
+focus on ensuring industry has a ready supply of people with specialist data skills,
+and that the workforce as a whole has some level of data literacy: for example, ‘it is
+important for the UK to have data skills capabilities in companies, from basic data
+literacy to advanced technical skills’ and ‘in the future, the use of data in our work
+must become the norm, rather than the exclusive domain of specialists.’
+In the wider public sector, the NDS says the ‘lack of a mature data culture’ stems
+from ‘a fragmentation of leadership and a lack of depth in data skills at all levels’. It
+also cites an overemphasis on the risks of misusing data leading to ‘a chronic
+underuse of data and a woeful lack of understanding of its value’.
+In its May 2021response to the consultation on theNDS, the government notes that
+those responding to the consultation ‘underlined the importance of building a culture
+of data literacy across government’, with 40% of respondents identifying ‘capability,
+leadership and culture as a key government priority’. This was highlighted not only in
+senior leaders – including politicians – needing the data skills to ‘promote and
+champion’ data in their departments, ‘but also more generally in that all civil servants
+and public sector workers should have a foundational level of data literacy’. However,
+there is no detail on what such a foundational level should look like and little extra
+information on how greater data literacy in government might be achieved (other than
+the critical role of a government Chief Data Officer in driving a ‘culture of data-driven
+decision making’).
+Open Data Institute | April 2022 | Data literacy and the UK government21
+
+As mentioned above, the DCMS honesty in acknowledging the challenges of
+defining data literacy and data skills via the NDS extends to its draft September
+2021monitoring and evaluation frameworkpolicy paper.As well as noting that the
+good evidence base on the ‘data skills gap’ in business is not matched by standing
+metrics or evidence on skills in the general population, it says it would like better
+measures on success in hiring more civil servants with data skills and ‘training more
+civil service leaders to understand the potential of data’. Data literacy isn’t explicitly
+mentioned.
+Part of the evidence base on the ‘data skills gap’ comes from a 2021 report
+commissioned by DCMS, onQuantifying the UK Data SkillsGap. This
+concentrates on better data literacy and more data skills in the workforce. It lists
+‘data literacy’ as number six on its list of the top ten things companies need to
+improve.   Several of the other areas for improvement, such as information
+management, knowledge of emerging technologies and solutions, data
+communication skills, data ethics, analysis skills and analytical mindset, would be
+covered by definitions of ‘data literacy’, including the ODI’s. While also
+acknowledging the lack of agreed definitions around data skills – noting narrow
+definitions that focus on technical skills, and more comprehensive ones
+incorporating ‘other skills that help to interpret data’ – it attempts a brief definition
+of data literacy as the ‘ability to draw information out of data and turn it into
+actionable knowledge’, which would put it at Level 4 on the ODI’s Levels of Data
+Literacy (‘using data to make informed decisions’). The report alsocites a
+definition of data literacyfrom a 2016 journal article:‘a specific skill set and
+knowledge base, which empowers individuals to transform data into information
+and actionable knowledge by enabling them to access, interpret, critically assess,
+manage and ethically use data’.
+The NDS and related documents, then, are clear on the importance of data literacy,
+give some sense of the topics it might cover, and acknowledge the lack of
+consistent definitions of data literacy and data skills. But they do not attempt a
+definitive definition or conflate literacy with other data skills (which would fall under
+‘literacy’ under the ODI and others definitions), and tend to focus on data literacy
+being important for the workforce rather than wider society.
+Open Data Institute | April 2022 | Data literacy and the UK government22
+
+In the National AI Strategy
+The government’sNational AI Strategy, published bytheOffice for Artificial
+Intelligence,Department for Digital, Culture, Media& Sport, andDepartment for
+Business, Energy & Industrial Strategy, focuses onspecialist skills, but does touch on
+data literacy. It takes a three-pronged approach to skills:
+●
+‘build’, to attract ‘top talent’ and ‘train and attract the brightest and best
+people at developing AI’ through interventions at PhD and master’s levels;
+●‘use’, which includes a pledge to ‘empower employers and employees to
+upskill and understand the opportunities for using AI in a business setting’;
+and
+●‘inspire’, which includes ensuring that ‘programmes that engage children with
+AI concepts are accessible and reach the widest demographic’ through the
+National Centre for Computing Education (NCCE).
+In other documents
+Several other government documents cover similar ground, underlining the
+importance of data literacy for all (especially at work) without ever quite defining it.
+The 2019Government Technology Innovation Strategypledged to ‘create
+data-literate civil servants through world-class training’ and help ‘to develop both
+data specialists, and data skills among non-specialists’, including courses that
+would ‘help decision-makers appreciate the power of data in government
+transformation and how best to work effectively with data professionals’. The 2017
+to 2020Government Transformation Strategyincludeda pledge to ‘increase
+awareness of data, building on fundamental data literacy to help public servants
+access rich datasets and make evidence-based, data-driven decisions’. The
+Wade-Gery review‘Putting data, digital and tech atthe heart of transforming the
+NHS’ highlights concern about digital inequality – noting worries about the
+unintended consequence of digital transformation, such as excluding ‘those who
+are less digitally literate’ or with poor access to telecom services. It recommends
+NHS services ‘build basic data and digital literacy and capability at all levels’ as
+‘understanding the importance of data and digital and being able to use them
+effectively must become a requirement for staff’.
+Open Data Institute | April 2022 | Data literacy and the UK government23
+
+A 2021speech by Julia LopezMP, then the ministerresponsible for digital
+government, underlined that ‘we need digital skills and understanding across all
+levels of government – we need to bring everyone along on this journey. So
+improving the digital and data literacy of all civil servants and members of
+government, particularly senior leaders, is crucial to realising the ambition of
+having world leading digital services and the next phase of digital transformation’.
+(TheNAO’s 2019 report on data sharingacross governmentalso notes that
+‘departments need to have skills at several levels: to understand how to use
+legislation appropriately for legitimate data-sharing; to know the limitations of the
+data they hold; and what is needed to fix the problems. Those at senior levels
+need to understand the implications of poor data to help provide the influence at
+higher levels and gain traction for improvements’.)
+There are some calls for government to take a more active role in fostering data
+literacy. Several respondents toa consultation onpart of the Data Protection Act
+‘called for a more effective data literacy strategy, starting with education in
+schools about data rights and redress mechanisms’. A minority of respondents to
+a consultation on the CDEIalso suggested it mighthave ‘a role in delivering
+education and data literacy campaigns, to ensure the public is able to engage with
+the issues in an informed manner’. TheLords selectcommittee on AIcalled on
+public sector organisations to collaborate with civil society organisations and the
+private sector to ‘improve digital understanding and data literacy across society,
+as these are the foundations upon which knowledge about AI is built’.
+The idea that data literacy should extend to all citizens is not a new one. The 2013
+UK data capability strategy: seizing the data opportunityhas ‘human capital’ as
+one of its three overarching aspects to data capability, and defines ‘human capital’
+as a skilled workforce and data-confident citizens. Although the strategy does not
+refer to this as ‘data literacy’, its view of skills includes business managers being
+aware of how data analytics can transform business, so it goes beyond technical
+data skills, and it asserts ‘all UK citizens should have an understanding of data –
+how it is created and stored – and confidence in its use and their rights’.
+Also noteworthy is a service assessment – a key milestone in the development of
+a new digital public service – for ‘Use land and propertydata’ from 2018. The
+service failed to meet its alpha stage assessment (alpha being the prototype and
+ideas stage) because more user research was needed on users with lower data
+literacy – but the assessment complimented the service team on developing
+different personas (fictionalised versions of users) to explore different levels of
+data literacy.
+Open Data Institute | April 2022 | Data literacy and the UK government24
+
+The devolved nations also have some definitions. Scotland’sData Labis a partner
+inData Skills for Work, which uses the definitionof one of the other partners, Qlik:
+‘Data literacy is the ability to read, work with, analyse and communicate with data.
+It's a skill that empowers all levels of workers to ask the right questions of data
+and machines, build knowledge, make decisions, and communicate meaning to
+others’. The Scottish government’s ‘A changing nation:how Scotland will thrive in
+a digital world’ also says: ‘We must also widen thedefinition of digital literacy to
+include a focus on both cognitive and technical skills, so our people are able to
+use technology collaboratively to find and evaluate information and to
+communicate ideas creatively’.
+In Wales, theCurriculum for Walesincludes ‘digitalcompetence’ under its
+‘cross-curricular skills and integral skills’, where contributions to work can include
+‘capturing and interrogating data, recognising and evaluating computational
+processes, designing and expressing learners’ thinking using digital devices and
+systems’. One suggested content area is ‘storing and processing data’ as ‘through
+data literacy and data management, learners can better understand how data
+drives our computational world’. A2020 OECD assessmentof Northern Ireland’s
+approach to skills recommends revising part of the curriculum ‘to focus on the
+development of digital and data literacy skills’.
+Some of these documents, then, have a greater appreciation of the role of data
+literacy in society, as well as the economy. Some recognise the need for data literacy
+for all – including both senior leaders and non-specialists in data. But again there is
+little detail on what data literacy involves and how to go about developing it.
+Open Data Institute | April 2022 | Data literacy and the UK government25
+
+In individual government departments
+Individual departments are developing their own approaches to data literacy,
+which recognise the need for all staff to have an understanding of data and its
+uses. TheData Strategy for Defencesays all personnel(including ‘data and
+non-data professions’) will ‘complete mandatory data literacy training across
+Defence skills frameworks to develop a Defence-wide digital and data literate
+organisation’, and wants ‘expert data professionals, alongside all personnel being
+data-literate and data-aware’. It adds: ‘This will allow personnel to focus on what
+they were employed to do – make informed and effective decisions’, noting ‘data
+literacy skills will be recognised as fundamental as weapon handling, with data as
+the lifeblood of operations and the firm base’. TheHome Office’s Digital, Data and
+Technology 2024 Strategyprioritises ‘improving dataliteracy across our
+organisation and creating a familiarity that helps people gain confidence using and
+handling it’. It states that staff in all of its business areas should understand what
+answers their strategic datasets can provide, and staff who handle and rely on
+data ‘should understand their legal obligations and be aware of how to find,
+collect, store and share [data] securely’ and ‘be familiar with its provenance and
+know which strategic data sets are important for answering critical questions’.
+The Home Office’s reference to staff understanding their legal obligations raises
+questions about a particular form of data literacy (which might fit under ‘developing
+policy’ or ‘governing access’ in the ODI’s framework, on the left-hand side among
+other strategic, contextual skills): how aware are staff of the various data-related
+laws and regulations they are operating under? The government consultation on
+‘Data: A new direction’ lists the eleven pieces oflegislationthe ICO is responsible
+for enforcing, including GDPR, the Data ProtectionAct, the Privacy and Electronic
+Communications (EC Directive) Regulations, the Freedom of Information Act and the
+Re-use of Public Sector Information Regulations, and there will be other legislation
+integral to civil servants in their daily work (such as the Public Records Act). There
+are also various other frameworks and pieces of guidance (such as the
+government’s ownData Ethics Framework) availableto support public servants in
+their work. But it is unclear to what extent most parts of government consider
+awareness of these legal obligations to be part of data literacy, and to what extent
+resources to understand them all are made available (although ‘understanding the
+Data Protection Act’ is part of theFundamentals ofWorking in Government stream
+of the new government curriculum – see below).
+Open Data Institute | April 2022 | Data literacy and the UK government26
+
+How these definitions relate to the ODI framework
+There are two obvious similarities between the various government definitions of
+‘data literacy’ and the way the ODI thinks about it. The first is that ‘literacy’ goes
+beyond merely technical skills to understanding some of the context of data being
+used (particularly in making policy and other decisions). The second is that literacy
+is something that everyone, not just data specialists, should possess. But most
+government documents tend to focus on the economic opportunities rather than the
+wider societal implications. And there is relatively little detail about exactly what
+government intends to do to develop or improve data literacy, and no systematic
+exploration of the subjects that should be covered or the expectations for a digitally
+literate population or workforce that needs to be met.
+On the lack of definition, it would appear the Central Digital and Data Office (CDDO)
+is on the case. Inan update to parliament’s PublicAdministration and Constitutional
+Affairs Committee, Cabinet Office notes that the CDDO‘is developing and piloting a
+‘Digital and Data Criterion’ that defines the skills and behaviours, associated with
+data literacy and digital orientation, required of Senior Civil Servants (SCS) across all
+professions (for example Commercial, HR, and Operational Delivery). This forms the
+foundation of our training needs analysis and development of critical learning
+products’. Again, though, this may not clarify or spell out the need for a required
+level of data literacy for civil servants at all levels.
+How others think about data literacy
+The UK government and the ODI are not the first organisations to think about ‘data
+literacy’ and how to define it. The forthcoming conference paper authored by
+members of the ODI team notes there has been considerable discussion in academia,
+and these discussions are starting to evolve from a focus on the skills needed by
+students and researchers, to the needs of wider society. Even if disagreements about
+precise definitions remain, there is at least a body of work to draw on which can be
+used to bring structure to conversations around data literacy.
+The authors quote a definition byWolff et althat:
+‘Data literacy is the ability to ask and answer real world questions from
+large and small data sets through an inquiry process, with consideration of
+ethical use of data. It is based on core practical and creative skills, with the
+ability to extend knowledge of specialist data handling skills according to
+goals. These include the abilities to select, clean, analyse, visualise,
+critique and interpret data, as well as to communicate stories from data
+and to use data as part of a design process.’
+Open Data Institute | April 2022 | Data literacy and the UK government27
+
+Arguably, this can still be interpreted as a narrow and technical definition, missing
+some of the wider contextual points (such as the impact on society) of the ODI
+definition. Other, wider definitions sometimes distinguish between ‘active’ skills
+(those involved in actually doing things with the data) and ‘passive’ ones (which
+speak to being able to contextualise the data). A concept note by the OECD on
+core foundations for education and skills for 2030underlines the importance of
+technical and social aspects of data with a definition by Carlson et al: ‘Data
+literacy is the ability to derive meaningful information from data, the ability to read,
+work with, analyse and argue with data, and understand “what data mean,
+including how to read charts appropriately, draw correct conclusions from data,
+and recognise when data are being used in misleading or inappropriate ways”’.
+Wolff et al’s approach, which includes collecting and sorting existing definitions,
+allows them to think about data literacy from different perspectives:
+●
+Different points in an analysis cycle.This includesthe PPDAC approach
+used for statistical thinking in New Zealand – Problem, Plan, Data,
+Analysis, and Conclusion
+●Different interactions with or uses of data in different contexts.They
+give the examples of data as evidence, data as a tool for innovation, and
+data literacy for job opportunities
+●Different types of data literate citizen.In advancingorder of required
+literacy, these are the reader (consumes data), the communicator (can talk
+to others about it), the maker (works with data) and the scientist (higher
+level engagement).
+Some of these approaches to thinking about data literacy can be found elsewhere.
+Take the different personas or types of data literate citizen. In 2014 theUK Digital
+Skills Taskforcedistinguished between ‘digital citizens’,‘digital workers’ and
+‘digital makers’;Data Skills for Work, an ongoinginitiative involving the Scottish
+government’sData Lab, among other partners, differentiatesbetween ‘data
+citizens’, ‘data workers’, ‘data professionals’, and ‘data leaders’; andthis 2018
+ONS blogpost looks at an attempt to develop a ‘data literacy scale’which divided
+the potential audience into ‘beginners’, ‘readers/explorers’, ‘makers,
+‘communicators’, ‘scientists’, and ‘pioneers’. This also comes through from
+government’s various literacy and skills training offers: those developing training
+appreciate that more junior staff and senior leaders will have different needs and
+expectations, and there will be differences between initiatives aimed at basic,
+day-to-day understanding of data and targeted interventions such as helping
+members of public sector boards scrutinise the systems they are responsible for.
+Open Data Institute | April 2022 | Data literacy and the UK government28
+
+A prominent example of thinking about literacy through different situations or tasks
+is the University of Liverpool’s currentMe and MyBig Data – Developing Citizens’
+Data Literaciesproject. The project’sData CitizenshipFrameworkgroups 21 key
+components of data literacy (outlined by previous work) under the three headings
+of ‘data doing’ (such as creating, visualising and interpreting data), ‘data thinking’
+(awareness of rights, understanding data society) and ‘data participation’
+(engaging with debates, participating in society using data, activism). This speaks
+to a tension mentioned in our stakeholder interviews: an acknowledged need for
+general data literacy, but an inability to bring data literacy to life, or target learning
+interventions to achieve it outside specific, predominantly professional, contexts,
+which may explain why data literacy in professional work contexts is often
+prominent in the literature.
+In the AI Roadmap
+One hypothesis we had at the start of this project was that the UK government might
+be neglecting basic data literacy for its workforce in favour of ostensibly more
+exciting skills around AI. It’s ironic then, that one of the most holistic and thoughtful
+explorations of ‘data literacy’ is found in the 2021AI Roadmapfromthe AI Council.
+This is an independent committee of experts ‘set up to provide advice to the
+Government and high-level leadership of the AI ecosystem’. One of its 16
+recommendations is to ‘commit to achieving data and AI literacy for everyone’, which
+sits alongside two other recommendations on ‘skills and diversity’, one dealing with
+‘high-level AI skill building’ and the other with prioritising diversity and inclusion
+within the field. This is an holistic view which brings together skills for all, specialist
+skills and the importance of diverse perspectives.
+The council’s roadmap argues that ‘the public needs to understand the risks and
+rewards of AI so they can be confident and informed users’ and recommends an
+online academy for understanding AI, with ‘trusted materials and initiatives’ to
+support teachers, school students and lifelong learning. It argues ‘every child
+[should] leave school with a basic sense of how AI works’, and that this basic
+sense should go beyond ‘the basics of coding or quantitative reasoning’,
+describing mathematical concepts and understanding ethics to include ‘knowing
+enough to be a conscious and confident user of AI-related products; to know what
+questions to ask, what risks to look out for, what ethical and societal implications
+might arise, and what kinds of opportunities AI might provide’. It highlights the risk
+that, without this basic AI literacy, ‘the UK will miss out on opportunities created
+by AI applications, and will be vulnerable to poor consumer and public
+decision-making, and the dangers of over-persuasive hype or misplaced fear’.
+Ongoing resources to support public engagement could even underpin future
+regulatory infrastructure ‘by ensuring that public debates were consistently
+well-informed’, building public trust and allowing informed scrutiny.
+Open Data Institute | April 2022 | Data literacy and the UK government29
+
+How other definitions relate to the ODI framework
+Although they approach it in slightly different ways, a general similarity between
+these definitions and the ODI framework is the importance of context, and the
+wider, non-technical considerations about how data is used and its impact in
+particular scenarios (those elements that are highlighted in the hexagons on the
+left-hand side of the ODI Data Skills Framework). Framing data literacy, for
+example by looking at where it sits in the data cycle, or the different types of tasks
+that may be undertaken or data citizen who may undertake them, also underlines
+that different people may need different types and levels of data literacy skills at
+different times.
+Additionally, a constant theme in the wider literature which fits with ODI (and
+indeed, government) thinking is the need for both a group of people with
+specialist, technical skills, and for the broader population to have some grounding
+in data literacy, engaging both the lowest and highest levels of the ODI Levels of
+Data Literacy. This dual need is present in everything from theRoyal Statistical
+Society’s Data Manifestoto theBritish Academy’sCount Us Inreport, to theRoyal
+Society’s Dynamics of data science skills report.InDoteveryone’s famous phrase,
+‘digital understanding is not about being able to code, it’s about being able to
+cope’.
+Some of those reports explore the balance between those specialist skills being
+mainly of use for the economy, while the more general data literacy can also
+benefit individuals as citizens (for example, helping them navigate information in
+their personal or civic lives). Interestingly, some of the reports government cites as
+being influential – for example,Analytic Britain:Securing the right skills for the
+data-driven economyby Nesta and Universities UK –have more focus on
+specialist skills (in the Analytic Britain example, trying to find data scientists who
+can combine technical, analytical, industry, business and other soft skills and
+knowledge).
+Perhaps the most developed approach to data literacy – the AI Roadmap’s
+three-way model of general literacy, specialist skills and diversity and inclusion,
+with data literacy in the general population being vital for understanding,
+supporting and even regulating innovation with data and AI – has unfortunately
+not been fully adopted by government.
+Open Data Institute | April 2022 | Data literacy and the UK government30
+
+Chapter 3: Public sector
+data literacy initiatives
+for government
+‘We need to transform the way data is collected, managed, used and
+shared across government, including with the wider public sector, and
+create joined-up and interoperable data infrastructure. We need the right
+skills and leadership to understand and unlock the potential of data.’
+Mission 3: Transforming government’s use of data,National Data Strategy
+‘Perhaps most importantly, government must also ask itself if its people
+have the skills necessary for the challenges that I have set out.’
+Michael Gove,‘The privilege of public service’, 2020
+Recent years have brought renewed focus within government on improving
+specialist skills throughthe ‘functional agenda’.Data (and digital) skills are part of
+this, but have also been given fresh impetus by the centrality of data to the
+government’s pandemic response, and plans to increase data sharing between
+government departments (and between government and other sectors) in theData:
+A new direction consultationand elsewhere. This isalso a longstanding challenge:
+theNational Audit Office’s 2019 report on data sharingacross government notes:
+‘departments need to have skills at several levels: to understand how to use
+legislation appropriately for legitimate data-sharing; to know the limitations of the
+data they hold; and what is needed to fix the problems. Those at senior levels need
+to understand the implications of poor data to help provide the influence at higher
+levels and gain traction for improvements’.
+The government has made clear commitments to improve the data literacy of the
+public sector workforce. Data is one of the areas identified in the 2021Declaration
+on Government Reformwhere the government should developexpertise. Mission
+3 of the NDS, to transform government’s use of data, includes several pledges on
+data literacy and data skills, many of them working with (what is now) the CDDO
+and other government organisations to improve data skills across the public
+sector. Those pledges include training analysts in data science (exceeding the
+target, according tothe government’s NDS consultationresponse) and delivering
+the range of actions to be outlined in the (completed but unpublished) Public
+Sector Data Capability Audit. They also include extending the data training offer to
+public servants. Further measures are also promised as part of the NDS, originally
+due in autumn 2020 but not yet launched.
+Open Data Institute | April 2022 | Data literacy and the UK government31
+
+And withmore than a sixthof all workers in the UKemployed by the public sector,
+the UK government’s approach to upskilling its workforce will have a wider effect on
+the whole economy (Mission 1 of the NDS, to unlock the value of data across the
+economy, as well as Mission 3 on government’s own use of data).
+How training, learning and development works
+inside government
+TheGSCUwas set up as part of the Cabinet Officein September 2020, following
+the Ditchley Lecture given by Michael Gove (then Minister for the Cabinet Office,
+responsible for the civil service and how government operates).
+It brings together various learning and training initiatives across government,
+including new ones like the curriculum and (online) campus for government skills,
+and existing ones that include:
+●
+various Accelerated Development Schemes (like the Fast Stream for
+graduates, or Future Leaders Schemes for high-performing civil servants
+below the senior civil service level),
+●
+the Leadership Academy (which aims to ‘to accelerate the development of
+the knowledge, skills, networks and professional practice of all civil
+servants), the National Leadership Centre (which supports leaders and
+leadership practice across the wider public sector), and the Civil Service
+Leadership Group (a network of the so-called ‘top 200’ senior leaders
+across government) which will all form part of the Leadership College for
+Government, and
+●
+‘central learning frameworks’ like Civil Service Learning (a longstanding
+platform through which civil servants can access training courses).
+Thevariousfunctions and professionsacross governmentalso have a vital
+role in developing and training civil servants. Senior politicians and officials and
+seasoned Whitehall watchers have long argued for the need to value civil
+servants with specialist skills as well as policy ‘generalists’ (who tend to move
+roles, jobs and policy areas more frequently). ‘Professions’ cover civil servants
+with particular professional skills, such as social research, science and
+engineering, and policy, while ‘functions’ relate to civil servants helping the
+government perform certain tasks it is responsible for, such as analysis,
+commercial or digital. These all have their own career frameworks, professional
+standards, networks (such as a cross-government working group with heads of
+data science), and their own training and development initiatives. The  GSCU’s
+fourth curriculum strand on specialist skills links to these initiatives, and
+professions and functions sometimes have their own training institutions like the
+Government Digital Service Academy for the digital, data and technology
+profession.
+Open Data Institute | April 2022 | Data literacy and the UK government32
+
+There will also beother initiativesacross government.Each government
+department and organisations across the public sector (including local government
+and organisations in the health service) are likely to have their own resources to
+support their own needs. There will also be private providers of training support to
+the government, operating within the Civil Service Learning and other frameworks –
+departments currently spendaround £300m a yearontraining. As well as the ODI,
+these providers include the Civil Service College – which acquired many of the
+courses run by the National School for Government, the part of Cabinet Office
+which ran training for the civil service before it was abolished in 2010, and is now a
+private provider with no government involvement.
+Curriculum and campus
+A January 2021 report,Better Training, Knowledgeand Networks: the New
+Curriculum and Campus for Government Skills, outlineskey thinking around the
+role of the GSCU’s approach to training and skills. The curriculum has five strands,
+from which civil servants can ‘pick and mix’ training courses.
+Given that a foreword by Alex Chisholm, the Chief Operating Officer for the civil
+service, highlights ‘the Civil Service’s grasp of science and data’ as one of the
+‘gaps in universal administrative core abilities and highly technical expertise’, it is
+perhaps unsurprising that most of these strands have components dedicated to
+data (and data literacy, even if they are not defined as such).
+The five curriculum strands are:
+●
+The Foundations of Public Administration, which isuniversal training in
+and knowledge of essential skills for public servants to which every new
+entrant is entitled. Several of the ‘fundamentals’ relate to data, including
+‘Data handling and interpretation’ and ‘Data Masterclass for senior
+leaders’ (more on this below), as well as ‘Basic digital skills suite – Excel,
+PowerPoint, social media’, ‘Analysing evidence’, and ‘Quality of evidence’.
+●Working in Government, a ‘comprehensive groundingin the history and
+structure of government and how it works with the rest of the public
+sector’ and developing skills to make practical use of that knowledge. The
+‘fundamentals’ here include ‘Working with data’, ‘Data protection’, ‘The
+Treasury Green Book’ (which provides guidance on appraising, monitoring
+and evaluating policies and programmes), ‘Government finance’ and
+‘Science in the Civil Service’.
+●Leading and Managing, including relevant practicalskills expected of
+those with leadership and management responsibilities.
+●Specialist Skills, which is ‘training by the professions,for the professions’.
+●Domain Knowledge, or developing and honing knowledgespecific to a
+specialist area such as health, education or transport.
+Open Data Institute | April 2022 | Data literacy and the UK government33
+
+Functions and professions
+The fourth strand of the curriculum, Specialist Skills, links to the offers from the various
+professions and functions. These are aimed at the members of those groups – with
+some resources widely available, while others may be restricted.
+TheAnalysis Functionbrings together several analyticalprofessions in
+government, including geographers, actuaries, social researchers, operational
+researchers, statisticians, economists, data scientists and analysts. Itsmissionis
+‘to support everyone in government to make better decisions so that policy and
+operations, deliver value for money and improve the lives of the people of the UK’.
+It is very active in supporting this mission – for example, it hostsAnalysis in
+Government Month, consisting of events highlightingand celebrating work and
+bringing together analysts from across the public sector. Itstraining offeringis one
+of the more open, and impressive. Itslearning curriculumclaims it has something
+for everyone, ‘whether... you’re a member of one (or more) of the analytical
+professions or not’; even thefunctional standard,which sets expectations for
+planning and delivering analytical work in government, includes resources that
+could fall under a data literacy heading (such as details of different practices, ways
+of thinking about analysis and a cycle of how a process should work).
+Its curriculum, courses and resources are splitintoAbility (learn how to do
+something), Technical (get better at something), Behaviours (change a behaviour),
+Strengths (learn from experience/strengths of others), and Experience (experience
+something that will help me grow). ‘Ability’, for example, provides links to various
+standards, guidance (for example, government’s data ethics framework) and
+training (for example, an introduction to GDPR).
+The other data- and information-related professions are a mixed bag in terms of
+what they provide. TheGovernment Statistical Servicehasan impressive array of
+links to courses and resources– some of which appearaccessible to those
+outside the statistical professions.Digital, dataand technologylinks tovarious
+GDS Academy courses, some of which – such as ‘introducingthe basics of
+Artificial Intelligence in government’ – would belongunder a banner of data
+literacy.A document on continuing professional developmentfor the knowledge
+and information management profession includes various links – for example, on
+‘knowledge principles for government’ – that could be useful in thinking about
+data literacy. Others – such as theGovernment EconomicsServiceand
+Government Social Research Service– have their resourcesbehind logins.
+Open Data Institute | April 2022 | Data literacy and the UK government34
+
+One civil service profession where data literacy is vital is thepolicy profession,
+which includes the nearly 30,000 civil servants tasked with developing and
+delivering public policy. The policy profession, with support from the analysis
+function, has been taking the challenge seriously: one of the twelve standards  in
+thepolicy profession competency frameworkis ‘data,analysis and scientific
+advice’, which requires policy professionals to be able to ‘apply research methods
+to model, test and improve policy solutions’ and ‘commission, understand and use
+data, evidence, and advice’ from analytical, scientific and technical sources. The
+profession’s training prospectusincludes nine hoursof workshops on ‘data and
+analysis’ with this blurb: ‘The growth of open data has changed how data is
+collected and analysed, allowing managers, analysts and policy professionals to
+change how they make decisions. In this topic you will explore how data, and
+specifically open data, can be used to improve policy development and
+implementation. You will also explore how to interpret data accurately and how to
+communicate data effectively.’ The Analysis Function is also currentlyundertaking
+an auditof analytical skills among policy officials,which is expected to conclude
+(with actions) shortly.
+Data masterclasses
+‘Listening to data starts at the top’ according to an adageattributed to Amazon
+founder, Jeff Bezos.
+Reading through civil service training material and speaking to those involved in
+supporting data literacy in government, one initiative was front and centre: the
+Data Masterclasses for Senior Leaders.
+The masterclasses have been described byone of theircreators at GSCU and
+10DS(the Number 10 Data Science unit) as an‘unusually-accessible,
+exceptionally-engaging and deeply-vocational online courseto help equip
+non-analyst senior leaders across government with the knowledge and skills
+they need to put data and evidence at the heart of their work’. They involve
+videos of some high profile speakers (including National Statistician Sir Ian
+Diamond, mathematician and author Hannah Fry, and Professor Sir David
+Spiegelhalter), case studies of ‘exemplary’ data use in government, and quizzes
+and calibration tests. They cover:
+●
+data-driven decision-making and policy-making
+●communicating compelling narratives through data
+●data science and new frontiers.
+Interviewees inside government also highlighted the importance of each student
+being part of a cohort they could learn and discuss with.
+Open Data Institute | April 2022 | Data literacy and the UK government35
+
+The Masterclasses started in 2021 with senior civil servants – the idea being that
+upskilling senior leaderswould drive demand for betteruse of data and evidence
+across government – but have since been rolled out more widely, including now
+being part of the Fast Stream induction, and inspired similar courses on innovation
+and demographics. The ONS Data Science Campus has since taken ownership of
+the programme.
+In its first year, more than 3,000 learners enrolled(28 cohorts from 26 departments),
+with a completion rate of 26% (compared to an industry standard of 12.6%).
+Other initiatives
+The National Health Service (NHS) is also thinking about its data literacy offering.
+TheNHS Leadership Academyiscurrently conductingresearchon the question,
+‘What are the gaps in data literacy in Health and Care leaders and what training
+requirements will support evidence use in decision making?’ TheAnalyst X
+communityis researching the needs of those engagedwith analysis in the NHS.
+TheWhat Good Looks Likeframework – which NHS leadersshould use to ensure
+their organisation and local health system is ready for digital transformation –
+includes a success measure of supporting people: ‘Your workforce is digitally
+literate and are able to work optimally with data and technology’. There is an
+‘Information, Data and Content’ domainwithinHealthEducation England’s work
+on the ‘digital literacy of the wider workforce’. The NHS isusing the apprenticeship
+levy‘to upskill the wider workforce in data literacy’as well as developing more
+advanced skills. Andthe Goldacre Reviewinto theuse of health data, published in
+April 2022, includes a recommendation to ‘Create training specifically for senior
+leaders to help them become better customers for data analysis’, since there
+should be an expectation that non-analyst staff, especially those in management
+positions, should ‘have sufficient data literacy to conduct informed conversations
+about data’.
+One major data literacy example in the health service is the ‘Making Data Count’
+initiative run by NHS England and NHS Improvement, which provides practical
+guides and training ‘for those working at all levels in the NHS, from ward to board’
+claiming to show participants ‘how to make better use’ of their data. It includes
+supporting staff and boards to understand ‘statistical process control’ – using
+averages and upper and lower limits to analyse performance and whether targets
+will be met.
+TheGovernment Data Quality Hub, based at the ONS,focused on working with
+producers of statistics to improve their quality in its old guise as the Government
+Statistical Service Quality Centre. But it now aims ‘to improve the qualityof all
+types of data and analysis across government... by supporting organisations to
+better understand, communicate and improve the quality of their data and their
+analysis’. It produces resources, including aframework,to understand data
+quality, and runs a training course on the basics ofdata quality. Itsmaturity
+framework– being trialled – also has an expansiveview of how organisations
+approach data, looking at uses, leadership, culture and skills (which asks ‘how
+data literate are your staff?’). The Hub also worked with theData Standards
+Open Data Institute | April 2022 | Data literacy and the UK government36
+
+Authorityat the CDDO to organiseDataConnect21, a series of events aimed at
+everyone ‘from the most technical data expert who wants to talk about good
+dataset design, through to leaders who want to understand more about putting
+data at the heart of their organisation’. This is just one example of CDDO and
+others understanding the value ofnetworks and communitiesin fostering
+relationships and learning across government.
+And in its major 2019 report onthe challenges ofdata across government, the
+National Audit Office mentions training provided by the Ministry of Housing,
+Communities & Local Government (now the Department for Levelling Up, Housing
+and Communities) for chief executives and political leaders in local authorities ‘to
+help support better use of digital services across local areas’.
+Open Data Institute | April 2022 | Data literacy and the UK government37
+
+One initiative, from outside government but aimed at it, isTeaching Public Service
+in the Digital Age, an open syllabus for public serviceleaders. Competency 7 (of 8)
+is that ‘a digital-era public service leader understands how to use data to inform
+decisions, design and run services, and create public value inside and outside
+government’, offering to teach public servants to:
+●
+understand what types of problems that will require data scientists versus
+statisticians or economists;
+●identify the skills needed to acquire and clean data;
+●‘understand how the architecture and governance of new digital systems
+will make data more or less easy to use, share and maintain’;
+●‘explain how the gap between 'policy data' and 'operations data' is
+collapsing’; and
+●‘anticipate and mitigate problems related to the sharing of data within governments.’
+There is also aseparate competency– to ‘anticipateand mitigate the privacy,
+security and ethical risks that are inherent to governing in a digital era’.
+Open Data Institute | April 2022 | Data literacy and the UK government38
+
+Assessing the offer against the ODI framework
+On the subject of training materials, James Kuht, one of the creators of the Data
+Masterclass, toldan event at the Institute for Governmentin February 2021:
+‘there’s a wealth of content, but some of it was difficult to access. Some of it was
+great – but other parts of it weren’t the most engaging.’
+It is difficult for this report to be definitive, given some resources are behind
+government logins and there will be many other offers from individual government
+organisations that are not obvious from outside government.
+But looking at the offer from the GSCU and some of the functions and professions,
+a lot of the hexagons on the left-hand literacy side of the ODI’s Data Skills
+Framework relevant to strategic and contextual critical skills would appear to be
+covered (as well as awareness of, and some basic skills around, the technical skills
+highlighted on the right-hand side). Some hexagons not obviously covered might
+include ‘Innovating with data’ and ‘Achieving sustainability’, but the emerging
+Government Office for Technology Transferand theData Sustainability Charter
+mentioned in the NDS may deal with these in due course. One of the challenges in
+mapping the landscape is that some initiatives that are not obviously part of the
+central training and curriculum machinery have useful resources – such as the
+Government Data Quality Hub, or theperformance analysiscommunity, which
+might support ‘measuring success’.
+The various courses and resources also appear to span different levels of the
+ODI’s framework, with all civil servants being offered basic data literacy training as
+part of the government curriculum, and the professions and functions having more
+advanced offers. However, there is a risk that some of those things offered by the
+professions and functions that could be of wider use might not be more widely
+available, and that some of government’s most prominent initiatives – such as the
+Data Masterclass – started with senior leaders and may still focus on particular
+groups (such as future leaders) rather than all civil servants who could benefit. The
+biggest challenge may be understanding exactly what is available across the
+whole of government.
+Open Data Institute | April 2022 | Data literacy and the UK government39
+
+Chapter 4: Public sector
+data literacy initiatives
+for others
+The UK government is interested in the data literacy of the wider population and
+not just its own workforce. There are fewer of these initiatives and many have a
+workforce or economic focus, at the expense of engagement with the place of
+data literacy in people’s lives outside the workplace. Also, many of the
+government’s major announcements on literacy and skills have tended to be about
+more advanced skills. These include training public sector analysts in data science
+and using government tech fellowships to attract ‘world-class tech talent’ – both
+trumpeted inthe September 2020 press releaseaccompanyingthe NDS – and
+initiatives such as providingup to £24 million tofund AI and data science degree
+conversion courses.
+But there are some exceptions.
+The National Data Strategy
+TheNDShighlights several challenges for data skillsacross the economy, particularly:
+●
+‘Lack of coordinated vision and leadership across multiple industry
+interests’, requiring a ‘coherent approach across all skills stakeholders and
+landscapes’
+●‘Greater clarity needed in describing data skills required by industry’
+●‘The need for the formal and vocational education system to better
+prepare those leaving school, further education and university for
+increasingly data-rich lives and careers’
+●‘Industries needing to develop their understanding of their own data
+skills needs’
+●‘A limited pool of data-skilled individuals nationally’.
+Although the government recognises that some of these are for industry itself to
+address, it also takes responsibility for working with industry and delivering on
+some pledges itself. Acknowledging the shifting and uncertain definitions of data
+skills, one such promised action is to publish ‘a working definition of data skills in
+the wider economy that sets out clear distinctions between data skills, digital skills
+and AI skills’ – this has not yet happened (nor has a similar NDS pledge for a
+shared definition of data expertise across central government, though this may
+change with forthcoming work from CDDO).
+Open Data Institute | April 2022 | Data literacy and the UK government40
+
+But others have. DCMS actively supports theData SkillsTaskforce. This is
+co-chaired by the Alan Turing Institute and Accenture, and consists of members
+from industry, academia and National Academies as well as government (and the
+ODI), and was established partly in response to Nesta’sAnalytic Britainreport. It is
+cited as one of the main national leadership institutions on skills, andwith
+government backinghas createda data skills self-assessmentportal or toolthat
+allows small and medium sized enterprises ‘to understand [their] organisational
+and technical readiness with respect to data’. There is alsoan online course for
+leaderswith responsibility for data science functions,supporting them to ‘develop
+a foundational understanding of the capabilities, risks and limitations of data and
+AI’ in their organisation, ‘explore the ways in which organisations are using data to
+create business value’, and ‘reflect on the data maturity’ of their organisation and
+think about next steps.
+Another major project under the auspices of the NDS is with the OfS, the public
+body that works with higher education institutions ‘to make sure that students
+succeed in higher education’. DCMS and the OfS are working with seven
+universities to testhow ‘foundational’ data skillsare being taught to undergraduates
+whose degrees do not include substantial data science elements, an extension of
+existing work onpostgraduate conversion coursesforAI and data science. The
+evaluations are due to be published in summer 2022.
+Beyond the National Data Strategy
+One of the pledges in the government’s Online Harms White Paper and its work
+around internet safety and online harms (which has led to the Online Safety Bill
+currently making its way through parliament) was to develop anOnline Media
+Literacy Strategy. This was published by DCMS in July2021. At the heart of the
+strategy is a media literacy framework consisting of five key areas, each based on a
+principle. One of these is the principle that: ‘Users should understand the risks of
+sharing personal data online, how that data can be used by others, and are able to
+take action to protect their privacy online’. ItcitesOfcom pollingthat indicates that,
+although 73% of users described themselves as ‘very confident’ or ‘fairly confident’
+managing their data online, 44% of these ‘confident’ respondents were unaware
+that data could be collected through smartphone apps, ‘and 20% were unaware of
+the existence of cookies altogether’. Other principles also include elements of what
+might be described as data literacy. For example, principle 2 says: ‘Users should
+understand how the online environment operates and use this to inform decisions
+online’, and includes understanding how data feeds into algorithms and social
+media business models within its expectations. The Online Media Literacy Strategy
+is unusual in major government literacy initiatives in being aimed at individuals as
+citizens or going about their normal (online) lives, rather than being focused on their
+role in the workforce.
+Open Data Institute | April 2022 | Data literacy and the UK government41
+
+The DfE also provides a list ofSkills Bootcampsforeligible adults aged 19 and
+over, available online and in locations around the country. This includes many
+courses under a ‘digital’ heading, such as digital leadership, AI and machine
+learning, and several around data and data analysis. They are all aimed at helping
+people develop sector-specific skills and be fast-tracked to interviews with local
+employers (and therefore focus on targeted skills rather than more general data
+literacy). The department is also responsible for piloting some data-centric short
+courses under the Lifelong Learning Entitlement as part ofa trial with the OfS.
+DfE is also responsible for theEssential DigitalSkills Framework, which ‘defines
+the digital skills adults need to safely benefit from, participate in and contribute to
+the digital world’ and is designed to support those offering training to adults ‘to
+secure their essential digital skills’. It also informs theLloyds Bank Consumer
+Digital Index, which conducts a survey of basic digitalskills. Data-related skills in
+the framework include understanding ‘that others can capture and use my data
+and that I can protect and secure my personal data against such threats through
+privacy settings’ and ‘that I must not share other people’s data online without their
+consent’, while ‘additional skills for work’ include ‘use appropriate software,
+including a spreadsheet, to manipulate and analyse data to help solve problems at
+work’. This framework does not appear to be cited in any subsequent government
+work on data literacy and has few other mentions on GOV.UK. A 2021 report by
+FutureDotNowargues that the framework has not yetachieved cut through, and
+estimates 17.1 million adults (52% of the workforce) still lack essential digital skills
+for work.
+The ICO runs theYour Data Mattersprogramme, whichhas a range of resources
+including lesson plans, andOfcom’s Making Sense ofMediais a major
+programme to support the development of online skills. The devolved
+administrations also have their own programmes: for example in Scotland, the
+Data Labhas funded some training and is a partnerinData Skills for Work, a
+project that ‘aims to provide all of our citizens, from school pupils to adult learners,
+with the opportunity to learn and master the necessary skills to drive and sustain
+data driven innovation in the region, regardless of background, gender or location’,
+including a basic level of data literacy. It notes ‘we all need to be more data savvy’.
+It is striking that, while some major UK government programmes will rely on greater
+data literacy, they don’t have much to say about it. For example,the Levelling Up
+white paperincludes various pledges on data, includinga new body to ‘empower’
+citizens to scrutinise local government through providing better data – but includes
+no consideration of the skills citizens will need to do so or the ecosystem required to
+support them.Global Britain in a Competitive Age:the Integrated Review of
+Security, Defence, Development and Foreign Policyuses the UK’s status as a
+‘global leader’ in AI as a case study, and talks about strengthening this position
+through ‘improving the supply of AI talent and boosting high-level skills’, increasing
+investment in research, supporting the ethical adoption of technologies, and
+international partnerships, but says nothing specific about equipping the population
+with the literacy necessary to support this.
+Although beyond the scope of this report, there are many non-government
+organisations also thinking about how to boost data literacy. One prominent
+Open Data Institute | April 2022 | Data literacy and the UK government42
+
+example is theAlliance for Data Science Professionals, encompassing organisations
+including the British Computer Society, Royal Statistical Society, The Royal Society,
+the Royal Academy of Engineering, The Operational Research Society, Institute of
+Mathematics and its Applications, the National Physical Laboratory and The Alan
+Turing Institute, which is ‘defining the standards needed to ensure an ethical and
+well-governed approach so the public, organisations and governments can have
+confidence in how their data is used’.
+Assessing the offer against the ODI framework
+The external offer seems lacking compared to the internal government offer on
+data literacy. Most of the initiatives focus more on data skills, rather than a more
+foundational data literacy offer. This means the focus is on the right-hand side of
+the ODI Data Skills Framework of technical skills, and the higher levels of the ODI
+Levels of Data Literacy, rather than the left-hand literacy skills and lower levels of
+data literacy for a wider population.
+Open Data Institute | April 2022 | Data literacy and the UK government43
+
+Next steps
+One of the six points in theODI’s manifestofor openand trustworthy data
+ecosystems and a world where data works for everyone is data capability:
+‘Everyone must have the opportunity to understand how data can be and is
+being used. We need data literacy for all, data science skills, and experience
+using data to help solve problems’.
+We believe it is vital that government recognises the importance of ‘data literacy’
+as well as data skills, if it wants to develop a public sector workforce that is
+confident and capable in using data to make and implement meaningful policies,
+build useful services and make informed decisions; foster a national private
+sector workforce that can thrive in a data-driven economy; and support
+well-informed citizens in a data-rich society. The size of the public sector
+workforce and government’s ability to lead by example means its internal and
+external initiatives can have a big impact. The government’s pledges, in the NDS,
+Plan for Growth,Integrated Reviewand National AIStrategy, show it is
+committed to improving data literacy.
+But, as this report shows, the different overlapping ‘literacies’ – such as digital and
+media literacy – which lack clear, consistent definitions, mean the government is at
+risk of work being fragmented, duplicated and unaligned, although ‘data literacy’ is
+foundational to many of them. Some of these literacies, such as ‘digital literacy’,
+tend to focus more on the technical and practical skills on the right-hand side of
+the ODI Data Skills Framework, rather than the more critical, contextual and
+strategic ‘literacy’ topics on the left-hand side.
+There is no consistent definition of ‘data literacy’ across government, which
+reflects debates in academia and elsewhere. There is some recognition that
+‘literacy’ means more than just technical, analytical and engineering skills, and that
+everyone – not just data specialists – needs some degree of data literacy. The AI
+Roadmap, from the independent, advisory AI Council, has a particularly
+interesting, holistic view of literacy for all sitting alongside specialists skills for
+some and greater diversity in data-focused professions.
+Government’s internal offering of courses and resources on data literacy –
+especially those brought together by the GSCU and the Analysis Function –
+covers a lot of the more strategic and contextual skills on the left-hand side of the
+ODI Data Skills Framework, and engages the different levels of the ODI Levels of
+Data Literacy. But there is a risk that some things offered by specific professions,
+and to particular levels of officials, could be of wider use. The internal offering is
+more extensive than many of government’s external initiatives, which focus on
+more technical skills.
+Open Data Institute | April 2022 | Data literacy and the UK government44
+
+Overall, for all the apparently good work going on in government, there remains
+greater focus on the technical skills of the right-hand side of the ODI Data Skills
+Framework than the more contextual literacy of the left-hand side. This also means
+that there can sometimes be a focus on the higher levels of the ODI Levels of Data
+Literacy, rather than data literacy for all, as per the ODI’s definition of data
+capability.
+Several issues remain that need to be tackled.
+The first is the lack of definitions around ‘data literacy’ and the other, overlapping
+types of ‘literacy’. Something like the ODI Data Skills Framework (with its
+hexagons of different topics) and the ODI Levels of Data Literacy (with its different
+levels) could help give some shape to this – helping to disentangle some of the
+specific areas, spheres or skills involved – as could the NDS commitment to
+publish a definition. Some guide to how the various other overlapping literacies
+relate to foundational data literacy and how the government thinks they all
+intersect would also be helpful. This might also help develop more focus on the
+importance of data literacy for individuals as citizens, rather than just as workers:
+most current initiatives tend to revolve around the workforce (the ‘data-driven
+economy’, as the NDS puts it) rather than society (the ‘data-rich lives’ that the
+NDS also considers important).
+This could help with the second issue – the risk of fragmentation, duplication and
+lack of awareness of different work across government. The GSCU has done an
+excellent job of trying to pull together different resources from across different
+professions and functions – but inevitably, there will be individual departments and
+other public sector organisations developing resources which could be of wider
+use. Making all the resources even easier to find and access – perhaps grouped
+under a ‘data literacy’ heading – will make them easier for people to use and
+integrate into their own training plans.
+The disconnection is particularly acute when it comes to the government’s
+public-facing data literacy work. The resources and training offered inside
+government feels more extensive than many of the current external initiatives. It may
+also be that some internal resources and training materials are only available to
+certain professions, and not more widely. There may be understandable reasons for
+this – it costs money to develop resources like the Data Masterclasses, there may
+be licensing issues, and partial offerings (for example, videos and quizzes but not
+the experience of shared learning with a wider cohort) may not be as good as the
+full offer. But increased openness about the materials available, within government
+and to the wider population, could be of real benefit and support government’s
+ambitions for data literacy for the wider population and workforce.
+Open Data Institute | April 2022 | Data literacy and the UK government45
+
+Annex
+Public sector data literacy initiatives
+for government
+●
+Government Curriculum and Campus from theGSCU: seeBetter Training,
+Knowledge and Networks: the New Curriculum and Campus for
+Government Skills
+●TheAnalysis Function, including itslearning curriculum,functional
+standard, andAnalysis in Government Month
+●TheGovernment Statistical Service, and itscoursesand resources
+●TheDigital, data and technologyprofession, withlinks tovarious GDS
+Academy courses
+●The Government Knowledge and Information Management Profession,
+andits document on continuing professional development
+●Government Economics Service
+●Government Social Research Service
+●Policy profession, and itscompetency frameworkandtraining prospectus
+●ONS Data Science Campus (previously GSCU and 10DS),Data
+Masterclasses for Senior Leaders(more inthis presentation,this blogpost
+andthis blogpost)
+●NHS England and Improvement, ‘Making Data Count’ initiative
+●TheGovernment Data Quality Hub, including adataquality framework,
+training course on the basics ofdata quality, amaturityframework, and
+(with Data Standards Authority)DataConnect21
+Open Data Institute | April 2022 | Data literacy and the UK government46
+
+Public sector data literacy initiatives for others
+●
+Provision by the government-backedData Skills Taskforce,including adata
+skills self-assessment portalor tool and anonlinecourse for leaders
+●A DCMS and OfS pilot testinghow ‘foundational’ dataskills are being
+taught to undergraduates(an extension of work onpostgraduate
+conversion coursesfor AI and data science)
+●DCMS,Online Media Literacy Strategy
+●Department for Education,Skills Bootcamps
+●DfE and Office for Students,piloting data-centricshort courses under the
+Lifelong Learning Entitlement
+●DfE,Essential Digital Skills Framework
+●ICO,Your Data Matters
+●Ofcom,Making Sense of Media
+●TheData Lab(Scotland),Data Skills for Work
+Stakeholder engagement
+We are very grateful to those who participated in stakeholder interviews and/or
+reviewed drafts of this work, including representatives of:
+●
+Analysis Function
+●Central Digital and Data Office
+●Civil Service Modernisation and Reform team
+●Data Skills Taskforce
+●Department for Digital, Culture, Media and Sport
+●Government Skills and Curriculum Unit
+●NHS Transformation Directorate
+●Office for National Statistics Data Science Campus
+●Office for AI
+We are also grateful to those who provided other suggestions and links to
+previous relevant work.
+Open Data Institute | April 2022 | Data literacy and the UK government47

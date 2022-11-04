@@ -1,0 +1,729 @@
+
+
+How to create and sustain peer networks for open data leaders - Open Data Institute 2016
+ODI-WP-2016-002 
+2016-03-01
+How to create
+and sustain
+peer networks
+for open data
+leaders
+Open Data Institute
+
+2 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+Table of contents 
+   Executive summary 3
+   Introduction: networks and network thinking 5
+   Peer networks as an approach to capacity building  7
+      Maximising network benefits 7
+    Exploring different types of peer networks 7
+    Assessing peer networks and their impacts 8
+   Features of effective peer networks 10
+  How to create and sustain effective peer networks  10
+    Managing networks: challenges  14
+   Conclusion and recommendations 15
+   About this report 17
+   Appendix 18
+ Bibliography 20
+   Authors:   Fiona Smith, Brendan Harvey and William Gerry
+
+3 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+1. Executive summary
+This report reviews the theory and practice behind peer networks as a method for building 
+leadership capacity. Its main purpose is to help organisations, researchers and global 
+development practitioners to create successful peer networks that support leaders 
+implementing open data initiatives, whether in the private or public sector. 
+Peer networks have emerged as a popular means of developing leadership and sharing 
+knowledge in different areas. As peer networks within the open data sector are still in their 
+formative stages, there is limited literature available on their specific impacts. However, we 
+can learn from the experience of more established peer networks in other fields, such as 
+not-for-profit management, research for development and good governance.
+This report explores peer networks, their key features and what makes them most 
+effective. It also raises ongoing challenges, such as how to sustain a network beyond initial 
+engagement stages. 
+We find that although individuals often learn from each other within peer networks, the 
+impacts may not extend to wider institutional and societal change. Further, research is 
+required to monitor and evaluate outcomes at various stages of network evolution, in order 
+to improve their impacts broadly.
+Drawing lessons from a body of literature on network theory and peer network evaluations, 
+we propose the following recommendations for organisations or practitioners interested in 
+convening peer networks to support open data leadership (though they are also broadly 
+applicable to other fields):
+ 
+1. Promote ‘network thinking’ among participants. Network thinking 
+describes an emerging horizontal approach to communication and decision 
+making. It helps a group to form new ideas, share diverse perspectives and 
+adapt, rather than be bound by rigid or pre-determined plans. This mindset 
+encourages collaboration and working in more connected, open ways. 
+ 
+2. Help to build relationships through face-to-face and virtual 
+engagement. Using action-learning and appreciative inquiry methodologies 
+that emphasise reflection, dialogue, feedback and joint problem solving can 
+improve trust and relationships among members. 
+ 
+3. Be flexible and adaptive to the needs of network members. The 
+network must be able to adapt to meet external opportunities or demands, 
+and respond to the shifting expectations and needs of its members.
+
+4 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+4. Appoint a dedicated and highly motivated convenor. Network growth 
+and sustainability often hinges on a committed coordinator or steering 
+group who can help to attract resources, mobilise members and engage 
+new participants.
+5. Use platforms that enable members to self-organise, engage others 
+and take ownership over actions. Social networking tools are increasingly 
+being used to help members to collaborate on joint projects, share 
+resources and communicate easily.
+6. Collaborate on outputs that will build your external credibility and 
+influence. The external credibility and influence of networks over time often 
+depend on whether they produce high-quality research, policy papers or 
+other outputs such as stories, tools, resources and guidance.
+ 
+7. Intentionally monitor and evaluate network outputs and outcomes 
+at various levels such as ‘individual’, ‘institutional’ and ‘national/policy’. 
+In particular, follow up with individual members regularly to understand 
+how effective the network is in supporting leadership capacity, and adapt 
+approaches where necessary.
+ 
+
+5 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+2. Introduction: networks and network thinking 
+ 
+The idea of a ‘network’ can seem complex, so it is important for our purposes to 
+conceptualise it as a distinct organisational form. 
+To clearly define a network, it can be helpful to establish what it is not. A network is 
+not simply a group of people with a shared passion for a particular topic, who seek to 
+learn how to do it better through unstructured interaction.
+1
+ This is often referred to as a 
+‘community of practice’. While communities of practice are self-selecting and informal, 
+networks have more established structures. 
+A network is also not a traditional hierarchical organisation. While traditional organisational 
+structures have individual leaders who decide what should be done, networks use a 
+distributed authority model, where network members have more autonomy to decide what 
+to do, contribute and create – sometimes with the help of a coordinator.
+2
+A network can be defined as a social arrangement that is based on members building 
+relationships, sharing tasks and working on mutual or joint activities.
+3
+ Networks consist of 
+a set of interconnected members (‘nodes’), which are connected by social bonds (‘links’) 
+formed through common activities and communication.
+4
+ Networks are adaptive structures 
+that can be easily expanded by incorporating new members or by merging with other 
+networks. The points at which networks cross over are known as ‘hubs’.
+‘Peer’ networks are horizontal organisational structures, comprised of members (‘nodes’) 
+who share similar identities, circumstances or contexts. Peer networks often distribute 
+resources and support to members via social bonds and activities (‘links’). A member 
+could be an individual person or organisation, but the key is that members enjoy equal 
+participation rights. As organisational models, peer networks are flourishing with the 
+combined influences of increasing economic and social interdependence, new media 
+and the growth of information communication technology. Supportive technologies such 
+as instant messaging, free video conferencing and online platforms now help nodes to 
+communicate across transnational boundaries and global north-south divides. 
+1 Wenger, E. (1999). Communities of Practice: Learning, Meaning, and Identity. Cambridge: Cambridge University Press.
+2 Plastrik, P. and Taylor, M. (2006). Net Gains: A Handbook for Network Builders Seeking Social Change. Available at: http://
+networkimpact.org/downloads/NetGainsHandbookVersion1.pdf [Accessed 2015-12-20].
+3 Willard, T. and Creech, H. (2006). Sustainability of International Development Networks, Review of IDRC Experience (1995-
+2005). Winipeg: International Institute for Sustainable Development. Available at: https://www.iisd.org/pdf/2007/networks_sus_
+int_dev.pdf [Accessed 2015-12-20].
+4 Castells, M. (2000). Toward a Sociology of the Network Society. Contemporary Sociology. 29(5), p. 695. Available at: http://
+www.jstor.org/stable/2655234 [Accessed 2015-12-20].
+
+6 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+Encountering networks can encourage us to re-examine the ways we work, the ways we 
+interact and even the ways we think.
+5
+ Network thinking has emerged to describe the 
+way decisions are made and activities are organised in an increasingly interconnected 
+society.
+6
+ It involves moving from vertical to horizontal approaches to decision-making, and 
+is characterised by open systems of communication, knowledge exchange and dialogue 
+facilitated by new media. It helps to form new ideas, share diverse perspectives among 
+multiple contributors and adapt, rather than be bound by rigid or pre-determined plans.
+7
+In the last five years, networks and network thinking have emerged around open data. 
+Open data is data that anyone can access, use and share. Open data can help bring 
+efficiency to policy-making and service delivery, boost citizen engagement and stimulate 
+innovation and economic growth.
+8
+ Governments of all levels (central, regional and local) are 
+developing an increasing number of open data initiatives: building capacities to use and 
+produce open data for social, environmental and economic benefits.
+The conference report of the International Open Data Conference (2015) recommends:
+“Government open data leaders need increased opportunities for networking and 
+peer-learning. Models are needed to support private sector and civil society open data 
+champions in working to unlock the economic and social potential of open data.”
+9
+Peer networks can be important in supporting the capacities of open data leaders within 
+sectors, cities and countries, and across regions. 
+The remainder of this report is structured in three parts. The first section outlines the 
+different types of peer networks and their impacts. The second section analyses the 
+characteristics of effective peer networks, and the challenges of creating and sustaining 
+a network. The final section provides our conclusions and recommendations for 
+convening peer networks effectively.
+5 Mitchell, M. (2006). Complex Systems: Network Thinking. Santa Fe Institute Working Paper 2006-10-036. Available at: http://
+www.santafe.edu/media/workingpapers/06-10-036.pdf. See also: Watts, D. (2003) Six Degrees: The Science of a Connected 
+Age. New York: Gardner’s Books; and Barabrasi, A. L (2002). Linked: The New Science of Networks, New York: Perseus.
+6 See Castells, M. (2000). As above; and Van Djik, J. (1991). The Network Society: Social Aspects of New Media. Houten: De 
+netwerkmaastchappij Bohn Staflen Van Loghum.
+7 See Ogden, C. (2011). Network Thinking. [Blog] Interaction Institute for Social Change. Available at: http://interactioninstitute.
+org/network-thinking [Accessed 2015-12-20].
+8 See for example: Tennison, J. (2015) The Economic Impact of Open Data: What Do We Already Know? [Blog] Huffington Post 
+Blog. Available at: http://www.huffingtonpost.co.uk/jeni-tennison/economic-impact-of-open-data_b_8434234.html [Accessed 
+2015-12-20].
+9 Enabling the Data Revolution: An International Open Data Roadmap (2015). Conference Report, 3rd International Open Data 
+Conference, Ottawa, Canada May 28-29, 2015. Available at: http://1a9vrva76sx19qtvg1ddvt6f.wpengine.netdna-cdn.com/
+wp-content/uploads/2015/09/IODC2015-Final-Report-web.pdf [Accessed 2015-12-20].
+
+7 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+3. Peer networks as an approach to capacity building
+Maximising network benefits
+With their horizontal organisational structure, peer networks can easily distribute resources 
+and support among their members. Knowledge and insights can be developed by sharing, 
+distributing and building upon information held by individual members, thereby increasing 
+the potential for collective impact.
+Leadership development programmes often employ peer networks to expand ties between 
+leaders who have shared interests, work objectives or experience.
+10
+ In a peer-leadership 
+network, members are encouraged to share information, offer advice and support, and 
+learn management techniques from each other. 
+The rationale for connecting peers within networks is that often the most practical or 
+relevant information for people can be obtained from reliable contacts at the same level, 
+rather than from further up the organisational hierarchy or back in institutional archives. In a 
+new and fast-moving field like open data, ties between practitioners at the forefront of the 
+movement are particularly important. There is not yet a well-established bank of wisdom to 
+draw upon, so networks may help to spread and solidify emerging knowledge much faster.
+Exploring different types of peer networks
+The purposes, scope, size, membership and governance of peer networks we surveyed for 
+this review varied greatly. Some networks aimed to link sector leaders within community 
+groups, donors and non-governmental organisations (NGOs). Other networks aimed to 
+influence policy through voluntary association and mobilising members. Others provided 
+social connections and developed ‘soft skills’ among their members.
+11
+ 
+Open data networks exist at different levels: regional, national or international. Some open 
+examples of data networks are listed below.
+•	The Open Data for Development Network is a global initiative of 
+NGOs, donors and research organisations seeking to understand and 
+then scale open data solutions for economic and social development. 
+10 Hoppe, B. and Reinelt,C. (2010). Social Network Analysis and the Evaluation of Leadership Networks. The Leadership 
+Quarterly, 21, p. 600.
+11 Bernard, A. (1996). IDRC Networks: An Ethnographic Perspective, IDRC Evaluation Unit.
+
+8 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+•	The Latin America Open Data Initiative is a regional initiative that 
+seeks to promote research, use and re-use of open data across Latin 
+America. 
+•	The UK Government Linked Data Group is a UK-based initiative 
+which brought together civil servants working across departments to 
+optimise technology for government. 
+• GODAN (Global Open Data for Agriculture and Nutrition) is a 
+sector-based network of NGOs, researchers, universities, private sector 
+actors, global institutions and governments to support global efforts 
+making agricultural and nutritionally relevant data more available, 
+accessible and usable.
+•	The Open Data Leaders Network is a global network of public sector 
+open data leaders at different levels (city, regional and national) to 
+promote peer-learning and knowledge exchange.
+See the appendices for a fuller list of existing open data networks. 
+Assessing peer networks and their impacts
+Defining and measuring the results of peer networks is challenging, particularly when 
+desired impacts depend on other actors or take a long time to achieve, such as policy 
+change. 
+Frequently reported positive impacts of peer networks include:
+12
+•	personal and professional relationships being formed
+•	members gaining social capital
+•	members promoting new thinking and solutions 
+•	improved professional approaches within a sector, through the 
+development of shared standards and best practice
+Other reported impacts of peer networks are:
+•	enhanced institutional, sectoral or organisational capacity within 
+members’ respective organisations
+•	increased public awareness of the network’s cause, credibility, quality 
+of training or activities, and increased membership levels 
+12 See for example Brown, L .and Gaventa, J. (2008). Constructing transnational action research networks: Observations and 
+reflections from the case of the Citizenship DRC. IDS Working Paper, 302. Available at: http://r4d.dfid.gov.uk/PDF/Outputs/
+CentreOnCitizenship/gaventabrownwp302.pdf [Accessed 2015-12-19]; and Taschereau, S. and Bolger, B. (2007). Networks 
+and Capacity: A theme paper prepared for the study ‘Capacity, Change, and Performance.’ European Centre for Development 
+Policy Management. Available at http://ecdpm.org/publications/networks-capacity [Accessed 2015-12-20].
+
+9 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+•	improved government policies or laws as a result of joint network 
+activity or influence
+•	broader social outcomes through leveraging resources, improving 
+decision-making, influencing policy affecting social change and 
+catalysing civic engagement
+As this list shows, network impacts can occur at different levels: individual, network, policy 
+or institutional and broader community or societal. 
+The levels of impact can be interpreted by applying Donald Kirkpatrick’s ‘four levels of 
+evaluation’. Kirkpatrick created this model for evaluating training programmes, which is 
+considered a standard in the fields of education, training and capacity building. The four 
+levels consist of reaction (customer satisfaction), learning (knowledge and skills gained), 
+behaviour (change in behaviour, attitudes or performance), and results (impacts on 
+individual productivity, business, or society).
+13
+ 
+While there is substantial evidence of impact of peer networks at the ‘reaction’ and 
+‘learning’ levels, the evidence of impact is weaker further up the chain. One of the most 
+commonly reported impacts is increased social capital, through the formation of new 
+connections and professional relationships outside the individual’s original sphere (known 
+as ‘bridging’ bonds). However, there are fewer examples of peer networks leading to 
+demonstrated behaviour and institutional change. This could be due to a lack of end-to-
+end studies unpacking the entire process from initial peer-engagement through to broader 
+societal impact. 
+Ongoing research and monitoring of networks is required to understand various large-scale 
+impacts over time, and value for money of investments into network-building, especially as 
+the range of open data networks mature. There is a growing body of research about how to 
+evaluate networks, the details of which are outside the scope of this paper.
+14
+ Researchers 
+are trying to define what to measure (indicators) and methods to measure networks (such 
+as social network analysis). 
+13 Kirkpatrick, D. L. (1998). Evaluating training programmes: The four levels. 2nd ed. San Francisco, CA: Berrett-Koehler 
+Publishers.
+14 See for example Durland, M. M. and Fredericks, K. A. (2005). An introduction to social network analysis. New Directions for 
+Evaluation, 2005 (107), p. 5–13. 
+
+10 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+4. Features of effective peer networks
+This section explores the features that contribute to creating and sustaining effective 
+peer networks. Due to a lack of literature available on open data networks, these features 
+have been drawn from reports that evaluate peer networks from other sectors, which may 
+nonetheless have broader applicability.
+15
+ 
+We have structured network features into three phases: preparing, convening, and 
+sustaining. 
+The preparing phase establishes the foundations of a network structure, while the 
+convening phase is oriented towards building the social (bonding) capital of members. 
+The final sustaining phase is focused on moving from peer engagement to driving broader 
+social and institutional impact. 
+Constructing an effective network is an iterative task, which involves developing 
+formal structures and informal norms, and defining tasks to guide collective action and 
+accomplish shared goals. Nascent networks often have informal systems based on general 
+consensus around activities, but develop more formal systems later on.
+16
+ Over time, 
+formal systems may be become embedded, but the focus on continual improvement and 
+adaptation should remain. Network coordinators or facilitators should continue to take 
+advice on structure, processes and direction from members of the network.
+How to create and sustain effective peer networks
+Below is a summary of actions within each phase of creating and sustaining peer networks, 
+drawn from reports assessing and evaluating peer networks in different sectors.
+1. Preparing the network
+• Identifying participants. Network conveners should be explicit about 
+the network’s initial objectives and the desired qualities of prospective 
+members.
+17
+ Network members need not be homogeneous – a well-
+15 See bibliography for list of the ‘evaluations of peer networks’ referenced.
+16 Fox, J. and Brown, D. B. (1998) Assessing the Impact of NGO Advocacy Campaigns on World Bank Projects and Policies. 
+In Fox, J. and Brown, D. B (eds.) The Struggle for Accountability: The World Bank, NGOs and Grassroots Movements. 
+Cambridge MA: MIT Press.
+17 Sabet, Z. (2014). Becoming Better Capacity Builders: What GDNet has learned about developing researchers’ confidence 
+and ability to communicate their research. [Blog] Department for International Development R4D. Available at: http://r4d.dfid.
+gov.uk/pdf/outputs/GDNET/Becoming-Better-Capacity-Builders_GDNet_30_06_14.pdf. [Accessed 2015-12-20].
+
+11 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+managed, diverse group of members can work successfully where 
+dynamics are managed sensitively.
+18
+ Participants should be treated as 
+individuals (rather than representatives of their agencies), and members 
+matched according to similar function.
+19
+ 
+• Developing a flexible inception workshop design. The initial network 
+meeting (or ‘inception workshop’) should be tailored to participants: 
+their backgrounds, familiarity with the subject, previous work and 
+affiliated organisations. Conducting a survey prior to the workshop is 
+an effective way to help curate content. The content itself should strike 
+a balance between theory and practice, and include hands-on sessions 
+for members to apply what they have learned to their own contexts.
+20
+ 
+2. Convening the network 
+• Articulating shared values and purpose. The network should be 
+organised around shared values and objectives that make sense 
+in light of the strategies of individual members.
+21
+ A shared vision is 
+constructed through reflection and debate, and may evolve over time. 
+• Building connections across boundaries. Members must be 
+introduced to establish bonds among groups or individuals who are 
+not already connected. Helpful techniques to facilitate this include 
+‘study circles’ and ‘world cafés’ to promote dialogue among people 
+with different perspectives or experience.
+22
+ These connections can later 
+help members to self-organise and innovate around common interests 
+or challenges.
+• Developing trusting and respectful relationships. Networks depend 
+on relationship building, particularly when other tools – such as 
+binding contracts or enforceable rules – are not available.
+23
+ Forms of 
+engagement include workshops, field visits and meetings that enable 
+intensive interaction.
+24
+ Well organised face-to-face meetings are 
+important in building trust, mutual understanding and motivation to 
+18 Powell, W. W. (1990). As above.
+19 Andrews, M. and Manning, N. (2015). Mapping Peer-Learning Initiatives in Public Sector Reforms in Development. CID 
+Working Paper (298), p. 49. Available at: http://bsc.cid.harvard.edu/files/bsc/files/andrews_peer_learning_298_0.pdf. [Accessed 
+2015-12-22].
+20 Sabet, Z. (2014). As above.
+21 Castells, M. (2000). As above (p. 694); and Powell, W. W. (1990). As above.
+22 Meehan, D. and Reinelt, C. (2012). Leadership and Networks: New ways of developing leadership in a highly connected 
+world, Leadership Learning Community, 9, Available at http://leadershiplearning.org/system/files/LLCNetworkNLfinal4.pdf. 
+[Accessed 2015-12-20].
+23 Church, M. et al. (2002). Participation, Relationships and Dynamic Change: New Thinking on Evaluating the Work of 
+International Networks, UCL Development Planning Unit Working Paper,121, pp. 1–43.
+24 Brown, D. L. and Gaventa, J. (2008). As above.
+
+12 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+continue (often virtual) engagement between meetings. 
+• Promoting network thinking from the outset. This involves working 
+in more connected ways, being willing to share ideas, information and 
+contacts.
+25
+ Cultivating the network-thinking mindset can happen during 
+the course of working together on joint projects, or through soft-skills 
+training within networking strategies. 
+• Leveraging collective expertise and resources. Access to the 
+technical knowledge and expertise of other members is an important 
+attraction for prospective members, and a condition for network 
+legitimacy. Successful networks offer possibilities for members to 
+use their experience and skills to create new projects and leverage 
+resources. 
+3. Sustaining the network
+• Encouraging informal leadership. It is important to develop a 
+leadership style that is informal, fluid and open. Coordinators must be 
+able to facilitate participation from people with diverse perspectives, 
+articulate a vision, persuade individuals to work together, and tap into 
+members’ knowledge, skills and experience.
+26
+• Building platforms for self-organisation and ownership. Creating 
+platforms (virtual or face-to-face) that enable individuals to self-
+organise is essential for sustaining strong networks. Strong networks 
+create many avenues for engagement and for members to take 
+ownership over actions. 
+• Cultivating communities of learning. Increasingly, action learning 
+sets are being used to create opportunities for joint problem solving 
+by drawing on the knowledge of participants. Effective networks 
+also invest in knowledge management systems, document collective 
+knowledge, and create story banks of network activity.
+• Using existing tools for ongoing communication and collaboration. 
+Effective networks often harness communications technology to enable 
+interaction between members across boundaries. In some cases, 
+social media can facilitate more efficient collaboration, especially for 
+regional and international networks. 
+• Formalising a governance structure. A wide variety of network 
+governance structures exist – from loose and voluntary to formal 
+fee-based models of membership with a secretariat or steering group. 
+Smaller, informal networks can be quite effective with the support of a 
+25 Hoppe, B. and Reinelt, C. (2010). As above.
+26 Taschereau, S. and Bolger, B. (2007). As above.
+
+13 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+relatively small number of members who donate time on a continuous 
+or rotational basis. However, as networks grow they often require a 
+dedicated coordinator or secretariat with an operating budget.
+27
+ No one 
+structure is reported to be more effective than another, but generally 
+those networks with a relatively simple programme design, strong core 
+focus and small number of activities seem to be easier to develop and 
+maintain.
+• Connecting with other professional networks. By engaging with 
+other groups with similar goals, networks can expand their reach. 
+This can be interpreted as ‘bridging capital’. However, some authors 
+warn against expanding too quickly and recommend ideally first 
+consolidating a small core membership base.
+28
+• Ensuring adaptive capacity. Effective networks are capable of 
+managing change in response to shifting contexts. This means 
+identifying external opportunities and threats, and continuously 
+gathering intelligence from a range of sources to develop appropriate 
+strategies.
+29
+27 Ibid.
+28 Browne, E. (2013). Effectiveness of African Regional Professional Associations. GSDR, 5. Available at http://www.gsdrc.org/
+docs/open/HDQ983.pdf. [Accessed 2015-12-18].
+29 Sorgenfrei, M. and Wrigley, R. (2015) Building Analytical and Adaptive Capacities for Organisational Effectiveness. INTRAC 
+Praxis Paper, 4. Available at http://www.hiproweb.org/fileadmin/cdroms/Biblio_Renforcement/documents/Chapter-2/
+Chapter2_1/Chap2_1Doc8_1.pdf [Accessed 2015-12-20].
+
+14 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+Managing networks: challenges
+Networks can be complicated to manage. Creating and sustaining them can take 
+substantial effort from their coordinators, as well as resolving conflict within them. 
+Challenges include:
+Communication and building relationships
+Some networks report challenges around communications when using online tools, 
+including technical language and access problems. A related challenge is that replicating 
+opportunities for networking – which is essential to building relationships – is difficult 
+when confined to online tools. Online courses can be effective for training, but cannot 
+replace face-to-face interactions when building trust.
+30
+ To move beyond simple information 
+exchange to joint action requires some in-person meetings.
+Member diversity and enabling cohesion 
+Diverse membership can help bolster successful networks, but it can also lead to a lack 
+of cohesion between members.
+31
+ Building a network culture through defining goals, 
+establishing a shared purpose, and confirming common values may help prevent conflict. 
+Being voluntary in nature, another factor that can affect network growth is high member 
+turnover, either through members leaving or changing jobs. By injecting new skills and 
+energy, a shifting membership base can have positive effects, but it can also compromise 
+efforts to strengthen capacity.
+Member capacity 
+Balancing different levels of capacity among individuals and institutions can be difficult. 
+Research networks, for example, might assume a similar level of capacity among individual 
+researchers and organisations, but this might not be the case. It is therefore important to 
+understand capabilities through a realistic assessment, to maximise the participation of 
+members. A basic assessment exercise could be built into planning stages of the network 
+to help strike the right balance.  
+Funding, resources and demonstrating results
+Managing networks can be costly in terms of time and resources, especially in the early 
+stages. Due to pressure from donors or the constraints of project funding, networks may 
+be pushed to demonstrate results (concrete products and outcomes) quickly. However, 
+networks can take between five and seven years to establish legitimacy in their sector and 
+develop strong links with policymakers.
+32
+30 Sabet, Z. (2014). As above.
+31 Bernard, A. (1996). As above.
+32 Ibid..
+
+15 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+5. Conclusions and recommendations
+This report has summarised existing research and practice related to peer networks, to 
+inform the efforts of peer networks seeking to build open data capacity. 
+In doing so, we have drawn on a broad range of literature on network thinking, and network 
+evaluations from different sectors. There are a number of lessons about effective network-
+building that the open data community can learn from.
+Building open data networks to improve open data’s use and 
+impacts in different sectors
+Peer networks have great potential to support open data practice and facilitate high-
+level reform. Our research finds much of the visible impact of peer networks within other 
+sectors occurs at the individual level. Network participants frequently report a sense of 
+empowerment, learning new skills and increased social capital. 
+We also found several features of effective networks, including articulating a shared vision 
+and formalising governance structures over time.  However, the literature on peer networks 
+often focuses on the formative and peer engagement stages, rather than assessing the 
+impacts of networks at scale (at the institutional or national level). This suggests the need 
+for continued research, monitoring and evaluation of networks as a methodology — 
+especially as open data peer networks grow and mature.
+Based on our review, we have developed a set of practical recommendations for 
+organisations or individuals who are interested in network-building to support leadership 
+and open data practice globally. This kind of peer-to-peer exchange will be key to 
+overcoming implementation challenges and extending impact as initiatives mature.
+Summary recommendations
+1. Promote network thinking among participants. Network thinking 
+describes an emerging horizontal approach to communication and 
+decision-making. It helps a group to form new ideas, share diverse 
+perspectives and adapt, rather than be bound by rigid or pre-
+determined plans. This mindset encourages collaboration and working 
+in more connected, ‘open’ ways.
+2. Help to build relationships through face-to-face and virtual 
+
+16 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+engagement. Using action learning and appreciative inquiry 
+methodologies that emphasise reflection, dialogue, feedback and 
+joint problem-solving can improve trust and relationships amongst 
+members.
+33
+3. Be flexible and adaptive to the needs of network members. The 
+network must be able to adapt to meet external opportunities or 
+demands and respond to the shifting expectations and needs of its 
+members.
+4. Appoint a dedicated and highly motivated convenor. Network 
+growth and sustainability often hinges on a committed coordinator or 
+steering group who can help to attract resources, mobilise members 
+and engage new participants.
+5. Use platforms that enable members to self-organise, engage and 
+take ownership over actions. Social networking tools are increasingly 
+being used to help members to collaborate on joint projects, share 
+resources and communicate easily.
+6. Collaborate on outputs that will build your external credibility and 
+influence. The external credibility and influence of networks over time 
+often depends on whether they produce high-quality research, policy 
+papers or other outputs such as stories, tools, resources and guidance. 
+7. Intentionally monitor and evaluate network outputs and outcomes 
+at various levels such as ‘individual’, ‘institutional’ and ‘national/
+policy’. In particular, follow up with individual members regularly to 
+understand how effective the network is in supporting leadership 
+capacity, and adapt approaches where necessary.
+What do you think?
+If you have insights into open data or network building that you would like to share, we 
+want to hear from you. Get in touch with fiona.smith@theodi.org or tweet us at @ODIHQ.
+33 See for example Taschereau, S. and Bolger, B. (2007).
+
+17 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+About this report 
+The Open Data Institute (ODI) connects, equips and inspires people around the world 
+to	innovate	with	data.	It	is	independent,	nonprofit	and	nonpartisan,	founded	in	2012	by	
+Sir Tim Berners-Lee and Sir Nigel Shadbolt. From its headquarters in London and via 
+its global network of startups, members and nodes, the ODI oers training, research and 
+strategic advice for organisations looking to explore the possibilities of open data.
+This report was supported by the Open Data for Development (OD4D) programme. 
+OD4D is managed by Canada’s International Development Research Centre (IDRC), 
+and it is a donor partnership with the World Bank, the United Kingdom’s Department for 
+International Development (DFID) and Global Affairs Canada (GAC). The OD4D network of 
+leading organisations are creating locally driven and sustainable open data ecosystems  
+in Latin America, the Caribbean, Africa, and Asia and East Europe. OD4D focuses on 
+building up the supply of quality open data, and also on improving the use of that data 
+by leaders in government, civil society, the media, and business so that it furthers public 
+interest and improves people’s lives.
+A partnership funded by
+
+18 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+Appendix
+Glossary of related terms 
+Action learning
+A technique which harnesses the existing knowledge, skills and capacity of a small group 
+of people, applied to real-world challenges. It uses a process of structured questioning 
+and reflection to unlock understanding of familiar concepts, while producing new ideas or 
+approaches to solving problems. It is a form of peer-learning.
+Appreciative inquiry
+A theory and practice for approaching change in an organisation or team through a process 
+of asking questions in a systematic way, focusing on identifying what is already working 
+well (strengths), analysing why, and visioning what could be possible in the future. It can be 
+used as a method for problem-solving or action-planning.
+Community of practice
+While a network is created in the context of a specific network architecture, membership in 
+a community of practice is self-selected. Communities of practice are often found in either 
+large organisations, or across organisations where individuals are informally connected 
+by shared expertise and passion for a common enterprise eg engineers working in a large 
+organisation or consultants in a specialist area.
+1
+ 
+Peer-learning 
+Peer-learning activities can range from informal communities of practice, through to 
+lesson-sharing platforms for donors, online classrooms, to highly structured benchmarking 
+exercises between organisations. New knowledge and patterns of behaviour are acquired 
+by direct experience, by observing the behaviour, and the consequences of others’ 
+behaviour.
+2
+ Peer-learning may take place at the group level (where the primary unit of 
+analysis is the agency or the country) or individual level (where individuals gain practical 
+insights from engagement).
+36 Wenger, E., McDermott, R., and Snyder, W. (2002). Cultivating Communities of Practice: A Guide to Managing Knowledge. 
+Boston, Cambridge University Press.
+37 Wenger, E. (2000). Communities of Practice and Social Learning Systems. Organisation, 7 (2), pp. 225–246. Accessed on 18 
+December 2015 at http://homepages.abdn.ac.uk/n.coutts/pages/Radio4/Articles/wenger2000.pdf. [Accessed 2015-12-20].
+
+19 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+Social capital
+The OECD defines social capital as networks of shared norms, values and understandings 
+that facilitate co-operation within or among groups. These networks are comprised of 
+bonds (links based on common identity eg family), bridges (links that stretch beyond a 
+common identity eg work acquaintances) and links (links to groups further up or lower 
+down the social ladder).
+Examples of open data networks
+UK Government Linked Data Group (http://data.gov.uk/linked-data/UKGovLD)
+Open Data For Development (OD4D) (http://od4d.net)
+Global Open Data for Agriculture and Nutrition (GODAN) (http://www.godan.info)
+RedGealc (http://www.redgealc.net/home/en)
+Inter-American Network on Government Procurement (http://www.ricg.org/home/en)
+Latin America Open Data Initiative (ILDA) (http://idatosabiertos.org)
+Network of Innovators (GovLab) (http://noi.thegovlab.org)
+Open Data Leaders Network (http://theodi.org/open-data-leaders-network)
+Open Data Institute Nodes (https://theodi.org/nodes)
+Open Data Institute Startups (http://theodi.org/start-ups) 
+Open Data Incubator Europe (ODINE) (https://opendataincubator.eu)
+Open Data for Development Network (http://www.od4d.net)
+Open Data Leaders Meetup (https://www.datainnovation.org/2015/09/open-data-leaders-
+meetup)
+Open Data in Central Europe and Asia (ODEC) (http://www.odecanet.org)
+
+20 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+Bibliography
+Evaluations of peer networks
+Andrews, M. & Manning, N. (2015). Mapping Peer-Learning Initiatives in Public Sector 
+Reforms in Development. CID Working Paper, 298. Available at http://bsc.cid.harvard.edu/
+files/bsc/files/andrews_peer_learning_298_0.pdf [Accessed 2015-12-22].
+Brennan, P. (2013). What Do Voluntary Leaders Do? A Report on a Joint Project of the 
+Coalition of National Voluntary Organisation and the Association of Canadian Community 
+Colleges. Available at http://www.vsi-isbc.org/eng/hr/pdf/nli_report.pdf [Accessed 2015-
+12-22].
+Brown L.D., and Gaventa, J. (2008). Constructing Transnational Action Research 
+Networks: Observations and Reflections from the Case of the Citizenship DRC. Institute of 
+Development Studies, 302, pp. 1–30. 
+Browne, E. (2013). Effectiveness of African Regional Professional Associations. GSDR, 
+1-11. Available at http://www.gsdrc.org/docs/open/HDQ983.pdf [Accessed 2015-12-22].
+Meehan, D. and Reinelt, C. (2012). Leadership and Networks: New ways of developing 
+leadership in a highly connected world. [Blog] Leadership Learning Community. Available at 
+http://leadershiplearning.org/system/files/LLCNetworkNLfinal4.pdf [Accessed 2015-12-20].
+Sabet, Z. (2014). Becoming Better Capacity Builders: What GDNet has learned about 
+developing researchers’ confidence and ability to communicate their research. [Blog] 
+Department for International Development R4D. Available at http://r4d.dfid.gov.uk/pdf/
+outputs/GDNET/Becoming-Better-Capacity-Builders_GDNet_30_06_14.pdf [Accessed 
+2015-12-20].
+Sorgenfrei, M. and Wrigley, R. (2005). Building Analytical and Adaptive Capacities for 
+Organisational Effectiveness. INTRAC Praxis Paper, 4. Available at http://www.hiproweb.
+org/fileadmin/cdroms/Biblio_Renforcement/documents/Chapter-2/Chapter2_1/
+Chap2_1Doc8_1.pdf [Accessed 2015-12-20].
+Taschereau, S. and Bolger, B. (2007). Networks and Capacity: A theme paper prepared for 
+the study ‘Capacity, Change, and Performance. European Centre for Development Policy 
+Management. Available at http://ecdpm.org/publications/networks-capacity [Accessed 
+2015-12-20]. 
+
+21 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+Willard, T., and Creech, H. (2006). Sustainability of International Development Networks 
+Review of IDRC Experience (1995-2005). Winipeg: International Institute for Sustainable 
+Development. Available at: https://www.iisd.org/pdf/2007/networks_sus_int_dev.pdf 
+[Accessed on 2015-12-21].
+Other references
+Barabrasi, A. L. (2002). Linked: The New Science of Networks, New York: Perseus.
+Bernard, A. (1996). IDRC Networks: An Ethnographic Perspective. IDRC Evaluation Unit.
+Castells, C. (2000). Toward Sociology of the Network Society. Contemporary Sociology, 29 
+(5). Available at: http://www.jstor.org/stable/2655234 [Accessed on 2015-12-21].
+Church, M., Bitel, M., Armstrong, K., Fernando, P., Gould, H., Joss, S., Marhawa-Diedrich, 
+M., Torre, L., and Vouhe, C. (2002). Participation, Relationships, and Dynamic Change: New 
+Thinking on Evaluating the Work of International Networks. UCL Development Planning Unit 
+Working Paper, 121, pp. 1–43.
+Durland, M. M. and Fredericks, K. A. (2005). An introduction to social network analysis. 
+New Directions for Evaluation, 2005 (107), pp. 5–13. 
+Hoppe, B. Reinelt, C. (2010). Social Network Analysis and the Evaluation of 
+Leadership Networks. The Leadership Quarterly, 21, pp. 600–620. Available at: http://
+leadershiplearning.org/system/files/SNA%20and%20Leadership%20Networks%20-%20
+LQ.pdf [Accessed on 2015-12-21].
+Keely, B. (2007). Human Capital: How what you know shapes your life. OECD Insights, 
+Paris, OECD Publishing.
+Kirkpatrick, D. L. (1998). Evaluating training programs: The four levels. 2nd ed. San 
+Francisco, CA: Berrett-Koehler Publishers.
+Mitchell, M. (2006). Complex Systems: Network Thinking, Santa Fe Institute Working Paper 
+2006-10-036. Available at: http://www.santafe.edu/media/workingpapers/06-10-036.pdf 
+[Accessed on 2015-12-21].
+Ogden, C. (2011). Network Thinking. Interaction Institute for Social Change. Available at: 
+http://interactioninstitute.org/network-thinking [Accessed on 2015-12-21].
+Plastrik, P. and Taylor, M. (2006). Net Gains: A Handbook for Network Builders 
+
+22 How to create and sustain peer networks for open data leaders | Open Data Institute 2016
+Seeking Social Change. Available at: http://networkimpact.org/downloads/
+NetGainsHandbookVersion1.pdf [Accessed 2015-12-20].
+Powell, W. W. (1990). Neither Market nor Hierarchy: Network Forms of Organisation. 
+Organisational Behaviour,12, pp. 295–336. Available at http://www.uvm.edu/~pdodds/files/
+papers/others/1990/powell1990a.pdf [Accessed 2015-12-19].
+Van Djik, J. (1991). The Network Society: Social Aspects of New Media. Houten: De 
+netwerkmaastchappij Bohn Staflen Van Loghum.
+Watts, D. (2003). Six Degrees: The Science of a Connected Age. New York: Gardner’s 
+Books.
+Wenger, E. (1999). Communities of Practice: Learning, Meaning, and Identity. Cambridge: 
+Cambridge University Press.
+Wenger, E. (2000). Communities of Practice and Social Learning Systems. Organisation, 
+7(2), pp. 225–246.
+Wenger, E., McDermott, R., and Snyder, W. (2002). Cultivating Communities of Practice: A 
+Guide to Managing Knowledge. Cambridge: Cambridge University Press
+Enabling the Data Revolution: An International Open Data Roadmap (2015). Conference 
+Report, 3rd International Open Data Conference, Ottawa, Canada May 28-29, 2015. 
+Available online at: http://1a9vrva76sx19qtvg1ddvt6f.wpengine.netdna-cdn.com/wp-
+content/uploads/2015/09/IODC2015-Final-Report-web.pdf [Accessed 2015-12-22].
+

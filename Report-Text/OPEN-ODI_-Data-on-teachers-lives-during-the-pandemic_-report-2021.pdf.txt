@@ -1,0 +1,1217 @@
+
+
+1
+
+Contents
+Contents2
+About3
+Executive summary4
+Background6
+Methods7
+Aims and questions7
+The data8
+Data sources8
+Data limitations10
+Data sharing12
+Findings13
+Impact on teachers’ working lives13
+Background13
+Existing data13
+Teachers’ experiences: survey findings16
+Teachers’ estimates of learning loss20
+Background20
+Existing data20
+Estimates of learning loss: survey findings22
+Conclusions from the survey24
+Data gaps25
+Representativeness25
+Data inclusion25
+How well do respondents represent the teaching workforce?26
+Data quality26
+Granularity of data categories26
+Timeliness of data27
+Challenges to geographical matching27
+Data infrastructure27
+Data use and communication27
+Teacher workload and retention28
+Conclusion29
+Technical Appendix30
+Bibliography32
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic2
+
+About
+This report has been researched and produced by theOpen Data Institute (ODI),
+and published in March 2021.
+The report’s lead author is Miranda Voss. The researchfor this project was carried
+out by the ODI, in collaboration with two partners:Mime, responsible for the data
+sourcing, analysis and publication; andAllegory,a strategic communication
+agency that has worked with the ODI for eight yearsand is responsible for the
+research project management and communications.
+We would like to thank the ODI’s Louise Burke, Mahlet(Milly) Zimeta, Jeni
+Tennison and Roger Hampson for their guidance andsupport, Ellen Goodman for
+project management, and Jo Dobie for copyediting.We would also like to thank
+Emma Thwaites, Charlotte McLeod (Project Lead), AlexVryzakis and Kristin
+Hadland from Allegory; Steve Preston, Joe Miller,Phil Rossiter, Oli Cheng and
+Lucy Thomas from Mime; and Patrick Roach, Chris Weavers,Fred Grinrod and
+Sarah Moran from the teaching unionNASUWT.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic3
+
+Executive summary
+This report was written in March 2021, at a time whenUK schools were beginning
+to reopen fully for the second time during the coronavirus(Covid-19) pandemic.
+There were already indications of significant lossesto children’s learning and
+well-being, but little information on where the losseswould be concentrated, and
+where additional resources were most needed. Therewas also very little data
+about the experiences of teachers during the pandemic;an under-researched area
+during compulsory school closures, but one that isparticularly important to
+understand. About 10% of the teaching workforce leavesthe profession each year
+and this ‘teacher wastage’ is likely to be particularlyproblematic at a time when
+we need a stable, motivated workforce as childrenrecover from the effects of the
+pandemic.
+For this report, one of the major UK teachers’ unions,the NASUWT, made data
+from a large longitudinal survey of its members availableto the ODI. In the
+NASUWT’s 2021 ‘Big Question’ survey, additional questionsrelating to teaching
+during the pandemic were added. Some 2021 responseswere compared with the
+2019 and 2020 surveys to identify trends. Data fromthis survey was combined
+with other open and publicly available data by Mime,an educational data
+consultancy, before being anonymised, aggregated andmade available for
+exploration throughan interactive tool.
+In this report we outline the key findings from thiscombined dataset, looking
+specifically at the experiences of teachers duringthe pandemic. We find that
+about half of teachers were required to take on adual teaching role: providing
+classroom supervision to those children still attendingschool, and providing
+remote learning to others. Many teachers were unpreparedfor online learning,
+particularly older teachers and special educationteachers. Most teachers reported
+that their workload had increased significantly inthe previous 12 months and we
+explore the reasons for that here. Despite the reportedincrease in workload and
+levels of stress, fewer teachers were consideringleaving the profession when
+compared with surveys from previous years.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic4
+
+When asked for their estimates of learning loss intheir classes, 59% of teachers
+who responded felt that at least half of their classhad lost ground educationally in
+the previous 12 months. Losses were estimated to beparticularly substantial in
+primary schools and in schools in the most economicallydeprived areas. When
+asked about factors determining children’s engagementwith online learning,
+teachers identified parental support as the most important.
+Although there is a large volume of open and publiclyavailable data on the
+performance of schools and children, there is verylittle open data that captures
+the professional views and experiences of teachers.We believe this survey offers
+valuable insight into the effects of the pandemicon teaching and learning, and the
+conditions necessary for recovery. As such, open datalike this can usefully inform
+strategies at this early stage in pandemic recovery.We hope that the open
+publication of this dataset will encourage other organisationsto open and share
+the data they hold as well, to support the pandemicresponse and aid education
+research and policy making.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic5
+
+Background
+The ODI’s report ‘Data about children’s lives in thepandemic’, published in
+November 2020,
+1
+explored the experiences of parents,teachers and children
+during homeschooling, using a variety of data sources,and asked how better data
+infrastructure could provide real-time decision-makingsupport to those involved in
+the education and well-being of children. It highlightedthe additional pastoral
+roles taken on by teachers during the pandemic, sociallypatterned educational
+attainment gaps, and rises in rates of referral toBarnardo’s children’s support
+services, which were mostly driven by mental healthand emotional concerns.
+Raised levels of stress and anxiety in teachers werealso noted.
+The report underlined the need for repeated data collectionin order to highlight
+the ‘changing needs of different groups of children,families and teachers within
+the current period of uncertainty’. The data usedin this follow-up report is taken
+from a survey of the members of a large teachers’union, the NASUWT. The survey
+was carried out in March 2021, at a time when thesecond wave of the Covid-19
+pandemic was receding and plans were being made toreopen schools to all
+pupils. This was an opportune time to examine teachers’experiences of work
+during the pandemic, their assessment of children’slearning losses and their
+priorities for full school reopening. This will informaction by policymakers and
+teacher and child support organisations, both duringthe resumption of school life
+and during any future disruption to it.
+In this report we outline the results of the NASUWTsurvey of members in England.
+Following an assessment of data quality, includingrecognition of its limitations, we
+present summaries of teachers’ professional livesduring the pandemic, including
+changes in workload and priorities for school reopening.We combine teachers’
+opinions with contextual data from a variety of opendatasets to assess which
+schools and sectors are likely to have experiencedthe worst learning losses. The
+results of the survey support other published work,reviewed later in this report,
+indicating that the impact of partial school closureson children’s learning and their
+well-being varies between communities. Schools, particularlyin the state sector,
+play an important role in levelling up opportunitiesacross communities and there
+is a very real risk that the loss of this levelling-upfunction for a year will worsen
+existing inequalities in our country.
+1
+ODI (2020), ‘Data about children’s lives in the pandemic’
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic6
+
+Methods
+Aims and questions
+In this report we explore how data can shed lighton the impact of the pandemic
+on school education, both on the teaching workforceand on teachers’
+perceptions of the learning and well-being of children.We use survey responses
+and open data specifically to look at:
+i) The impact of the pandemic on teachers’ workinglives
+●
+The teaching roles they took on
+●
+Their preparedness for remote teaching
+●
+The change in workload
+●
+The likely influence of these experiences on workforceretention
+●
+Their priorities and concerns about the reopeningof schools
+ii) Teachers’ estimates of learning losses in theirpupils
+●
+The groups of children likely to have experiencedthe greatest learning losses
+from partial school closures
+●
+Teachers’ understanding of the reasons behind lackof engagement with
+online teaching
+iii) How open data can be used to support policy making
+●
+The current gaps in data infrastructure that limitevidence-informed policy
+making in this area
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic7
+
+The data
+Data sources
+This report combines data from several sources. Westart each of the two
+‘Findings’ sections (impact on teachers’ working livesand teachers’ estimates of
+learning loss) with a short review of relevant, current,published literature. The
+primary data source used in this report was the annual‘Big Question’ survey by
+the teachers’ union NASUWT. The ‘Big Question’ surveyis a longitudinal survey
+that has been sent to NASUWT members each year since2011. For the 2021
+survey, we added additional questions related to teachingduring the pandemic.
+We were also able to compare some responses with datafrom the 2019 and 2020
+surveys to identify trends.
+The survey was sent to NASUWT members in all fourUK nations, the Channel
+Islands and Gibraltar, although this interim reportonly examines the data from
+England. This is because education is managed differentlyacross the four nations,
+and the contextual data we matched to was often onlyavailable for England.
+Unions are understandably cautious about sharing informationsubmitted by their
+members, but, in the context of the pandemic, theNASUWT leadership decided
+that, as long as suitable safeguards to privacy andsecurity were in place, data
+created by its members could usefully inform solutionsand policy making in the
+education sector. The ODI hopes that this initiativewill encourage other
+organisations that traditionally keep their data closedto share it in a secure way
+when it could inform public decision making.
+The survey data allowed us to examine responses bythe type of school that
+teachers worked in, and by teacher age and gender.Other non-personal, public
+data was taken from the sources listed in Table 1and geographically matched with
+the postcode stem of schools.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic8
+
+Data categoryDatasetGeographical
+level
+SourceLinkDate data
+published
+Licence
+ConnectivityResidential households
+unable to access 30Mbps
+OA*Ofcomwww.ofcom.org.uk/research-and-data/multi-sector-
+research/infrastructure-research/connected-nations
+-2020/data-downloads
+2020Ofcom terms
+of use (open)
+EconomyIncome deprivation affecting
+children
+LSOA*Ministry of
+Housing,
+Communities
+and Local
+Government
+https://www.gov.uk/government/statistics/english-i
+ndices-of-deprivation-2019
+September
+2019
+OGL (open)**
+Universal credit and
+jobseeker’s allowance
+claimants
+LSOA*Office for
+National
+Statistics
+https://www.nomisweb.co.uk/datasets/ucjsaJanuary
+2021
+OGL (open)
+Working 49 hours or more
+per week
+OA*Census 2011https://www.nomisweb.co.uk/census/2011/ks604e
+w
+2011OGL (open)
+HealthCovid-19 infection rateMSOA*UK Governmenthttps://coronavirus.data.gov.uk/details/downloadDaily updateOGL (open)
+DemographicsOvercrowded householdsOA*Census 2011www.nomisweb.co.uk/census/2011/qs412ew2011OGL (open)
+Lone parent householdsOA*Census 2011https://www.nomisweb.co.uk/census/2011/ks107u
+k
+2011OGL (open)
+Teacher workforceNational
+(England)
+Department for
+Education
+https://www.gov.uk/government/statistics/school-w
+orkforce-in-england-november-2019
+November
+2019
+OGL (open)
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic9
+
+Table 1:Additional sources of open data used in thisreport
+*OA, LSOA and MSOA refer to output area, lower superoutput area and medium
+super output area, respectively. These are progressivelylarger geographical units
+of census data. For further information, see:
+https://www.ons.gov.uk/methodology/geography/ukgeographies/censusgeograph
+y
+**OGL refers to an Open Government Licence
+Data limitations
+In any research study there are limitations to thedata, and it is important to be
+aware of these in order to interpret the results accurately.
+1.    The response rate was low. Of the 250,534 teachersin England who are
+members of NASUWT and were invited to take part inthe survey, just 4,490
+completed the survey in the two-week window allowedfor data collection for
+this report.
+In order to determine how representative the datais of the overall teaching
+workforce, we compared the profile of survey respondentswith the profile of
+the teaching workforce in English state schools andthe membership of the
+NASUWT (Table 2), using data from the most recentschool workforce in
+Englanddataset (from November 2019). The survey resultswere then
+weighted for these characteristics so that the datawas more representative of
+the overall teaching workforce (seeTechnical Appendix).
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic10
+
+Table 2:Demographic profile of survey participantscompared with the teaching
+workforce in English state schools.
+2.  Teachers are in a strong position to give an opinionabout learning losses and the
+factors leading to poor engagement in their pupils.However, it is important to
+recognise that all opinions are subjective and maycome with assumptions. Despite
+this, we argue that teachers’ professional opinionsabout their classes’ learning
+contribute important and useful data, given that thealternative is extensive, in-depth
+testing of children. While testing children directlymay improve the data, concern
+has been raised about the effect of early reintroductionof statutory testing on
+children’s well-being, after a year when many willhave lost ground educationally
+and socially.
+2
+3.  We anonymised teachers’ responses and aggregatedthem at the level of school
+postcode stem. We then combined these responses withother data from their
+school’s postcode in order to understand learninglosses in the context of social
+and economic factors. However, the school postcodeis only an approximation of
+the residential postcodes of the children who attendthat school, as the catchment
+area may extend across several postcodes. It is difficultto mitigate against this and
+2
+Institute of Education (2020), ‘Responding to COVID-19,Briefing Note 3: Resetting educational
+priorities in challenging times’
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic11
+
+the approximation needs to be borne in mind when interpreting the results.
+In addition, postcode stems do not exactly match thecensus areas they are
+mapped to.
+4.  Our analysis of children’s learning losses isat school postcode level, not at the level
+of individual children. This means that conclusionscannot be drawn about the
+losses and needs of individual children. Similarly,our analysis of teacher experience
+is drawn from analysis of a sample, when even withinschools, teachers’
+experiences may vary dramatically. Aggregate datacan be used to understand
+trends and patterns, but cannot be used to make predictionsat an individual level.
+Data sharing
+Mime data consultancy has created an interactive toolto allow others to explore
+the findings. This tool can be used for subgroup analysis,but it should be noted
+that groupings containing less than 20 individualresponses have been removed in
+order to preserve confidentiality. The tool is availableat:
+https://theodi.org/article/data-on-teachers-lives-during-the-pandemic-report
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic12
+
+Findings
+Impact on teachers’ working lives
+Background
+Over the past year, there has been a lot of attentionpaid to the impact of school
+closures due to the pandemic on children, and whetherschool closure is an
+effective public health tactic to prevent the spreadof disease.
+3
+Less attention has
+been paid to the impact on the teaching workforce.This is an important gap, given
+the role of teachers in mitigating the impact of schoolclosures on children’s
+well-being and learning.
+4
+Existing data
+Retaining teachers is a problem in the UK. Around10% of the workforce leaves
+the state sector every year and the pupil:teacherratio has been increasing since
+2011.
+5
+The nature of the workload has been implicated.Performance
+management, loss of autonomy and limited opportunitiesfor both professional
+development and participation in decision-making haveall been identified as
+causes of ‘teacher wastage’.
+6
+The NHS is another areaof the public sector that
+has experienced a growth in performance managementin recent decades, and
+data on retention of NHS staff has noted similar concerns,and highlighted that
+salary increases only partially mitigate the impacton workforce retention.
+7
+Data that monitors trends in teachers’ motivationand engagement with their work
+could play a role in assessing the impact of policydecisions on workforce
+retention. Publishing the data from a large annualsurvey allows access to this
+data, with the consent of participants, without theintrusion associated with
+commercial workforce analytics that analyse employees’digital activities.
+8
+8
+Social Sciences (2019),‘Big data and human resourcesmanagement: The rise of talent analytics’
+7
+BMJ Open (2020), ‘Relationship between labour forcesatisfaction, wages and retention within the UK
+National Health Service: a systematic review of theliterature’
+6
+British Journal of Educational Studies (2020),‘Whatmotivates people to teach, and why do they
+leave? Accountability, performativity and teacherretention’
+5
+House of Commons Library (2019), ‘Research Briefing:Teacher recruitment and retention in England’
+4
+British Journal of Educational Psychology (2020),‘"Like a rug had been pulled from under you”: The
+impact of COVID-19 on teachers in England during thefirst six weeks of the UK lockdown’
+3
+BMJ (2020), ‘Effect of school closures on mortalityfrom coronavirus disease 2019: old and new
+predictions’
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic13
+
+Challenges of adapting to online teaching
+Although the term ‘school closure’ is widely used,it is important to recognise that
+schools have remained physically open to the childrenof key workers and
+vulnerable children, and have continued providingeducation to all students. This
+means that many teachers have had to provide remoteteaching for a large
+proportion of their pupils, while continuing to provideclassroom teaching and
+supervision for others. The almost overnight switchto online teaching for the
+majority of pupils in March 2020 meant that teachers’preparation for it was
+minimal. There was no national policy on the provisionof online teaching, and
+schools were given freedom about how to implementremote learning, which
+meant that skills and materials had to be developedrapidly.
+9
+Live online teaching
+was constrained by concerns about child safety andunequal digital access, and
+so many lessons had to be recorded as podcasts, whichcan be a time-consuming
+process for teachers, requiring planning, scriptingand editing. Although online
+teaching was challenging and teachers missed socialinteractions with pupils,
+10
+there was evidence of them finding ways to deliverremote learning even for highly
+social subjects such as music,
+11
+and for many teachers,there was a sense that
+they had learned new skills from the challenges posedby the pandemic.
+12
+Some
+teachers were surprised to find that some of theirpupils thrived on home
+schooling and they found some unexpected star learners.
+13
+Unfortunately, despite these efforts and some successstories, engagement with
+online learning for most pupils has been problematic.A survey of teachers in May
+2020 indicated that only 42% of pupils had submittedtheir most recent piece of set
+work and 90% of teachers thought their pupils weredoing less work than normal.
+14
+Pastoral care
+Several reports indicate that teachers’ primary concernduring school closures has
+been with the welfare of their pupils, particularlyvulnerable pupils, rather than
+educational issues.
+15
+Some dealt with this by deliveringfood parcels and learning
+materials directly to children’s homes.
+16
+However,as the pandemic progressed,
+teachers also became increasingly concerned aboutthe well-being of children
+16
+British Journal of Educational Psychology (2020),‘"Like a rug had been pulled from under you”: The
+impact of COVID-19 on teachers in England during thefirst six weeks of the UK lockdown’; PsyArXiv
+(2020), ‘“We need clear directions, if we’re goingto move forward. It’s as simple as that”: Teachers’
+narratives during partial school reopenings in theCOVID-19 pandemic’
+15
+British Journal of Educational Psychology (2020),‘"Like a rug had been pulled from under you”: The
+impact of COVID-19 on teachers in England during thefirst six weeks of the UK lockdown’; Human
+Rights Watch (2020), ‘Children in England going hungrywith schools shut. Uneven UK approach for
+Covid-19 doesn’t guarantee children’s right to food’;International Literacy Centre (2020), ‘Responding
+to COVID-19, Briefing Note 3: Resetting educationalpriorities in challenging times’
+14
+National Foundation for Educational Research (2020),‘Pupil engagementin remote learning’
+13
+British Journal of Educational Psychology (2020),‘"Like a rug had been pulled from under you”: The
+impact of COVID-19 on teachers in England during thefirst six weeks of the UK lockdown’
+12
+PsyArXiv (2020), ‘'We need clear directions, if we’regoing to move forward. It’s as simple as that':
+Teachers’ narratives during partial school reopeningsin the COVID-19 pandemic’
+11
+British Journal of Music Education (2020), ‘EditorialResearch: Music education in a time of
+pandemic’
+10
+PsyArXiv (2020), ‘“We need clear directions, if we’regoing to move forward. It’s as simple as that”:
+Teachers’ narratives during partial school reopeningsin the COVID-19 pandemic’
+9
+Technology, Pedagogy and Education (2020),
+‘
+The educationalresponse to Covid-19 across two
+countries: a critical examination of initial digitalpedagogy adoption’
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic14
+
+who had not previously been identified as vulnerable and those who were clearly
+losing ground academically.
+17
+Professional relationships and identity
+Teachers’ relationships with pupils, parents and colleaguesare fundamental to
+their sense of well-being, and good relationshipscan protect against burnout.
+18
+Social distancing rules during school closures havemeant less face-to-face
+contact with colleagues as well as with children.To some extent, this could be
+compensated for by virtual support, often using socialmedia.
+19
+However, some
+teachers found social media problematic as the messagescould be quite
+demoralising and made it difficult for teachers toseparate home and work life.
+20
+A strong sense of professional responsibility wasapparent as teachers and school
+leaders took on additional roles in the pandemic,such as cleaning duties when schools
+returned
+21
+and food deliveries when the government’svoucher scheme failed.
+22
+Changing attitudes over time
+Early in the pandemic, some teachers reported feelinga sense of satisfaction that
+they were able to rise to the challenge and were permittedto use their professional
+judgement to teach and care as well as possible indifficult circumstances.
+23
+Most
+of the low points described by a stratum of teachersafter the first six weeks of
+lockdown related to uncertainty, particularly a feelingof rush and lack of clarity
+when schools were first closed.
+24
+This feeling mayhave intensified later in the year,
+when some teachers reported receiving confusing andcontradictory messages
+about school reopening that prevented them from beingable to plan ahead.
+25
+A
+need for clear guidance and better communication wasstrongly expressed by one
+group of teachers.
+26
+26
+ibid.
+25
+PsyArXiv (2020), “'We need clear directions, if we’regoing to move forward. It’s as simple as that”:
+Teachers’ narratives during partial school reopeningsin the COVID-19 pandemic’
+24
+ibid.
+23
+British Journal of Educational Psychology (2020),‘"Like a rug had been pulled from under you”: The
+impact of COVID-19 on teachers in England during thefirst six weeks of the UK lockdown’
+22
+Human Rights Watch (2020), ‘Children in England goinghungry with schools shut. Uneven UK
+approach for Covid-19 doesn’t guarantee children’sright to food’
+21
+PsyArXiv (2020), ‘“We need clear directions, if we’regoing to move forward. It’s as simple as that”:
+Teachers’ narratives during partial school reopeningsin the COVID-19 pandemic’
+20
+ibid.
+19
+British Journal of Educational Psychology (2020),‘"Like a rug had been pulled from under you”: The
+impact of COVID-19 on teachers in England during thefirst six weeks of the UK lockdown’; PsyArXiv
+(2020), ‘“We need clear directions, if we’re goingto move forward. It’s as simple as that”: Teachers’
+narratives during partial school reopenings in theCOVID-19 pandemic’
+18
+Educational Review (2021), ‘Teacher job satisfaction:the importance of school working conditions
+and teacher characteristics’; Teaching and TeacherEducation (2013), ‘Job satisfaction and
+teacher-student relationships across the teachingcareer: Four case studies’
+17
+PsyArXiv (2020), ‘“We need clear directions, if we’re going to move forward. It’s as simple as that”:
+Teachers’ narratives during partial school reopeningsin the COVID-19 pandemic’
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic15
+
+While there is evidence that teachers were willingand able, with very little notice,
+to teach in an entirely different way and to fillthe chasm in pastoral care created
+by school closures, these efforts have taken theirtoll: 62% of 7,000 teachers
+responding to a survey in February 2021 reported feeling‘drained and mentally
+exhausted’.
+27
+There was also concern expressed amongteachers that, at the end
+of the pandemic, there will be a rapid return to schoolinspections and pupil
+testing, pushing pupils too hard when their learningmay have deteriorated,
+together with doubt about whether teachers’ viewswould be listened to.
+28
+The
+publication of a large teachers’ survey gives thema voice with which to record
+their experiences of teaching during school closuresand to express their views
+about needs and priorities for post-pandemic recovery.We report some of the key
+findings below.
+Teachers’ experiences: survey findings
+Teaching roles
+Over half (52%) of the NASUWT ‘Big Question’ surveyrespondents said they had
+a dual role during school closures, providing remoteteaching for some students
+and continuing to provide classroom teaching and supervisionfor others; 42%
+provided remote teaching only; and the rest eitherprovided classroom teaching
+only (5%) or had been unable to teach during the pandemic(1%). The teachers’
+working patterns varied with the age of the childrentaught: 89% of sixth form
+college teachers were predominantly teaching online,but 71% of primary school
+teachers were providing both face-to-face and onlineteaching. The high
+proportion of primary school teachers providing bothtypes of teaching probably
+reflects the need to provide classroom teaching andsupervision to the younger
+children of key workers.
+Preparation and support for online teaching
+Of the teachers who had been delivering online learning,only 9% felt well
+prepared for remote teaching. There was a clear agegradient, with 11% of
+teachers under 25 feeling well prepared, comparedto only 7% of teachers aged
+50 to 59. When asked if they felt well supported,19% of teachers aged under 25
+and 13% of those aged 50 to 59 reported feeling wellsupported. Teachers over
+the age of 60 were surprisingly positive about onlineteaching, with 12% feeling
+well prepared and 20% well supported. Special educationteachers were less
+likely to feel well prepared (3%) and well supported(10%). Overall, only 17% of
+teachers were given training in dealing with pupils’online behaviour.
+Teachers’ workload during the pandemic
+The average weekly hours worked by full-time teacherswas 52 hours and 61% felt
+that their workload had increased significantly duringthe pandemic. 81% also
+reported an increase in stress over the previous 12months.
+28
+International Literacy Centre (2020), ‘Respondingto COVID-19, Briefing Note 3: Resetting
+educational priorities in challenging times’
+27
+Times Educational Supplement (2020), ‘Exclusive:Exhausted teachers “pushed to the brink”’
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic16
+
+When asked what was contributing to the additionalworkload, 93% identified
+remote teaching; 69% lesson planning; 64% administration;and 57% pastoral
+care. Overall, 58% of teachers had spent more timedealing with parents; this was
+particularly the case for primary school teachers(69%), special education
+teachers (78%) and senior management (72%). Femaleteachers were more likely
+than male teachers to identify pastoral care (60%vs 48%) and dealing with
+parents (60% vs 54%) as taking more time than previously.
+Table 3:Teaching during the pandemic.
+View teachers’ working patterns during the pandemic,broken down by teacher
+role, usingthe interactive tool.
+Teachers’ challenges and priorities for the returnto full school opening
+Teachers were asked to rank their greatest challengesduring school closures.
+Dealing with the additional workload caused by onlineteaching was the highest
+ranking challenge overall, followed by difficultiesin getting pupils to engage with
+remote learning, and then the monitoring of children’swelfare.
+When asked about their greatest concerns for schoolsreopening (Table 4), the risk
+of Covid-19 spreading within schools was ranked highestoverall, followed by
+pupils’ mental health and then the need for academiccatch-up. When the
+rankings were compared across different school sectors,primary school and
+special education teachers ranked mental health concernsat least as highly as
+concerns about the spread of Covid-19.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic17
+
+Table 4:Average ranking of teachers’ concerns aboutreturn to full school opening.
+View average rankings of concerns, broken down byteacher role, usingthe
+interactive tool. Lower numbers indicate higher ranking.
+Teachers were also asked what they thought shouldbe in place before reopening
+schools. The responses that had the highest percentagesof teachers agreeing
+were guidance on pupil numbers (89%), followed byavailability of lateral flow
+testing (89%) and vaccination for teachers (86%).
+Changes in working conditions over time
+Several questions in the NASUWT survey have been askedfor the past three
+years, which allow us to monitor trends. Figures 1and 2 show how teachers’
+perceptions of their working conditions have changedover time. Figure 1 shows
+that, although stress has increased, in the past 12months there has been a
+decline in the proportion of teachers consideringleaving the profession or their
+job, and the proportion who felt their job satisfactionhad declined. This may be
+reflective of an uncertain jobs market as a resultof the pandemic, or it may reflect
+greater job satisfaction during the pandemic. To investigatethis further, we
+examined 11 indicators of job satisfaction for whichthere was also data over three
+years. These indicators are shown in Figures 2 and3. Figure 2 shows positive
+sentiments about working and Figure 3 shows negativesentiments. It is striking
+that negative sentiments trended down and the positivesentiments trended up.
+In other words, despite the increase in work and stress,teachers were, on
+average, enjoying their work more. This data suggeststhat increased professional
+autonomy and a reduction in performance managementduring the pandemic may
+have made teachers more likely to stay in the profession.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic18
+
+Despite the reassuring trends, it should be notedthat the percentage of teachers
+considering leaving the profession remains high, at55%. Likewise, the percentage
+of teachers who believe that teaching salary and conditionsare competitive has
+increased, but from only 7% to 15%.
+Figure 1: Trends in teachers’ workload, stress andintention to leave the profession
+since 2019
+Figure 2: Trends in teachers’ positive sentimentsabout their work since 2019
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic19
+
+Figure 3: Trends in teachers’ negative sentimentsabout their work since 2019
+Teachers’ estimates of learning loss
+Background
+There is growing evidence about cumulative lossesof learning, and a reduction in
+the physical and emotional health of all children,but particular concern that these
+problems may be concentrated in children from low-incomehouseholds. Improved
+understanding of the extent to which school closuresinfluence the life chances of
+less well-off children could support informed policymaking around post-pandemic
+recovery, and also inform decisions around futureschool closures. However, risks
+are difficult to assess because schools’ ‘levelling-up’function operates across
+several dimensions.
+Existing data
+School closures and emotional health
+Reduced access to play and to friends may impair mood,and several surveys have
+indicated a reduction in the mental health of childrenduring lockdown, and
+particularly symptoms of depression.
+29
+The risk ofmental health problems in
+children is socially patterned, and pre-pandemic ratesin the least well-off 20% of
+households were reported to be four times that ofchildren in the most well-off
+29
+Archives of Disease in Childhood (2020), ‘Longitudinalincreases in childhood depression symptoms
+during the COVID-19 lockdown’; Barnardo’s (2020),‘Briefing for MPs & Peers: Children’s mental health
+and Covid-19’; Girlguiding (2020), ‘Early findingson the impact of Covid-19 on girls and young women’
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic20
+
+20%.
+30
+It is not yet clear whether this gap will widen further as a result of the
+pandemic.
+School closures and physical health
+Physical health may also suffer because the structurednature of a school day
+reduces behaviours that cause obesity. Children who have a tendency to obesity
+put on weight and become less fit over the summerholidays as they take less
+exercise, have more screen time and eat higher caloriefoods,
+31
+and there is concern
+that the lockdown will worsen the current childhoodobesity epidemic.
+32
+Data from
+the Bradford longitudinal study highlighted that pandemic-relatedsedentary
+behaviour was patterned along ethnic lines: 34% ofwhite British, but only 23% of
+children from other ethnicities had met guidelinesfor physical activity.
+33
+For other children, hunger is the problem, with 1.4million children in the UK
+currently eligible for free school meals that werenot provided during school
+closures.
+34
+Hunger is clearly related to social andeconomic factors. When a
+voucher replacement scheme failed, it was reportedthat some schools and
+teachers filled the gap and distributed food directlyto families.
+35
+Places to study and access to the internet
+Material disadvantage also reduces access to onlinelearning opportunities, in
+particular devices for accessing the internet, bandwidthand a quiet place to study.
+36
+A report by the Institute for Fiscal Studies (IFS)early in the pandemic confirmed this
+gradient and reported that one in 10 primary schoolstudents and one in seven
+secondary school students had either no device foraccessing the internet or relied
+on a mobile phone, and that 10% of secondary studentsand more than 20% of
+primary school students had no dedicated study space.
+37
+Any claim to having
+‘internet access’ should be interpreted with caution,as for some children it meant a
+parent’s mobile phone with very limited data allowance.
+38
+During the first lockdown,
+teachers indicated that around 25% of their pupilshad inadequate access to the
+internet.
+39
+These problems are compounded by the lossof public spaces such as
+libraries that offer spaces to work in and wifi access;
+40
+resources that are particularly
+40
+The Oxfordshire Digital Inclusion Project (2020),
+‘
+Covid-19 is increasing digital inequality: We need
+human connectivity to close the digital divide’
+39
+National Foundation for Educational Research (2020),‘Pupil engagementin remote learning’
+38
+British Journal of Educational Psychology (2020),‘"Like a rug had been pulled from under you”: The
+impact of COVID-19 on teachers in England during thefirst six weeks of the UK lockdown’
+37
+ibid.
+36
+Institute for Fiscal Studies (2020), ‘Inequalitiesin children’s experiences of home learning duringthe
+COVID-19 lockdown in England’
+35
+Human Rights Watch (2020), ‘Children in England goinghungry with schools shut. Uneven UK
+approach for Covid-19 doesn’t guarantee children’sright to food’
+34
+UK Parliament (2020), ‘Free school meals’
+33
+BIHR COVID-19 Scientific Advisory Group (2021), ‘Children’sphysical activity during Covid-19 from
+the Born in Bradford Cohort’
+32
+Paediatrics and Child Health (Oxford) (2020), ‘Theindirect impact of COVID-19 on child health’
+31
+International Journal of Behavioral Nutrition andPhysical Activity (2017), ‘Understanding differences
+between summer vs. school obesogenic behaviors ofchildren: the structured days hypothesis’
+30
+Centre for Mental Health (2015), ‘Children of thenew century: Mental health findings from the
+Millenium Cohort Study’
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic21
+
+important to those less digitally well off.
+41
+However, even when children have access to good bandwidthand devices for
+accessing the internet, a digital divide may resultfrom differences in the way the
+internet is used. ‘Meaningful internet use’, or theway in which the internet is used
+to ‘mobilise information resources, to be able toaddress a range of everyday
+goals and concerns’
+42
+follows other patterns of disadvantage
+43
+.The IFS report also
+noted a gradient between household income and boththe amount of time spent
+studying and the types of resources used, which putlow-income children at a
+disadvantage.
+44
+Unequal ‘learning slides’ when schools close
+There are also more subtle disproportionate impactsfor the less well-off of
+missing school. Children’s opportunities to learnoutside of school are limited by
+their home environment, and a ‘summer slide’ is recognised,where the learning of
+disadvantaged children tends to stagnate during summerholidays, while better-off
+children continue to learn.
+45
+In the United States, the summer slide is thought to
+account for almost two thirds of the achievement gapbetween income groups.
+46
+Taken together, the data strongly indicates that childrenfrom some communities
+are more vulnerable to school closures than others,and that several factors
+contribute to this. Our combined dataset allows usto examine in which schools
+and sectors learning losses are likely to be the greatest.
+Estimates of learning loss: survey findings
+Which children have experienced the greatest learninglosses?
+Overall, 59% of teachers felt that at least half oftheir pupils had lost ground
+academically over the previous 12 months. This wasparticularly the case with
+younger children: 63% of primary school teachers feltat least half the class had
+lost ground, compared to only 43% of sixth form teachers.
+There was also a gradient with the deprivation indexof the school postcode:
+estimates were 70% for schools in the most deprivedpostcodes, compared to
+48% for the least deprived. Teachers’ estimates oflearning loss, lack of
+completion of set work and underlying reasons forpoor engagement are
+compared with demographic data from the school’s postcodein Figure 4.
+46
+ibid.
+45
+Journal of Education for Students Placed at Risk(JESPAR) (2012),‘Counteracting summer slide:
+social capital resources within socioeconomicallydisadvantaged families’
+44
+Institute for Fiscal Studies (2020), ‘Inequalitiesin children’s experiences of home learning duringthe
+COVID-19 lockdown in England’
+43
+Educational Review (2012), ‘Learning online? Educationalinternet use and participation in adult
+learning, 2002 to 2010’
+42
+Journal of Communication (2016), ‘Toward meaningfulconnectivity: Using multilevel communication
+research to reframe digital inequality’
+41
+Telematics and Informatics (2012), ‘Digital inequalities and implications for social inequalities: A
+study of Internet penetration amongst university studentsin South Africa’
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic22
+
+Table 5:Learning loss and engagement with remotelearning.
+View results by school demographics usingthe interactivetool.
+Reasons for lack of engagement
+Overall, 65% of teachers felt that their class wasengaging less well with remote
+learning than with face-to-face learning. Teachersreported that 55% of children
+had handed in their last piece of work and, whilethis was similar across age
+groups in mainstream education, it was noticeablylower (46%) in special
+education classes.
+Teachers were asked to rate the contribution of variousfactors to engagement
+with remote learning as having a ‘high’ or a ‘low’impact on ‘a few’ or ‘many’
+pupils. Parental support was identified as the mostimportant factor: 74% of
+teachers ranked a lack of parental support as highimpact on at least a few pupils.
+This was lower in independent schools (53%) than instate schools (76%), and
+also varied by deprivation index, with estimates of79% for schools in the most
+deprived postcodes, compared to 69% in the least deprivedpostcodes. Data on
+perceived causes of poor engagement in schools inthe most deprived postcodes
+is shown in Figure 3 and compared with overall findings.The smallest difference
+between schools in the most deprived postcodes andthe average is the level of
+parental engagement.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic23
+
+Figure 4: Teachers’ estimates of the frequency andimportance of factors
+contributing to poor engagement with remote learningin schools in the most
+deprived postcodes. Average findings for all schoolpostcodes are represented by
+an orange line.
+Conclusions from the survey
+During the partial school closures of 2020-21, abouthalf of all teachers took on a
+dual role, providing classroom as well as remote teaching.Primary school teachers
+were particularly likely to have taken on this dualrole, probably because of their role
+in providing day care for the children of key workersand vulnerable children.
+Over 60% of teachers felt that their workload hadincreased over the past 12
+months and the average hours of work for full-timeteachers was just over 52 per
+week. Despite this, a smaller proportion of teacherssaid they were planning to
+leave the profession than in the previous two years,and indicators suggest that
+this was related to more professional autonomy duringthe pandemic.
+Teachers’ estimate of learning losses indicated thatthese are likely to be
+substantial in all groups of children, but there wasparticular concern from primary
+school teachers, and teachers from schools in moredeprived postcodes. A lack of
+support from a parent or other adult was the mostcommonly identified factor
+associated with poor engagement with online learning.Learning loss is linked to a
+number of social and economic measures at the schoolpostcode level.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic24
+
+Data gaps
+The data reported in this study has highlighted whatwe can tell about how
+teachers’ working lives changed during the pandemicand in which groups of
+children they are most concerned about learning loss.This report can be seen as
+an illustration of how open data can inform researchand policy making, but it is
+important to assess the availability, reliability,fairness and transparency of the
+available public data. We need to ask whether thedata we have is the data we
+need to answer the questions we have.
+Representativeness
+Data inclusion
+When data is used for decision making, it is importantto consider whether it fairly
+represents the groups it is thought to describe, orwhether some groups have
+been excluded. For example, Gypsy and Traveller communitieswere included as
+an ethnic category in the UK census for the firsttime in 2011, meaning that before
+then, their health and social indicators had not beenused in census-driven
+decision making.
+47
+Groups need to be visible in thedata in order to be represented
+by it, and it could be argued that, by assessing socialdata at the level of a
+school’s postcode stem, we have averaged out the needsof distinct groups of
+children and denied them representation. However,the advantage of representing
+distinct groups and categories of children needs tobe balanced against the risk of
+assigning individuals to more granular categoriesand making assumptions about
+them that are discriminatory.
+In this report we have deliberately not attemptedto identify distinct groupings that
+could be used to characterise a particular child.Instead, we highlight the
+concentration of educational losses in primary schools,in special education and in
+schools located in deprived postcodes, which may needadditional resources as
+post-pandemic recovery unfolds.
+How well do respondents represent the teaching workforce?
+The low response rate of the survey was not unusual,but it does raise questions
+about the representativeness of the data. We triedto mitigate this by weighting
+responses by demographic factors. However, the possibilityalways remains that
+teachers who responded to the survey differed systematicallyfrom those who did
+not. It might be argued, for example, that teacherswould be more likely to
+respond to the survey if they had had a particularlypositive experience during the
+pandemic or, alternatively, if they had an axe togrind. Responses may also be
+47
+UK Parliament (2019), ‘Research briefing: Gypsiesand Travellers’
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic25
+
+influenced by the perceived purposes of a survey which, in this case, could be
+seen as a tool for lobbying and improving employmentconditions.
+It is difficult to mitigate against these risks inthe present report, but it does raise a
+broader question about public perceptions of datause and willingness to
+contribute data – something that is addressed furtherbelow.
+Data quality
+Granularity of data categories
+Surveys that ask workers to rate their job satisfactionwithin limited response
+categories are blunt instruments for assessing themood and motivation of the
+workforce. Technically, it is possible to collectmore detailed information about
+workers’ performance, engagement and motivation byscraping employees’
+professional and personal communications and analysingthem using natural
+language processing. While there has been a rise inthe use of commercial
+workforce analytics that perform these functions inthe private sector,
+48
+the use of
+this sort of digital surveillance is intrusive, maylead to discriminatory profiling of
+individuals, and may itself change the behaviour itseeks to monitor.
+A similar argument could be made about drawing conclusionsabout children’s
+learning losses and the determinants of learning engagementfrom teachers’
+opinions. More granular data about how individualchildren are learning online
+could certainly be gained from analysing their performancein schoolwork, or even
+clickstream data to see what material individual childrenare accessing and how
+long they spend on it. However, we also have to bealert to the ethics and adverse
+consequences of data collection itself – such as increasedtesting or invasions of
+privacy – and how this might feed back into changesin behaviour, such as
+teaching to the test or the use of mouse movers tosimulate activity. Data
+collection should be minimised: it should be enoughto answer the questions we
+have, rather than everything we could collect. Inthis context, we believe our
+approach of using anonymised and aggregated data publishedas open data,
+combined with other publicly available datasets, meetsconditions for appropriate
+and useful granularity.
+Timeliness of data
+Some of our contextual data was taken from sourcesthat were not concurrent
+with the survey. This is particularly the case fordata about communities that relies
+on census data. This report was written in a censusyear, meaning that the most
+recent published census data is 10 years old. Real-timeinformation about
+communities is almost certainly available to thosecommercial entities that collect
+48
+Social Sciences (2019),‘Big data and human resourcesmanagement: The rise of talent analytics’
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic26
+
+personal digital data, but this is not made available for public use.
+Challenges to geographical matching
+One of the strengths of this report is the linkingof teachers’ views to contextual
+data about their school’s community. However, thiscame with challenges. A
+postcode stem was used to identify a school’s approximatelocation. A full
+postcode would have been more precise, but would haveidentified individual
+schools. Postcode stems were then mapped as well aspossible to census areas.
+Direct matching would have been preferable, but itis unlikely that teachers would
+know the lower super output areas of their schools.Common standards for
+geographical mapping that are recognised by userswould make the analysis of
+data from multiple sources more accurate.
+Data infrastructure
+Data use and communication
+‘Data infrastructure’ consists of a combination ofdata assets, technology,
+processes and organisations. The use of data to solveproblems and the
+communication of that use to participants and thepublic is an important part of
+data infrastructure,
+49
+and can create a sense of publicownership and control of
+data. The ‘citizen science’ movement has been verysuccessful in mobilising
+crowd-sourced data to monitor environmental issues,
+50
+indicating that there is an
+appetite for contributing public data when it is seento be of value.
+If workforce surveys are to be used to monitor teachers’professional opinions, it is
+necessary to make the results as representative aspossible and so the low
+response rate was a concern. Informal enquiries suggestedsome survey fatigue
+among teachers, who have been asked to contributedata to several questionnaires
+over the course of the year. It seems likely thatmany of those invited to participate
+will have seen the survey as another gratuitous datacollection exercise and decided
+not to take part. Participation in future surveysof this sort may be promoted if
+teachers can see that their collective views and concernshave been noted and have
+informed policy. This places an onus on those designingsurveys to ensure that the
+data they collect is directed towards problem solving,and an onus on data users to
+communicate this use to contributors.
+Teacher workload and retention
+Teacher retention is likely to be particularly importantas children recover from the
+damage to their learning and well-being caused byschool closures. Teachers in
+this survey indicated that their workload had increasedand they were working
+50
+Nature(2018), ‘No PhDs needed: how citizen scienceis transforming research’
+49
+Civil Service Quarterly (2019), ‘An interview withJohn Pullinger, former UK National Statistician’
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic27
+
+over 50 hours per week on average. Data about workload is available from the
+teacher workload surveythat was carried out in 2016and 2019, but there may be
+an argument for repeating this survey more regularlyor incorporating some of its
+measures into other tools, such as theschool workforcesurvey.
+Data from the NASUWT survey indicated that substantiallearning losses are
+probable across all groups, but that these are likelyto be concentrated in primary
+schools and in schools in less well-off postcodes.It follows that teacher
+recruitment and retention is particularly importantin those sectors and areas, and
+should be monitored. Currently, teacher retentiondata is only available at a
+national level. Making it openly available at thelevel of different sectors and
+regions would increase the transparency of educationalmanagement and allow
+civil society organisations and interested individualsto determine whether there
+are areas where low teacher retention represents arisk to schooling and where
+additional support may be needed.
+Better data on teacher well-being is also requiredto monitor the impact of
+education policies on teacher motivation and retention.We have a great deal of
+information about the performance of children andschools, but the consequences
+of this approach to performance management on theteaching workforce also
+needs to be measured and critically assessed so thatbalanced decisions can be
+made about education policy. Common metrics of teacherwell-being and job
+satisfaction, and measurement of trends, are necessary.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic28
+
+Conclusion
+Researchers, policymakers and citizens who are interestedin education have
+access to a great deal of data about the performanceof children and schools from
+theeducation statistics service, and about teachernumbers and characteristics
+from theschool workforce survey. What is missingis reliable, systematic data on
+the well-being and professional views of teachers.
+In this report we explored how open and publicly availabledata can be combined
+and used to shed light on the impact of the pandemicon the working lives of
+teachers and the learning and well-being of the childrenthey teach. The data
+highlighted particular areas of concern regardingchildren’s learning losses, which
+are likely to be more severe in primary schools andin schools in low income areas,
+and the surprising finding that although teachershad to work harder and were
+more stressed than usual, they felt more positiveabout their work and were less
+likely to consider leaving the profession. We alsodiscussed the limitations of this
+data, in particular the low response rate to the survey,and the difficulty matching
+datasets based on geography.
+Data is necessary for good public decision making,and the nature of that data
+affects the quality of those decisions. Timely dataenables timely decisions and
+action. Granular data – for example about differentareas or different school
+settings – supports targeted interventions. Data frommultiple sources – including
+that created by communities and professional bodiesto describe and evidence
+their experience – helps to create a rich and nuancedpicture.
+Opening data, and particularly that used for importantdecisions, supports
+transparency and accountability around those decisions,and enables
+policymakers, researchers and the public to understandand question them.
+Open data can also help prioritise and support action,such as the provision and
+targeting of support services by civil society andbusinesses.
+But no data is perfect, and it is important to surfacehow it was collected and
+processed, and recognise, as we have in this report,its limitations, so that it can
+be critiqued and understood in context.
+In education, as in many sectors, we are still farfrom having the data infrastructure
+we need. Teachers are not alone in wanting their opinionsand experiences to be
+taken into account when decisions are made about theirworking lives. The
+pandemic has shown us the importance of timely datain a rapidly changing world,
+and how much collective knowledge is held within institutionslike the NHS, or
+already available to organisations like businesses,unions and civil society
+organisations. Making data available, in privacy-protecting,timely and systematic
+ways, means we can harness that collective knowledgefor the collective good.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic29
+
+Technical Appendix
+Survey data processing and cleaning methods
+Data cleaning
+A series of data cleaning processes were carried outon the raw survey data.
+These included:
+●
+School postcode outcode or stem (for example SW4)– some respondents entered
+full postcodes and others added characters or spaces,and where possible, these
+were cleaned to provide a valid outcode. Overall,3,096 postcode outcodes were
+identified and matched to external datasets (see below).
+●
+Education sector – some respondents did not tick whichsector of
+education they teach in, but wrote something in the‘other’ box. These
+were recategorised into one of the defined sectorswhere relevant. Due to
+small numbers, teachers in sixth form colleges, furthereducation colleges
+or higher education were combined into a ‘post-16’category. Where more
+than one option was ticked, only the first was takento avoid double
+counting respondents.
+●
+Ethnic group – some respondents did not select anyethnic group but
+wrote one in the ‘other’ box. Where clear, these werereclassified as one of
+the ethnic groups. Where more than one option wasticked, only the first
+was taken to avoid double counting respondents.
+●
+Position – some respondents did not select a position(for example middle
+manager) but wrote one in the ‘other’ box. Where clear,these were
+reclassified as one of the defined positions. Dueto small numbers,
+headteacher/deputy headteachers and senior managementteam
+members were combined into a senior manager category.
+●
+Working pattern – some respondents did not selecta working pattern (for
+example temporary part time) but wrote one in the‘other’ box. Where
+clear, these were reclassified as one of the definedgroups. Where more
+than one option was ticked, only the first was takento avoid double
+counting respondents.
+●
+Invalid responses – for two questions (Q15 and Q25) we excluded values
+that were impossible or extremely unlikely. For example,for Q15, we
+excluded any responses that stated that the numberof pupils that had
+submitted work was larger than than the total numberin the class.
+Similarly, for Q25, we excluded any respondents whosaid they worked full
+time and worked fewer than 20 hours per week.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic30
+
+Missing responses
+Some respondents did not provide answers to everyquestion. Rather than using
+imputation to create artificial responses , non-responseswere excluded from the
+analysis for each question. This means that, for eachquestion, the analysis shows
+the percentages of all those who answered that particularquestion, not of all
+survey respondents. For example, where a questionhad possible answers of ‘Yes,
+‘No’ and ‘Not sure’, we report the number who said‘Yes’ as a percentage of the
+number who said ‘Yes, ‘No’ or ‘Not sure’.
+Weighting
+Comparison to published Department for Education dataon the teacher workforce
+across all state-funded schools in England revealedthat the survey sample was
+not representative (see Table 2). We therefore appliedweighting to the survey
+responses to ensure that results were representativeof the teacher workforce. The
+weights were calculated based on the school sectorrespondents teach in, their
+age band and their gender, since the combination ofthese variables was available
+from the school workforce census. In particular, thisincreased the weighting on
+the responses of younger survey respondents and thosewho taught in primary
+schools. To avoid applying large weights to smallgroups of respondents, regional
+weightings were not applied.
+The teacher workforce data used is only availablefor state-funded primary,
+secondary and special schools. Therefore, independentschool teachers and those
+working in post-16 institutions remained unweighted.Additionally, we did not
+re-weight the responses to each individual question,so the sample for each
+individual question may not reflect the teacher workforceas a whole.
+Linking to external datasets
+We used the school postcode outcode reported by therespondent to link the
+survey data to a selection of external datasets toprovide additional context for
+analysis (see Table 1). The external data used waspublished at output area (OA),
+lower super output area (LSOA) or middle super outputarea (MSOA) level, and
+hence could not be directly mapped to the postcodeoutcode stated by
+respondents. To create data for the postcode outcodes,we calculated the
+proportion of each outcode area that is in each OA,LSOA or MSOA. We used
+these proportions to create weighted re-aggregationsof each measure for each
+postcode outcode. Every outcode was then ranked andsplit into quartiles for
+each measure.
+Statistical significance
+In order to draw conclusions about sub-groups of teacherswithin the survey, we
+tested whether their average response (mean) for eachquestion was statistically
+significantly different to the average among all otherrespondents. Statistical
+significance was calculated using a two-tailed t-testand groups significantly
+different at the 1% and 5% levels were highlighted.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic31
+
+Bibliography
+Allmann K. Covid-19 is increasing digital inequality:We need human connectivity
+to close the digital divide [Internet]. 2020 [cited2020 Jul 27]. Available from:
+https://www.law.ox.ac.uk/research-and-subject-groups/oxfordshire-digital-inclusi
+on-project/blog/2020/04/covid-19-increasing
+Andrew A, Cattan S, Dias MC, Farquharson C, KraftmanL, Krutikova S, et al.
+Inequalities in children’s experiences of home learningduring the COVID-19
+lockdown in England. Fisc Stud. 2020;41(3):653–83.
+Ashikkali L, Carroll W, Johnson C. The indirect impactof COVID-19 on child
+health. Paediatr Child Health (Oxford). 2020;30:430–7.
+Barnardo’s. Briefing for MPs & Peers: Children’s mentalhealth and Covid-19. 2020
+Bignardi G, Dalmaijer ES, Anwyl-Irvine AL, Smith TA,Siugzdaite R, Uh S, et al.
+Longitudinal increases in childhood depression symptomsduring the COVID-19
+lockdown. Arch Dis Child. 2020;Epub ahead(Dec 9).
+BIHR COVID-19 Scientific Advisory Group. Children’sphysical activity during
+Covid-19 from the Born in Bradford Cohort. 2021
+Bimpong KAA, Tolley CL, Slight SP. Relationship betweenlabour force
+satisfaction, wages and retention within the UK NationalHealth Service: a
+systematic review of the literature. BMJ Open. 2020;10:e034919.
+Brazendale K, Beets MW, Weaver RG, Pate RR, Turner-McGrievyGM, Kaczynski
+AT, et al. Understanding differences between summervs. school obesogenic
+behaviors of children: the structured days hypothesis.Int J Behav Nutr Phys Act.
+2017;14:100.
+Cabinet Office. An interview with John Pullinger,former UK National Statistician
+[Internet]. Civil Service Quarterly. 2019 [cited 2019Mar 13]. Available from:
+https://quarterly.blog.gov.uk/2019/10/30/an-interview-with-john-pullinger-former-uk-
+national-statistician/
+Cromarty H. Research briefing: Gypsies and Travellers[Internet]. 2019. Available
+from:https://commonslibrary.parliament.uk/research-briefings/cbp-8083/
+Daubney A, Fautley M. Editorial Research: Music educationin a time of pandemic.
+Br J Music Educ. 2020;37:107–14.
+Foster D. Research Briefing: Teacher recruitment andretention in England
+[Internet]. 2020. Available from:
+https://commonslibrary.parliament.uk/research-briefings/cbp-7222/
+Girlguiding. Early findings on the impact of Covid-19on girls and young women
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic32
+
+[Internet]. 2020. Available from:
+https://www.girlguiding.org.uk/globalassets/docs-and-resources/research-and-ca
+mpaigns/girlguiding-covid19-research-briefing.pdf
+Greenhow C, Lewin C, Staudt Willet KB. The educationalresponse to Covid-19
+across two countries: a critical examination of initialdigital pedagogy adoption.
+Technol Pedagog Educ. 2020.
+Gutman LM, Joshi H, Parsonage M, Schoon I. Childrenof the new century: Mental
+health findings from the Millenium Cohort Study. 2015.
+Hansard. Free School Meals Volume 682: debated onWednesday 21 October
+2020 [Internet]. 2020 [cited 2021 Feb 13]. Availablefrom:
+https://hansard.parliament.uk/commons/2020-10-21/debates/79C0CA8D-CADF-4
+562-9317-5A51810BB5DE/FreeSchoolMeals
+Human Rights Watch. UK: Children in England goinghungry with schools shut.
+Uneven UK approach for Covid-19 doesn’t guaranteechildren’s right to food
+[Internet]. 2020. Available from:
+https://www.hrw.org/news/2020/05/27/uk-children-england-going-hungry-schools
+-shut
+International Literacy Centre. Responding to COVID-19,Briefing Note 3: Resetting
+educational priorities in challenging times. 2020.
+Irwin, A. No PhDs needed: how citizen science is transformingresearch [Internet].
+Nature. 2018. Available from:
+https://www.nature.com/articles/d41586-018-07106-5
+Katz V, Gonzalez C. Toward meaningful connectivity:using multilevel
+communication research to reframe digital inequality.J Commun. 2016;66:236–49.
+Kim LE, Asbury K. ‘Like a rug had been pulled fromunder you’: The impact of
+COVID-19 on teachers in England during the first sixweeks of the UK lockdown.
+Br J Educ Psychol. 2020;90:1062–83.
+Kim LE, Leary R, Asbury K. ‘We need clear directions,if we’re going to move
+forward. It’s as simple as that’: Teachers’ narrativesduring partial school
+reopenings in the COVID-19 pandemic. PsyArXiv. 2020.
+Lough C. Exclusive: Exhausted teachers ‘pushed tothe brink’ [Internet]. Times
+Educational Supplement. 2020 [cited 2021 Feb 13].Available from:
+https://www.tes.com/news/exclusive-exhausted-teachers-pushed-brink
+Lucas M, Nelson J, Sims D. Schools’ responses to Covid-19.Pupil engagement in
+remote learning [Internet]. 2020. Available from:
+https://www.nfer.ac.uk/media/4073/schools_responses_to_covid_19_pupil_engag
+ement_in_remote_learning.pdf
+Moss G. Responding to COVID-19, Briefing Note 3: Resettingeducational
+priorities in challenging times. London; 2020.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic33
+
+Nocker M, Sena V. Big data and human resources management:the rise of talent
+analytics. Soc Sci. 2019;8:273.
+Open Data Institute. Data about children’s lives inthe pandemic [Internet]. 2020.
+Available from:https://theodi.org/article/data-about-children-during-covid19/
+Oyedemi T. Digital inequalities and implications forsocial inequalities: A study of
+Internet penetration amongst university students inSouth Africa. Telemat
+Informatics. 2012;29:302–13.
+Perryman J, Calvert G. What motivates people to teach,and why do they leave?
+Accountability, performativity and teacher retention.Br J Educ Stud.
+2020;68(1):3–23.
+Rice K, Wynne B, Martin V, Ackland GJ. Effect of schoolclosures on mortality from
+coronavirus disease 2019: old and new predictions.Br Med J. 2020;371:m3588.
+Slates SL, Alexander KL, Entwisle D, Olson LS. Counteractingsummer slide:
+social capital resources within socioeconomicallydisadvantaged families. J Educ
+Students Placed Risk. 2012;17(3):165–85.
+Taylor L. What is data justice? The case for connectingdigital rights and freedoms
+globally. Big Data Soc. 2017;4(2).
+Toropova A, Myrberg E, Johansson S. Teacher job satisfaction:the importance of
+school working conditions and teacher characteristics.Educ Rev.
+2021;73(1):71–97.
+Veldman I, van Tartwijk J, Brekelmans M, Wubbels T.Job satisfaction and teacher
+student relationships across the teaching career:Four case studies. Teach Teach
+Educ. 2013;32:55–65.
+White P, Selwyn N. Learning online? Educational Internetuse and participation in
+adult learning, 2002 to 2010. Educ Rev [Internet].2012;64(4):451–69.
+Open Data Institute 2021Data on teachers’ lives duringthe pandemic34

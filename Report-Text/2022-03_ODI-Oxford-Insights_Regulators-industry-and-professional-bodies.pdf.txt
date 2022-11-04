@@ -1,0 +1,2364 @@
+
+
+Regulators, industry bodies and
+professional bodies: their role in data
+assurance
+February 2022
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+2
+Contents
+1. Executive summary4
+1.1 Key findings5
+1.2 Suggestions for regulators, industry bodies and professional bodies5
+2. Background7
+3. How can data assurance enable trustworthy data sharing?8
+3.1 What is data assurance?8
+3.2 What can be assured?9
+3.3 The spectrum of data assurance activities10
+3.4 Data assurance schemes12
+Case study 1: Cyber Essentials scheme12
+3.5 Who is involved in data assurance?14
+4. How are regulators, industry bodies and professional bodies involved in data assurance?16
+4.1 Role and activities16
+Scope and powers17
+4.2 Examples of regulators, industry bodies, and professional bodies supporting data
+assurance19
+Data assurance in statutory reporting21
+Case study 2: Compliance of national statistics21
+AI assurance23
+Sharing data with the public24
+Case study 3: Product labelling for health and safety25
+Regulatory sandboxes27
+Creating trusted data ecosystems28
+Case study 4: Open banking30
+Accreditation for data assurance32
+Developing best practice32
+Certification for data assurance33
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+3
+Case study 5: Data management professional certification34
+4.3 Opportunities and challenges for data assurance36
+Rapidly changing regulatory context36
+Standards-based interventions38
+Building data literacy39
+Varying maturity of sectors39
+Existing levers and powers can be repurposed41
+Commercial opportunities41
+Support in designing and implementing data assurance schemes42
+5. How can regulators, industry bodies and professional bodies create conditions for the
+trustworthy sharing, use and reuse of data?43
+Leading by example43
+Integrating data assurance into existing activities and services44
+Sharing and collaboration to build trust45
+Reviews for effective data assurance interventions47
+5.1 Next steps47
+6. Methodology49
+Interviewees49
+Glossary51
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+4
+1. Executive summary
+ThisreportispartofarangeofprojectscommissionedbytheOpenDataInstitute(ODI)aspart
+ofitsprogrammeofworkondataassurance.ThisprogrammesupportsMission1oftheUK’s
+NationalDataStrategyto‘unlockthevalueofdataacrosstheeconomy’,
+1
+andmorespecifically
+theaimsetoutintheMission1PolicyFrameworkto‘promotethedevelopmentanduseof
+gooddatastandardssothatdataisheld,processedandsharedaccordingtotheFAIR
+(findable, accessible, interoperable, reusable) principles’.
+2
+Inthisresearch,weexploredtheroleofregulators,industrybodiesandprofessionalbodiesin
+creatingtheconditionsforthetrustworthysharingandreuseofdatawithinindividualsectorsas
+wellasacrosssectors.Dataassuranceplaysanimportantroleinthis.TheODIdefinesdata
+assuranceas‘theprocess,orsetofprocessesthatincreaseconfidencethatdatawillmeeta
+specificneed,andthatorganisationscollecting,accessing,usingandsharingdataaredoingso
+intrustworthyways’.
+3
+Thishelpstomakedatamoreaccessibleandusable.Italsoensuresthat
+rightssuchasdataprotectionandintellectualproperty(IP)areprotected.Inturn,thisimproves
+trust in the data ecosystem, enabling increased data-sharing.
+Wefocusedonregulators,industrybodiesandprofessionalbodiesbecausetheyallplayakey
+roleintheirdataecosystems:bothdirectly,asorganisationsaccessing,usingandsharingdata
+themselves,andindirectly,asbodieswhichinfluencethedatapracticesofotherorganisations.
+Theyallconductworktodefineprinciples,influenceregulationandbestpractices,developand
+enforceprofessionalnormsandethics,takeactiontocensurethosethatbreachrules,and
+buildskillsthroughtraining.Thesebodies,however,havedifferentpowersandleversavailable
+tothem.Usingboth‘hard'and‘soft’powers,allthreetypesoforganisationcansupportthe
+development and adoption of data assurance schemes.
+3
+2021, Open Data Institute (ODI), 'How does data assurance increase confidence in data?',
+https://theodi.org/article/how-does-data-assurance-increase-confidence-in-data/
+2
+2021, DCMS, 'National Data Strategy Mission 1 Policy Framework: Unlocking the value of data across
+the economy',
+https://www.gov.uk/government/publications/national-data-strategy-mission-1-policy-framework-unlocki
+ng-the-value-of-data-across-the-economy/national-data-strategy-mission-1-policy-framework-unlocking-
+the-value-of-data-across-the-economy
+1
+2019, Department for Digital, Culture, Media and Sport (DCMS), 'National Data Strategy',
+https://www.gov.uk/guidance/national-data-strategy
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+5
+1.1 Key findings
+Ourresearchhighlightedopportunitiesandchallengesfortheadoptionofdataassurance
+schemesacrossdifferentsectors.TheUK’srapidlychangingpolicycontextfortheaccess,use
+andsharingofdatapresentsanopportunitytosupportdataassuranceactivitiesbutalsoposes
+challengesfortheadoptionofdataassuranceschemesrelyingon‘harder’powersprovidedfor
+inexistinglegislation.
+4
+WithapotentiallooseningoftheUK’sregulatoryframework,itislikely
+thattherewillbeagreaterrolefordataassuranceinbuildingtrust.Dataassurancewillhelpin
+maintainingconfidenceindatapracticesandsupportingdataflowsbetweenorganisations,
+industries and governments.
+5
+Allthreetypesoforganisationhaveexistingpowersandleverstheycanusetohelpfacilitatethe
+trustworthysharing,useandreuseofdata.Asdifferentsectorsareatdifferentstagesofdata
+anddigitalmaturity,however,somesectorsandorganisationsmayneedsupportindesigning
+and adopting data assurance schemes.
+1.2 Suggestions for regulators, industry bodies and
+professional bodies
+Wehaveidentifiedsuggestionsforthesethreetypesoforganisationstohelpcreateconditions
+for the trustworthy sharing, use and reuse of data.
+There are opportunities for all three types of organisation to:
+●
+Leadbyexamplebymodellingindustry-leadingpracticeswiththedatatheycollect,
+holdandsteward.Regulatorsoftencollectandholddatafortheirsector,industry
+bodiescanstewarddata,andprofessionalbodiescollectandholdmembershipand
+otherrelevantdata.Withthedatatheyregularlycollect,allthreebodiescan,indifferent
+ways, model best practices for data assurance.
+●
+Integratedataassuranceintotheirexistingactivitiesandservices.Regulatorscan
+incorporateitintoexistingregulatoryinterventions,whilstprofessionalbodiesand
+industrybodiescanoffertrainingandprofessionaldevelopmentprogrammeson
+trustworthydatapractices.TheFoodStandardsAgency’s(FSA)useofdataassurance
+infoodlabelling,forexample,demonstratesthatdataassurancecanbebuiltinto
+multiple regulatory interventions.
+5
+2021, ODI, 'Data: a new direction, Open Data Institute response',
+https://docs.google.com/document/d/1DUN51AR57gDUS3Ck2hg2zmuYIGBq0s9ikx837ws7wh8/edit#h
+eading=h.f22474fe7t8c
+4
+2021, ODI, 'Data: a new direction, Open Data Institute response',
+https://docs.google.com/document/d/1DUN51AR57gDUS3Ck2hg2zmuYIGBq0s9ikx837ws7wh8/edit#h
+eading=h.f22474fe7t8c
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+6
+●
+Shareandcollaboratetobuildtrustthroughdevelopingstandards,guidanceorbest
+practice,andbycollaboratingwithresearchersaddressingkeythemesinmachine
+learningdatasets.ThroughforumsliketheUKRegulatorsNetwork(UKRN),forexample,
+regulatorscansharesuccessfulapproachestointroducingnewdataassurance
+schemeswitheachother.Atthesametime,industrybodiescanconvenemembersto
+address sector challenges through data assurance schemes.
+●
+Conductreviewstoinformhowtobestimprovetrustindataanddatapracticesthrough
+newdataassuranceschemes.Thiscanhelptounderstandwheretrustislackinginthe
+ecosystem.
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+7
+2. Background
+ThisreportispartofabroadrangeofactivitiescommissionedbytheOpenDataInstitute(ODI)
+toexplorehowtoenabletheconditionsfortrustworthydatasharingacrossarangeofdifferent
+data ecosystems, supporting Mission 1 of theNationalData Strategy.
+6
+Aspartofthiswork,theODIisexploringtheroleofdataassuranceinincreasingconfidencein
+howdataisbeingcollected,usedandshared.
+7
+Byhelpingorganisationstoassess,buildand
+demonstratetrustindatapracticesanddata,theyexpectconfidenceinreuseandsharingof
+data to increase, whilst economic value is created.
+8
+ThisprojectwascarriedoutbyOxfordInsights(OI),onbehalfoftheODI,
+9
+betweenOctober
+2021andFebruary2022.TheleadauthorswereLeighDoddsandKateIida(OI),withthanksto
+Dr.DeborahYates(ODI),Dr.MahletZimeta(ODI),EdEvans(ODI),MattDavies(ODI),Mahad
+Alassow(ODI),EllenGoodman(ODI)andPabloFuentes(OI)forcomments.Seethe
+Methodology section for more background about how the work was carried out.
+Theprojectfocusedonthecurrentandfutureroleofregulators,industryandprofessional
+bodiesindataassuranceacrosstherangeofsectorsandcross-sectorecosystems.Thegoal
+wastoexplorethedirectandindirectmechanismsbywhichtheysupportdataassurance
+activities, their impacts and potential challenges and opportunities.
+9
+2021, ODI, ' Call for proposals: Role of regulators, professional bodies and industry bodies in creating
+the conditions for trustworthy sharing and reuse of data',
+https://theodi.org/article/call-for-proposals-role-of-regulators-professional-bodies-and-industry-bodies-in
+-creating-the-conditions-for-trustworthy-sharing-and-reuse-of-data/
+8
+2021, Frontier Economics for the ODI, 'Economic impact of trust in data ecosystems',
+https://theodi.org/article/the-economic-impact-of-trust-in-data-ecosystems-frontier-economics-for-the-o
+di-report/
+7
+2021, ODI, 'Assurance, trust, confidence - what does it all mean for data?',
+https://theodi.org/article/assurance-trust-confidence-what-does-it-all-mean-for-data/
+6
+2021, DCMS, 'National Data Strategy Mission 1 Policy Framework: Unlocking the value of data across
+the economy',
+https://www.gov.uk/government/publications/national-data-strategy-mission-1-policy-framework-unlocki
+ng-the-value-of-data-across-the-economy/national-data-strategy-mission-1-policy-framework-unlocking-
+the-value-of-data-across-the-economy
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+8
+3.Howcandataassuranceenabletrustworthydata
+sharing?
+Data,whenitissharedwiththosewhoneedit,canhelptounlock‘thevalueofdataacrossthe
+economy’.
+10
+Itcanenablebetterdecisionmaking,supportthedesignandimplementationof
+more effective policies and be used to deliver innovative products and services.
+Butdataanddatasharingcanalsocauseharm.Theuseandmisuseofdatacancausepeople
+tolosetrustinservicesororganisations.Fearofcausingharmcanleadorganisationstoavoid
+collecting,usingandsharingdata.Buildingtrustandencouragingopennessareessentialto
+avoid a future where data sharing is feared or data is hoarded.
+11
+Alackoftrustinhowdataisbeingcollected,usedandsharedcanleadpeopletooptoutof
+datasharingandorganisationsavoidingsharingdatathatmightotherwisebeused.Without
+access to data we are unable to unlock its potential benefits.
+AstheODITrustworthyDataStewardshipGuidebook
+12
+highlights,buildingtrustindatais
+importanttocreateaworldwheredataworksforeveryone.‘Theeconomicimpactoftrustin
+dataecosystems’reportfurtherdemonstratedthataslevelsoftrustincrease,datasharingdoes
+aswell.
+13
+Weneedtobuildtrustworthydataecosystemswhereindividualsandorganisations
+acrossthepublic,privateandthird-sectortrustthatdataisflowinginwaysthatwillmaximise
+benefits whilst minimising harms.
+Theguidebookhighlightsthatinordertoachievethatgoal,weneedtoassess,buildand
+demonstrate trust and trustworthiness.
+3.1 What is data assurance?
+Third-partyassurance,reviews,audits,certificationandaccreditationallregularlyplayarolein
+helping to evidence trust and trustworthiness across different sectors.
+13
+2021, Frontier Economics for the ODI, 'The economic impact of trust in data ecosystems',
+https://theodi.org/article/the-economic-impact-of-trust-in-data-ecosystems-frontier-economics-for-the-o
+di-report/
+12
+2021, ODI, 'Trustworthy Data Stewardship Guidebook - Overview',
+https://open-data-institute.gitbook.io/p22-trustworthy-data-stewardship-guidebook/-MW92wuAXMrYPE
+7sgA-M/introduction/overview
+11
+ODI, 'Our theory of change',
+https://theodi.org/about-the-odi/our-vision-and-manifesto/our-theory-of-change/
+10
+2021, DCMS, 'National Data Strategy Mission 1 Policy Framework: Unlocking the value of data across
+the economy',
+https://www.gov.uk/government/publications/national-data-strategy-mission-1-policy-framework-unlocki
+ng-the-value-of-data-across-the-economy/national-data-strategy-mission-1-policy-framework-unlocking-
+the-value-of-data-across-the-economy
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+9
+Weusedifferenttypesofmechanismstohelptobuildtrustanddemonstratethe
+trustworthinessofpeople,processes,productsandorganisations.Forexample,medical
+registerslistdoctorsthatareapprovedtopracticemedicineandconsumerproductsundergo
+safety testing.
+Thesesameprocessescanalsobeappliedtohelptobuildconfidenceinhowdataisbeing
+collected,accessed,usedandshared.
+14
+RecentresearchconductedbyFrontierEconomicson
+behalfoftheODIsuggestthattheremaybeagrowingmarketforproductsandservicesinthis
+area.
+15
+3.2 What can be assured?
+‘Data practices and datasets: what can be assured’ by Open Data Institute, used a CC-BY-SA licence.
+The ODI have suggested that assurance can be applied to:
+●
+Data— e.g. an individual dataset.
+●
+Data practices— e.g. the processes by which datais collected or managed.
+Assuranceofdataanddatapracticesinvolvesapplyingarangeofdifferentdataassurance
+activities.
+Assurance of data focuses on data or a dataset as an artefact. It includes activities like:
+●
+Checking the quality of individual data points to assess their accuracy.
+15
+2021, Frontier Economics and the ODI, 'Review of the UK business to business data assurance
+market',
+https://theodi.org/wp-content/uploads/2021/07/PRS-ODI-Data-assurance-FINAL_23072021.pdf
+14
+2021, ODI, 'How does data assurance increase confidence in data?',
+https://theodi.org/article/how-does-data-assurance-increase-confidence-in-data/
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+10
+●
+Checking the structure of a dataset against a standard to confirm that it is well-formed.
+●
+Reviewing a dataset to ensure it does not contain personal data.
+Assuranceofdatapracticesexploresthebroadercontextaroundhowdataisgoverned.It
+includes activities like:
+●
+Reviewingthelifecycleofhowdataiscollected,managedandsharedtoconfirmthat
+data is managed legally, securely and ethically.
+●
+Assessingthedecisionmakingforhowdataisshared,toensurethatitisshared
+responsibly and in ways that will minimise harms.
+●
+Ensuringthatthoseinvolvedindatapracticeshavethenecessaryskillsandknowledge
+to work with data.
+3.3 The spectrum of data assurance activities
+Assuranceprocessessuchasaudits,certificationoraccreditationschemesareusuallymore
+formallydefined.Theywillbedescribedandsupportedbywell-definedstandardsandinvolve
+multiplelayersofreviewandassessment;notjustoftheprocessitselfbutthepeopleand
+organisations involved in it.
+ThereisalegalrequirementintheUK,aspartoftheCompaniesAct2006,thatpublic
+companiesmusthavetheiraccountsaudited.Thishelpstoassurestakeholdersthatthe
+companyisbeingoperatedandgovernedresponsibly.Theseauditsareaformoffinancial
+assurance.
+Theprocessbywhichafinancialauditiscarriedoutwillconformtoanauditingstandard.
+Businessesthatcarryoutauditsmustbelicensedtodoso.
+16
+Thishelpstobuildconfidencein
+theoutputsoftheaudits,andthattheorganisationsandpractitionersperformingthemare
+reputable and have the necessary skills and experience to do so.
+TheUKAccreditationServicereferstotheseformaltypesofmechanismasstandardisation,
+conformity assessment, measurement and accreditation.
+17
+Formalmethodsofassuranceareoftenreferredtoas'qualityinfrastructure'.
+18
+Dataassurance
+canbeviewedasbuildingthequalityinfrastructurethathelpsustoassess,buildanddevelop
+the data infrastructure
+19
+and practices that enableus to sustain trustworthy data ecosystems.
+Dataassuranceactivitiescanalsobeclassifiedbasedonhowrigorouslytheyaredefinedand
+applied.
+19
+ODI, 'What is data infrastructure', https://theodi.org/topic/data-infrastructure/
+18
+2020, BEIS, 'The UK's National Quality Infrastructure',
+https://www.gov.uk/guidance/the-uks-national-quality-infrastructure
+17
+United Kingdom Accreditation Service (UKAS), 'UK Quality Infrastructure', https://www.ukas.com/ukqi/
+16
+UK Government, ‘Become a registered auditor’, https://www.gov.uk/become-a-registered-auditor
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+11
+What is assured?Less formalMore formal
+DataGuidance on use of modelling
+and design of data
+Provision of data
+documentation or data
+licenses
+Quality control
+Validation against agreed standards
+Data practicesDeveloping skills
+Building professional, social
+or organisational norms.
+Developing shared principles
+and best practices
+Conducting audits of data
+processes and governance
+Certification of organisational
+processes against predefined
+standards
+Lessformaldataassuranceactivitiessuchasdevelopingandapplyingnormsandprinciples
+mighthelptoguideandreinforcetrustworthybehaviours.Buttheirapplicationmayonlybe
+looselydefinedandtheresultsarenotverifiable.Incontrast,moreformaldataassurance
+activities typically follow well-defined processes and produce verifiable outputs.
+Therigourofmoreformalapproachestoassurance,andasaresult,theincreasedlikelihoodof
+producingverifiableevidenceoftrustworthydatapractices(forexample,intheformofa
+certificate,formalverification,orentryofapersonororganisationintoanofficialregister),may
+mean that these forms of assurance are more effective at building trust.
+InitsguideonAIassurance,theCentreforDataEthicsandInnovation(CDEI)alsoidentifiesa
+rangeofdifferenttechniquesforassuringsystems
+20
+suggestingmoreformalmechanismscreate
+more certainty.
+21
+21
+2021, CDEI, 'The roadmap to an effective AI assurance ecosystem - extended version',
+https://www.gov.uk/government/publications/the-roadmap-to-an-effective-ai-assurance-ecosystem/the-r
+oadmap-to-an-effective-ai-assurance-ecosystem-extended-version
+20
+2021, Centre for Data Ethics and Innovation (CDEI), 'Techniques for assuring AI systems',
+https://cdeiuk.github.io/ai-assurance-guide/techniques
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+12
+3.4 Data assurance schemes
+Dataassuranceactivitieshaveoverlapsandwilloftenbeusedincombination.Forexample,
+carrying out an assessment of the quality and provenance of a dataset might require:
+●
+Quality control of the dataset — assurance of data.
+●
+Reviewingtheprocessesbywhichthedatawasoriginallycollected,howitismanaged
+andalsothedecisionmakingprocessesthatguideitssharing—assuranceofdata
+practices.
+Aspecificdataassuranceschemeinvolvestheapplicationofarangeofdataassurance
+activitiestohelptobuildtrustinhowsomespecifictypesofdataarebeingaccessed,usedand
+shared.
+SeeCasestudy1foranillustrativeexamplethatdemonstrateshowdifferentassurance
+activities can be combined to perform assurance around IT security.
+Atrustworthyecosystemwillinvolvetheapplicationofavarietyofdataassuranceactivitiesand
+schemestohelpensureacultureofgoodpracticeguideshowdataisbeingused.The
+importanceofapplyingdifferentapproachesbasedoncontextishighlightedinarecentODI
+report.
+22
+Case study 1: Cyber Essentials scheme
+What the intervention is:
+CyberEssentialsisaUKgovernment-backedschemecreatedtohelpprotectorganisations
+againstcyberattacks.
+23
+Whiletheschemehasbroadapplication,ITsecurityisafundamental
+part in ensuring that data is safely and securely accessed, used and shared.
+How it works:
+TheNationalCybersecurityCentreoverseestheCyberEssentialsscheme.
+24
+IASME,an
+organisationthatspecialisesinhelpingbusinessesimprovetheircybersecurity,carriesout
+delivery of the scheme.
+25
+ToobtainaCyberEssentialscertificate,businessescarryoutaself-assessmentusinga
+standardquestionnaire.Thisisthenapprovedbyadesignated'CertificationBody'(see
+25
+IASME Consortium, 'Cyber Essentials: the benefits of certification',
+https://iasme.co.uk/cyber-essentials/
+24
+NCSC, 'The National Cyber Security Centre', https://www.ncsc.gov.uk/
+23
+National Cyber Security Centre (NCSC), 'About Cyber Essentials',
+https://www.ncsc.gov.uk/cyberessentials/overview
+22
+2020, ODI, 'Demonstrating and assessing trustworthiness when sharing data',
+https://theodi.org/article/demonstrating-and-assessing-trustworthiness-when-sharing-data/
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+13
+below).CyberEssentialsPlusaddsanadditionallayerofassurancebyrequiringthata
+business's systems are independently tested by an auditor working for an Certification Body.
+Businessesthathavebeencertifiedcanbefoundinapublicregister,
+26
+allowingtheir
+customers or partners to independently check their status.
+IASMEprovidesareadinesstoolkittohelporganisationsthinkthroughtheircybersecurity
+processes,sotheycanimplementthenecessarychangestogaincertification.Thelistof
+essentialrequirementsthatmustbemetinordertoachievecertificationisalsopublicly
+available.
+27
+TheserequirementsarejointlydevelopedbyNCSC,IASMEandrevisedbasedon
+feedback from assessors and applicants.
+A'CertificationBody'isanyorganisationwiththeauthoritytoissueacertification.Tobecome
+abodyanorganisationhastomeetcertaincriteria.Thisincludesgainingsomespecification
+certificationsoftheirownandcompletingtrainingbyIASME.
+28
+IASMEmaintainsaregisterof
+certification bodies.
+29
+Thislevelofaccreditationhelpstoensurethatcertificationsarecarriedoutconsistentlyand
+correctly,whilstalsoprovidingapplicantswithalistofqualifiedcompaniesthattheycan
+approach for help and support in gaining certification.
+SomegovernmentcontractsrequirethatabusinesshasCyberEssentialscertification.This
+createsanincentiveforbusinessestobecomecompliant.AreviewoftheimpactofCyber
+EssentialsonUKorganisationsfoundthattheschemehasanoverallpositiveinfluence.
+30
+Organisationscertifiedundertheschemearemorelikelytobeawareofcybersecurityrisks,
+confidentthattheycanbeprotectedfromcyberattacks,andlikelytoconductfurtherefforts
+beyond becoming certified to guard against potential threats.
+Key insights:
+Asnotedabove,technicalsecurityisfundamentaltogooddatagovernance.Cyber
+Essentials and similar schemes are relevant to building trust in data ecosystems.
+Thiscasestudyprovidesausefulillustrationofhowpublicsectorbodiescanacttocreatea
+marketplace around certification and accreditation:
+30
+2020, NCSC, 'Review of Cyber Essentials influence on cyber security attitudes and behaviours in UK
+organisations', https://www.ncsc.gov.uk/information/setting-baseline-ce-prior-to-iasme
+29
+IASME, 'Find an IASME Certification Body', https://iasme.co.uk/certification-bodies/
+28
+IASME, 'Become an Assessor', https://iasme.co.uk/become-an-assessor/
+27
+NCSC, 'Resources', https://www.ncsc.gov.uk/cyberessentials/resources
+26
+IASME, 'Search for a Certificate', https://iasme.co.uk/certified-organisations/
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+14
+●
+Acommonstandard(heredefinedasthesetofITrequirementsrequiredtoachieve
+CyberEssentials) is used as the basis for an assessment process.
+●
+The result of that process is a public register of certificates.
+●
+Theassessmentprocessitselfisassuredbyrequiringthosecarryingoutthereviewto
+be accredited.
+●
+Anyone seeking certification can find an accredited organisation.
+●
+Anindependentbodyprovidesoversightofthedevelopmentofthestandard,the
+certification and accreditation processes.
+Creatingamarketplaceforauditorsallowstheschemetoscaletomeetthedemandsof
+applicants.Incentives,suchasprocurementrequirements,candriveadoptionofascheme
+independentoflegalorregulatoryrequirements.SeeCommercialopportunitiesonpage40
+forafurtherdiscussionoftheopportunitiesofferedbycreatingmarketplacesaround
+assurance schemes.
+Assurance mechanisms used:
+●
+Development of common technical standards.
+●
+Certification of compliance.
+●
+Accreditation and training of assessors.
+●
+Public registers of certified and accredited organisations.
+3.5 Who is involved in data assurance?
+TheODI'stheoryofchange
+31
+highlightstheroleofarangeoforganisationsinhelpingtobuilda
+moretrustworthydataecosystem.Inadditiontotheorganisationsthatarestewardingdata
+themselvesorusingittomakedecisions,thereareavarietyofotherorganisationsincluding
+regulators, researchers, and advocacy organisations with a role to play.
+Theseotheractorshelptocreatepoliciesandlegislativeframeworksthatguidehowdatais
+accessed,usedandshared;provideguidance,supportandinfluencetoencourageandenable
+otherstobehaveincertainways;ordevelopthetoolsandtechnologiesthatsupporttheir
+activities.
+These same actors also have a role to play in data assurance.
+QualityinfrastructurereliesonavarietyofdifferenttypesofStandardsDevelopment
+Organisations.IntheUKthisincludestheBritishStandardsInstitution(BSI),OfficeforProduct
+SafetyandStandards,NationalPhysicalLaboratoryandtheUnitedKingdomAccreditation
+Service.
+32
+32
+UKAS, 'UK Quality Infrastructure', https://www.ukas.com/ukqi/
+31
+ODI, 'Our theory of change',
+https://theodi.org/about-the-odi/our-vision-and-manifesto/our-theory-of-change/
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+15
+StandardsDevelopmentOrganisationsliketheBSIhelptodevelopandmaintainthestandards
+thatdescribehowaproductorserviceshouldoperate(corestandards),thestandard
+processesbywhichadata-enabledproductorservicemightbecertifiedagainstthatstandard,
+andstandardtrainingandassessmentsthatareusedtoaccreditorganisationstocomplete
+these certifications.
+Dataassurancewillalsorequirethedevelopmentofarangeofopenstandards
+33
+that,asnoted
+intheprevioussection,willprovidethebasisforvalidatingandassessingdataanddata
+practices.TheUKgovernmentrecentlyannouncedaninitiativetodrivedevelopmentand
+adoptionofstandardsforAI.GiventhatAIisadata-enabledprocess,itseemslikethatthis
+initiative will also look at standards for data.
+34
+Researchersarecurrentlyexploringwaystocarryoutassuranceofdata.Thisincludes
+standardisedlabellingofdataandAI(e.g.TheDataNutritionlabel,
+35
+ModelCards
+36
+),reviewing
+thequalityofstandardisedtrainingdatasets
+37
+anddevelopingframeworksforalgorithmic
+auditing that encompass aspects of data collection and use.
+38
+Forthisreportwearefocusingontheroleofregulators,industryandprofessionalbodiesin
+supporting the development and adoption of data assurance activities and schemes.
+38
+2020, Inioluwa Deborah Raji et al, 'Closing the AI Accountability Gap: Defining an End-to-End
+Framework for Internal Algorithmic Auditing', https://arxiv.org/abs/2001.00973
+37
+2021, Inioluwa Deborah Raji, Genevieve Fried, 'About Face: A Survey of Facial Recognition Evaluation',
+https://arxiv.org/abs/2102.00813
+36
+2019, Margaret Mitchell et al, 'Model Cards for Model Reporting',
+https://doi.org/10.1145/3287560.3287596
+35
+Data Nutrition, 'The Data Nutrition Project', https://datanutrition.org/
+34
+2022, DCMS and Office for AI, 'New UK initiative to shape global standards for Artificial Intelligence',
+https://www.gov.uk/government/news/new-uk-initiative-to-shape-global-standards-for-artificial-intelligen
+ce
+33
+2019, ODI, Types of open standards for data,
+https://standards.theodi.org/introduction/types-of-open-standards-for-data/
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+16
+4. How are regulators, industry bodies and professional
+bodies involved in data assurance?
+4.1 Role and activities
+Forthepurposeofthisresearchwehavelookedatthefollowingthreetypesoforganisations:
+regulators; industry bodies; and professional bodies.
+Regulatorsarepublicorganisationsoragenciessetupbygovernmenttooverseeactivitiesin
+specificsectorsoracrosssectors.IntheUK,theyaretypicallyaccountabletoParliament.
+39
+The
+purposeofregulatorsisto'protectandbenefitpeople,businessesandtheenvironmentandto
+supporteconomicgrowth'.
+40
+Theymayimposerequirements,conditionsorrestrictions,set
+standards,andenforcecompliance.
+41
+Someregulators,liketheOfficeforStatisticsRegulation
+(OSR)andtheInformationCommissioner’sOffice(ICO)focusspecificallyontheregulationof
+data.Otherregulatorsworkincross-sectorecosystemswhileothershavesector-specific
+scopes.
+Industrybodies,alsoknownastradeassociations,areorganisationsmadeupofbusinesses
+thatalloperateinaspecificindustry.
+42
+Industrybodiesprovideaunifiedvoicefortheir
+members,oftenlinkingthemwithregulatorsandpolicymakers.Theycanhelpshareand
+developbestpractices,organiseeventsandtraining,andcarryoutresearchamongstother
+activities.
+43
+Professionalbodiesareorganisationswhoseindividualmembersallpracticeaprofessionor
+occupation.Theorganisationhasthepowertooverseetheknowledge,skills,conductand
+practiceofthatprofession.
+44
+Someprofessionalbodiesareempoweredbyregulatorsor
+legislation,whereasforothers,thepowerstheyholdcomefromthepermissionoragreementof
+theirmembers.Theyarealsoonetypeoforganisationthataregulatormaydelegate
+responsibility to in order to deliver on desired outcomes.
+Regulatorsoftenworkwithindustrybodiesandprofessionalbodiestobuildtrustandcarryout
+assuranceofdifferentkinds.
+45
+Inregulatedprofessions,therearearangeofbodiesinvolvedin
+45
+2017, NAO, 'A Short Guide to Regulation',
+https://www.nao.org.uk/wp-content/uploads/2017/09/A-Short-Guide-to-Regulation.pdf
+44
+Science Council, 'Our definition of a professional body',
+https://sciencecouncil.org/about-science/our-definition-of-a-professional-body/
+43
+2006, Mobile Marketing Association (MMA), 'Benefits of industry associations',
+https://www.mmaglobal.com/articles/benefits-industry-associations
+42
+Cambridge Dictionary, 'Industry Association',
+https://dictionary.cambridge.org/dictionary/english/industry-association
+41
+2021, Safeopedia, 'Regulatory Body', https://www.safeopedia.com/definition/625/regulatory-body
+40
+2017, National Audit Office (NAO), 'A Short Guide to
+Regulation',https://www.nao.org.uk/wp-content/uploads/2017/09/A-Short-Guide-to-Regulation.pdf
+39
+2017, National Audit Office (NAO), 'A Short Guide to
+Regulation',https://www.nao.org.uk/wp-content/uploads/2017/09/A-Short-Guide-to-Regulation.pdf
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+17
+trainingandcertifyingpeopleworkinginthosesectors.TheGeneralMedicalCouncil(GMC),for
+example,hasworkedwithNHSEducationforScotlandandtheRoyalCollegeofPhysicians
+and Surgeons of Glasgow to help support professional development for doctors.
+46
+Scope and powers
+Takenbroadly,allthreetypesoforganisationhavepowersincommonandalsodifferencesin
+scope and authority. All three types of organisation conduct work to:
+●
+Define principles, such as codes of practice.
+●
+Influence and shape regulation and best practices.
+●
+Develop and enforce professional norms and ethics.
+●
+Take action to censure organisations and individuals that breach rules.
+●
+Build skills through professional development and training.
+Thesebodies,however,havedifferentpowersandleversavailabletothem.Regulatorshave
+statutorypowerstoenforcestandards,andoftenalsotakeonaccreditationoroversightroles.
+Ingeneral,industrybodiesandprofessionalbodieshave'softer'powersthanregulators,and
+canenactchangesbyencouragingorrequiringmemberstocomplywithmembershiprulesand
+by-laws,orbyofferingtrainingandcertification.Whenprofessionalbodiesoverseeregulated
+professions,theymay,however,have'harder'powersgrantedbyParliament,suchasthe
+GMC.
+47
+Theexactpowersandscopeofoperationvariesbetweendifferentorganisationswithinthe
+samecategory.TheICO,forexample,hasbroadregulatorypowersconcerninginformation
+rightsacrossmanysectors,whiletheFinancialConductAuthority(FCA),asector-specific
+regulator,hasthepowertoregulatebusinessesinthefinanceindustry,supervisefirmsandset
+standards,butdoesnothavethesamecross-sectorregulatorypowersastheICO.Some
+industrybodieshavebeengiventhepowertooverseetheimplementationofstandards,while
+othersexisttoadvocatefortheirmembersandcandosothroughlobbyingforfavourable
+policies.SomeprofessionalbodieshavepowersmandatedbyParliamenttoregulatea
+profession,whileothersbringtogetherpractitionersinasectororacrosssectorsbutdonot
+havethesamegovernment-mandatedauthority.Thepowersofthesebodies,therefore,maybe
+granted by legislation or via the approval of an organisation’s members.
+All three of these bodies are involved in general assurance activities, such as:
+●
+Developing standards and processes for common activities.
+●
+Developing standards for audit or review.
+●
+Carrying out certification of individuals and organisations.
+47
+General Medical Council, 'About us', https://www.gmc-uk.org/about
+46
+2018, Professional Standards Authority for Health and Social Care, 'Professional healthcare in the UK
+explained (part 2)',
+https://www.professionalstandards.org.uk/news-and-blog/blog/detail/blog/2018/04/25/professional-heal
+thcare-regulation-in-the-uk-explained-(part-2)
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+18
+●
+Providing training, e.g. as part of continuing professional development.
+●
+Developingandmaintainingregistersofindividualsandorganisations,aspartof
+implementing licensing requirements.
+●
+Developing and sharing guidance and best practices.
+●
+Conducting audits to ensure quality.
+These categories of intervention can also be applied to data assurance.
+Assuranceofdatamaybejustanextensionoftheexistingactivitiesthesebodiesundertake:for
+examplebycarryingouttrainingondataprotectionaspartofabroaderprofessional
+developmentprogramme,ordevelopingadatastandardtosupportstatutoryreportingof
+data.
+48
+Regulators,industrybodiesandprofessionalbodies,however,maynotseethemselves
+ashavinganydata-specificresponsibilitiesoropportunities,asidefromrequiredcompliance
+withpersonaldataprotection.Thecollectionanduseofdata,however,underpinsmanyof
+theseactivitiesandsothereareopportunitiestoapplydataassuranceactivitiestohelpmake
+data more accessible and usable. See Case study 3 for further information.
+Regulators,industrybodiesandprofessionalbodiesalsocollect,stewardandusedata
+themselves.Theyhaveanopportunitytodirectlyapplydataassuranceactivitiestotheirown
+workandtoactasexemplarsforothersintheirsector.InthereportMappingdataintheUK
+government,theODImakesasimilarrecommendationaboutthevalueofbodieswithinfluence
+leadingbyexampletodemonstratedataassurance.
+49
+Seethetablebelowforpastandcurrent
+examplesofregulators,industrybodiesandprofessionalbodiesinvolvedindataassurance
+activities.
+49
+2021, ODI, 'Mapping data in the UK Government',
+https://docs.google.com/document/d/1QNn71vOlDHJZnoFPr_QXZzcsQLwIdprR1WeA1vjawI0/edit#
+48
+See subsection 'Data assurance in statutory reporting' on page 19 for more information.
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+19
+4.2 Examples of regulators, industry bodies, and professional
+bodies supporting data assurance
+Regulators,industrybodiesandprofessionalbodiesareinvolvedinawiderangeofexisting
+dataassuranceschemesandactivitiesacrossmultiplesectorsandincross-sectordata
+ecosystems.Anumberofthesecanhelptohighlightexamplesofexistingapproachestodata
+assurance, and surface new opportunities.
+Thefollowingtableprovidesasummaryofsomepastandcurrentexamplesofdataassurance
+schemesandactivities.
+50
+Mostoftheinterventionslistedherefallintothe‘moreformal’
+category,withtheexceptionoftraining,guidanceandbestpractices.Someinterventions,such
+asregulatoryordatasharingsandboxesorcertification,maybe‘moreformal’or‘lessformal’
+interventionsbasedonthecontextinwhichtheyareapplied.Casestudy1demonstratesan
+exampleofcertificationusedasaformalintervention,andCasestudy5demonstratesan
+example of certification as a ‘less formal’ intervention.
+Table of data assurance schemes and activities
+InterventionWhat is
+assured?
+Type of bodyDescriptionExamples
+Regulatory or
+data sharing
+sandbox
+Data practicesRegulatorsSecure, trusted
+environment to
+facilitate sharing of
+data between
+organisation
+ICO Innovation Hub;
+FCA Digital Sandbox;
+CAA Regulatory Sandbox
+Standards for
+data
+Data, Data
+practices
+RegulatorsDevelopment and
+adoption of
+standards that
+describe how data
+is collected,
+accessed, used
+and shared
+Open Energy;
+Open Banking (see Case
+study 4);
+Pensions dashboard data
+standards
+50
+See section 3.2 for further exploration of types of data assurance.
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+20
+Standards for
+audit or
+review
+Data practicesRegulatorsDevelopment and
+adoption of
+standards or
+frameworks that
+describe how the
+audit, review or
+certification of a
+dataset or data
+practices might be
+carried out
+ICO’s AI Auditing Framework;
+ICO’s accreditation guidelines
+for GDPR certification bodies
+CertificationData practicesRegulators,
+industry
+bodies,
+professional
+bodies
+Providing a
+certification or
+public register of
+people,
+organisations,
+products that have
+passed through an
+assurance process
+to assess their
+data practices
+Cyber Essentials scheme
+(see Case study 1);
+GDPR certification;
+CDMP certification (see
+Case study 5); DCAM
+certification; CDMC
+certification;
+Open banking (see Case
+study 4); BSI data protection
+certification
+AccreditationData practicesRegulators,
+industry
+bodies
+Accrediting
+organisations to
+offer certifications
+in data practices
+ICO GDPR certification
+scheme;
+Open banking (see Case
+study 4);Cyber Essentials
+scheme (see Case study 1)
+TrainingData practicesRegulators,
+industry
+bodies,
+professional
+bodies
+Providing training
+to support
+development of
+data skills
+FSA food labelling training
+(see Case study 3);
+CDMP training (see Case
+study 5); CDMC training; BSI
+data protection training
+Licensing
+requirements
+Data practicesRegulatorsRequiring that
+people or products
+have to achieve a
+certification in data
+practices or have
+to pass through an
+assurance process
+in order to have a
+licence to operate
+MHRA AI regulations;
+Cyber Essentials scheme
+(see Case study 1);
+Open banking (see Case
+study 4)
+Guidance,
+Best
+practices,
+principles
+Data, Data
+practices
+Industry
+bodies,
+professional
+bodies
+Development of
+guidance, best
+practices and
+principles to help
+guide how data is
+accessed, used
+and shared
+UKRN;
+EDM Council’s DCAM and
+CDMC frameworks; PASA;
+Alliance for data science
+professional standards; FAIR
+data
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+21
+Quality auditDataRegulatorsQuality review of a
+dataset against
+some agreed
+measures
+OSR (see Case study 2)
+Data assurance in statutory reporting
+Regulatorsfrequentlyrequirebusinessestopublishandsharedataonastatutorybasis,for
+exampleongenderpaydisparities.
+51
+Therequirementsforstatutoryreportingofdatadefinethe
+type, frequency and detail to be reported which may be formalised as a data standard.
+Regulatorsmayalsocarryoutassuranceofdatathatispublishedwithintheirsector,aspartof
+statutoryreportingortheirbroaderremit.Forexample,theOSRassessesthequalityof
+statisticsproducedbycrownbodiesandensurestheyadheretothecodeofpracticefor
+statistics. See Case study 2 for more information.
+Case study 2: Compliance of national statistics
+What the intervention is:
+TheOfficeforStatisticsRegulation(OSR)istheregulatoryarmoftheUKStatisticsAuthority.
+Itsupportspublicconfidenceinstatisticsbyaddressingharmsandensuringthatstatistics
+servethepublicgood.
+52
+TheOSRassessesthecomplianceofofficialstatisticswiththeCode
+of Practice for Statistics in order to build trust in official statistics published in the UK.
+53
+How it works:
+TheCodeofPracticeforStatisticsismaintainedbytheOfficeforStatisticsRegulation.It
+appliestoallbodiesthatproduceofficialstatisticsintheUK.Itmayalsobevoluntarilyapplied
+byotherorganisationsthatproducestatistics.TheCodeofPracticeisdesignedtoensure
+that official statistics are trustworthy, fit for purpose, use and easy to access.
+PublicbodiesmayrequesttheOSRtoassessdataagainsttheCodeofPractice.
+54
+Carrying
+outtheseassessments,alongsidesystemicreviewsandothercompliancechecksareall
+partsoftheregulatoryactivitiesoftheOSR.
+55
+TheOSRmayalsopromptpublicbodiesto
+55
+OSR, 'Our Regulatory Work', https://osr.statisticsauthority.gov.uk/our-regulatory-work/
+54
+2012, UK Statistics Authority, 'How national and official statistics are assured',
+https://www.gov.uk/government/statistics/how-national-and-official-statistics-are-assured/how-national-
+and-official-statistics-are-assured#assessment-of-official-statistics
+53
+2022, UK Statistics Authority, 'About the code', https://code.statisticsauthority.gov.uk/the-code/
+52
+Office for Statistics Regulation (OSR), 'What we do', https://osr.statisticsauthority.gov.uk/what-we-do/
+51
+2020, Government Equalities Office, 'Gender pay gap reporting',
+https://www.gov.uk/government/collections/gender-pay-gap-reporting
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+22
+seekassessmentifitisinthepublicinterest.
+56
+OSRpublishesguidanceforstatistical
+publishersabouthowtheprocessiscarriedoutalongwithmaterialthatcanhelpthemcarry
+out a self-assessment.
+57
+TheOSRreviewstheprocessesforcollecting,analysingandpublishingthestatisticsagainst
+theCodeofPractice.Theassessmentdoesnotconfirmthatthedataisnecessarilycorrect-
+errorsaretobeexpected.Thereviewinsteadfocusesontheprocessesbywhichthose
+statisticsaregeneratedandmadeavailable.Anassessmentiscarriedoutthroughaprocess
+ofevidencecollectionandreviewthatinvolvesnotjustthepublicbodybutalsousersofthe
+statistics.
+Theresultsofanassessmentarepubliclyavailable.
+58
+Ifastatisticaldatasetisdeemed
+compliantwiththecodethenitisdesignatedas'NationalStatistics'.Alistofthesedatasets
+isavailablefromtheOSRwebsite.
+59
+PublicbodiesthatproduceNationalStatisticshavea
+statutory duty to comply with the code.
+Key insights:
+Thisexamplehighlightsthatregulatorscansupporttheassuranceofbothdataanddata
+practises.ThefocalpointforthisassuranceworkistheCodeofPractice.Itprovidesa
+standardwhichallproducersofstatisticscanusetoimprovetheirdatapractises,regardless
+of whether they have a statutory duty to do so.
+TheCodeofPracticealsounderpinstheregulatoryworkoftheOSR,providingaconsistent
+benchmark for reviewing how statistics are produced.
+Atransparentprocess,whichproducespublicoutputsandanofficialregisterofcompliant
+datasets, helps to build trust in both the data and the process by which it is assessed.
+Aclearlydescribedprocess,withguidanceaboutperformingself-assessments,helps
+organisationsunderstandwhatwillbeinvolved,allowingthemtopreparefortheprocessand
+ensure that their data practices produce the necessary supporting evidence.
+Data assurance activities used:
+●
+Developmentandmaintenanceofadatastandard,inthiscaseacommoncodeof
+practice, that defines how data is collected, accessed, used and shared.
+●
+Audits and compliance checks using a transparent and well-defined process.
+59
+OSR, 'National Statistics', https://osr.statisticsauthority.gov.uk/national-statistics/
+58
+OSR, 'Publications: assessment report',
+https://osr.statisticsauthority.gov.uk/publications-list/?type=assessment-report
+57
+OSR, 'Guidance about Assessment',
+https://osr.statisticsauthority.gov.uk/guidance/guidance-about-assessment/
+56
+OSR, 'Assessment', https://osr.statisticsauthority.gov.uk/our-regulatory-work/assessment/
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+23
+●
+Publication of a register of compliant datasets.
+●
+Clear labelling of compliant datasets, using the national statistic marker.
+●
+Legalandregulatoryrequirementstomaintaintheabovestandard,registerandto
+enforce compliance.
+AI assurance
+IntheUK,aswellasinternationally,thereissubstantialengagementbetweenregulatorsand
+otherbodiesinworkontheassuranceofproductsandsystemsthatuseArtificialIntelligence
+(AI).
+ThedevelopmentanddeploymentofAI-enabledproductsandservicesrequirestheuseof
+largeamountsofdata.Decisionsmadeabouthowdataisusedinmachinelearningcan
+introduce a range of harms.
+60
+DataassuranceisthereforeaninherentpartoftheassuranceofAI.Thisassuranceinvolves,for
+example,reviewingthequalityofthetrainingdatasetsusedtodevelopmachine-learning
+models.
+TheICOisintheprocessofcreatinganauditingframeworkforAI,whichincludesspecific
+guidance for eight AI-specific risk areas including:
+1.Fairness and transparency in profiling.
+2.Accuracy.
+3.Fully automated decision-making models.
+4.Security and cyber.
+5.Trade-offs.
+6.Data minimisation and purpose limitation.
+7.Exercise of rights.
+8.Impact on broader public rights.
+61
+Similarly,theMedicinesandHealthcareproductsRegulatoryAgency(MHRA)isworkingto
+improvetrustinAIbyupdatingtheregulationsthatapplytosoftwareandAIwhenusedasa
+medicaldevice.Throughtheseupdatedregulations,theMHRArequiresthatanassurance
+processbecompletedforaproducttobelicensedtomarket.Thenewregulationsgive
+61
+2019, Information Commissioner’s Office (ICO), 'An overview of the Auditing Framework for Artificial
+Intelligence and its core components',
+https://ico.org.uk/about-the-ico/news-and-events/ai-blog-an-overview-of-the-auditing-framework-for-arti
+ficial-intelligence-and-its-core-components/
+60
+2021, Harini Suresh, John V. Guttag, 'A Framework for Understanding Sources of Harm throughout the
+Machine Learning Life Cycle', https://arxiv.org/abs/1901.10002
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+24
+guidanceforAIassuranceprocesses,andalsohelptogiveinsightsintohowtointerpret
+regulatory requirements to conform to them.
+62
+ThesetwoexamplesdemonstrateregulatorsusingtheirpowerstoguideAIassurancepractices
+and to give guidance about new regulations.
+Sharing data with the public
+Assuranceofdataanddatapracticesshouldnotbethoughtofasonlyconcerningthesharing
+ofdatabetweenorganisations.Thepublic,privateandthirdsectorsallroutinelysharedataand
+informationwiththepublic,astheODI’sDataSpectrumillustrates.
+63
+Thewaythisdatais
+collected and shared with the public can also be the subject of data assurance schemes.
+OneobviousexampleisthestandardisationofproductlabellingwhichisoverseenbytheFood
+Standards Agency (FSA). See Case study 3 for more detail.
+63
+ODI, 'The Data Spectrum', https://theodi.org/about-the-odi/the-data-spectrum/
+62
+2021, CDEI, 'The roadmap to an effective AI assurance ecosystem',
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1039
+146/The_roadmap_to_an_effective_AI_assurance_ecosystem.pdf
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+25
+Case study 3: Product labelling for health and safety
+What the intervention is:
+IntheUKtherearelegalrequirementsthatapplytothepackagingandlabellingoffood,
+requiringbusinessestomakespecificinformationavailabletoconsumers.
+64
+Theserulesand
+regulations are managed by the Food Standards Agency (FSA).
+How it works:
+Thelawsapplyingtofoodlabellinghaverequirementstoincludespecificinformationfor
+consumers,suchasthenameofthefood,listingingredientsinorderofweight,declaringthe
+percentageofeachingredientincluded,
+65
+aswellasadditionalrequirementsrelatingtothe
+labellingofcommonallergens.
+66
+Otherrulesandregulationsdescribenecessarystorage
+conditions,when'bestbefore'or'useby'datesareprovided,aswellasinformationonthe
+location of origin of food.
+Standardisingwhatdataisavailabletoaconsumerincreasessafety,buildstrustand
+improvesdecisionmaking.Multiplestudieshaveanalysedtheimpactthatfoodlabellinghas
+on the choices consumers make at the supermarket.
+67,68,69
+Tohelpbusinessescomplywiththeserules,theFSAprovidesfreeonlinetraining.TheFSA
+alsoproducesarangeofguidanceonfoodlabelling,andconductsoutreachwithother
+professional bodies and groups.
+70
+70
+2021, British Standards Institution (BSI), 'Marketing and labelling safe, nutritious food and drink in 2021
+webinar',
+https://www.bsigroup.com/en-GB/industries-and-sectors/food-and-drink/food-events-and-webinars/adv
+ertising-and-labelling-safe-nutritious-food-and-drink-in-2021-webinar/
+69
+FSA, 'Consumers and allergen labelling literature review',
+https://www.food.gov.uk/research/food-allergy-and-intolerance-research/consumers-and-allergen-labelli
+ng-literature-review
+68
+2015, Peter Scarborough et al., 'Reds are more important than greens: how UK supermarket shoppers
+use the different information on a traffic light nutrition label in a choice experiment',
+http://dx.doi.org/10.1186/s12966-015-0319-9
+67
+UK Research and Innovation (UKRI), 'FLICC: Front of pack food labelling: impact on consumer choice',
+https://gtr.ukri.org/project/86FC4B0A-7D11-4C78-BFB4-1F8D9EB9AD5B#/tabOverview
+66
+2021, FSA, 'Packaging and labelling',
+https://www.food.gov.uk/business-guidance/packaging-and-labelling
+65
+2015, Department for Environment, Food and Rural Affairs (Defra) and FSA, 'Food labelling: giving food
+information to consumers',
+https://www.gov.uk/guidance/food-labelling-giving-food-information-to-consumers#give-a-quantitative-in
+gredients-declaration-quid
+64
+2021, Food Standards Agency (FSA), 'Packaging and labelling',
+https://www.food.gov.uk/business-guidance/packaging-and-labelling
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+26
+TheFSAalsocarriesoutenforcementtocheckthatfoodmeetsnecessarystandards,
+71
+and
+workswiththeNationalFoodCrimeUnit(NFCU)workstoprevent,detect,andinvestigate
+food crimes in the UK.
+72
+Byplacingrequirementsonwhatdatamustbepublished,theFSAhasalsocreated
+requirementsonthedatathefoodbusinessesandtheirwidersupplychainmustcollect,
+manage and share.
+Manufacturersneedtoidentifywhetherspecificallergensmaybeincludedinaspecificfood
+andusecommonlabelling(taxonomies)todescribethem.Manufacturersmusttrackthe
+specificdateswhenanitemwasmadetoissueusebyandsellbydates.Theymustalso
+recordandmonitorthepercentageofingredientsincludedintheirproductsonanongoing
+basis, to ensure the accuracy of their data provided on packaging.
+Compliancewiththebroaderregulationhasanimpactonthedataecosystemthatsupports
+production and distribution of food in the UK.
+Key insights:
+Thisexampleillustratesthatexistingregulatoryinterventionsalreadyincludeelementsofdata
+assurance.
+Anyregulationaroundstatutoryreportingorprovisionofdatainvolvessomeelementofdata
+standardisationeveniftherequirementsthemselvesdonotdirectlyrelateto
+machine-readable data, or its automated consumption and sharing.
+Data assurance activities used:
+●
+Developmentofcommonstandards,includingtaxonomiesandinformationreporting
+guidelines.
+●
+Training to support adoption of data standards.
+●
+Compliancetestingtoassessdataqualityandaccuracy,forexamplecheckingthat
+ingredient lists are accurate.
+●
+Legal requirements to drive and enforce compliance to data standards.
+●
+Trainingprogrammestoguideadoptionofandadherencetolegaldatasharing
+requirements.
+72
+2021, FSA, 'Food crime', https://www.food.gov.uk/safety-hygiene/food-crime
+71
+2020, FSA, 'The food regulatory system',
+https://www.food.gov.uk/about-us/the-food-regulatory-system
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+27
+Regulatory sandboxes
+Someregulatorsarecreatingtrustedenvironmentsforsharingdatasuchasregulatory
+sandboxes.
+Aregulatorysandboxis'asafetestingspacewhereparticipantscantesttheirnewbusiness
+model,innovativeproducts,servicesanddeliverymechanismswithoutimmediatelyincurringall
+the normal regulatory consequences of engaging in the activity in question.'
+73
+Regulatorysandboxesgiveorganisationsinregulatedsectorsconfidenceinhowtointerpret
+regulatoryrequirements,andhowthoseregulatoryrequirementsapplyinnewusecases.They
+alsoallowregulatorstotesttheinterpretation,implementationandenforcementofregulatory
+requirementsaroundnewusecases,andgiveregulatorstheconfidencetoexecutetheir
+regulatory mandate without unnecessarily inhibiting innovation.
+TheUKhaspioneeredregulatorysandboxestohelpspurinnovationandincreasemarket
+competition.Regulatorysandboxesplayaroleindataassurancebycreatingtheconditionsto
+innovatewithdatainatrustworthymanner.
+74
+Theyhelptofuelbusinessandjobcreationand
+securefuturescientificbreakthroughsbymakingdatamoreaccessibleandusablewhileatthe
+same time protecting data rights and ensuring data is used responsibly.
+AnexampleofaregulatorysandboxistheICO’sRegulatorySandbox,whichsupports
+organisationscreatingproductsorservicesthatusepersonaldatasafelyandinaninnovative
+manner.
+75
+TheFinancialConductAuthority’s(FCA)DigitalSandboxlookstohelpfirmsintheUK
+financialservicessectordevelopinnovativeproductsinasafeenvironment,
+76
+whiletheCivil
+AviationAuthority(CAA)RegulatorySandboxprovidesanenvironmentforcompaniesinthe
+aviation industry to safely test 'innovative solutions'.
+77
+Researchershaveanalysedtheeffectsofregulatorysandboxes,particularlyinthefinance
+sector.Someresearchershavefoundthatregulatorysandboxeshadpositiveimpactsonthe
+growthoffintechventureinvestment,
+78
+whileothershavearguedthatitisstilltooearlytoknow
+withcertaintytheeffectofregulatorysandboxesonfinancialinnovation.
+79
+TheODI’sroundtable
+79
+2020, Christopher C. Chen, 'Regulatory Sandboxes in the UK and Singapore: a preliminary survey',
+https://dx.doi.org/10.2139/ssrn.3448901
+78
+2020, Jayoung James Goo, Joo-Yeun Heo, 'The impact of the regulatory sandbox on the fintech
+industry, with a discussion on the relation between regulatory sandboxes and open innovation',
+https://doi.org/10.3390/joitmc6020043
+77
+Civil Aviation Authority (CAA), 'Regulatory challenges for innovation in aviation',
+https://www.caa.co.uk/our-work/innovation/regulatory-challenges-for-innovation-in-aviation/
+76
+Financial Conduct Authority (FCA), 'Digital Sandbox',
+https://www.fca.org.uk/firms/innovation/digital-sandbox
+75
+ICO, 'Regulatory Sandbox', https://ico.org.uk/for-organisations/regulatory-sandbox/
+74
+2021, ODI, 'How can regulators tackle challenges through innovative uses of data?'
+https://theodi.org/article/how-can-regulators-tackle-challenges-through-innovative-uses-of-data/
+73
+2020, Jayoung James Goo, Joo-Yeun Heo, 'The impact of the regulatory sandbox on the fintech
+industry, with a discussion on the relation between regulatory sandboxes and open innovation',
+https://doi.org/10.3390/joitmc6020043
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+28
+reportInnovationandthedataeconomy:opportunitiesforUKregulatorsconductedwithBetter
+RegulationExecutive(BRE)touchedonthesuccessstoriesfromUKregulatorysandboxes,
+showingthattheycanhelpregulatorstoinnovateevenwhenworkingwithsensitivedata.
+80
+The
+KalifaReviewexpressedthattheFCA’sregulatorysandboxhasledthewayincreatinga
+systemthatprotectscustomersand'createsanenablingenvironmentthatencouragesgrowth
+andcompetition'.
+81
+Thereviewproposedthecreationofapermanentregulatorysandboxinthe
+finance sector.
+Creating trusted data ecosystems
+Trustworthydataecosystemsareenvironmentsinwhichindividualsandorganisationsacross
+thepublic,privateandthirdsectortrustthatdataisflowinginwaysthatwillmaximisebenefits
+whilst minimising harms.
+Inthefinanceindustry,regulatorshaveworkedwithindustrybodiestodevelopdatastandards.
+In2021,theindustrybodiesPensionsAdministrationStandardsAssociation(PASA),the
+PensionsandLifetimeSavingAssociationandtheAssociationofBritishInsurersworkedwith
+thePensionsRegulatorandtheFCAtodevelopstandardsfordatamatchinginpension
+dashboards.
+82
+Theindustrybodiesandregulatorsworkedtogethertodeterminethebestsetof
+personaldatatousetomatchindividualswiththeirpensionsandtoensurethatdataisaligned
+withpensionregulation.PASAalsooffersupdatedguidanceondatamanagementto
+members.
+83
+Thisdataassuranceschemehelpsfacilitatethetrustworthysharinganduseof
+datainthepensionsdataecosystem.Ithelpstomakedatamoreaccessibleandusablewhile
+ensuring it is used responsibly.
+Regulatorscanalsoplayaroleinfacilitatingthecreationoftrusteddataecosystemsthrough
+collaborative projects. These projects help build trust between organisations.
+OfgemandOfwatareworkingtogetherwiththeindustrybodiesWaterUK,theEnergy
+NetworksAssociation,andtheUKRegulatorsNetworkinadataaccessinitiativetoshare
+non-financialdataaboutvulnerablewaterandenergycustomerstohelputilitycompaniesbetter
+servethem.Apilotprogrammehasalreadybeencompletedsuccessfully,andnon-financial
+datasharingbetweenUnitedUtilitiesandElectricityNorthWesthasbeenimplemented
+permanently.
+As part of their strategic plan, UKRN has expressed that they,
+83
+'Data (DataWG)', PASA,https://www.pasa-uk.com/guidance/data/
+82
+2021, Maria Espadina, 'Industry bodies to set data standards for dashboards', Financial Times Adviser,
+https://www.ftadviser.com/pensions/2021/07/29/industry-bodies-to-set-data-standards-for-dashboards/
+81
+2021, HM Treasury, 'The Kalifa Review of UK FinTech',
+https://www.gov.uk/government/publications/the-kalifa-review-of-uk-fintech
+80
+2021, ODI, 'How can regulators tackle challenges through innovative uses of data?'
+https://theodi.org/article/how-can-regulators-tackle-challenges-through-innovative-uses-of-data/
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+29
+willfacilitateinformationandbestpracticesharingonregulatoryapproachesor
+requirementsonhowfirmsrecordanduseinformationaboutconsumerswithadditional
+needs and to encourage collaboration on the responsible use and sharing of data.
+84
+TheUKRNaresupportingadataaccessinitiativeandthenproducingdatasharingbest
+practices, a 'soft' form of data assurance.
+Regulatorsarealsoworkingwithindustrybodiestoincorporatedataassuranceintowider
+regulatoryinterventionsaimedatincreasingcompetitionwithinsectors.Anexampleofthisis
+OpenBanking,aninterventionledbytheCompetitionandMarketsAuthority(CMA)whichalso
+involvedtheFCA.TheCMAdirectedtheindustrytocreateanewbodytoactasstewardforthe
+new open banking standards. See Case study 4 for more detail.
+84
+2021, UK Regulators Network, 'UKRN annual report and multi-year workplan',
+https://www.ukrn.org.uk/wp-content/uploads/2021/03/UKRN-workplan-and-annual-review-2021-for-pu
+blication-.pdf
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+30
+Case study 4: Open banking
+What the intervention is:
+In2016,theCMApublishedthefindingsofamarketinvestigationintoretailbanking.
+85
+Intheir
+investigation,theyfoundtheUKfinancialservicesmarketlackedcompetition,leadingto
+lower-qualityservicesforcustomers.Tohelpincreasecompetition,theFCAandtheCMA
+workedtogethertocreateadataassuranceschemetosharefinancialdatasafelyand
+securely.ThisistheCMA’sOpenBankingremedyregulation.
+86
+TheCMArequiredthe
+developmentandadoptionofsharedstandardsforfinancialdata,datasetsandforgaining
+accesstodata.Theworktoimplementthestandardswasthendelegatedtoanewindustry
+body,theOpenBankingImplementationEntity(OBIE).Thisentityhastheresponsibilityto
+coordinate the development and adoption of open banking in the UK.
+How it works:
+OpenbankingrequirestheUK’sninelargestbanksandbuildingsocietiestomakecertain
+dataavailableunderconsent,whilesmallerbankscansharedatavoluntarily.
+87
+TheOpen
+BankingStandardsgovernhowthatdataisprovidedtechnically,fromthecontentstothe
+dataset.
+88
+OpenbankingstandardsalsocoverthecontentofThirdPartyProviders(TPPs),
+andtheentireopenbankingecosystem.TheOpenBankingImplementationEntity(OBIE)
+maintains the open banking standards.
+89
+TPP’smustbeapprovedandauthorisedbytheFCA.TheFCAregulatespaymentservice
+providersandtheOBIEprovidestoolsforserviceproviderstotestwhethertheymeetthe
+openbankingstandard.
+90
+TheOBIEconductscertificationsofpaymentserviceprovidersto
+determinethattheymeetfunctional,securityprofile,customerexperience,andoperational
+standards.Openbankingincorporatesthedataassuranceactivitiesofthedevelopmentand
+adoptionofstandardsfordata.Thesestandardsdescribehowdataiscollected,accessed,
+used and shared in the finance sector.
+90
+OBIE,  'Design and testing',
+https://standards.openbanking.org.uk/operational-guidelines/dedicated-interface-requirements/design-a
+nd-testing/v3-1-3/
+89
+OBIE, 'About the OBIE', https://www.openbanking.org.uk/about-us/
+88
+OBIE, 'Welcome to the open banking standard', https://standards.openbanking.org.uk/
+87
+OBIE, 'Questions about Open Banking', https://www.openbanking.org.uk/faqs/
+86
+Open Banking Implementation Entity (OBIE), 'CMA publishes approved Roadmap for the final stages of
+Open Banking implementation',
+https://www.openbanking.org.uk/news/cma-publishes-approved-roadmap-for-the-final-stages-of-open-
+banking-implementation/
+85
+2016,Competition and Markets Authority (CMA), 'Retail banking market investigation',
+https://www.gov.uk/cma-cases/review-of-banking-for-small-and-medium-sized-businesses-smes-in-the-
+uk
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+31
+Key insights:
+Openbankingillustrateshowregulatoryinterventionscanincorporatedataassurance.In
+particular,becausetheCMA’sopenbankinginitiativeconcernedincreasingaccesstodata,
+thisregulatoryinterventionneededtoincorporatedataassuranceactivitiessothatall
+stakeholderswouldtrustinthesolution.Aspartofthisdataassurancescheme,theCMA
+determinedthatnoexistingbodyinthefinancesectorcouldtakeresponsibilityfordeveloping
+andmaintainingtheopenbankingstandards.TheCMA,therefore,recommendedthe
+creationofanewindustrybodyanddatainstitution
+91
+tohelpimprovemarketcompetition.
+Thismaybeaninterventionfortheassuranceofdataanddataflowsreplicatedinother
+sectors.
+Sincetheimplementationofopenbanking,UKconsumershavebecomemorecomfortable
+withsharingtheirfinancialdatawiththirdparties.TheOpenBankingImplementationEntity
+announcedinSeptember2020thatthenumberofpeopleusingproductsenabledbyopen
+bankinghaddoubledsinceJanuary2020tomorethan2millionpeople.
+92
+AsofNovember
+2021,theUKgovernmentestimatedthatmorethanhalfofUKsmallbusinessesandmore
+than 4 million consumers use technology powered by open banking.
+93
+Data assurance activities used:
+●
+Development and adoption of data holding, use and sharing standards.
+●
+Developmentofanindustrybodytoguidetheintroductionofdataholding,useand
+sharing standards.
+●
+Accreditationofactorsinvolved(banks,TPPsandcustomers)intheholding,useand
+sharing of data.
+●
+Regulation of service providers in the holding, use and sharing of data.
+●
+Certification of service providers in the holding, use and sharing of data by the OBIE.
+ThesuccessofOpenBankinghaspromptedregulatorsinothersectorstoconsidersimilardata
+access initiatives that build trust.
+93
+2021, CMA, 'Corporate report: update on open banking',
+https://www.gov.uk/government/publications/update-governance-of-open-banking/update-on-open-ban
+king
+92
+OBIE, 'Real demand for open banking as user numbers grow to more than two million',
+https://www.openbanking.org.uk/news/real-demand-for-open-banking-as-user-numbers-grow-to-more-
+than-two-million/
+91
+ODI, 'Data institutions',
+https://theodi.org/project/rd-data-institutions/#:~:text=Data%20institutions%20are%20organisations%20
+whose,public%2C%20educational%20or%20charitable%20aims.&text=combining%20or%20linking%20
+data%20from,those%20that%20have%20contributed%20data.
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+32
+AccordingtotheDepartmentforBusiness,EnergyandIndustrialStrategy(BEIS)thenextUK
+sectortohavea'livedatasharingecosystem'willbetheUKenergysectoraspartoftheOpen
+EnergyInitiative.
+94
+AspartofOpenEnergy,Ofgemisdevelopingopendatabestpractices.
+95
+Non-profitIcebreakerOneisworkingonstandardsfordatalicensingandmetadatatohelp
+supportthemovetonetzero.
+96
+TheIcebreakerOneTrustFrameworkincludesasetof
+principles designed to help data flow more easily among organisations.
+97
+Accreditation for data assurance
+Regulators,industrybodies,andprofessionalbodiesareallinvolvedindifferenttypesof
+accreditation and certification practices to improve data assurance.
+TheICOhasdevelopedaGDPRcertificationschemewhichfunctionsthroughacollaboration
+betweenmultiplebodies.
+98
+TheICOpublishestheaccreditationrequirementsforcertification
+bodiestomeet,approvesandpublishescertificationcriteria,andmaintainsapublicregisterof
+approvedGDPRcertificationschemes.TheUnitedKingdomAccreditationService(UKAS)
+carriesoutaccreditationsofthebodiesresponsibleforconductingGDPRcertifications.Other
+marketplacesbuiltaroundassurancepracticesfunctioninasimilarway.SeeCasestudy1for
+more information.
+Developing best practice
+Inothercases,industrybodiesandprofessionalbodiessetdataassurancebestpractice
+themselvesanddeveloptheirownframeworks,guidance,andcertificationschemestodrive
+adherence.
+TheprofessionalbodiestheRoyalStatisticalSociety,BritishComputerSociety,TheChartered
+InstituteforIT,TheOperationalResearchSociety,TheInstituteofMathematicsandIts
+Applications,alongwiththeNationalPhysicalLaboratorystandardsinstitute,theAlanTuring
+Institute,andwiththesupportoftheRoyalAcademyofEngineeringandtheRoyalSociety
+formedanalliancein2020todevelop'newprofessionalstandardsfordatascience'.
+99
+The
+99
+2021, Royal Statistical Society (RSS), 'Alliance formed to create new professional standards for data
+science',
+https://rss.org.uk/news-publication/news-publications/2021/general-news/alliance-formed-to-create-ne
+w-professional-standar/
+98
+ICO, 'Certification',
+https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regula
+tion-gdpr/accountability-and-governance/certification/
+97
+Icebreaker One, 'What is Icebreaker One doing?' https://icebreakerone.org/
+96
+Icebreaker One, 'Open Energy', https://energy.icebreakerone.org/
+95
+2021, Office of Gas and Electricity Markets (Ofgem), 'Data best practice guidance',
+https://www.ofgem.gov.uk/sites/default/files/2021-11/Data_Best_Practice_Guidance_v1.pdf
+94
+2021, Department for Business, Energy and Industrial Strategy,' Smart Data Research report: third
+party accreditation',
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/9933
+42/smart-data-research-accreditation.pdf
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+33
+allianceisworkingtodevelop'industry-widestandards'thatwill'looktoaddresscurrent
+issues,suchasdatabreaches,themisuseofdatainmodellingandbiasinartificialintelligence.'
+Theyintendto'givepeopleconfidencethattheirdataisbeingusedethically,storedsafelyand
+analysed robustly'.
+100
+Thisexampleshowsprofessionalbodiesworkingtogetherinadataassuranceschemeto
+developindustry-widebestpractice.TheUK’sNationalDataStrategysaysthattheUK
+Governmenthopestobuildontheworkoftheseprofessionalbodiesto'publishaworking
+definitionofdataskillsforthewidereconomy,setoutacleardistinctionbetweendataskills,
+digitalskillsandAIskills,andconsiderthebenefitsofprovidinginformationonpathwaysinto
+data-relatedcareers'.
+101
+Thisinitiativetiesinwithlargertrends,partofthechangesfollowingthe
+UK’sexitfromtheEUtocreatemoreconsistencyamongUKdataprofessionals.TheODI’s
+DataSkillsFrameworkdemonstratesthatdataskillsarebroaderthanjustdatascience;instead,
+organisations need both technical data skills as well as skills that enable data innovation.
+102
+Certification for data assurance
+Multiple bodies engage in data assurance schemes involving certification.
+TheindustrybodyElectronicDataManagement(EDM)Councilsetsbestpracticefordata
+managementwiththeirDataManagementCapabilityAssessmentModel(DCAM)framework
+andfordatamanagementinthecloudwiththeirCloudDataManagementCapabilities(CDMC)
+framework.
+103
+CompaniescanreceiveCDMCcertificationbasedonanassessmentconducted
+byanindependentpartner.TheEDMCouncilalsooffersCDMCtrainingcoursesforindividuals.
+IndividualscantakeatrainingcoursewhichisfollowedupwithanexamtoreceiveaDCAM
+professionaldevelopmentcertification.OrganisationscanusetheEDMCouncil’s
+self-assessmenttooltoevaluatetheirowninternaldatamanagementcapacity,orreceivea
+formalassessmentfromacertifiedauthorisedpartner.
+104
+TheEDMCouncilhassteppedinto
+createtheseframeworkstohelpdevelopbestpracticeandeducatemembersinhowto
+conform to it.
+TheBSIoffersmultipletrainingcoursesandcertificationsinprivacyanddataprotection,and
+severalwhichspecificallypertaintoGeneralDataProtectionRegulation(GDPR).Someofthe
+coursesandcertificationsofferedincludetheEUGeneralDataProtectionRegulation(GDPR)
+104
+EDM Council, 'DCAM assessments and support',
+https://edmcouncil.org/page/dcamassessmentsuppor
+103
+Electronic Data Management (EDM) Council, 'Training and ELearning',
+https://edmcouncil.org/page/TrainingOverview
+102
+2020, ODI, ‘Data Skills Framework’,
+https://theodi.org/article/data-skills-framework/#1561999285194-8defa99a-39a52584-8cfe
+101
+2020, DCMS, 'National Data Strategy',
+https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy#data-2-5
+100
+2021, Royal Statistical Society (RSS), 'Alliance formed to create new professional standards for data
+science',
+https://rss.org.uk/news-publication/news-publications/2021/general-news/alliance-formed-to-create-ne
+w-professional-standar/
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+34
+Foundationtrainingcourse,whichgivesanoverviewofGDPRlegislationinoneday,theGDPR
+auditor/selfassessment,designedtohelpstakeholderswithinorganisationsensurethattheir
+organisationisGDPRcompliant,theCertifiedInformationPrivacyProfessionalEuropetraining
+courseandcertification,theCertifiedInformationPrivacyManagertrainingcourseand
+certification,andtheCertifiedDataProtectionOfficertrainingcourseandcertification,among
+others.
+105
+TheprofessionalbodyDataManagementAssociation(DAMA)similarlyofferstheCertifiedData
+Management Professional (CDMP) certification.
+106
+SeeCase study 5 for more detail.
+Case study 5: Data management professional certification
+What the intervention is:
+DAMAisaninternationalprofessionalbodyfordatamanagementprofessionalsorganised
+intolocal,country-specificchapters.
+107
+DAMAofferstheCertifiedDataManagement
+Professional(CDMP)certification.
+108
+Dataprofessionalsinanysectorcanbecomecertified
+and employers internationally accept and seek out CDMP certification.
+How it works:
+InordertobecomecertifiedinCDMP,adatamanagementprofessionalmustpasstheData
+ManagementFundamentalsexamofferedbyDAMA.Theexamtestsanindividual’s
+knowledgeofthemostrecentversionoftheDAMADataManagementBodyof
+Knowledge.
+109
+Theexamcoversspecificareasofknowledge,alongwithdatamanagementprocess,ethics,
+andBigData.Therearefourdifferentlevelsofcertification(associate,practitioner,master,
+andfellow)thatrepresentdifferentlevelsofcareerdevelopmentforadataprofessional.In
+ordertoreceivethepractitionerormasterlevelsofcertification,dataprofessionalsmustpass
+two specialist exams along with the Data Management Fundamentals exam.
+Thosewhobecomecertifiedmustpayayearlycertificationfeeandcompletea3yearcycle
+wheretheycontinueeducationalandprofessionaldevelopmentactivities.
+110
+TheCDMP
+certificationtestspractitionersintheassuranceofdatapracticesandalsoindatabeingfitfor
+purpose.
+110
+DAMA Dach, 'Certified Data Management Professional (CDMP) Certification Program',
+https://damadach.org/certified-data-management-professional-cdmp-certification-program/
+109
+DAMA, 'DMBoK v2x Initiative', https://www.dama.org/cpages/forthcoming-dmbok-2x-initiative
+108
+DAMA, 'Certified Data Management Professionals', https://cdmp.info/
+107
+DAMA, 'Home', https://www.dama.org/cpages/home
+106
+Data Management Association (DAMA), 'Certified Data Management Professionals', https://cdmp.info/
+105
+BSI, 'Privacy and data protection training',
+https://www.bsigroup.com/en-GB/our-services/training-courses/Data-Protection/
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+35
+Key insights:
+DAMA’sCDMPcertificationdemonstratesaprofessionalbodyundertakingadataassurance
+activityandtheirworkhasanimpactinmultiplesectors.Thecertificationbenefitsdata
+professionals,whocanuseittodemonstratetheirexpertisetopotentialemployersand
+supporttheircareerdevelopment.Itbenefitsorganisationsthatemploydataprofessionalsas
+ithelpsthemtoensurethattheemployeestheyhirehavetheappropriateknowledgeto
+handleorganisationaldatainatrustworthymanner.Thecertificationalsobenefitsthe
+ecosystemofdatapractitionersbecauseithelpstocreateacommonreferenceandsetof
+bestpracticesfortheprofession.OtherprofessionalbodiescanfollowDAMA’sleadin
+adopting certification schemes for data assurance.
+Data assurance activities used:
+●
+Development and maintenance of DMBoK, data management code of practice.
+●
+Certificationofindividualsintheirknowledgeofthedatamanagementcodeof
+practice.
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+36
+4.3 Opportunities and challenges for data assurance
+Ourresearchandinterviewshavehighlightedarangeofchallengesandopportunitiesthat
+might hinder or support the introduction of data assurance across different sectors.
+Rapidly changing regulatory context
+FollowingitsexitfromtheEU,theUKisgoingthroughaperiodofwide-rangingregulatory
+reforms.Thesereformsarerapidlychangingtheregulatoryandpolicycontextfortheaccess,
+use and sharing of data.
+MultiplerecentUKpolicydocumentsemphasisechangingregulatoryremitstofacilitate
+innovation.TheRegulationfortheFourthIndustrialRevolutionwhitepapermakesthisexplicit,
+stating'weneedamoreagileapproachtoregulation,thatsupportsinnovationwhileprotecting
+citizensandtheenvironment'.
+111
+BuildBackBetter:ourplanforgrowthsimilarlydiscusses
+changestotheUK’sregulatorysystemtosupportinnovationby'easingtheregulatory
+complianceredtapeburdenonbusiness'.
+112
+Itincludesplansforanewdigitalstrategy,
+innovationstrategy,andBetterRegulationCommittee,alongwithaTaskforceonInnovation,
+Growth and Regulatory Reform (TIGRR).
+TIGRRlooksattheopportunitiesarisingfromtheUK’sexitfromtheEUandconsiderschanges
+toregulationgoingforward.
+113
+Oneofthemostsignificantproposedreformsconcerningdatais
+toreplaceGDPRwithanewframeworkfordataprotection,whichwould'givepeoplegreater
+controlovertheirdatawhileallowingdatatoflowmorefreelyanddrivegrowthacross
+healthcare,publicservicesandthedigitaleconomy'.
+114
+Otherproposalsincludepositioningthe
+UKasaregulationstandardsetter.Thesereformswillnotnecessarilybetakenforward
+precisely as expressed in the report, however.
+TheData:anewdirectionconsultationisalsolookingintoreformsintheuseofdatainthe
+114
+2021, UK Government, 'Taskforce on Innovation, Growth and Regulatory Reform independent report',
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/9941
+25/FINAL_TIGRR_REPORT__1_.pdf
+113
+2021, Prime Minister’s Office, 10 Downing Street, 'Taskforce on Innovation, Growth and Regulatory
+Reform independent report',
+https://www.gov.uk/government/publications/taskforce-on-innovation-growth-and-regulatory-reform-ind
+ependent-report
+112
+2021, HM Treasury, 'Build Back Better: our plan for growth',
+https://www.gov.uk/government/publications/build-back-better-our-plan-for-growth
+111
+2019, BEIS, 'Regulation for the Fourth Industrial Revolution',
+https://www.gov.uk/government/publications/regulation-for-the-fourth-industrial-revolution/regulation-for-
+the-fourth-industrial-revolution
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+37
+UK,
+115
+includingchangestotheICO’sremit,
+116
+introducingchangesoralternativestoGDPR,
+reducingbarriersforresponsibleinnovation,andremovingbarrierstocross-borderdata
+flows.
+117
+TIGRRhasinfluencedtheproposalsinData:anewdirection.Thoughthesepolicy
+documentsincludesimilarthemesofchangingregulatoryremitstoencourageinnovation,the
+'new direction' for data in the UK still remains somewhat uncertain.
+TheBenefitsofBrexitreportfurtherhighlightsregulatoryopportunitiespertainingtodata,with
+planstoreform'ourdatalawsand'seta'newdirectionfordataregulation'.
+118
+TheNational
+DataStrategyalsoemphasisesgreaterdataavailabilitytoencourageinnovationandgrowthby
+alterationstoregulatoryrolesanddataprotectionlaws,amongotherpotentialchanges.
+119
+The
+UK’sInnovationStrategyexpressesanaimtocreate'theworld’smostagileregulatorysystem'
+byreformingsomeregulatorystandardsdeemed'overlyrestrictive,'
+120
+whiletheNationalAI
+Strategyhighlightsthatthegovernmenthopestocreatea'progressive'regulatoryenvironment
+that will support innovation and 'keep pace with the fast changing demands of AI'.
+121
+Asaresultofthesereforms,thepowersandremitofUKregulatorsmaychangeandkey
+legislationandpoliciesareunderreview.Thischangingregulatorycontextpresentsan
+opportunity.TheUKmaymovetowardsalooserregulatoryframeworkwithfewerprotections.
+GlobalBritaininaCompetitiveAge:theintegratedreviewofsecurity,defence,development
+andforeignpolicyexpressesanambitionfortheUKtobeaglobaldataanddigitalserviceshub
+by'workingwithourinternationalpartnerstoovercomebarrierstodataflowsandpromote
+internationaldatastandardsthatenablegrowthandinnovation'.
+122
+Withapotentiallooseningof
+theUK’sregulatoryframework,itislikelythattherewillbeagreaterrolefordataassurancein
+122
+2021, Cabinet Office, 'Global Britain in a Competitive Age: the Integrated Review of Security, Defence,
+Development and Foreign Policy',
+https://www.gov.uk/government/publications/global-britain-in-a-competitive-age-the-integrated-review-o
+f-security-defence-development-and-foreign-policy/global-britain-in-a-competitive-age-the-integrated-rev
+iew-of-security-defence-development-and-foreign-policy
+121
+2021, UK Government, 'National AI Strategy',
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1020
+402/National_AI_Strategy_-_PDF_version.pdf
+120
+2021, BEIS, 'UK Innovation Strategy: leading the future by creating it',
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009
+577/uk-innovation-strategy.pdf
+119
+2020, DCMS 'National Data Strategy',
+https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy#data-2-5
+118
+2022, HM Government, 'The Benefits of Brexit: How the UK is taking advantage of leaving the EU',
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1052
+148/benefits-of-brexit-document.pdf
+117
+2021, ODI, 'Data: a new direction: Open Data Institute response',
+https://docs.google.com/document/d/1DUN51AR57gDUS3Ck2hg2zmuYIGBq0s9ikx837ws7wh8/edit#
+116
+2021, DCMS, 'Data: a new direction',
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1022
+315/Data_Reform_Consultation_Document__Accessible_.pdf
+115
+2021, DCMS, 'Data: a new direction',
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1022
+315/Data_Reform_Consultation_Document__Accessible_.pdf
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+38
+building trust.
+123
+Thiscould,however,alsocreateachallengingcontextforintroducingnewdataassurance
+schemes,particularly'harder'dataassuranceactivitiesthatmayrelyonexistingpowersand
+remitsthatcouldbesubjecttochange.Furthermore,anychangeintheregulatoryframework
+fordatarisksdiminishingtrustindatapractices.Assurance,therefore,willbeavaluabletoolin
+maintainingconfidenceindatapracticesandshouldbeanessentialpartofimplementingthese
+reforms.Dependingonthedirectiontakenbyreformstodataprotectionlaw,dataassurance
+might need to play a greater role in maintaining public trust in the data ecosystem.
+Industrybodiesandprofessionalbodiesarealsofacingcontextualshiftsspurredbyincreasing
+globalisation,theshifttoonlineworkacceleratedbythepandemic,andtheshifttojob
+automation,amongotherchanges.Thereisanongoingprocessofdata-drivendisruption
+changingthewaythatmanyindustriesoperate.ThereportReviewoftheUKbusinessto
+businessdataassurancemarketarticulatesthatthebiggestopportunitiesandneedsfordata
+assuranceareindata-drivenproductsandservices,newdataecosystems,marketsandnew
+usecases.
+124
+Thereisanopportunity,therefore,forindustrybodiesandprofessionalbodiesto
+supporttheirmembersinthischangingcontextbyadoptingdataassuranceschemestohelp
+createmoretrustindataecosystemsbyhelpingmakedatamoreaccessibleandusablewhile
+protecting data rights.
+Standards-based interventions
+Standardscanhelptoincreaseaccesstodata,makingiteasiertouseandshareina
+trustworthymanner.Therearemanydifferenttypesofstandards,
+125
+whichcovernotonly
+technicalaspectsofdatasharingbutalsostandardsfordatagovernance,datapractices,as
+wellasauditandcertification.Creatinganddrivingtheadoptionofstandardsisanimportant
+part of all forms of assurance and can help ensure that data is used responsibly.
+Regulatorshaveanopportunitytousetheirpowerstorequiretheadoptionofstandards.
+Regulatorscanmakemeetingcertainstandardsaconditionoflicensingproducts.Anexample
+ofthisistheMHRAwhichrequiresAIandsoftwareusedinmedicaldevicestomeetspecific
+standards.
+125
+ODI, 'Types of open standards for data',
+https://standards.theodi.org/introduction/types-of-open-standards-for-data/
+124
+2021, Frontier Economics and the ODI, 'Review of the UK business to business data assurance
+market',
+https://theodi.org/wp-content/uploads/2021/07/PRS-ODI-Data-assurance-FINAL_23072021.pdf
+123
+2021, ODI, 'Data: a new direction, Open Data Institute response',
+https://docs.google.com/document/d/1DUN51AR57gDUS3Ck2hg2zmuYIGBq0s9ikx837ws7wh8/edit#h
+eading=h.f22474fe7t8c
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+39
+Regulatorscanalsodrivetheadoptionofstandardsbyintroducingthemasarequirementfora
+licencetooperate,orasanecessitytoreceivegovernmentcontracts.Standards,however,can
+be difficult to develop and can take time to be fully adopted.
+126
+Building data literacy
+Ourinterviewshighlightedthatsomesectorsmayneedextrahelpinbuildingdataliteracy.The
+ODIdefinesdataliteracyasthe‘abilitytothinkcriticallyaboutdataindifferentcontextsand
+examinetheimpactofdifferentapproacheswhencollecting,usingandsharingdataand
+information’
+127
+andinthisway,itgoesbeyonddatascience.Thereisanopportunityfor
+regulators,industrybodiesandprofessionalbodiestocollaboratewithotherorganisationswith
+dataassuranceexpertisetohelpthesethreetypesoforganisationbuilddataliteracyor
+collaborate to pool resources.
+Somesmallerregulatorslacktheresourcestobeabletofurtherexploredataassurance
+schemes,arepresentativefromtheUKRegulatorsNetworkexpressed.Otherinterviewees
+echoed similar concerns about industry bodies and professional bodies.
+Someregulators,industrybodiesandprofessionalbodies,therefore,maynothavethe
+resourcestobeabletodesigncertificationschemes,developstandards,orreviseprofessional
+trainingtoincludeaspectsofdataassurance.Interviewshighlightedthatsomeorganisations,in
+particularprofessionalbodies,havehesitationsaboutsharingtheirowndataoruncertainty
+aboutthebenefits.TheODI’sDataLiteracyprogrammeisanexampleofthetypeofinitiative
+organisationswithexpertiseindataassurancecanimplementtoaddressthischallenge.
+128
+It
+supportsorganisationsthroughupskilling,trainingprogrammesandengagementwithcompany
+directors to improve data literacy across sectors.
+129
+Varying maturity of sectors
+Our research found that different sectors are at different stages of data and digital maturity.
+TheInsightreportonsharingengineeringdata,producedbytheODIandLloyd'sRegister
+Foundation discussed the differing levels of data sharing maturity across different sectors.
+130
+Thereportfoundthatthefinancesectorhasundertakensomeofthemostsubstantialdata
+accessinitiativeswiththeimplementationofOpenBanking,andtherehasalsobeenwork
+130
+2019, Leigh Dodds, et al., 'Insight report on sharing engineering data',
+https://www.lrfoundation.org.uk/en/publications/insight-report-on-sharing-data/
+129
+2021, ODI, 'Introducing the ODI’s data literacy programme',
+https://theodi.org/article/introducing-the-data-literacy-programme/
+128
+2021, ODI, 'Introducing the ODI’s data literacy programme',
+https://theodi.org/article/introducing-the-data-literacy-programme/
+127
+2021, ODI, ‘Data literacy: what is it and how do we address it at the ODI?’,
+https://theodi.org/article/data-literacy-what-is-it-and-how-do-we-address-it-at-odi/
+126
+ODI, 'Open standards for data', https://standards.theodi.org/
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+40
+undertakenintheagriculturesectortoadoptdataaccessinitiatives.
+131
+Intervieweesalso
+highlightedsimilarworkundertakenintheutilitiessectors,especiallywiththeOpenEnergy
+initiative.
+132
+RegulatorscanalsofollowthemodeloftheICO,FCA,CAAandothersincreatingregulatory
+sandboxes.Regulatorsinspecificsectorscanalsocollaboratewithcross-sectorregulatorslike
+theICOtotailorexistingschemessuchastheAIauditingframeworkortheGDPRcertification
+scheme for their own use rather than designing similar data assurance schemes from scratch.
+Thereisalsoanopportunityfordifferentsectorstolearnfromeachother.Sectorscan,andare,
+adoptingcommonmodelsandapproachestohelpthemdeveloptheirdataecosystemsand
+increasetrust.TheOpenEnergy
+133
+initiativeisagoodexampleofthis.Drawingonthesuccess
+ofOpenBanking,theOpenEnergyinitiativeconcerns'openingupdataintheUKenergysector
+tohelpcreateafairerenergymarket'.
+134
+Ofgemisdevelopingopendatabestpractices,
+135
+while
+non-profitIcebreakerOneisworkingonstandardsfordatalicensingandmetadatatohelp
+supportthemovetonetzero.
+136
+TheIcebreakerOneTrustFrameworkincludesasetof
+principles designed to help data flow more easily among organisations.
+137
+Thevaryingmaturityofsectors,however,maymakeitdifficulttoimplementdataassurance
+schemesandlearnfromlessonselsewhere.Sectorsmayhavetofirstaddressunderlying
+issues,suchasalackofdataliteracy,generalfearsaboutdatasharing,andconcernsabout
+thecapacitytosharedata.ThefirstroundoftheBRE’sRegulators’PioneerFundcompetition
+focusedonaddressingchallengesrelatedtodataandAIandisagoodexampleofaninitiative
+tohelpaddressthevaryingmaturityofsectors.
+138
+Thecompetitionwasintendedtohelp
+developthematurityandconfidenceofregulatorsinthoseareasandhelptoaddressthefour
+'grandchallenges''highlightedinthe2017IndustrialStrategy.
+139
+Someoftheinitiativesfunded
+included regulatory sandboxes to facilitate trustworthy innovation.
+139
+2021, BEIS, 'Evaluation of the Regulators’ Pioneer Fund (round 1) - Main Findings Report',
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/9669
+74/evaluation-of-rpf-main-report.pdf
+138
+2021, BEIS, 'Evaluation of the Regulators’ Pioneer Fund (round 1) - Main Findings Report',
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/9669
+74/evaluation-of-rpf-main-report.pdf
+137
+Icebreaker One, 'What is Icebreaker One doing?' https://icebreakerone.org/
+136
+Icebreaker One, 'Open Energy', https://energy.icebreakerone.org/
+135
+2021, Office of Gas and Electricity Markets (Ofgem), 'Data best practice guidance',
+https://www.ofgem.gov.uk/sites/default/files/2021-11/Data_Best_Practice_Guidance_v1.pdf
+134
+ODI, 'R&D: Open standards for the UK energy sector',
+https://theodi.org/project/open-standards-for-the-uk-energy-sector/#1558340061441-cb8100c5-47f3
+133
+Icebreaker One, 'Open Energy', https://energy.icebreakerone.org/report-meda-3/
+132
+2021, BEIS, 'Smart Data Research report: third party accreditation',
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/9933
+42/smart-data-research-accreditation.pdf
+131
+2019, Leigh Dodds, et al., 'Insight report on sharing engineering data',
+https://www.lrfoundation.org.uk/en/publications/insight-report-on-sharing-data/
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+41
+Existing levers and powers can be repurposed
+Allthreetypesoforganisationhaveboth'harder'and'softer'leversthattheycanusetodrive
+changesinbehaviour.Regulatorscanuselegislationtorequiretheadoptionofdataassurance
+activities.Industrybodiesandprofessionalbodiescouldrequirememberstoconformtocertain
+criteria for membership or to meet specified professional standards.
+Thoughdataassurancemayrequiresomenewstandardsortechnicalapproaches,the
+fundamentals are not new.
+Newregulatorsorbodiesarenotnecessarilyrequiredtoimplementdataassuranceschemesin
+asector.Instead,allcurrentlyexistingbodieshavearoletoplayindrivingthecreationof
+trustworthy data ecosystems.
+Commercial opportunities
+Intheirreport,ReviewoftheUKbusinesstobusinessdataassurancemarket,theODIand
+FrontierEconomicsidentifiedpotentialgapsinthedataassurancemarket.
+140
+Whiledata
+assurancefirmsareover-representedinthecomputerprogrammingandmanagement
+consultingsectors,theyareunder-representedinothersectorsincludingofficeadministrative
+andotherbusinesssupportactivities,informationserviceactivities,professional,scientific,and
+technicalactivities,andpublishingactivities.Thereisanopportunity,therefore,forthesethree
+types of organisations to fill in the gaps in the UK data assurance market.
+Forprofessionalbodies,thesegapsmightofferacommercialopportunity.Byofferingtraining
+andcertificationprogrammesthattouchonaspectsofdataassurance,professionalbodiescan
+differentiate themselves from others in their sector and gain an advantage.
+Regulatorshaveanopportunitytostimulateandcreatemarketsaroundassurance,asCDEI
+expressedinTheroadmaptoaneffectiveAIassuranceecosystem
+141
+andasillustratedinthe
+CyberEssentialsschemeoutlinedinCasestudy1.Thiswillhelpcreatenewcommercial
+opportunitieswhilstincreasingtrust,helpingtofuelbusinessandjobcreation.Creatinga
+marketplaceforauditorsallowsthedataassuranceschemetoscaletomeetdemandsof
+applicants.Incentivessuchasprocurementrequirementscandrivetheadoptionofdata
+assurance schemes independent of legal or regulatory requirements.
+141
+2021, CDEI, 'The roadmap to an effective AI assurance ecosystem',
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1039
+146/The_roadmap_to_an_effective_AI_assurance_ecosystem.pdf
+140
+2021, Frontier Economics and the ODI, 'Review of the UK business to business data assurance
+market',
+https://theodi.org/wp-content/uploads/2021/07/PRS-ODI-Data-assurance-FINAL_23072021.pdf
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+42
+Support in designing and implementing data assurance schemes
+Ourresearchhighlightedthatregulators,industrybodiesandprofessionalbodiescouldbenefit
+fromguidanceandsupportindesigningthedataassuranceschemestoaddressthe
+challengestheyhopetosolve.Theycouldalsobenefitfromsupportincreatingconfidencein
+dataandensuringitisfitforpurpose.Developingthisguidancewouldhelporganisations
+estimatethecostsandeffortinvolved,andunderstandthereturnoninvestmentfordifferent
+dataassuranceactivities.Organisationswithexpertiseindataassurance,therefore,havean
+opportunity to develop this guidance and offer support to these three types of organisations.
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+43
+5.Howcanregulators,industrybodiesandprofessional
+bodiescreateconditionsforthetrustworthysharing,use
+and reuse of data?
+Basedonourresearch,wehavedevelopedsuggestionsforactivitiesthatregulators,industry
+bodiesandprofessionalbodiescanundertaketohelpcreateconditionsforthetrustworthy
+sharing, use and reuse of data. The suggestions fall under four broad themes:
+●
+Leading by example.
+●
+Integrating data assurance into existing activities and services.
+●
+Sharing and collaboration to build trust.
+●
+Reviews for effective data assurance schemes.
+Leading by example
+●
+Allthreetypesoforganisationcanensuretheyareleadingbyexample,modelling
+industry-leading data practices.
+IntheirreportonMappingdataintheUKgovernment,theODIexpressedthattheUK
+governmentcan'unlockthewidervalueofdataacrosstheeconomy'inpartby
+providing'examples,resourcesandskillsforotherstobenefitfrom,aswellasbehaviour
+forotherstomodel'.
+142
+TheODI’sroundtablereportInnovationandthedataeconomy:
+opportunitiesforUKregulatorsconductedwithBetterRegulationExecutive(BRE)
+expressedthatregulatorsshoulddemonstratetheirowntrustworthinesswiththedata
+theycollect,use,andshare.
+143
+Regulators,industrybodiesandprofessionalbodiescan
+takeasimilarroleasmodelsfordataassurance.Aspartoftheirfunction,regulators
+oftencollectandholddatafortheirsector.Industrybodiesalsoplayaroleinstewarding
+someofthedatafortheirsector.Professionalbodiescollectandholdmembership
+data,andsometimesotherrelevantdatafortheirsectoraswell.Withthedatathat
+thesethreebodiesregularlycollect,theycanmodelbestpracticesfordataassurance,
+helping to ensure data is used responsibly.
+●
+Regulatorsandindustrybodiescanthemselvesactasdatainstitutionsordata
+intermediaries,takingonaroleastrustworthystewardsfordataintheirsectororacross
+sectors.
+Bothregulatorsandindustrybodiesoftenholddatafortheirsectororacrosssectors.
+TheHSEactsasastewardforadatasetofplacesstoringpotentiallyhazardous
+143
+2021, ODI and BRE, 'Innovation and the data economy: opportunities for UK regulators',
+https://docs.google.com/document/d/12sjzcxHp_o6QkzHr-A6-QEnAAenkzT9oHM-4c5gRFbc/edit#
+142
+2021, ODI, 'Mapping Data in the UK Government',
+https://theodi.org/wp-content/uploads/2021/10/OPEN_REPORT_Mapping-data-in-UK-government_ODI
+_2021-10.pdf
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+44
+substances.
+144
+Theydothisaspartoftheirroleasaregulatorandthedatasetismade
+availabletothepublicthroughawebinterface.TheindustrybodyUKFinancealsoacts
+asadataintermediarybyrequiringmemberstoagreetosharecertaindatawiththem,
+whichUKFinancewillthen,underspecificconditions,sharemorepubliclywith
+researchers, universities and others, and use to inform UK Finance’s policy work.
+145
+Sometimes,however,asinthecaseofopenbanking,creatinganeworganisationto
+stewarddatainasectormaybeabetteroption.Thedecisionaboutwhethertousean
+existingorganisationtostewarddataortocreateanewonewilldependonthe
+resources,capabilityandremitofexistingorganisationsandwhethertheyhave
+sufficienttrustinthesectortoactasanintermediary.Whiledatainstitutionscanplayan
+importantroleincreatingtrust,
+146
+problemshavealsoariseninsomeofthese
+institutions.
+147
+Newinstitutionsmaynothaveasrobustchecksandbalancesand
+thereforemaybeopentoabuse.Existinginstitutionscanhavesimilarproblems,butcan
+bemoreeasilyjudgedbasedontheirtrackrecord.Choosingtocreateadatainstitution
+should be a step taken with deliberation.
+Integrating data assurance into existing activities and services
+●
+Regulatorscanconsiderdataassuranceasanessentialpartoftheactivitiesthey
+currently undertake.
+TheMHRAregulationofAIusedinmedicaldevicesandtheFSA’suseofdata
+assuranceinfoodlabellingdemonstratethatdataassuranceshouldbebuiltinto
+multiple regulatory interventions.
+●
+Regulatorscanadoptprovenmodelsfortrustedsharingofdata,likeregulatory
+sandboxes.
+MultipleUKregulatorsarealreadyundertakingdataaccessinitiatives,fromtheHSE’s
+DiscoveringSafetyProgramme
+148
+totheICO’sRegulatorySandbox.
+149
+Regulatorsin
+other sectors should also adopt similar proven models to support trust and innovation.
+●
+Industrybodiesandprofessionalbodiescanensurethattrainingandprofessional
+development programmes introduce trustworthy data practices.
+149
+ICO, 'Regulatory Sandbox', https://ico.org.uk/for-organisations/regulatory-sandbox/
+148
+Health and Safety Executive (HSE), 'Discovering Safety', https://www.discoveringsafety.com/
+147
+2021, Katherine Griffiths, 'Open banking chief Imran Gulamhuseinwala resigns over ‘bullying culture’',
+https://www.thetimes.co.uk/article/open-banking-chief-imran-gulamhuseinwala-resigns-over-bullying-cul
+ture-rtd5jqrdw
+146
+2021, ODI, 'What are data institutions and why are they important?'
+https://theodi.org/article/what-are-data-institutions-and-why-are-they-important/
+145
+2020, UK Finance, 'Privacy policy: how we use and protect your personal data',
+https://www.ukfinance.org.uk/privacy-policy
+144
+HSE, 'Control of Major Accident Hazards (COMAH)', https://www.hse.gov.uk/comah/
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+45
+Industrybodiesandprofessionalbodiesalreadyofferarangeoftraining,professional
+developmentandcertificationprogrammestohelptheirmemberslearnnewskillsand
+furthertheircareers.Trainingabouttrustworthydatapracticescanbeaddedtothese
+programmesrelativelyeasily.Byaddingmodules,thesebodieswillhelptobuildliteracy
+aroundtrustworthydatapracticesintheirsectors.Thisisalow-riskinterventionthat
+couldalsopotentiallyhelpindustrybodiesandprofessionalbodiesgainanadvantage.
+Byincludingtheseofferings,thesebodiescanhelptodifferentiatethemselvesfromthe
+others in their sector and to attract members.
+●
+Industrybodiesandprofessionalbodiescanmakecompliancewithtrustworthy
+data practices a condition of membership.
+Withmembershipconditions,industrybodiesandprofessionalbodieshavealeverthey
+canusetoencouragetheadoptionandcomplianceoftrustworthydatapractices.Both
+bodiescanthencarryoutcheckstoensurethatmembersarecompliantwiththese
+conditions.
+Ifindustrybodiesandprofessionalbodiesdonotwishtorequiretheirmembersto
+complywithspecificpractices,theycouldinsteadrecommendtheirmembers
+undertake certifications in trustworthy data practices.
+Sharing and collaboration to build trust
+●
+Whendesigningcertificationsandotherstandards-basedapproachestoimprovedata
+assurance,allthreetypesoforganisationcancollaboratewithmultiplestakeholders
+in development.
+TheODI’sresearchonopenstandardsfordatafoundthatstandardsaremost
+successfulwhenthedevelopmentincludespeoplewithdifferentbackgrounds.
+150
+Successfulstandardsbuildmarketsaroundthestandard,andthecreatorsofthe
+standardmusttakeintoaccounttheperspectivesofthemanystakeholdersthatwilluse
+orbeaffectedbythestandard.Allthreetypesoforganisation,therefore,shouldwork
+with multiple stakeholders when creating standards for data assurance.
+●
+Allthreetypesoforganisationcanprovideguidanceandsharebestpracticetohelp
+build trust in data access initiatives.
+Ourresearchhighlightedthatthereisstillworktobedoneindemonstratingthevalueof
+dataaccessinitiativesinmanysectors.Asleadersintheirsectors,allthreetypesof
+organisationcanworktounderstandwherethereareconcernsandwheredata
+assurance activities may prove useful.
+150
+ODI, 'How open standards are developed',
+https://standards.theodi.org/introduction/how-open-standards-are-developed/
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+46
+●
+Allthreetypesoforganisationcancollaboratewiththeresearchersassessing
+emergingissuesinmachinelearningdatasetstohelpreviewkeydatasetsanddecide
+where further assurance is needed.
+Manyacademicresearchersarecurrentlyengagingwithdataassurancebyinvestigating
+thequalityofdatasetsusedinmachinelearningalgorithms.Allthreetypesof
+organisationshouldengagewithresearchersinthisfieldwhohaveconductedresearch
+toreviewthequalityofstandardisedtrainingdatasets,
+151
+andworkedtodevelop
+frameworksforalgorithmicauditingthatincludeaspectsofdatacollectionanduse.
+152
+Regulators,professionalbodiesandindustrybodiescanidentifyresearcherstoengage
+withthroughinvestinginhorizon-scanningcapacitiesorbybeingopentoad-hoc
+engagementwithcompaniesandresearchorganisationsoperatingintheirsector,
+helping to secure new scientific breakthroughs.
+●
+Regulatorscan collaborate with others to developimpactful data assurance schemes.
+Regulatoryactivitiesthatinvolvedataassuranceofteninvolvemultiplestakeholdersthat
+needtocollaborate.TheODI’sreportonthedevelopmentofopenstandardsfoundthat
+standardsaremostsuccessfulwhenthedevelopmentprocessincludespeoplewith
+multipleskillsandbackgrounds.
+153
+Thisisbecauseavarietyofpeopleandorganisations
+willbeimpactedbytheseregulatoryactivities.Tocreatethemostsuccessful
+intervention, their perspectives should be taken into account.
+Regulatorscanusedifferenttypesofformalknowledgesharingmechanismsto
+collaboratewithotherbodies.Someformalknowledgesharingmechanismsincluding
+runningaprogram,prototype,oruserresearchinvestigation.TheEnergyData
+Taskforce,whichbroughttogethertheUKgovernment,OfgemandInnovateUKto
+createadataanddigitalstrategytohelpdecarbonisetheenergysector,
+154
+isanother
+exampleofaformalknowledgesharingmechanismthatmaybeeffectiveinother
+situationsaswell.Thetaskforcecreatedareportwithasetofrecommendationsto
+build upon to develop a data access initiative in the energy sector.
+ThroughforumsliketheUKRN,regulatorscanalsosharesuccessfulapproachesto
+introducingnewdataassuranceschemeswitheachother.Despitetheirdifferencesin
+sector and remit, many regulators face similar challenges.
+154
+UK Government, 'Energy Data Taskforce',
+https://www.gov.uk/government/groups/energy-data-taskforce
+153
+ODI, 'How open standards are developed',
+https://standards.theodi.org/introduction/how-open-standards-are-developed/
+152
+2020, Inioluwa Deborah Raji et al, 'Closing the AI Accountability Gap: Defining an End-to-End
+Framework for Internal Algorithmic Auditing', https://arxiv.org/abs/2001.00973
+151
+2021, Inioluwa Deborah Raji, Genevieve Fried, 'About Face: A Survey of Facial Recognition
+Evaluation', https://arxiv.org/abs/2102.00813
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+47
+●
+Industrybodiescanconvenememberstohelpaddresssectorchallengesthrough
+data assurance schemes.
+Industrybodiesplayaconveningroleintheirsector.Theycanbringmemberstogether
+toseeksolutionstocommonchallenges.Someformalknowledgesharingmechanisms
+includingrunningaprogram,prototype,oruserresearchinvestigation.Thiswillhelp
+organisationstocometosolutionstosolvepressingdataassurancechallengesacross
+the sector.
+Reviews for effective data assurance interventions
+●
+Allthreetypesoforganisationcanconductasystematicreviewoftheirsectoror
+ecosystem and how best to improve trust before adopting a data assurance scheme.
+'Hard'formsofdataassuranceactivities,suchascreatingnewdatastandardsor
+producingaccreditation,aretimeconsumingandpotentiallyresourceintensiveto
+implement.These'hard'dataassuranceactivitiesmaynotalwaysbethemosteffective
+orefficientwaytoimprovetrustintheholding,usingandsharingofdata.Allthreetypes
+oforganisationshouldtaketimebeforeimplementingadataassuranceschemeto
+understandtheirecosystemandwheretrustislacking.Allnewdataassurance
+schemes should be designed only after this systematic review has taken place.
+●
+Furthermore,forallthreetypesoforganisation,practicalprojectscanhelpidentify
+the areas needing most assurance.
+Asmentionedintheprevioussection,regulators,professionalbodiesandindustry
+bodiesareallcurrentlyinvolvedinvariousdataassuranceschemes.Theseschemesare
+highlightingareaswheredataassurancemaybeuseful.Drawingonexistingschemes,
+allthreetypesoforganisationcanidentifypracticalareaswhereitmaybeusefulto
+implement data assurance activities.
+5.1 Next steps
+Thesuccessfuldevelopmentandimplementationofdataassuranceschemesrequires
+collaboration.Ourresearchhasdemonstratedthatregulators,industrybodiesandprofessional
+bodieswithfewerresourcesmayneedhelptoexploredataassuranceactivities.Researchers
+andotherorganisationswithdataassuranceexpertisecouldoffertargetedsupporttothese
+threebodies.Organisationswithexpertisecouldconvenethesebodiesandotherstakeholders
+tohelpdesignsectorandcross-sectordataassuranceactivitieslikestandardsandcertification
+schemes,helpingtomakedatamoreaccessibleandusablewhileensuringitisused
+responsibly.
+Theseorganisationscouldalsouseformalknowledgesharingmechanismssuchasforumsto
+convenebodies.TheDigitalRegulationCooperationForum,whichbringstogethertheCMA,
+ICO,theOfficeforCommunications(Ofcom)andtheFCA,wascreatedtofacilitatecooperation
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+48
+amongtheseregulatorsandtohelpthemaddressthechallengesposedbyregulatingonline
+platforms.
+155
+Similarforumscouldhelptoenablecross-sectorcollaborationandfacilitatedata
+assurance.
+Organisationswithdataassuranceexpertisecouldalsoconductfurtherresearchtodetermine
+wherecomplementarydataassuranceactivitiesareoccurring.Theseactivitiescouldsupport
+multiplebodiesacrosssectorsandthiswillhelptodiscoverwheresectorscanbuildonand
+re-useotherwork.Thiswouldhelptodevelopcross-sectorconsistencyindataassurance.
+Furtherresearchshouldalsoexplorehowthechangingregulatoryandpolicylandscapewill
+affectthedataassuranceactivitiesofthethreebodies.Organisationswithdataassurance
+expertiseshouldconductfurtherinvestigationstoaddressthefutureimpactsofthischanging
+policy context.
+155
+2021, CMA, 'The Digital Regulation Cooperation Forum',
+https://www.gov.uk/government/collections/the-digital-regulation-cooperation-forum
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+49
+6. Methodology
+Toconductthisresearch,weusedamixtureofdeskresearchandinterviews.Webeganwith
+initialdeskresearchonpreviousODIworkondataassurancethattouchedontherolesof
+regulators,industrybodiesandprofessionalbodies.WeconsultedUKgovernmentpublications
+andrelevantworkbyotherbodiesincludingtheAlanTuringInstituteandLloyd’sRegister
+Foundation.Wealsoconsultedpublicationsbyregulators,industrybodiesandprofessional
+bodiesabouttheirownwork,andturnedtorecentacademicresearchondataassurancefor
+conceptualgrounding.FromthedeskresearchandinitialconversationswiththeODIwe
+created a list of interviewees.
+Forourinterviewees,wesoughtrepresentationfromregulators,industrybodiesand
+professionalbodies.Weprioritisedinterviewingamixofsector-specificbodiesandcross-sector
+bodiesatdifferentstagesofengagementwithdataassurance.Weconductedfifteenonline
+interviews with stakeholders and experts for their insights.
+Broadly, our interview questions covered:
+●
+Howimportantaredataassuranceactivitiestotacklingissuesinyoursectoror
+profession?
+●
+Whichdataassuranceactivitiesareimportanttotherole,goals,andmissionofyour
+organisation?
+●
+What data assurance activities is your organisation currently involved in?
+●
+What is working well and where are there challenges?
+●
+Does your organisation conduct any formal data assurance mechanisms?
+●
+What are the barriers for your organisation to do more work on data assurance?
+Wethensynthesisedtheinterviews,lookingforcommonthemesamongthepointsraisedby
+interviewees,andconductedfurtherdeskresearchtoexpandonandcorroboratethepoints
+raisedintheinterviews.Fromthiscombinationofdeskresearchandinterviews,wecreatedour
+recommendations.
+Interviewees include:
+Regulators and government bodies
+●
+Competition and Markets Authority (CMA)
+●
+Health and Safety Executive (HSE)
+●
+Centre for Data Ethics and Innovation (CDEI)
+We engaged with another regulator that prefers not to be listed by name.
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+50
+Industry bodies
+●
+UK Regulators Network (UKRN)
+●
+Electronic Data Management (EDM) Council
+●
+Financial Data and Technology Association (FDATA)
+●
+UK Finance
+Professional bodies
+●
+Royal Institute of British Architects (RIBA)
+●
+Data Management Association (DAMA)
+●
+Energy Institute (EI)
+Other organisations
+●
+Global Open Finance Centre of Excellence (GOFCoE)
+Data experts
+●
+Professor Sylvie Delacroix, The Alan Turing Institute
+●
+Craig Civil, BSI, Director of Data Science and AI
+●
+Dr. Mahlet Zimeta, ODI
+●
+Ed Evans, ODI
+●
+Lisa Allen, ODI
+
+Regulators, industry bodies and professional bodies: their role in data assurance
+|
+51
+Glossary
+Data access initiative:initiatives or programmeswith a strong focus on collecting, using and
+sharing data as part of their work, involving multiple stakeholders actively working together to
+solve a problem. They often have a clear challenge, in the form of a specific social,
+environmental or economic problem that is the focus for the collaboration.
+Data assurance: the process, or set of processes,that increase confidence that data will
+meet a specific need, and that organisations collecting, accessing, using and sharing data are
+doing so in trustworthy ways
+Data assurance activity: a specific activity to createtrust in data, such as conducting an
+audit, validating a dataset, or carrying out training
+Data assurance scheme: a specific project that worksby applying one or more data
+assurance activities and may involve multiple actors
+Data ecosystem: data infrastructure and the people,communities and organisations that
+benefit from the value created by it
+Data literacy: the ability to think critically aboutdata in different contexts and examine the
+impact of different approaches when collecting, using and sharing data and information
+Data practices:the processes by which data is collected,shared, held and/or managed
+Quality infrastructure: formal mechanisms of assurancesuch as standardisation, conformity
+assessment, measurement or accreditation
+Standards:documented, reusable agreements that solvea specific set of problems or meet
+clearly defined needs, often used to help define or support a data assurance activity
+Trustworthy data ecosystem:an environment in whichindividuals and organisations across
+the public, private and third sector trust that data is flowing in ways that will maximise benefits
+whilst minimising harms

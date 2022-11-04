@@ -1,0 +1,923 @@
+
+
+1 
+
+ 
+Introduction  
+December 2020 marked the fifth anniversary of the Paris Agreement. The agreement 
+reached in 2015 saw countries committing to substantially reducing greenhouse gas 
+emissions in an effort to keep the increase in global average temperature to well 
+below 2°C above pre-industrial levels while pursuing means to limit the increase to 
+1.5 °C. Five years later, the UN Secretary-General, António Guterres, described the 
+fight against the climate crisis as the ‘defining task of the 21st century’. 
+1
+ 
+As with other significant challenges we face, effective action in response to climate 
+change can be supported by access to high-quality, relevant data, presented in ways 
+that are both easy to understand and useful for decision making. Various types of 
+2
+environmental data, for instance, are used by cities across the world to reduce 
+3
+emissions and manage risk across a range of sectors such as energy, agriculture, 
+industrial processes and product use, forestry and other land use, and waste. Climate 
+data can also contribute to ‘granting voice and agency to people at risk, as long as it 
+is accessible, understandable, and connected to local problems that affect 
+communities’. 
+4
+ 
+No single organisation holds or controls all the relevant data, or alone has the 
+resources and skills needed to use data in tackling the significant climate issues of 
+our time. People, organisations and communities therefore need to coordinate and 
+collaborate around the collection, use and sharing of data. 
+ 
+The Open Data Institute (ODI) and Microsoft’s ​ongoing partnership​ seeks to advance 
+the cause of open, trustworthy data sharing and collaboration, such that any 
+organisation of any size can more easily collaborate around data and realise its 
+benefits. The partnership is designed to support Microsoft’s wider ​Open Data 
+Campaign​, launched in April 2020. 
+ 
+As part of this work, the ODI conducted research between July and December 2020 
+to identify priority areas within climate change where there is an opportunity to 
+accelerate progress by increasing collaboration around data. From an initial long list 
+of topics, together with Microsoft we prioritised ​six areas​ to focus on, using criteria 
+such as the potential impact that data collaboration could have to address them. We 
+then carried out more in-depth research, working with experts in these areas to 
+understand the ​data ecosystem​ for each, and begin to assess the types of data 
+collaboration that might be required. 
+ 
+This paper presents the highlights of our research, summarising key findings on the 
+gaps we have found in how data is currently shared and used for decision-making, 
+1
+ United Nations Secretary-General (2020), ‘​Secretary-General's address at Columbia University: "The 
+State of the Planet"​’, 
+https://www.un.org/sg/en/content/sg/statement/2020-12-02/secretary-generals-address-columbia-univers
+ity-the-state-of-the-planet-scroll-down-for-language-versions 
+2
+ Open Data Institute (ODI) (2020)‘​Data infrastructure for common challenges: why is it important?​’, 
+https://theodi.org/project/data-infrastructure-for-common-challenges/ 
+3
+CDP Open Data Portal (2021), ‘​Cities​’,  ​https://www.cdp.net/en/cities  
+4
+ Open Data Charter (2019), ‘​Open data is needed for collaborative climate action​’, 
+https://opendatacharter.medium.com/open-data-is-needed-for-collaborative-climate-action-f2423c9ac96c  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     2 
+
+ 
+ongoing efforts to address these gaps, and subsequent opportunities for further data 
+collaboration to tackle these pressing climate issues. 
+ 
+We intend for this overview to be used by governments, corporations, civil society 
+organisations, scientists and citizens to inform their decisions affecting the climate. 
+The ODI and Microsoft are also looking for partners across the public, private and 
+third sectors, globally, who are interested in supporting data collaboration in these 
+areas. 
+ 
+If you work on any of the six issues, hold or use relevant data, or have feedback or 
+questions on this paper or the research behind it, please get in touch at 
+diana.szasz@theodi.org​. 
+ 
+  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     3 
+
+ 
+Achieving net-zero value 
+chains through better 
+tracking of scope 3 
+emissions 
+The data ecosystem 
+Human emissions of carbon dioxide and other greenhouse gases are a primary driver 
+of climate change. Countries, cities and companies across the world are setting 
+net-zero targets to demonstrate their commitment to climate action. 
+ 
+For countries, a net-zero commitment implies ‘deep reductions in emissions, with any 
+remaining sources being removed from the atmosphere with greenhouse gas 
+removals’. For businesses, the ​Science Based Targets initiative​ (SBTi) has proposed 
+5
+a working definition of net zero as: ‘achieving a state in which the activities within the 
+value-chain of a company result in no net impact on the climate from greenhouse gas 
+emissions’. To achieve net-zero targets, companies, therefore, have to look beyond 
+6
+their direct emissions of greenhouse gases (‘scope 1’) and their indirect emissions 
+from the generation of purchased energy (‘scope 2’), and develop strategies to 
+reduce the emissions generated within their value chain, both upstream and 
+downstream (‘scope 3’). The upstream part of a company’s value chain includes all of 
+the materials, people and environmental factors that contribute to its product and 
+services. The downstream part of the value chain looks more closely at the 
+7
+customers, consumers, re-users and recyclers.  
+8
+ 
+Scope 3 emissions can account for ‘the largest source of emissions for companies 
+and present the most significant opportunities to influence greenhouse gas 
+reductions’. Reducing these emissions requires, first of all, an accurate assessment 
+9
+of these emissions. This relies on, among other things, effective data sharing 
+between suppliers and the companies purchasing products from them globally.  
+ 
+The Greenhouse Gas Protocol, managed by the World Resources Institute, provides 
+guidance in its ‘Corporate Value Chain (Scope 3) Accounting and Reporting 
+Standard’ for calculating scope 3 emissions. However, according to the Carbon 
+10
+5
+ The Carbon Trust, ‘​What we do​ ​–​ Net Zero’, ​https://www.carbontrust.com/what-we-do/net-zero  
+6
+ ibid 
+7
+Sustainable Business Council, ‘​The SBC Value Chain Guide ​–​ Upstream Value Chain​’, 
+http://www.sbcvaluechain.org.nz/upstream-value-chain  
+8
+ Sustainable Business Council, ‘​The SBC Value Chain Guide – Downstream Value Chain​’ 
+,​http://www.sbcvaluechain.org.nz/downstream-value-chain  
+9
+ World Resources Institute and World Business Council for Sustainable Development (2011), ‘​Corporate 
+Value Chain (Scope 3) Accounting and Reporting Standard Supplement to the GHG Protocol Corporate 
+Accounting and Reporting Standard​’, 
+https://files.wri.org/s3fs-public/pdf/ghgp_corporate_value_chain_scope_3_standard.pdf  
+10
+ Ibid 
+https://ghgprotocol.org/sites/default/files/standards/Corporate-Value-Chain-Accounting-Reporing-Standar
+d_041613_2.pdf  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     4 
+
+ 
+Disclosure Project (CDP)’s ‘Global 500 Climate Change Report 2013’, ‘Current 
+reporting of indirect scope 3 emissions does not reveal the full impact of companies’ 
+value chains.’ Also, according to CDP’s 2016 Climate Change Report, ‘​Tracking 
+11
+Progress on Corporate Climate Action​’, nearly all emissions are in 2 of the 15 
+12
+categories scope 3 emissions are broken down into: category 1 (purchased goods 
+and services) or category 11 (use of sold products).  
+13
+ 
+Currently, most companies find it difficult to calculate scope 3 emissions. Collecting 
+data on these emissions that are not ‘owned’ by companies involves multiple 
+stakeholders and data sources, and the accuracy depends on whether those 
+stakeholders calculate their emissions in a consistent way. When calculated, 
+14
+companies often use secondary data to estimate the emissions that go into products 
+and services, such as weighted averages across the industry, rather than primary 
+supplier emission data. This results in rough approximations rather than a real picture 
+of emissions in the supply chain, lacking the granularity that would allow companies 
+to effectively identify and measure the impact of supply chain actions that can help 
+reduce emissions. 
+Increasing collaboration around data 
+There is an opportunity to build on the interest from companies in making these 
+calculations more efficient as well as the growing attention from governments and 
+investors on company disclosures of environmental impact. Standard setting bodies 
+are also taking steps towards the harmonisation of existing metrics such as the 
+recent release of the ​ESG reporting metrics​ by the five environmental, social and 
+corporate governance (ESG) standard setting organisations (the Carbon Disclosure 
+Project, the Climate Disclosure Standards Board, the Global Reporting Initiative, the 
+International Integrated Reporting Council and the Sustainability Accounting 
+Standards Board) along with the World Economic Forum.  
+ 
+A​ ​global data collaboration for better tracking scope 3 emissions produced in 
+the supply chains of technology products ​could serve as a pilot to inform data 
+collaboration practices among companies and their suppliers in other sectors of the 
+economy. A data collaboration could focus on developing appropriate governance 
+mechanisms, ie how decisions would be taken around what data is shared, how and 
+with whom; and open data standards to support the process of combining data from 
+different suppliers of technology companies – for example those that mine minerals 
+for products, or transport companies that ship products/materials around the world. 
+ 
+Working towards calculating scope 3 emissions more efficiently will not only help 
+companies to understand where the majority of their emissions are coming from 
+throughout their supply chain, but also allow them to identify where there are 
+opportunities within their supply chains to reduce emissions. 
+11
+ PWC (2021), ‘​Sustainability and climate change​’, 
+https://www.pwc.com/gx/en/services/sustainability/publications/carbon-disclosure-project.html 
+12
+ Science Based Targets, ‘Guidance For ICT Companies Setting Science Based Targets Mobile Networks 
+Operators, Fixed Networks Operators And Data Centres Operators’, 
+https://sciencebasedtargets.org/resources/legacy/2020/04/GSMA_IP_SBT-report_WEB-SINGLE.pdf  
+13
+ CDP (2018), ‘​How can companies address their scope 3 greenhouse gas emissions?​’, 
+https://www.cdp.net/en/articles/companies/how-can-companies-address-their-scope-3-greenhouse-gas-
+emissions 
+14
+ Ecoact (2016), ‘​Good value chain: overcoming the challenge of collecting Scope 3 emissions​’, 
+https://eco-act.com/scope-3/good-value-chain-overcoming-the-challenge-of-collecting-scope-3-emission
+s/  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     5 
+
+ 
+ 
+There are opportunities to complement or inform existing work in this area, such as 
+the work done by the ​World Business Council for Sustainable Development (WBCSD) 
+on providing guidance on reducing value chain emissions, as well as other initiatives 
+15
+we learned about through our research such as the ​Transform to Net Zero Initiative 
+and the ​Open Footprint Forum​. 
+ 
+  
+15
+ WBCSD (2020), ‘​EcoVadis and WBCSD join forces to reduce scope 3 emissions​’, 
+https://www.wbcsd.org/Overview/News-Insights/General/News/EcoVadis-and-WBCSD-join-forces-to-redu
+ce-scope-3-emissions  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     6 
+
+ 
+Supporting a ‘green’ 
+recovery from Covid-19 
+ 
+The data ecosystem 
+A sustainable recovery from the coronavirus (Covid-19) pandemic is vital to 
+addressing climate change. To shape both a short- and long-term economic recovery 
+from the Covid-19 pandemic that also supports efforts to drive transformation to a 
+net-zero emissions economy, decision makers require more frequent and more 
+accurate data about local, national, and global scales of economic activity and their 
+impacts on the environment. 
+ 
+Policies that support ‘green’ or environmentally sustainable sectors at a country level, 
+eg renewable energy and electric vehicles, have been outlined by governments in 
+policy documents such as the Green New Deal in the United States (supporting 
+16
+infrastructure investment, job growth, and low to no impact on the environment) or 
+the ​European Green Deal. Other policies might be specific to a region or city, such 
+17
+as installing pedestrian walkways or cycling pathways in place of roadways, or 
+transitioning energy consumed by a local government more towards renewable 
+energy. 
+ 
+In many cases there ​can be huge gaps​ between a policy commitment, its 
+implementation, and its impact – whether due to interceding issues over the long 
+timespan of policy implementation, due to policies not being binding (thus without 
+penalty if commitments are not met), or other factors. Data about plans and 
+implementation is often not gathered in consolidated ways, making measurement or 
+benchmarking of sustainable economic recovery difficult. The data needed to 
+measure these impacts has a lot of overlap with the data used to inform the policies 
+in the first place, but also may only extend to data on promised vs. realised 
+commitments, lacking more detailed data on impact. Gathering the right data on 
+economic performance – current and future – and environmental impact is therefore 
+incredibly challenging. 
+ 
+One hurdle specific to economic data is that the quality and timeliness of this type of 
+data are somewhat contested. Quality comes down to both accuracy of a specific 
+datapoint to measure a particular type of impact, and alignment of data as produced 
+from various sources (particularly as methodologies often differ). For example, while 
+Global Domestic Product (GDP) is a commonly shared metric, some experts state 
+that it does not properly account for modern economic norms in a globalised world 
+– for example, companies headquartered in one country with high activity in another 
+country. It is particularly contested as a means of measuring sustainable economic 
+growth, both financially and in the context of the environment. 
+18
+16
+The New York Times (2019), ‘​What Is the Green New Deal? A Climate Proposal, Explained​’,, 
+https://www.nytimes.com/2019/02/21/climate/green-new-deal-questions-answers.html  
+17
+ European Commission (2019), ‘​A European Green Deal Striving to be the first climate-neutral continent’​, 
+https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en   
+18
+Journal of Cleaner Production (2020), ‘​Going beyond Gross Domestic Product as an indicator to bring 
+coherence to the Sustainable Development 
+Goals​’,​https://www.sciencedirect.com/science/article/pii/S0959652619341022  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     7 
+
+ 
+ 
+Timeliness is a factor because of the lack of automated processes for gathering data 
+covering the full spectrum of the economy. Real-time data showing job losses, 
+revenue from sales, and many other factors shaping the global economy are few and 
+far between. Economic data is often backward-looking and focused on longer time 
+spans, notably financial quarters. 
+ 
+The challenges of measuring environmental impact as tied to economic activity are 
+similar. Real-time data on the environment is also limited and not common; data is 
+often only available as modeled impact, due to a lack of access to proprietary 
+systems, or because related stakeholders (such as governments) are unwilling to 
+share data because of potential reputational impacts. 
+19
+ 
+Together, these hurdles of identifying, finding, and accessing data that is accurate, 
+reliable, and timely, make assessing the impacts of economic recovery incredibly 
+challenging. 
+Increasing collaboration around data 
+Given the scale of the gaps that exist in relevant data on both economic activity and 
+environmental activity, hyperlocal collaborations focused on particular sustainable 
+economic policies, their resultant economic activity, and intended vs. actual 
+environmental impact could have the best chance of delivering a better 
+understanding of what sustainable economic recovery may look like and how it can 
+be brought about. 
+ 
+Pilot data collaborations bringing together relevant stakeholders in a US city or one of 
+the other G20 countries may benefit from data that already exists through the ​Energy 
+Policy Tracker of the International Institute for Sustainable Development​, which tracks 
+real-time data on approved public finance and policy measures targeting energy 
+generation and consumption to stimulate economies in response to the Covid-19 
+pandemic. These country-level datasets are gathered and hosted by a number of 
+organisations, including the International Institute for Sustainable Development (IISD), 
+Overseas Development Institute, Columbia University in NYC, Instituto Tecnológico 
+Autónomo de México (ITAM), and many more.  
+ 
+There also appear to be opportunities to amplify the work of ​C40​ – a network which 
+brings together data sources from various entities to inform economic and 
+environmental efforts in cities – on a green and ‘just’ recovery; or other initiatives 
+20
+such as ​Icebreaker One​ in the UK, which is bringing together data to inform 
+sustainable economic policies and investment through its ​Project Cygnus​ initiative.  
+ 
+19
+ The Global Partnership for Sustainable Development Data, United Nations Statistics Division,  World 
+Bank, Sustainable Development Solutions Network (2019), ‘​Real-Time Data For The SDGS: Accelerating 
+progress through timely information​’, 
+https://www.data4sdgs.org/sites/default/files/2019-05/Real-time%20Data%20for%20the%20SDGs_Conc
+ept%20Note.pdf  
+20
+C40 Knowledge (2020), ‘The Case for a Green and Just Recovery’, 
+https://www.c40knowledgehub.org/s/article/The-Case-for-a-Green-and-Just-Recovery?language=en_US  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     8 
+
+ 
+Reducing energy 
+consumption in 
+commercial buildings 
+ 
+The data ecosystem 
+Buildings account for around a third of global energy related to carbon emissions, 
+due to the use of energy needed to heat, cool and power them. Global estimates of 
+21
+energy consumption and use by real estate or buildings range significantly, 
+complicated by a lack of disaggregation among stated estimates (eg separating out 
+construction from building, or distinguishing residential from commercial). For 
+example, in 2018 the UN Environment Programme claimed building energy usage 
+came in at about 36% of the final energy use globally, in contrast to the US Energy 
+22
+Information Agency’s estimate of real estate representing 20% of global delivered 
+energy consumption. Estimates of emissions connected to commercial real estate 
+23
+hover around 40%.  
+ 
+Many individual building operators, owners, investors, and other stakeholders have 
+acknowledged these impacts and have committed to, or expressed interest in, 
+reducing energy consumption and related emissions. However, understanding and 
+24
+improving operational energy efficiency in commercial real estate portfolios is 
+currently prevented by fractured operations management setups. Common models of 
+managing the physical footprints of commercial real estate are often decentralised. 
+This means that lessees of a specific square footage within a broader footprint often 
+have limited to no requirement or mechanism to gather or share data on their energy 
+consumption practices with broader building management or ownership operations. 
+Energy consumption and efficiency data is also often not digitised, low-tech or 
+non​-automated. The data from utilities often comes on an infrequent basis, eg 
+monthly billing, which is often not enough to inform better practices. All of this results 
+in a lack of good-quality, high-frequency data on building operations management.  
+ 
+The data available varies based on factors such as regional legislation or reporting 
+mandates, incentives for data sharing, available certifications, and related contexts. 
+25
+For example, some national and regional governments have begun to roll out 
+incentives, certifications, and/or partial mandates requiring energy efficiency ratings – 
+21
+UNEP Finance Initiative (2016), ‘​Sustainable Real Estate Investment​’, 
+https://www.unepfi.org/publications/investment-publications/property-publications/sustainable-real-estate
+-investment-2  
+22
+ UN Environment Programme (2019), ‘​2019 Global Status Report for Buildings and Construction Sector​’, 
+https://www.unenvironment.org/resources/publication/2019-global-status-report-buildings-and-constructi
+on-sector  
+23
+EIA (2019), ‘​Global energy consumption driven by more electricity in residential, commercial buildings​’, 
+https://www.eia.gov/todayinenergy/detail.php?id=41753  
+24
+World Green Building Council, ‘​The Net Zero Carbon Buildings Commitment​’, 
+https://www.worldgbc.org/thecommitment  
+25
+ Energy Sector Management Assistance Program (2014), ‘​Improving Energy Efficiency in Buildings Energy 
+Efficient Cities​’, 
+https://www.esmap.org/sites/esmap.org/files/DocumentLibrary/ESMAP_Energy_Efficient_MayoralNote_20
+14.pdf  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     9 
+
+ 
+notably in the US with ​EnergySaver’s Portfolio Manager​ (for voluntary reporting of 
+building energy efficiency) and Australia’s ​NABERS​ (an initiative supporting mandated 
+reporting of building energy consumption). Some regionally-focused firms that 
+manage large commercial real estate portfolios are rolling out their own targets and 
+encouraging or supporting customers in adhering to them.  
+ 
+The data gaps that remain prevent key decision makers from implementing necessary 
+changes, such as: 
+ 
+●Owners and operators changing operational practice in order to consume 
+less energy; 
+●Policymakers developing effective reporting mandates or transparency 
+mechanisms, such as Display Energy Certificates (DECs) or frameworks 
+26
+such as the ​Global Real Estate Sustainability Benchmark​ (GRESB); and 
+●Investors, policymakers, and other stakeholders with access to funding 
+committing financing or providing related incentives. 
+ 
+Collating data on building characteristics and energy use more efficiently and to a 
+higher standard, coupled with new technologies for energy control and management, 
+could drive significant reductions in their energy consumption. For any such effort, 
+the risks associated with the collection of more granular, real-time data from 
+buildings that can potentially be used to identify people need to be considered and 
+mitigated accordingly. 
+Increasing collaboration around data 
+Local data collaborations between utility companies, energy services 
+companies and companies owning or leasing commercial real estate to 
+incentivise data sharing and increase data interoperability and digitisation of 
+data streams​ could help move the industry towards a future where data that is 
+currently siloed across real estate footprints is used more efficiently. More frequent, 
+comparable and better quality data can support better target-setting, benchmarking 
+and measurement of progress in energy efficiency by different constituents.  
+ 
+Given the often regional scope of commercial real estate portfolios and the niche 
+legislative contexts of different regions, pilot data collaborations on this issue would 
+likely be most successful on a​ local or national level​. The best place to start would 
+be to test out some models in​ regions where local governments are already 
+mandating and enabling data sharing​ in this realm, such as in Australia (with its 
+NABERS initiative and related policies that spawned it) and the US (such as ​in New 
+York City​). The launch of the new Renovation Wave Strategy by the European 
+Commission to improve the energy performance of buildings also creates a 
+27
+conducive environment for such collaborations in European cities.  
+ 
+Data collaborations focused on informing reductions in building energy consumption 
+could also build on the efforts of organisations such as the ​Berkeley Lawrence 
+National Laboratory​ in the US that produced a modeling tool for operational energy 
+26
+Aldersgate Group, The UK Green Building Council (2017), ‘​Energy efficiency in the UK’s buildings: key 
+priorities for the new government​’, 
+https://www.ukgbc.org/wp-content/uploads/2017/09/UK-GBC-Aldersgate-Energy-Efficiency-Briefing.pdf  
+27
+ European Commission (2020), ‘​Renovation wave | Energy​’, 
+https://ec.europa.eu/energy/topics/energy-efficiency/energy-efficient-buildings/renovation-wave_en 
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     10 
+
+ 
+efficiency improvements, the Better Buildings Partnership in the UK or the Building 
+Efficiency Accelerator initiative of the ​World Green Building Council​.  
+ 
+  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     11 
+
+ 
+Improving water 
+resource management 
+The data ecosystem 
+Water is a shared resource but is often managed in silos. In the face of climate 
+uncertainty and a growing global population, coordination and agreement across the 
+multiple sectors and stakeholders involved in how water use is managed is becoming 
+more crucial. 
+ 
+The biophysical conditions of water are traditionally tracked through metrics such as 
+water availability, consumption, scarcity and groundwater levels; with increasingly 
+good quality data available on each of these dimensions, through for instance the 
+28
+World Resources Institute’s ​Aqueduct tools​, the International Water Management 
+Institute’s (IWMI) ​Water Data Portal​ or the ​U.S. Geological Survey​. However, to fully 
+understand and manage water risks, decision makers need access to a variety of 
+local datasets that describe both the biophysical parameters of water as well as how 
+water resources are managed by relevant stakeholders. 
+ 
+Diverse stakeholders, including corporations across all sectors, are already coming 
+together to help support water conservation efforts. Technologies like the Internet of 
+Things (IoT) and artificial intelligence (AI) are offering new opportunities to improve 
+water quality and efficiency.  
+ 
+The lack of granular level data poses a challenge to local coordination efforts, 
+resulting in corporations and other water users, eg agricultural and industrial, making 
+decisions without access to the right data. There are initiatives looking at filling this 
+gap in local data, such as the World Resources Institute’s efforts to improve public 
+29
+water management by encouraging private sector companies to share the data they 
+gather over time on the status of public water management. However, opportunities 
+remain to increase the sharing of other data related to water use and water system 
+resilience. As a ​2019 report​ by the International Water Association notes, ‘there is 
+openness and a willingness to share information within the water sector and utilities 
+should actively seek out these insights’. 
+30
+ 
+There are also significant regional differences with regards to the availability of data 
+across the world. In some countries, eg in the US and Australia, data is available both 
+at the local and national level. In many developing countries, data scarcity is a 
+challenge even with regards to the physical side of water, although it is being 
+28
+World Resources Institute (2018), ‘​Mapping Public Water Management By Harmonizing And Sharing 
+Corporate Water Risk Information​’, 
+https://files.wri.org/s3fs-public/mapping-public-water-management-harmonizing-sharing-corporate-water-
+risk-information.pdf  
+29
+World Resources Institute (2018), ‘​Mapping Public Water Management By Harmonizing And Sharing 
+Corporate Water Risk Information​’, 
+https://files.wri.org/s3fs-public/mapping-public-water-management-harmonizing-sharing-corporate-water-
+risk-information.pdf  
+30
+CNBC (2020), ‘Water has become a big issue for Big Tech. But Microsoft has a plan’, 
+https://www.cnbc.com/2020/10/13/water-has-become-a-big-issue-for-big-tech-but-microsoft-has-a-plan.
+html  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     12 
+
+ 
+mitigated by the increased use of remotely sensed data. A partnership between the 
+International Water Management Institute​ (IWMI) and ​Digital Earth Africa​, for example, 
+uses satellite imagery with the aim to ‘create easy to interpret data sets for 
+governments, and others, to make more informed decisions about how to allocate 
+water’.  
+31
+Increasing collaboration around data 
+As more companies are making water commitments, there is an opportunity to 
+strengthen public-private sector partnerships to improve water management at a 
+local level through increased collaboration around data. Increased availability of this 
+data could not only enable companies to better prioritise where they invest in efforts 
+to reduce their water use in their operations and where they engage in replenishment 
+efforts, but could also inform other actors – whether public or private – in their water 
+management efforts. This would then contribute both to reduced emissions and 
+increased resilience of water systems and users.  
+Local data collaborations between utility corporations, regulators and other 
+water users in water-stressed river basins to pilot water system resilience 
+frameworks ​such as the one under development by the ​CEO Water Mandate​, could 
+help review and improve existing models for the data infrastructure that best 
+supports decision-making in the water sector.  
+Such data collaborations could build on the work of existing initiatives at global, 
+national and local levels, such as: 
+ 
+●the ​UNEP-DHI Centre on Water and Environment​ mandated to measure the 
+global status of water resources management,  
+●the ​World Water Data Initiative​,  
+●the ​Water Resilience Coalition​, 
+●the ​Alliance of Water Stewardship’s International Water Stewardship 
+Standard (AWS Standard)​ that provides guidance for businesses as well as 
+public sector agencies to understand their water use and impacts,  
+●The Nature Conservancy’​s efforts to bring together corporate and public 
+sector interest, 
+●the ​India Water Tool​ developed by WBCSD in collaboration with WRI, or 
+●the ​California Water Action Collaborative​. 
+ 
+31
+Devex (2020), ‘​How satellite images could improve water management in Africa​’, 
+https://www.devex.com/news/how-satellite-images-could-improve-water-management-in-africa-96807  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     13 
+
+ 
+Reducing the climate 
+impact of urban 
+transportation 
+The data ecosystem 
+The transport sector is a major contributor to climate change — it accounts for about 
+14% of annual emissions (including non-CO2 gases) and around a quarter of CO2 
+emissions, which come from burning fossil fuels. Cities around the world are 
+32
+developing solutions to transition towards climate-friendly mobility systems.  
+ 
+To support this transition, public and private sector stakeholders need access to the 
+large amounts of data generated and held by different actors in the sector – including 
+the new datasets enabled through the deployment of sensing devices – to inform 
+planning, delivery and management of transport services. While public authorities 
+often lack the ability to monitor and control the use of this data (data from transport 
+providers has been described as ‘patchy’), the share of mobility data collected by 
+33
+the private sector is growing steadily. Public authorities could therefore benefit from a 
+sliding scale of data access initiatives that reflects their needs and capabilities. This 
+does not necessarily mean sharing raw data; some agencies might be well-served 
+through a dashboard overview of key indicators, while others might want to access 
+the raw data to carry out their own analysis. In other sectors, we can already observe 
+different types of data access initiatives that are set to solve different problems with 
+different solutions and timescales. Yet, they have the same underlying objective: 
+34
+building or strengthening the data infrastructure as part of their work . New data 
+35
+access and sharing initiatives are therefore much needed, to enable public and 
+private interactions in sourcing, accessing and co-creating the data required to 
+manage transport activities in a more sustainable way. 
+ 
+New data-sharing models between public transport authorities, operators and 
+industry leaders in the technology and automotive sectors are already emerging in an 
+effort to deliver the right level of insights to identify and execute interventions that can 
+improve the efficiency of urban mobility solutions, drive innovation in the field and 
+reduce transport-related emissions. In 2020, the new ​European Green Deal​ has 
+helped push forward many European cities in their efforts to become greener, and roll 
+out cleaner, cheaper, and healthier forms of private and public transport.  
+36
+32
+World Resources Institute (2019), ‘​Everything You Need to Know About the Fastest-Growing Source of 
+Global Emissions: Transport​’, 
+https://www.wri.org/blog/2019/10/everything-you-need-know-about-fastest-growing-source-global-emissi
+ons-transport#:~:text=1.,emissions%20from%20burning%20fossil%20fuels​.  
+33
+ Green Alliance (2020), ‘​Smart and green Joining up digital and environmental priorities to drive the UK’s 
+economic recovery​’, ​https://www.green-alliance.org.uk/resources/Smart_and_green.pdf  
+34
+ OECD/ITF (2016), '​Data-Driven Transport Policy​', 
+https://www.itf-oecd.org/sites/default/files/docs/data-driven-transport-policy.pdf 
+35
+ODI (2020), ‘​What do we mean by data access initiatives?​’, 
+’​https://theodi.org/article/what-do-we-mean-by-data-access-initiatives/#:~:text=At%20the%20ODI%20we
+'ve,the%20focus%20for%20the%20collaboration 
+36
+  European Commission (2019), ‘​A European Green Deal Striving to be the first climate-neutral continent​’, 
+https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     14 
+
+ 
+ 
+The global Covid-19 pandemic has also led to societies rethinking certain aspects of 
+how they operate their cities, including plans to adopt more sustainable mobility 
+systems, framed around equity of access, efficiency, safety and green mobility. 
+37
+Many new networks, initiatives and partnerships born in response to the pandemic 
+have data and data sharing at their core. 
+38
+ 
+Disparities exist between developed and developing countries with the former 
+outperforming the latter on most mobility policy goals according to the Global 
+Roadmap of Action Toward Sustainable Mobility produced by the Sustainable 
+39
+Mobility for All Initiative in 2019. This suggests that at this point in time developed 
+countries might offer a more conducive environment for implementing data-sharing 
+initiatives.  
+Increasing collaboration around data 
+Bringing relevant datasets together​, such as emissions data from 
+transportation, data on public transport journeys and data on the use of various 
+modes of transportation, ​could help stakeholders better understand the 
+impact of various government policies or investments​, for instance in areas 
+such as cycle infrastructure, on transport practices and related emissions. The 
+areas of highest impact to tackle climate change through better data collaboration, 
+based on our desk research and stakeholder consultations, appear to be:  
+40
+ 
+●multimodal transportation solutions 
+●Electric Vehicles (EV) charging  
+●journey planning apps and services 
+●Mobility as a Service (MaaS) model 
+ 
+There are ​opportunities to strengthen existing initiatives around data sharing, 
+such as the work of the WBCSD around enabling data sharing for transforming 
+urban mobility, that will scale and replicate data sharing between global public and 
+41
+private sectors in mobility. Targeted pilots can support the creation and adoption of 
+trustworthy data-sharing models.  
+ 
+Western Europe seems to be an ideal geographical focus for piloting data 
+collaboration initiatives ​given the maturity of existing legislation and anticipated 
+37
+Sustainable Mobility for All (2019), ‘​Global Roadmap of Action Toward Sustainable Mobility​’, 
+http://pubdocs.worldbank.org/en/350451571411004650/Global-Roadmap-of-Action-Toward-Sustainable-
+Mobility.pdf 
+38
+ODI (2020), ‘​Call for Proposals: A review of public–private mobility data sharing in response to the 
+Covid-19 pandemic​’, 
+https://theodi.org/article/call-for-proposals-a-review-of-public-private-mobility-data-sharing-in-response-t
+o-the-covid-19-pandemic/ 
+39
+Sustainable Mobility for All (2019), ’​Global Roadmap of Action Toward Sustainable Mobility​’, 
+http://pubdocs.worldbank.org/en/350451571411004650/Global-Roadmap-of-Action-Toward-Sustainable-
+Mobility.pdf  
+40
+Transport Systems Catapult (2015), ‘​The Transport Data Revolution Investigation into the data required to 
+support and drive intelligent mobility March 2015​’ 
+https://ts.catapult.org.uk/wp-content/uploads/2016/04/The-Transport-Data-Revolution.pdf  
+41
+WBCSD (2020), ‘​Enabling data-sharing: Emerging principles for transforming urban mobility​’, 
+https://www.wbcsd.org/Programs/Cities-and-Mobility/Transforming-Mobility/Transforming-Urban-Mobility/
+Resources/Enabling-data-sharing-Emerging-principles-for-transforming-urban-mobility  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     15 
+
+ 
+regulatory and legislative developments as part of the European Green Deal, as well 
+42
+as the adoption of digital technologies that bring about a vast amount of new 
+datasets. 
+ 
+Data collaborations in this area could also build on the work of organisations such as 
+the ​SLOCAT partnership​, the ​Connected Places Catapult​ in the UK, the ​London 
+43
+Data Commission Electric Vehicle Charging initiative​ or the work around the creation 
+of ​mobility hubs​ in cities where different sustainable and shared transport modes are 
+connected with each other. 
+ 
+  
+42
+The Guardian (2020), ‘​What is the European Green Deal and will it really cost €1tn?​’, 
+https://www.theguardian.com/world/2020/mar/09/what-is-the-european-green-deal-and-will-it-really-cost-
+1tn  
+43
+Transport Systems Catapult (2015), ‘​The Transport Data Revolution Investigation into the data required to 
+support and drive intelligent mobility March 2015​’, 
+https://ts.catapult.org.uk/wp-content/uploads/2016/04/The-Transport-Data-Revolution.pdf  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     16 
+
+ 
+Reducing waste 
+The data ecosystem 
+Waste not only pollutes our ecosystems, but its creation, distribution and disposal 
+also contributes to greenhouse gas emissions. As per the UN Environment 
+Programme, an estimated 11.2 billion tonnes of solid waste is collected around the 
+world every year, and ‘the decay of the organic proportion is contributing about 5 
+percent of global greenhouse gas emissions’.  
+44
+ 
+Reducing emissions originating from the generation of waste requires better tracking 
+of different types of waste – including hazardous, electronics and construction waste. 
+As Microsoft President Brad Smith acknowledged in a 2020 blog, ‘Today, there is no 
+consistent, high-quality data about the amount of waste, the type and quality, where 
+it is generated and where it goes. [...] Waste data needs a standardized methodology, 
+better transparency and higher quality.’ 
+45
+ 
+Municipal waste data is generally more available in the Global North through the 
+wide-spread use of scales and weighing systems, while cities in the Global South 
+often seem to lack data on the volume of waste and its breakdown by types of 
+material. Nevertheless, even in the Global North there is space for improving the 
+consistency of reporting on waste data by the different stakeholders involved, 
+including corporations and waste management companies. 
+ 
+Electronic waste, or ‘e-waste’ - ‘items of electrical and electronic equipment and its 
+parts that have been discarded by its owner as waste without the intent of re-use’, 
+46
+is of prime concern to a large extent due to the materials involved. E-waste can 
+contain up to 60 different metals and chemicals, which, if disposed of incorrectly, can 
+expose people to toxic substances or soil contamination. Currently only about 20% 
+of e-waste is formally recycled. ‘The United Nations University predicts e-waste 
+47
+could nearly triple to 120 million tonnes by 2050 if nothing changes.’ ‘There is [also] 
+48
+little data on what happens to the rest, which for the most part ends up in landfill, or 
+is disposed of by informal workers in poor conditions.’ At the same time, due to the 
+49
+gold, copper, platinum and other rare earth elements present in e-waste, it is 
+estimated to present an ‘opportunity worth over USD $62.5 billion per year, more 
+than the GDP of most countries and three times the output of the world’s silver 
+44
+ UN Environment Programme, (n.d.), ‘​Solid waste management​’, 
+https://www.unenvironment.org/explore-topics/resource-efficiency/what-we-do/cities/solid-waste-manage
+ment  
+45
+ Microsoft (2020), ‘​Microsoft commits to achieve ‘zero waste’ goals by 2030​’, 
+https://blogs.microsoft.com/blog/2020/08/04/microsoft-direct-operations-products-and-packaging-to-be-
+zero-waste-by-2030/  
+46
+ The Global E-waste Statistics Partnership (GESP), ‘​What is e-waste​’ 
+https://globalewaste.org/what-is-e-waste/#:~:text=Electronic%20waste%2C%20or%20e%2Dwaste,the%
+20intent%20of%20re%2Duse​.  
+47
+WBCSD (2019), ‘​UN, WEF, WBCSD and partners come together to address e-waste challenges​’, 
+https://www.wbcsd.org/Programs/Circular-Economy/News/UN-WEF-WBCSD-and-partners-come-togethe
+r-to-address-e-waste-challenges  
+48
+ ibid  
+49
+WEF, PACE (2019), ‘​A New Circular Vision for Electronics Time for a Global Reboot​’ 
+https://docs.wbcsd.org/2019/01/A_New_Circular_Vision_for_Electronics.pdf  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     17 
+
+ 
+mines.’ These materials are also essential for the transition to renewable energy as 
+50
+they are crucial for wind turbines, solar panels and electric car batteries. This 
+51
+provides an incentive for key stakeholders to work together to better track e-waste 
+and make sure the materials are reused. 
+Increasing collaboration around data 
+As more companies are making ‘zero waste’ commitments and pledges to get better 
+at reusing, repurposing and recycling the waste they produce, there is an 
+52
+opportunity to increase collaboration in multiple areas.  
+ 
+One area where collaboration around data could help spur progress is around 
+corporate general waste. There is an opportunity to ​improve reporting on the 
+weight of commercial waste and its breakdown as per the different materials in 
+it​ ​through collaboration between waste haulers and companies in different 
+sectors ​of the economy. ​Pilots focused on a specific sector​, for instance the 
+technology sector, ​and specific locations, for example a European or North 
+American city​ that have generally better data availability, could help develop models 
+for consistent tracking of commercial waste, contributing to better decision making 
+by all stakeholders involved in the waste management process.  
+ 
+Another area to explore is around ​measuring and improving the circularity of 
+products, of the materials in them, and their packaging​. This can help companies 
+work towards various commitments around circular product design and the use of 
+more recyclable packaging. Data collaborations around these different aspects will 
+53
+require participation from a slightly different set of stakeholders. For example, in the 
+realm of e-waste, mineral companies will be essential for setting up collaborations 
+around tracking the materials in technology products. ​Specific objectives may 
+include the development of open data standards for circular transition 
+indicators for electronics, either focused on the products themselves or their 
+packaging, or the development of a circular ID approach for better tracking the 
+materials in electronics.​ The latter may be developed through a collaboration 
+between technology companies and electronics recyclers. Similar approaches 
+already exist in the fashion industry and the building sector, allowing us to learn 
+54
+from their experiences in the area. These data collaboration efforts are likely to be 
+55
+best executed at a global level.  
+ 
+50
+ WBCSD (2019), ‘​UN, WEF, WBCSD and partners come together to address e-waste challenges​’, 
+https://www.wbcsd.org/Programs/Circular-Economy/News/UN-WEF-WBCSD-and-partners-come-togethe
+r-to-address-e-waste-challenges  
+51
+ Bangkok Post (2020), ‘​UK report shines a light on e-waste​’, 
+https://www.bangkokpost.com/opinion/opinion/2036171/uk-report-shines-a-light-on-e-waste  
+52
+ Microsoft (2020), ‘​Microsoft commits to achieve ‘zero waste’ goals by 2030​’, 
+https://blogs.microsoft.com/blog/2020/08/04/microsoft-direct-operations-products-and-packaging-to-be-
+zero-waste-by-2030/ 
+53
+Ibid  
+54
+ Vogue Business (2019), ‘H&M, Microsoft, PVH Corp collaborate in circular fashion initiative’, 
+https://www.voguebusiness.com/technology/circular-id-eon-sustainability-blockchain  
+55
+ Madaster Origination, (n.d.), ‘Material Matters’, 
+https://www.madaster.com/en/about-us/why-a-materials-passport  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     18 
+
+ 
+There may also be an immediate ​opportunity to boost the work of WBCSD on the 
+circular economy and in particular on the development of circular transition 
+56
+indicators.  
+57
+ 
+The above opportunities can help inform not only company policies and practice but 
+also long-term government policies across the world on the reuse and recycling of 
+products and their packaging. Countries like the UK – which is reported to have the 
+second largest amount of e-waste, after only Norway, and is ranked as ‘the worst 
+offender of the ⅓ million tonnes of undocumented e-waste estimated to be exported 
+from the European Union every year’ – could benefit from better data to track 
+58
+various aspects of their transition to a circular economy. 
+ 
+Data collaborations in this space could also build on the efforts of organisations such 
+as ​The Global E-Waste Statistics Partnership​ ​to monitor developments of e-waste 
+over time, or the ​Capital Equipment Coalition​ of the Platform for Accelerating the 
+Circular Economy (PACE).  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+56
+WBCSD, ‘​Circular Economy​’,  ​https://www.wbcsd.org/Programs/Circular-Economy  
+57
+ WBCSD, ‘​Circular Transition Indicators (CTI)​’ 
+https://www.wbcsd.org/Programs/Circular-Economy/Factor-10/Metrics-Measurement/Circular-transition-i
+ndicators  
+58
+Bangkok Post (2020), ‘​UK report shines a light on e-waste​’, 
+https://www.bangkokpost.com/opinion/opinion/2036171/uk-report-shines-a-light-on-e-waste  
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     19 
+
+ 
+Annex 
+Contributors  
+We would like to thank those who have supported our research and provided their 
+insights on the challenges of data sharing and opportunities for data collaborations to 
+address significant climate issues, including representatives of: 
+ 
+●Arup 
+●Better Buildings Partnership  
+●CBRE  
+●C40 
+●DHI 
+●DNV GL 
+●Ecolab 
+●Icebreaker One 
+●CHC Initiative  
+●International Energy Agency (IEA) 
+●International Water Management Institute (IWMI) 
+●Lawrence Berkeley National Laboratory  
+●Open Environmental Data Project 
+●Open Standards for Linked Organisations (OSLO) 
+●Climate Action Tech  
+●Gold Standard 
+●Global e-Sustainability Initiative 
+●Pacific Institute 
+●Responsible Business Alliance (RBA) 
+●Spend Network 
+●The Nature Conservancy (TNC) 
+●University of Melbourne 
+●UN Conference on Trade and Development (UNCTAD) 
+●World Business Council for Sustainable Development (WBCSD) 
+●World Economic Forum (WEF) 
+●World Resources Institute (WRI) 
+●United Nations Economic Commission for Europe (UNECE) 
+●Veolia 
+●Volvo Research and Educational Foundation 
+ 
+Open Data Institute 2021Accelerating progress on tackling the climate crisis through data collaboration     20 

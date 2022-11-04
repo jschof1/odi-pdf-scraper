@@ -1,0 +1,503 @@
+
+
+ 
+
+ 
+ 
+ 
+ 
+Contents 
+About 
+Executive summary 
+Background 
+Approach 
+Key insights 
+ 
+Session 1: How data relates to the everyday life of engineers 
+Session 2: Identifying the data skills and knowledge needed to improve access, 
+use and sharing of data in the engineering sector 
+Session 3: How data skills and knowledge needs compare to what support is 
+already available 
+Summary and next steps 
+ 
+Short term (January – March 2020) – next steps for the ODI 
+Longer term (April 2020 onwards) – considerations for funders 
+Appendix 1: Workshop attendance 
+Appendix 2: Workshop images 
+Appendix 3: Summary of ODI desk and user research 
+ 
+Approach 
+Key Insights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About 
+ 
+This report was produced as part of a project funded by Lloyd's Register Foundation. 
+It builds on research from the Open Data Institute's ​Sharing engineering data for the 
+public good​ project funded by Lloyd's Register Foundation. The views in this report 
+are those of the authors. 
+ 
+This report has been researched and produced by the Open Data Institute, 
+and published in January 2021. Its lead authors were Deborah Yates, James 
+Maddison and Mahad Alassow. If you want to share feedback by email or would like 
+to get in touch, contact James Maddison at ​james.maddison@theodi.org​.  
+ 
+To share feedback in the comments, highlight the relevant piece of text and click 
+the ‘Add a comment’ icon on the right-hand side of the page. 
+ 
+ 
+ 
+ 
+ 
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     3 
+ 
+How can it be improved? We welcome suggestions 
+from the community in the comments. 
+
+ 
+ 
+Executive summary 
+This report is the result of a half-day discovery workshop facilitated by the Open Data 
+Institute (ODI) and commissioned by Lloyd's Register Foundation. The workshop was 
+designed to help understand the extent of support, training and guidance for data 
+literacy and skills in the engineering sector. This is part of wider work to take forward 
+the principle of ‘building data literacy and skills’ set out in the industry backed 
+manifesto​ for sharing engineering data for public good. Together with a variety of 
+stakeholders (see appendix one) from across the engineering landscape, we 
+discussed the role that data plays in the everyday work of engineers; examined the 
+balance of data skills needed across engineering organisations; and discussed how 
+existing support compares to what is needed, in order to inform interventions to drive 
+greater use and sharing of data in the sector. 
+ 
+While it was felt that in some areas of engineering, data skills and knowledge were 
+fairly strong, the general consensus from participants was that the level of data skills 
+and knowledge across the whole sector needs to be improved, and requires more 
+investment.  
+ 
+In this report we make a number of recommendations on next steps to be delivered 
+over the short (next six months) and long (beyond six months) term. These are 
+provided in detail at the end of the report and include: 
+ 
+1.Producing a white paper on data skills in engineering 
+2.Convening a roundtable with engineering CPD providers to explore 
+opportunities for adding data skills to existing CPD offerings 
+3.Working with universities, research organisations and professional bodies to 
+increase capacity in data skills and knowledge 
+4.Developing an ‘introduction to data in engineering’ learning programme 
+  
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     4 
+
+ 
+ 
+Background 
+In 2019, the ODI, funded by Lloyd’s Register Foundation, undertook a ​short project 
+aimed to develop a movement within the engineering sector that would lead to the 
+sharing and use of data for the public good, with a particular focus on improving 
+safety. 
+ 
+We engaged with stakeholders – including the Royal Academy of Engineering, the 
+Health and Safety Executive, The Alan Turing Institute and Cambridge University 
+Press – to develop a shared vision around better use of data. In May 2019 we hosted 
+a public event to help to articulate and explore our shared vision, and in October 
+2019, we published a ​manifesto​ and ​report​ with Lloyd’s Register Foundation, which 
+identifies ways to build a stronger engineering data infrastructure to increase safety 
+within the sector. 
+ 
+The ODI and Lloyd's Register Foundation teamed up again in 2020 to take two of the 
+manifesto principles forward: 
+ 
+●Using challenges to drive innovation that solves problems ​by launching a 
+new stimulus fund to support ​small projects to pilot approaches​ on a 
+practical level.  
+●Building data literacy and skills.​ Through desk and user research aiming to 
+gather evidence and insight into the need for data literacy and existing 
+support available in the form of training, certifications or codes of practice.  
+ 
+This workshop forms part of the user research to ensure we focus efforts on adding 
+value to sharing data within the sector, and don’t repeat work already done. 
+ 
+  
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     5 
+
+ 
+ 
+Approach 
+This half-day discovery workshop, held on 22 October 2020, brought together key 
+stakeholders from the engineering sector to share their perspectives on data literacy 
+and skills. Participants came from a variety of disciplines, representing research, 
+regulation, funders and those that create data. A full list of organisations attending is 
+included in ​appendix 1​.  
+ 
+The workshop was split into three sessions: 
+ 
+1.How data relates to the everyday life of engineers 
+2.Identifying the data skills and knowledge needed to improve access, use and 
+sharing of data in the engineering sector 
+3.How data skills and knowledge needs compare to what support is already 
+available 
+ 
+We used the ODI ​Data Skills Framework​ to consider the balance of data skills – from 
+the more technical to those that enable innovation – needed within organisations. We 
+reflected on which elements of the skills framework were a priority to increase 
+access, use and sharing of data, and considered the skills most relevant or missing 
+for specific disciplines. 
+ 
+Our intention is to use these insights, combined with findings from more focused ​user 
+interviews​ carried out by the ODI (included in appendix 3), to determine whether there 
+is a need to revise or expand on existing codes of practice, certifications or training, 
+and consider new initiatives to promote data understanding and use for the 
+engineering sector. 
+ 
+  
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     6 
+
+ 
+ 
+Key insights 
+This section brings out the key insights from each session. 
+Session 1: How data relates to the everyday life of 
+engineers 
+In this discussion we reflected on how data relates to the everyday life of engineers, 
+considering the value of data to day-to-day work, and the level of awareness of this 
+across disciplines. The points below bring out the main themes and insights from the 
+discussion. 
+ 
+The value of data day-to-day 
+ 
+●There has been a slow take-up but data is being talked about a lot more, 
+especially in the construction sector. 
+●There is increasing use of data within Artificial Intelligence (eg as part of 
+research), but core skills and knowledge around data are not always 
+prioritised.  
+●Private sector is often results orientated, so even with limited data it’s 
+expected that staff extrapolate. 
+●The Covid-19 pandemic has elevated data discussions to board level in many 
+cases. 
+ 
+Knowledge  
+ 
+●There is a high variability of skills and knowledge depending on 
+discipline/geography. 
+●Those in ‘data roles’ tend to have the analytics skills to do their job. 
+●In general there is a higher level of comfort discussing ‘headlines’ drawn from 
+data, over more detailed analysis. Organisations tend to rely on high level 
+datasets and do not understand the potential risks in terms of decision 
+making based on these datasets only. It’s an issue which results in 
+inaccuracies. 
+●The engineering sector is very varied which means people need to work 
+together – it’s hard for one person to have all the expertise. Well-balanced 
+teams are key to covering the breadth of data topics and practical 
+experience, however the approach to skills and knowledge is currently more 
+on an individual basis rather than thinking about the team as a whole.  
+●Universities are beginning to offer more data literacy courses, but uptake is 
+slow. 
+●Engineering professionals need help to understand the problem of incorrect 
+information.  
+●There is growing recognition that the ‘​data translator​’ is vital for organisations 
+in making data-informed decisions and creating value from data. Visualization 
+and creativity are vital in this​. 
+ 
+Access and use of data  
+ 
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     7 
+
+ 
+ 
+●In general, data is not curated well and this impacts access and use. 
+●Different people use different standards which can make it difficult to access 
+and use data within engineering. For example, the codes will be different – 
+how data is manually inputted makes a difference to how well computers 
+communicate and link data. 
+●Building Information Modelling (BIM) is an example of best practice in access 
+and use of data. 
+●Technical infrastructure, and the required understanding of it, are not always 
+there to support use of data. 
+●Funders are beginning to encourage responsible data use. 
+Session 2: Identifying the data skills and 
+knowledge needed to improve access, use and 
+sharing of data in the engineering sector 
+In this session we used the ODI ​Data Skills Framework​ to consider the balance of 
+data skills needed within organisations – from the more technical to those that enable 
+innovation. We reflected on which elements of the skills framework were a priority to 
+increase access, use and sharing of data, and considered which skills were most 
+relevant and which were missing for specific disciplines. Images from this interactive 
+session are included in ​appendix 2​ and we have summarised the main points below. 
+ 
+Innovating with data 
+ 
+●Working in an ethical manner is a top priority and shouldn’t be neglected in 
+favour of other goals. 
+●There is a lack of knowledge about the data capabilities people hold. 
+Promoting and developing the awareness of data capabilities could help 
+reduce current inefficiencies. 
+●Skills to apply statistics, use data, analyse trends and draw insights are 
+important to enable organisations to relate to, and achieve value from, data. 
+ 
+Standardising and accessing data 
+ 
+●Standardising data can be difficult, particularly when innovation is rapid.  
+●A uniform way of working to standardise data across the sector would help 
+different systems to communicate. 
+●Developing an industry wide and accepted practice to manage and store 
+data will improve and encourage collaborations. 
+●Improving skills to describe and inventory data will help people to find and 
+access it more easily. 
+●Open platforms like Github, where people around the world start working on 
+the code and build on the data, are important for working across countries 
+and maximising access, use and sharing of data. 
+ 
+Leading change 
+ 
+●“Having a go-to person has been a game changer. Before it was difficult to 
+know who had the responsibility [for the data]” 
+●It is important for those not in technical roles to have at least a baseline level 
+of understanding of data and its value to a project, to foster an environment 
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     8 
+
+ 
+ 
+where sharing learning – both positive and negative – about data projects is 
+encouraged.  
+●User engagement capabilities are important to encourage adoption of data 
+that is shared. For example, using journey maps outlining real sectoral 
+challenges – if a user can directly see how their practical challenges can be 
+addressed using data, the buy-in rate improves. 
+Session 3: How data skills and knowledge needs 
+compare to what support is already available 
+In this discussion, we reflected on how data literacy needs compare to what support 
+is already available. We shared ODI desk and user research on this topic (a full 
+summary is included in ​appendix 3​), and discussed whether the findings reflected the 
+experiences of the participants.  
+ 
+Gaps in support for data skills and knowledge 
+ 
+●Practical guidance on working in an ethical manner when sharing and using 
+data.  
+●Peer learning approaches. For example, across supply chains, for those 
+working on digital twins, or via implementation of the UK National Data 
+Strategy. 
+●Sharing where things went wrong, as well as where things went well – 
+balancing sharing the learning with managing reputation is often a challenge. 
+●Data literacy for those not in formal ‘data roles’ – often there is a big gap in 
+knowledge here. 
+●Cultural change – people and organisations often go on a journey to become 
+comfortable sharing data, particularly if they are worried about reputation or 
+competitive advantage. There isn’t much available to support this process. 
+●Curating, documenting and inventorying data – it can be hard to find what’s 
+needed and then access it. There is a need for help to structure what already 
+exists. For example, data about building stock and construction. 
+●Clarity on roles and governance of key national data assets such as building 
+stock (eg currently this is being collated by the Colouring Cities project). 
+ 
+There was broad agreement that no one organisation is in an obvious place to drive 
+change and lead skills development, and that it should be a private/public 
+partnership. 
+  
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     9 
+
+ 
+ 
+Summary and next steps 
+This half-day workshop generated some useful insights into the levels of data literacy 
+and skills required to access, use and share data in engineering. The group was 
+enthusiastic and engaged throughout and each participant had the opportunity to 
+input and be heard. Workshop participants agreed there is value in bringing 
+cross-discipline groups like this together as they all learnt something from each other. 
+ 
+There are some clear areas to consider in terms of next steps. Taking into account 
+what we heard during the workshop, and building on our earlier work with Lloyd's 
+Register Foundation, we have identified some short-term activities for the ODI to 
+undertake as part of our ongoing project with Lloyd's Register Foundation. We have 
+also identified potential future activities that would require additional funding. 
+Together, these should begin to increase data literacy and skills to support increased 
+access, use and sharing in the engineering sector.  
+Short term (January – March 2020) – next steps 
+for the ODI 
+This set of short-term activities will be delivered by the ODI under our existing grant 
+from Lloyd's Register Foundation.  
+ 
+1.Produce a white paper on data skills in engineering. ​This joint paper will 
+be a collaboration between Lloyd's Register Foundation, ODI and industry 
+leaders such as the Alan Turing Institute and the Royal Academy of 
+Engineering. The paper will consider the skills and any specific types of 
+training needed to implement the principles set out in the ​manifesto​ to 
+increase access to data and drive innovation in the engineering sector. 
+ 
+2.Convene a roundtable to explore opportunities for adding data skills to 
+existing CPD offerings. ​Engaging universities and engineering organisations 
+which provide education services to explore the value of working together to 
+include data skills and literacy in their training programme. This would include 
+data, digital and education staff from continuing professional development 
+(CPD) providers and support the longer term aim of sector change. 
+Longer term (April 2020 onwards) – 
+considerations for funders  
+These activities could help to improve data skills and knowledge across the sector. 
+Funders are asked to consider: 
+ 
+1.Work with universities, research organisations and professional bodies 
+to increase capacity in data skills and knowledge. ​Develop a programme 
+of training that would enable universities to communicate, teach and engage 
+students in the practical application of data within specific disciplines of 
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     10 
+
+ 
+ 
+engineering, and add any new courses or content focused in this area to their 
+existing CPD offering. 
+ 
+2.Develop an ‘introduction to data in engineering’ learning programme. 
+Building on feedback from the ODI’s trial of learning programmes (above), 
+this piece of work would engage and align with existing initiatives, such as 
+Engineering X​ and ​Data-Centric Engineering​ to improve data literacy for 
+those not in formal ‘data roles’.  
+ 
+ 
+  
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     11 
+
+ 
+ 
+Appendix 1: Workshop 
+attendance 
+ 
+The workshop included nine participants from nine organisations: 
+ 
+ 
+ 
+ 
+  
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     12 
+Organisation Organisation role Attendee Role 
+Health & Safety Executive Regulator Senior Scientist 
+Colouring London/Alan Turing 
+Institute 
+Researcher Programme Director 
+EPSRC Funder Senior Portfolio Manager 
+Geodata Creator Enterprise Fellow 
+Atkins Steward/Creator Data Scientist 
+Mission Drive/ODI Data skills consultant Data Skills Consultant 
+Lloyd's Register Foundation Funder Programme Manager 
+RAENG – Engineering X Researcher Senior Manager 
+Tideway Steward Engineering Information Manager  
+
+ 
+ 
+Appendix 2: Workshop 
+images 
+In this appendix we share screenshots of the ‘Jamboard’ activity used in session 2, 
+asking participants to consider what skills are required to improve access, use and 
+sharing of data in engineering. We used the ODI’s ​Data Skills Framework ​to help 
+structure our thoughts around the common skills and capabilities required to create 
+value from data. 
+ 
+  
+ 
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     13 
+
+ 
+ 
+Appendix 3: Summary of 
+ODI desk and user 
+research 
+Approach  
+The ODI conducted research using a combined approach: desk research, followed by 
+a number of expert interviews. Insights from both elements informed the structure 
+and focus of the workshop. 
+ 
+The desk research focused on two key questions: 
+ 
+●What codes of practice or guidance are available to organisations in the 
+engineering space around accessing, using and sharing data?  
+●What training courses or certification are available to organisations in the 
+engineering space around accessing, using and sharing data?  
+ 
+The desk research uncovered a number of gaps which were used to create more 
+specific questions for seven expert interviews, with a focus on current best practice 
+and existing gaps, in guidance, training and skills. We engaged with a range of 
+stakeholders, in different roles, from organisations working in the sector. 
+Stakeholders were selected based on their experience working on or with data 
+enabled projects, and to cover a range of typical roles within the engineering 
+ecosystem. 
+ 
+ 
+  
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     14 
+Organisation Organisation role 
+Health & Safety Executive (x2)  Regulator 
+Arup  Advisor 
+Engineering and Physical Sciences Research Council Funder 
+Royal Academy of Engineering Researcher 
+Tideway Steward 
+Centre for Digital Built Britain Decision maker  
+
+ 
+ 
+Key Insights 
+There is not much generic guidance or training around data in the engineering sector. 
+Most organisations follow the rules outlined in GDPR, and may have their internal 
+guidelines to follow around accessing, using and sharing data as well. Some 
+organisations have their own training programmes around data, but it’s not always 
+mandatory to attend them. There are a small number of organisations which offer 
+external guidance, like Royal Academy of Engineering’s ‘Towards Trusted Data 
+Sharing’ work, but these are rare.  
+ 
+Data guidance needs to be embedded into everyday engineering practices, and 
+people working in the sector need to be able to see the value of data for their role, 
+and for their organisation, in order for it to make sense to them. If organisations are to 
+invest in upskilling staff in data knowledge and skills, that upskilling needs to be 
+aimed at addressing specific business or organisational problems or opportunities. 
+Practical guidance around accessing, using and sharing data for the engineering 
+sector, guidance about the value of data and case studies would be really useful 
+here. 
+ 
+There are some more general problems to be solved as well. Often, data isn’t 
+something that is well understood across the organisation, from top to bottom, which 
+means that culture change around data and digital is driven by a few individuals, 
+usually from the bottom up. There is sometimes a disconnect in understanding 
+between departments or roles, which can cause miscommunication and a 
+misinterpretation of each other's needs. Guidance around the fundamentals of data, 
+such as key terms and concepts would be useful for bringing people across 
+organisations onto the same page. Similarly, examples of how other sectors are 
+demonstrating value with data, as well as tools that organisations can use to have 
+conversations about data would be valuable.  
+Open Data Institute 2021Workshop Report - data skills & knowledge in the engineering sector     15 

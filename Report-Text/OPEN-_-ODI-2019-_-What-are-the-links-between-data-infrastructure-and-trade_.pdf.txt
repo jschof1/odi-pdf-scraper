@@ -1,0 +1,2307 @@
+
+
+$
+ 
+
+ 
+ 
+ 
+ 
+ 
+Contents 
+About2 
+Terms3 
+Executive summary6 
+Introduction8 
+Data openness and international trade10 
+Data infrastructure and international trade competitiveness14 
+Data infrastructure14 
+Trade competitiveness16 
+Market access18 
+Incentives for trade and investment23 
+Factor conditions26 
+Intermediate inputs and backbone services28 
+Trade promotion33 
+Conclusion34 
+ 
+ 
+ 
+ 
+About 
+This report has been researched and produced by the Open Data Institute, and 
+published in 2019.  
+ 
+Lead author: Lawrence Kay 
+ 
+If you would like to send us feedback, please get in contact us at ​policy@theodi.org  
+ 
+  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  2 
+
+ 
+Terms 
+Data-enabled:​ ​a product that has been developed with digitised information or relies 
+on it to function.  
+ 
+Open standards for data:​ reusable agreements that make it easier for people and 
+organisations to publish, access, share and use better quality data. 
+1
+ 
+Data infrastructure:​ datasets, identifiers and registers; the standards and 
+technologies used to curate and provide access to those data assets; and the 
+guidance and policies that inform the use and management of them.  
+2
+ 
+Identifiers:​ labels used to refer to an object being discussed or exchanged, such as 
+products, companies or people. 
+3
+ 
+Business climate: ​the conditions in which companies are established, managed, and 
+shut down, subject to the rule of law, regulation, and political stability.  
+4
+ 
+Local content stipulations:​ ​requirements by a government that domestic firms use 
+domestic suppliers.  
+5
+ 
+Market access:​ ​the ease with which producers in one country can access and sell to 
+consumers in another country.  
+ 
+Non-tariff barriers:​ charges, standards, quantitative restrictions, contingent 
+protection, and other measures that companies are asked to comply with when 
+selling goods and services from one country into another.  
+6
+ 
+Open data:​ data that is available to everyone to access, use and share. 
+7
+ 
+Personal data:​ ​information relating to natural persons who can be identified or who 
+are identifiable, directly from the information in question; or who can be indirectly 
+identified from that information in combination with other information. 
+8
+ 
+Registers:​ datasets that provide consistent, accurate and up to date lists of 
+information across a variety of activities.  
+9
+ 
+1
+ Open Data Institute (2018) ‘Open Standards for Data’, ​https://standards.theodi.org 
+2
+ Open Data Institute (2019) ‘Open Data and Data Infrastructure’, 
+https://docs.google.com/document/d/1tAeidONKZEkpCf9Jkwe4amWZKbQHTMiHJb8rW7PV7Fs 
+3
+ Open Data Institute (2014) ‘White paper: Enhancing open data with identifiers’, 
+https://theodi.org/article/white-paper-enhancing-open-data-with-identifiers 
+4
+ European Bank for Reconstruction and Development (n.d.), ‘Investment climate and governance’, 
+https://www.ebrd.com/what-we-do/sectors-and-topics/investment-climate-governance.html 
+5
+ OECD (n.d.) ‘Local content requirements impact the global economy’, 
+https://www.oecd.org/trade/topics/local-content-requirements  
+6
+ World Bank (2012) ‘Trade Competitiveness Diagnostic Toolkit’, 
+https://openknowledge.worldbank.org/bitstream/handle/10986/2248/673620PUB0EPI007869B009780821
+389379.pdf?sequence=1&isAllowed=y​, p63 
+7
+ Open Data Institute (2017) ‘What is ‘open data’ and why should we care?’, 
+https://theodi.org/article/what-is-open-data-and-why-should-we-care/  
+8
+ Information Commissioner’s Office (2019) ‘What is Personal Data?’, 
+https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulati
+on-gdpr/key-definitions/what-is-personal-data/ 
+9
+ Open Data Institute (2018) ‘Registers: making lists we can trust’, 
+https://docs.google.com/document/d/1CvSfa1Ahp5ZqqGmkZ1irdVYeFHCCNO6tY5VaFchEk6g/edit 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  3 
+
+ 
+Tariffs:​ duties on products imported from one country into another. 
+10
+ 
+Trade competitiveness:​ a country's advantage or disadvantage in selling its 
+products in international markets. 
+11
+ 
+Transaction costs:​ ​the costs involved in market exchange, such as through 
+discovering market prices and the costs of writing and enforcing contracts. 
+12
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+10
+ World Trade Organization (n.d.) ‘Tariffs’, ​https://www.wto.org/english/tratop_e/tariffs_e/tariffs_e.htm 
+11
+ Organisation for Economic Co-operation and Development (2014) ‘Glossary of Statistical Terms’, 
+https://stats.oecd.org/glossary/detail.asp?ID=399 
+12
+ Ibid. 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  4 
+
+ 
+Executive summary 
+Data could drive global economic growth for decades to come, but little is 
+known about how countries can turn their use of it into trade competitiveness. 
+Up to two billion people might now be using cloud computing to store digital 
+information, while greater access to public and private data across the world could 
+create as much as $3tn in annual value for the global economy.
+,,
+ But what can 
+131415
+countries do to capture that value through the data-enabled goods and services that 
+they sell abroad?  
+ 
+This report discusses how data infrastructure might be built for trade 
+competitiveness. ​Countries can approach the construction of data infrastructure 
+with a variety of objectives. The discussion here explores what policymakers might 
+consider as they seek to boost the exports of domestic companies that are using 
+data to create and maintain goods and services. The report broaches the key 
+questions of how easy it is for domestic producers of data-enabled goods and 
+services to find potential buyers abroad; the incentives that such companies have in 
+developing new products; their level of access to production factors, such as data; 
+16
+how many support services, such as research and data science, are available to them 
+as they seek to grow and sell abroad; and how trade promotion schemes might help.  
+ 
+Some countries are already trying to gain an advantage in data-enabled 
+technology in the hope that it will lead to long-term trade competitiveness. ​The 
+United States (US) has established itself as a leader in the collection, analysis, and 
+use of data in digital services such as those offered by Amazon, Facebook, and 
+Google. But countries such as Germany are rapidly trying to catch up in the use of 
+data-enabled technology in the transport sector, while countries as diverse as Japan 
+and Kenya are developing national strategies for the exploitation of data through 
+artificial intelligence.  Canada is spending C$3bn in its Ontario province alone to 
+1718
+help it better compete in internationally competitive digital services.  
+19
+ 
+Trust in the use of data may have become a point of trade competitiveness in 
+data-enabled goods and services in recent years. ​The European Union’s (EU’s) 
+General Data Protection Regulation (GDPR)​ ​is partly about showing that EU countries 
+have high-quality data-use standards, and can exchange data in a trustworthy 
+manner. The United Nations Conference on Trade and Development has 
+recommended that countries around the world seek to establish data-exchange 
+relationships with their trading partners that are based on being open about data 
+collection and why data is being collected; and allowing data subjects to access and 
+13
+ HM Government (2013) ‘Shakespeare Review: An Independent Review of Public Sector Information​’​, 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/198752
+/13-744-shakespeare-review-of-public-sector-information.pdf​ p8 
+14
+ ​McKinsey (2013) ‘Open data: Unlocking innovation and performance with liquid information​’, 
+https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/open-data-unlocking-innovati
+on-and-performance-with-liquid-information  
+15
+ ​Cisco Systems (2016) ‘1.2 Cross-Border Data Flows, Digital Innovation, and Economic Growth’ 
+http://reports.weforum.org/global-information-technology-report-2016/1-2-cross-border-data-flows-digital
+-innovation-and-economic-growth 
+16
+ Investopedia (2019), ‘Factors of production’, 
+https://www.investopedia.com/terms/f/factors-production.asp 
+17
+ Oxford Insights (2018), ‘European data economies trade project: Background research and mapping’, 
+https://docs.google.com/document/d/127K62i_FgtqQWQrynpPJCegjLNyZnEPguREmyD4naJ0/edit​, p18;  
+18
+ Nesta, ‘Mapping AI governance’, 
+https://www.nesta.org.uk/data-visualisation-and-interactive/mapping-ai-governance/  
+19
+ Ontario Government (2019), ‘Seizing Global Opportunities: Ontario's Innovation Agenda’, 
+https://www.ontario.ca/page/seizing-global-opportunities-ontarios-innovation-agenda  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  5 
+
+ 
+correct data about them. Those nations or groups of countries that establish 
+20
+reputations for good data infrastructure in the years to come may find that they 
+benefit from more international data exchange and hence access to better data.  
+ 
+In recent years, countries have tried to benefit more from data-enabled 
+exchange, aided by trade agreements that enable cross-border data flows. ​The 
+Comprehensive and Progressive Agreement for Trans-Pacific Partnership between 11 
+countries on either side of the Pacific, for example, includes stipulations about 
+cross-border data flows that favour international commerce. With such agreements, 
+21
+countries will be better able to find opportunities for specialisation, although such 
+benefits may be impeded in the future by moves across the world for personal data to 
+be stored in the country in which it was collected – and only physically accessible in 
+that country. Domestic storage of personal data is supported by large majorities of 
+people in Indonesia, China, India, Mexico and Poland.  
+22
+ 
+Some countries are already fostering competition and entrepreneurialism in 
+data-enabled sectors as a way to produce competitive products. ​Australia, for 
+example, has put data exploitation at the centre of its economic strategy and has 
+recognised that companies become more competitive abroad if they are subject to 
+the pressure of competition at home. But this is in the face of seemingly dominant 
+23
+positions in markets for social media and other digital services, held by large US 
+companies such as Facebook. There are ongoing discussions about such issues in 
+the EU, the US, and the United Kingdom (UK), and it is possible that the countries 
+which are most able to increase competition in data-enabled sectors – perhaps 
+through data-portability schemes – could enjoy a future competitive advantage. 
+24
+ 
+If countries are to produce data-enabled goods and services that are 
+competitive abroad, domestic companies need access to data. ​Australia’s 2015 
+Public Data Policy Statement, for example, encouraged public organisations to open 
+data so that it could be used by entrepreneurs as they develop new goods and 
+services. Citymapper, an urban transport service that uses data to help travellers to 
+25
+optimise their routes, grew out of Transport for London publishing realtime timetable 
+and location data from across its network as open data, and the service has since 
+spread to cities around the world.  
+26
+ 
+Countries that have physical infrastructure that allows easy creation and 
+exporting of data-enabled goods and services could have a competitive 
+advantage.​ Data centres, for example, allow companies to securely store and 
+analyse information that is highly sensitive to operations in the financial and 
+healthcare sectors. Giving access to them through a wide variety of cloud computing 
+services can allow companies to keep costs down. But the costs of building data 
+centres across the world can differ substantially and therefore affect competitiveness 
+20
+ UNCTAD (2016), ‘Data Protection Regulations and International Data Flows: Implications for Trade and 
+Development’, p56, ​https://unctad.org/en/PublicationsLibrary/dtlstict2016d1_en.pdf  
+21
+ Lexology (2019), ‘The CPTPP Enters into Force: What Does it Mean for Global Trade?’, 
+https://www.lexology.com/library/detail.aspx?g=9941ebd7-a3f8-4630-bc65-c483931f81ba 
+22
+ CIGI and Ipsos (2014), ‘83% of Global Internet Users Believe Affordable Access to the Internet Should be 
+a Basic Human Right’, 
+https://www.cigionline.org/sites/default/files/documents/internet-survey-2014-factum.pdf  
+23
+ Australian Government (2018) ‘Australia 2030: Prosperity through Innovation’, 
+https://www.industry.gov.au/data-and-publications/australia-2030-prosperity-through-innovation​, p4  
+24
+ Kay L (2019), ‘How to pit a small regulator against big tech?’, 
+https://medium.com/@lawrencebernardkay_13612/how-to-pit-a-small-regulator-against-big-tech-3f1b000f
+99be 
+25
+ Australian Government (2015), ‘Australian Government Public Data Policy Statement’, 
+https://www.pmc.gov.au/sites/default/files/publications/aust_govt_public_data_policy_statement_1.pdf 
+26
+ ​https://citymapper.com/london 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  6 
+
+ 
+– perhaps varying by as much as $60.9m in Brazil, $51.2m in Chile, and $43m in the 
+US. 
+27
+ 
+There are many complementary services and skills that help companies to 
+produce data-enabled products, and hence make them competitive in 
+international markets.​ This might mean access to a variety of data platforms that 
+help companies to collate and analyse data, or being able to employ data scientists 
+with the right domain experience. It could also mean being able to work with research 
+organisations like university departments as they seek to develop frontier technology 
+that could be commercialised – something which Hong Kong is positioning itself for 
+as it establishes research centres on healthcare, artificial intelligence and robotics. 
+28
+ 
+29
+ 
+As companies develop data-enabled products, governments can play their 
+traditional trade promotion role. ​There is currently little focus of such efforts on 
+data-enabled sectors, with the UK–Australia FinTech Bridge being probably the 
+30
+leading example: it seeks to increase market access and regulatory coordination 
+between the two countries, particularly for the companies that have emerged 
+alongside the UK’s open banking initiative and have business models built on 
+trustworthy access to high-quality data. Many countries have schemes for promoting 
+digital trade, and these could be expanded to promote their data infrastructure in 
+years to come.  
+ 
+Developing some of these features while building data infrastructure could help 
+many countries to raise their trade competitiveness.​ Doing so might help 
+countries around the world to grow firms that can more readily compete with the 
+large digital firms that already exist, perhaps developing services that become 
+popular through trustworthy data use. But this is a young research area for trade 
+policymakers, and so far all that is really known is that poor data standards or 
+constricted data flows in countries such as Brazil might be costing the country as 
+much as 4% of its annual investment; and China and Indonesia as much as 1.5% of 
+their exports.  
+31
+  
+27
+ US Chamber of Commerce (2014) ‘Business Without Borders: The Importance of Cross-border Data 
+Transfers to Global Prosperity’, 
+https://www.uschamber.com/report/business-without-borders-importance-cross-border-data-transfers-gl
+obal-prosperity 
+28
+ Future Cities Catapult (2017) ‘City Data Sharing Toolkit’, 
+https://futurecities.catapult.org.uk/project/city-data-sharing-toolkit/  
+29
+ World Economic Forum (2019) ‘This is China’s plan to eclipse Silicon Valley’, 
+https://www.weforum.org/agenda/2019/02/this-is-china-s-plan-to-eclipse-silicon-valley/ 
+30
+ Australian Government (2019) ‘UK-Australia FinTech Bridge’, 
+https://treasury.gov.au/fintech/uk-australia-fintech-bridge 
+31
+ World Bank Group (2016) ‘World Development Report 2016: Digital Dividends’, 
+http://www.worldbank.org/en/publication/wdr2016​, p301  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  7 
+
+ 
+Introduction 
+Data could drive global economic growth for decades to come, but what that 
+means for how countries should trade data-enabled goods and services is 
+unclear. ​The rise of large digital companies like Google and Alibaba has shown that 
+selling goods and services, collecting data about their users, and creating better 
+products thereafter can be a tremendously competitive business model. But it is hard 
+to unpick whether that means countries that want to maximise their competitiveness 
+should have strong data-protection laws; allow easy flow of data across borders; or 
+concentrate on only a few data-enabled activities, now that developed countries have 
+moved so far ahead.  
+ 
+Data infrastructure offers policymakers a framework for understanding how the 
+treatment and sharing of data might affect trade competitiveness.​ In the past two 
+years organisations such as the Organisation for Economic Co-operation and 
+Development (OECD) and the European Centre for International Political Economy 
+have pioneered analysis of the use of data in international trade, discussing rules on 
+data collection and cross-border exchange. The discussion here builds on these 
+efforts by considering all aspects of data infrastructure, and how they might be 
+understood in trade-competitiveness terms.  
+ 
+Data infrastructure is the equivalent of infrastructure for transportation and 
+utilities. ​It consists of datasets, identifiers and registers, the standards and 
+technologies used to curate and provide access to those data assets, and the 
+guidance and policies that inform the use and management of them. There are 
+32
+organisations that govern data infrastructure and groups involved in contributing to or 
+maintaining it. In the same way that good transport infrastructure makes it easier to 
+move around, meet people, and run businesses, high-quality data infrastructure 
+allows more exploitation of data for economic and social benefits.  
+ 
+Data infrastructure improves exploitation of data’s unique features. ​Some types 
+of data can be made excludable in that owners can prevent others from using it 
+through security measures and intellectual property rights – described in the Open 
+Data Institute theory of change as ‘data hoarding’. This is similar to how an oil 
+33
+company can prevent others from using its oil field, but it is not rivalrous and can be 
+used by more than one person without being depleted. As digitised information – bits 
+– in the form of data is a modern phenomenon, the world’s leading economies and 
+data producers are only at the beginning of understanding how best to collect data 
+and produce economic growth through better goods and services built on data.  
+ 
+A country’s trade competitiveness is its ability to sell its goods and services 
+abroad. ​Trade competitiveness is a ‘behind the border’ notion, meaning that it 
+34
+considers the domestic conditions for innovation and optimisation in goods and 
+services and how they enable countries to raise the value they get from their exports.
+32
+ Dodds L and Wells P (2019), ‘Data Infrastructure’, 
+https://www.stateofopendata.od4d.net/chapters/issues/data-infrastructure.html 
+33
+ Open Data Institute (2018), Theory of change, 
+https://theodi.org/about-the-odi/our-vision-and-manifesto/our-theory-of-change/ 
+34
+ A standard definition of export competitiveness, popularised by the OECD, is the degree to which, under 
+open market conditions, a country can produce goods and services that meet the test of foreign 
+competition while simultaneously maintaining and expanding domestic real income. See World Bank 
+(2012), ‘Trade Competitiveness Diagnostic Toolkit’, 
+https://openknowledge.worldbank.org/handle/10986/2248  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  8 
+
+ 
+ Data infrastructure is also often a domestic consideration, as it has so far involved 
+35
+more national rather than international coordination of laws, standards, ethics, and 
+skills for the collection and manipulation of data, not least as some data is only 
+collected and used at the local or national levels.  
+ 
+Estimates of cross-border flows of data and their values have increased 
+substantially in recent years.
+,
+ The International Monetary Fund has identified the 
+3637
+use of data as one of five issues that need to be better understood if measurements 
+of digital trade can be improved on, and the estimates are wide: up to 2 billion people 
+might now be using cloud computing to store digital information, up from around 1.1 
+billion in 2014; and annual per capita growth in OECD countries between 1996 and 
+2007 is thought to have risen by 0.9–1.5 percentage points with every 10 
+percentage-point increase in broadband reach.
+,,
+ But the range of these and other 
+383940
+estimates for the effects of data on economic growth has been so wide that 
+organisations such as the US Chamber of Commerce doubt their usefulness.
+,
+ 
+4142
+ 
+Cross-border data use has accelerated because the World Wide Web spread 
+the internet quickly and in unlikely ways, greatly expanding international trade. 
+The web was invented by Sir Tim Berners-Lee – co-founder of the Open Data 
+Institute – with an ethos of openness that is also at the heart of free trade. It gave 
+43
+billions of people around the world an almost free platform on which to exchange 
+ideas, goods, and services, creating enormous wealth gains. 
+ 
+The nature of modern international commerce means that data infrastructure 
+questions arise quickly.​ When data is being transferred from a consumer to a 
+company, it might happen through identifiers and registers in one country but with 
+standards and technology used to curate and provide access to those data assets 
+from another country. A third country might become involved through its guidance 
+and policies being used for the management of data assets. And above these 
+national considerations, international bodies like the EU could have a role. 
+Consumers can therefore be affected by decisions about the governance and policies 
+surrounding data made in any one, or all of the three possible countries.  
+44
+ 
+The rest of the discussion explores the links between data infrastructure and 
+trade competitiveness in several steps. ​The next section raises issues of data 
+35
+ Ibid 
+36
+  Cisco Systems (2016) ‘1.2 Cross-Border Data Flows, Digital Innovation, and Economic Growth’ 
+http://reports.weforum.org/global-information-technology-report-2016/1-2-cross-border-data-flows-digital
+-innovation-and-economic-growth/ 
+37
+ World Economic Forum (2019) ‘Trade and Cross-Border Data Flows’, 
+https://www.oecd-ilibrary.org/trade/trade-and-cross-border-data-flows_b2023a47-en  
+38
+ International Monetary Fund (2018) ‘Towards a Handbook on Measuring Digital Trade: status update’, 
+https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_3f_Digital_Trade_OECD.pdf 
+39
+ Cisco Systems (2016) ‘1.2 Cross-Border Data Flows, Digital Innovation, and Economic Growth’ 
+http://reports.weforum.org/global-information-technology-report-2016/1-2-cross-border-data-flows-digital
+-innovation-and-economic-growth 
+40
+ Center for Economic Studies (2009) ‘Broadband Infrastructure and Economic Growth’, 
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0297.2011.02420  
+41
+ The difficulty in estimating data flows may mean that policymakers are underestimating their importance. 
+Unlike for digital services, the receipt of an amount of data is not recorded in official statistics as payments 
+are only made for the digital service received. The value of the data is captured in the service, but the fact 
+that data is not explicitly recorded in trade statistics may mean that policy-makers are insufficiently 
+focused on the data aspects of trade agreements, and impediments to the flow of data across borders.  
+European Centre for Political Economy (2013) ‘The Economic Importance of Getting Data Protection Right: 
+Protecting Privacy, Transmitting Data, Moving Commerce’, 
+https://www.uschamber.com/economic-importance-getting-data-protection-right  
+42
+ European Centre for Political Economy (2014) ‘​Data, Trade and Growth’​, 
+https://www.progressivepolicy.org/slider/data-trade-and-growth/  
+43
+ World Economic Forum (2015) ‘The Case for Trade and Competitiveness’, 
+https://www.weforum.org/reports/case-trade-and-competitiveness  
+44
+ World Economic Forum (2019) ‘Trade and Cross-Border Data Flows, 
+https://www.oecd-ilibrary.org/trade/trade-and-cross-border-data-flows_b2023a47-en  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  9 
+
+ 
+openness, the nature of data, and restrictions on its cross-border exchange in recent 
+years. The sections thereafter define data infrastructure, and delineate its parts 
+according to the classic elements of assessing trade competitiveness: market 
+access; incentives for trade and investment; factor conditions; intermediate inputs 
+and backbone services; and trade promotion. Considering these issues could help 
+policymakers around the world to consider how they might start incorporating data 
+infrastructure considerations into their trade competitiveness strategies.  
+  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  10 
+
+ 
+Data openness and 
+international trade 
+Data can be plotted on a spectrum of how open it is for others to use. ​The Data 
+Spectrum below shows that access to a dataset can be closed to anyone but those 
+in a specified group of people, such as the staff of a company; more open when 
+access is granted to further groups; and highly accessible or open to anyone around 
+the world when certain licences are used.  
+ 
+Figure 1: The Data Spectrum 
+ 
+ 
+ 
+Personal data can be found at both ends of the spectrum and believing that it is 
+never open data is a common misperception. ​There are everyday examples of 
+45
+personal data that is openly available, such as data about elected representatives, 
+and judgements often need to be made over whether such data is also sensitive and 
+could cause serious harm to an organisation or person if it is released. Sharing 
+personal data has long motivated data protection laws around the world, and the 
+EU’s Digital Single Market strategy has distinguished non-personal data – such as on 
+transport timetables – from personal data in an attempt to simplify research. 
+46
+ 
+The economic benefits of open data have been documented by several studies.
+ A report in 2011 for the European Commission found that with easier access to and 
+47
+45
+ Open Data Institute (2019) Anonymisation and open data: An introduction to managing the risk of 
+re-identification, 
+https://docs.google.com/document/d/1CoXniaTnQL_4ZyQuji9_MA_YCEElQjx4z1SEdB08c2M 
+46
+ European Commission (2019) ‘Free flow of non-personal data’ 
+https://ec.europa.eu/digital-single-market/en/free-flow-non-personal-data​; Eur-Lex (2018) ‘Regulation (EU) 
+2018/1807 of the European Parliament and of the Council of 14 November 2018 on a framework for the 
+free flow of non-personal data in the European Union’ 
+https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1546942605408&uri=CELEX:32018R1807  
+47
+ Tennison J (2016) ‘The Economic Impact of Open Data: What Do We Already Know?’ 
+https://www.huffingtonpost.co.uk/jeni-tennison/economic-impact-of-open-data_b_8434234.html​?  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  11 
+
+ 
+use of public sector information, its value to the EU economy could be as high as 
+1.7% of GDP. In Britain the value of such data has been estimated at around £7bn, 
+48
+while greater access to public and private data across the world could create as 
+much as $3tn in annual value for the global economy.  
+49
+ 
+‘Big data’ is a mix of personal and non-personal data. ​The excitement about 
+50
+large amounts of data is often about what can be discovered about human behaviour 
+under different conditions. For example, combining non-personal data about the 
+weather with personal data about the characteristics of people and where they take 
+holidays could enable better personalised holiday offerings. But determining if data is 
+about personal characteristics can be a delicate task – is train timetable data about 
+an inanimate vehicle, or a link to other things that are known about the people on it?  
+ 
+Data access can provoke national security concerns. ​Whether in the form of raw 
+data or data used in products and services, cyber attacks for stealing digitised 
+information in the form of intellectual property have caused estimated annual losses 
+of around $12bn for countries such as the US. Identity theft creates consumer 
+51
+mistrust and introduces friction into data sharing and digital services. In 2017 a 
+personal-data breach at the financial services company, Equifax, affected about 143 
+million US consumers, and this is regularly cited as a reason by consumers for not 
+using online financial services. A recent Open Data Institute report on 
+52
+anonymisation described how the use of Strava, a fitness tracking app, by American 
+and British military personnel had revealed the location of their military bases.  
+53
+ 
+Discussion of cross-border data flows in digital goods and services and its 
+sensitivity is now several decades long. ​In 1980 the OECD warned against the 
+misuse of large databases and noted that misalignment between countries’ 
+regulatory regimes on data could impede cross-border working. In 1981 the Council 
+54
+of Europe called for data privacy laws and considered the restrictions that countries 
+might place on the export of data for processing elsewhere.  
+ 
+The value of data to international commerce means that restricting the flow of 
+data can suppress economic activity.​ Enacted or proposed regulatory restrictions 
+on data flows could be costing Brazil as much as 4% of its annual investment; and 
+China and Indonesia as much as 1.5%of their exports. The Digital Trade 
+55
+Restrictiveness Index finds China the world’s most restrictive for digital trade, 
+48
+ Vickery G (2011) ‘Review of Recent Studies on PSI- Re-Use and Related Market Developments’ 
+http://ec.europa.eu/newsroom/document.cfm?doc_id=1093​, p3 
+49
+ HM Government (2013) ‘Shakespeare Review: An Independent Review of Public Sector Information’ 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/198752
+/13-744-shakespeare-review-of-public-sector-information.pdf​, p8; McKinsey (2013) ‘Open data: Unlocking 
+innovation and performance with liquid information’ 
+https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insig
+hts/Open%20data%20Unlocking%20innovation%20and%20performance%20with%20liquid%20informati
+on/MGI_Open_data_FullReport_Oct2013.ashx  
+50
+ Open Data Institute (2018) ‘What is ‘open data’ and why should we care?’ 
+https://theodi.org/article/what-is-open-data-and-why-should-we-care/  
+51
+ CSIS (2018) ‘Economic Impact of Cybercrime— No Slowing Down’, 
+https://www.mcafee.com/enterprise/en-us/assets/reports/restricted/rp-economic-impact-cybercrime.pdf​, 
+p17 
+52
+Ibid, p18, 19 
+53
+ Open Data Institute (2018) ‘Anonymisation: Case Studies’ 
+https://docs.google.com/document/d/1KeFx3fuECT_j3hpH4Fyk3smTw4VYPQjgEp2EMLcXxRU/​, p10 
+54
+ The E15 Initiative (2015) ​Information Goes Global: Protecting Privacy, Security and the New Economy in 
+a World of Cross-border Data Flows​, p3 
+55
+ World Bank Group (2016) ‘World Development Report 2016: Digital Dividends’, 
+http://documents.worldbank.org/curated/en/896971468194972881/pdf/102725-PUB-Replacement-PUBLI
+C.pdf​, p301 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  12 
+
+ 
+followed by Indonesia in second place, and Brazil in sixth place, with each country 
+eschewing the benefits that would come from liberalisation.  
+56
+ 
+Restraints on data flows come in several forms. ​The European Centre for 
+International Political Economy has undertaken a taxonomy of restrictions on 
+cross-border data flows that suggests there has been a significant increase in 
+restrictions in recent decades. The centre’s taxonomy is delineated by whether 
+57
+there are local storage and processing requirements or bans on data transfer; and 
+restrictions that are conditional on the country receiving it or the data controller and 
+data processor that is managing it.  
+ 
+Figure 2: cumulative number of restrictions on cross-border data flows 
+(1960–2017) 
+58
+ 
+ 
+ 
+The benefits of openness, questions of efficiency, and demands for personal 
+and national security puts policymakers in what might be an iron triangle. An 
+59
+‘iron triangle’ represents the relationship between three performance criteria. With a 
+high level of open sharing of data, economic learning and management efficiency are 
+high but so are concerns about security. When data sharing is restricted, gains from 
+its use will likely be reduced, and efficiency might be lower, but security concerns fall. 
+Picking a point within the triangle is likely to be a process of long deliberation for 
+many countries, alongside coordination with their trading partners.  
+ 
+  
+56
+ European Centre for International Political Economy (2018) ‘Digital Trade Restrictiveness Index’, 
+http://ecipe.org/wp-content/uploads/2018/05/DTRI_FINAL.pdf​, p21 
+57
+ The E15 Initiative (2016) ‘Data Moving Across Borders: The Future of Digital Trade Policy’, 
+http://e15initiative.org/publications/data-moving-across-borders-the-future-of-digital-trade-policy/​, p5; 
+European Centre for International Political Economy (2018) ‘Restrictions on Cross-Border Data Flows: A 
+Taxonomy’, 
+https://ecipe.org/wp-content/uploads/2017/11/Restrictions-on-cross-border-data-flows-a-taxonomy-final1
+.pdf  
+58
+ European Centre for International Political Economy (2018) Restrictions on Cross-Border Data Flows: A 
+Taxonomy, 
+https://ecipe.org/wp-content/uploads/2017/11/Restrictions-on-cross-border-data-flows-a-taxonomy-final1
+.pdf​, p2. The data refer to 64 economies. In addition to the 28 member states of the EU, the analysis 
+covers the following countries: Argentina, Australia, Canada, Chile, China, Colombia, Costa Rica, Ecuador, 
+Hong Kong, Iceland, India, Indonesia, Israel, Japan, Korea, Malaysia, Mexico, New Zealand, Nigeria, 
+Norway, Pakistan, Panama, Paraguay, Peru, Philippines, Russian Federation, Singapore, South Africa, 
+Switzerland, Taiwan, Thailand, Turkey, United States and Vietnam. 
+59
+ Mitchell AD and Hepburn J (2017) ‘Don’t Fence me in: reforming trade and investment law to better 
+facilitate cross-border data transfer’ 
+https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1128&context=yjolt​, p219 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  13 
+
+ 
+Figure 3: iron triangle of international data access and exchange 
+60
+ 
+Openness 
+EfficiencySecurity 
+ 
+  
+60
+ ibid, p219 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  14 
+
+ 
+Data infrastructure and 
+international trade 
+competitiveness 
+Data infrastructure 
+Building data infrastructure could offer a way to balance some of the trade-offs 
+in international data exchange. ​The way that data is collected, stored, and used 
+often makes it difficult for innovators to access, impeding the possibilities for 
+‘combinatorial innovation’ – different innovations working together – for economic 
+and social ends. But using elements of data infrastructure could allow countries to 
+61
+find a balance between restricting and enabling access to data, which may provide 
+competitive advantage in the future. Data infrastructure consists of: 
+ 
+●data assets such as datasets, identifiers and registers 
+●the standards and technologies used to curate and provide access to those 
+data assets 
+●the guidance and policies that inform the use and management of data 
+assets and the data infrastructure itself 
+●the organisations that govern the data infrastructure 
+●the communities involved in contributing to or maintaining it, and those who 
+are affected by decisions that are made using it. 
+ 
+Registers are datasets that provide consistent, accurate and up-to-date lists of 
+information across a variety of activities. They typically have basic information 
+62
+about a dataset, and examples include lists of countries and government 
+departments, companies and food types. For example, the Harmonized Commodity 
+63
+Description and Coding System for classifying products helps companies and 
+countries around the world to identify products, helping them to work from a 
+common understanding of the types of goods being traded.  
+ 
+When standards for data are open, policymakers can enjoy lower coordination 
+costs.​ Data standards can be created for technical, economic and policy reasons, 
+such as the Open Contracting Data Standard, which is helping to create transparency 
+around public spending in Paraguay and Nigeria. Another example is the General 
+64
+Transit Feed Specification, a commonly used means for collecting and sharing data 
+on transit systems, that is particularly used in transport applications and other 
+services in cities around the world. Making an agreement reusable reduces the need 
+for negotiation over how data will be used, increasing the amount of data available to 
+data users and improving usability.  
+65
+61
+ Dodds L and Wells P (2019) ‘Open Data and Data Infrastructure’ 
+https://docs.google.com/document/d/1tAeidONKZEkpCf9Jkwe4amWZKbQHTMiHJb8rW7PV7Fs/ 
+62
+ Open Data Institute (2018) ‘Registers: making lists we can trust’, forthcoming 
+63
+ Gov.uk, ‘Government registers collection’ ​https://www.registers.service.gov.uk/registers​; Companies 
+House, ‘Search the register’ ​https://beta.companieshouse.gov.uk/​; Food Standards Agency, ‘Register: 
+Food Types’ ​https://data.food.gov.uk/codes/_foodtype  
+64
+ Open Data Institute (2018) ‘Exploring the development and impact of open standards for data’ 
+https://docs.google.com/document/d/1Sab5YMVj4PVqLjZD35hX8FTnMeeP6gLGG0xszuRMIaM/​; Open 
+Contracting ’Impact stories’ ​https://www.open-contracting.org/impact-stories/  
+65
+ Open Data Institute (2018) ‘Open standards for data guidebook’, ​http://standards.theodi.org/  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  15 
+
+ 
+ 
+There is still some way to go before data standards, identifiers, and registers 
+are open and accepted enough to link countries in data-enabled trade. ​Many 
+66
+low- and middle-income countries lack the means to use data and build competitive 
+data-enabled services provided by firms from high- and upper-middle-income 
+countries, such as the US, the UK and China. The Web Foundation, in a review of 
+low- and middle-income countries, has shown that progress on introducing 
+appropriate safeguards and regulation is mixed.  
+67
+ 
+Attitudes to data ethics and data governance are affecting trade 
+competitiveness in ways that are currently difficult to judge. ​Data ethics is a 
+branch of ethics that evaluates data practices with the potential to adversely affect 
+people and society – in data collection, sharing and use. Invoking ethics and privacy 
+68
+considerations in the international exchange of data may be a question of 
+protectionism, but some have argued that data-privacy regulation may not even be a 
+legitimate topic for economists to consider.  
+69
+ 
+Restricting data exchanges due to privacy-violation concerns can be an element 
+of a classic trade problem: incomplete contracts.​ An incomplete contract is an 
+agreement for exchange that does not cover all of the possible actions by the parties 
+involved, and therefore affects the nature of the agreement that the parties are willing 
+to enter. This is relevant to data transfers, because there are numerous examples of 
+70
+companies using data about consumers in ways that the consumers did not expect. 
+Restrictions on cross-border data exchange may suffer from the same problem, in 
+that some countries are restricting access to data about their citizens because they 
+do not have sufficient control over how that data will be used abroad. If this is the 
+case, it may explain why agreements for data exchange tend to be for only simple 
+products and services.  
+71
+ 
+Countries which cannot credibly commit to international data-exchange 
+agreements could become less integrated in digital-trade flows. ​The ability of a 
+country to enforce contracts – for an agreement between companies to be followed, 
+or for a legal system to force a reneging company to follow the contract – has long 
+been seen as central to economic growth. Sensitivity with regard to personal data 
+72
+might mean that in data-enabled international trade, countries with weak legal 
+regimes will suffer from lower innovation, investment and firm dynamism.  
+73
+ 
+66
+ Open Data Institute and Thomson Reuters (2014) ‘Creating value with identifiers in an Open Data World’ 
+https://innovation.thomsonreuters.com/en/labs/data-identifiers.html  
+67
+ World Wide Web Foundation (2017) ‘A Smart Web for a More Equal Future’ 
+http://webfoundation.org/docs/2017/07/PersonalData_Report_WF.pdf  
+68
+ Open Data Institute (2017) ‘Ethical Data Handling’ 
+https://www.scribd.com/document/358778144/ODI-Ethical-Data-Handling-2017-09-13  
+69
+ Goldfarb A and Trefler D (2017) ‘AI and International Trade’, ​https://www.nber.org/chapters/c14012.pdf​, 
+p28 
+70
+ Hart O (2017) ‘Incomplete Contracts and Control’ 
+https://scholar.harvard.edu/files/hart/files/incomplete_contracts_and_control.pdf  
+71
+ The 2016 World Development Report suggested that the effects of the internet on international trade and 
+economic growth are highest in data-intensive but simple products that do not need complicated 
+contracts, and the OECD has suggested that some simple contracts for data trade are so established and 
+trusted - such as those for peer networks - that new ones are agreed with little more than a handshake. 
+Organisation for Economic Co-operation and Development (2013) ‘Internet Traffic Exchange: Market 
+Developments and Policy Challenges’ 
+https://www.oecd-ilibrary.org/science-and-technology/internet-traffic-exchange_5k918gpt130q-en;jsessio
+nid=V7KHmPZCMfoQYWGqbtoy0dGI.ip-10-240-5-34  
+72
+ Doing Business (n.d.) ‘Enforcing Contracts’ 
+http://www.doingbusiness.org/en/data/exploretopics/enforcing-contracts/why-matters  
+73
+ World Bank (2003) ‘Do More Transparent Governments Govern Better?’ 
+http://documents.worldbank.org/curated/en/568401468741328131/109509322_20041117183019/addition
+al/multi0page.pdf​; International Monetary Fund (2014) ‘Judicial System Reform in Italy— A Key to Growth’ 
+https://www.imf.org/external/pubs/ft/wp/2014/wp1432.pdf  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  16 
+
+ 
+The rapid development of data-enabled technology means that some 
+sector-specific data infrastructure is emerging. ​In the same way that countries 
+can reach an appropriate balance between openness and efficiency for data 
+exchange relative to the nature of the data being used, sectors such as healthcare 
+and agriculture can do the same. Examples include open banking initiatives in the UK 
+and Mexico, which have created industry bodies for coordinating technology use and 
+judging consumer appetite for the use of personal data.  
+74
+Trade competitiveness 
+Data infrastructure enables a country to become more internationally 
+competitive in producing data-enabled goods and services.​ Access to and 
+exploitation of data could drive economic dynamism for years to come. Countries 
+around the world have some strategic choices to make about: whether they want to 
+share data with others; the reputation they want for how they use data; whether they 
+will develop labour skills for working with it; if they are going to keep data confined to 
+a small number of large firms, or have it accessible to entrepreneurs; and much else 
+besides. 
+ 
+The World Bank’s Trade Competitiveness Diagnostic Toolkit is an authoritative 
+way to analyse trade competitiveness. The toolkit has a diagnostic framework, 
+75
+and a three-step process for guiding national policymakers who want to understand 
+how well exports are competing in foreign markets; what might be affecting 
+performance and how the export of goods and services could deliver more value. The 
+resulting analysis can be used across countries, for example, to help Russia 
+understand whether it exports more than natural resources and why it might not; and 
+Bangladesh to see if its success in the export of garments could suggest ways for it 
+to be more competitive in other sectors.  
+ 
+The toolkit framework is used here to consider how data infrastructure might 
+affect trade competitiveness. ​An advantage of using the toolkit is that it has been 
+comprehensively tested in many low- and middle-income countries – such as Brazil, 
+Georgia, and across South Asia. This opens the possibility that more can be learned 
+about the effects of data infrastructure on poverty, and allows easier comparisons 
+across countries using the World Bank’s data across a familiar framework. 
+76
+Competitiveness diagnostics for developed countries use essentially the same 
+framework – each seeks to answer primary questions about macro incentives, 
+backbone services and transaction costs, and government and market failures – but 
+with more information available allowing deeper investigation of some issues.  
+ 
+74
+ Reuters (2018) ‘Mexico financial technology law passes final hurdle in Congress’ 
+https://uk.reuters.com/article/us-mexico-fintech/mexico-financial-technology-law-passes-final-hurdle-in-c
+ongress-idUKKCN1GD6KX  
+75
+ World Bank (2012) ‘Trade Competitiveness Diagnostic Toolkit’, 
+https://openknowledge.worldbank.org/bitstream/handle/10986/2248/673620PUB0EPI007869B009780821
+389379.pdf?sequence=1&isAllowed=y  
+76
+ World Bank (2013) ‘Brazilian Exports Climbing Down a Competitiveness Cliff’, 
+http://documents.worldbank.org/curated/en/777771468017074102/pdf/wps6302.pdf​; World Bank (2015) 
+‘Survival Is for the Fittest Export Survival Patterns in Georgia’, 
+http://documents.worldbank.org/curated/en/649521468249871277/pdf/WPS7161.pdf​; World Bank (2017) 
+‘South Asia’s Turn Policies to Boost Competitiveness and Create the Next Export Powerhouse’ 
+https://openknowledge.worldbank.org/bitstream/handle/10986/25094/9781464809736.pdf​; World Bank, 
+‘TCdata360’, ​https://tcdata360.worldbank.org/  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  17 
+
+ 
+Macro incentives 
+Macro incentives are the first diagnostic question that the toolkit raises for data 
+infrastructure. ​In classic trade terms, macro incentives are about tariffs, exchange 
+77
+rates, taxes, labour markets, product and factor markets, property rights, regulation, 
+and how easy it is to establish and close down an enterprise. Some of these, such as 
+property rights and the regulation of large data-enabled companies such as Google, 
+are at the centre of discussions about data infrastructure in many countries.  
+ 
+Debates over data ownership – property rights – have been ongoing for years, 
+and using data rights may be the most economically efficient way to resolve the 
+question. ​In the 1970s, Richard Posner, a law and economics academic at the 
+University of Chicago, argued that it was inefficient to treat public information about a 
+person as owned by that person – as doing so would lead to substantial bureaucracy 
+in establishing, say, whether a photographer could use the image of many people in a 
+public place without asking for their permission first. Acknowledging that data 
+78
+subjects have rights over data about them – which might also be about lots of other 
+people – and that data users have responsibilities to those data subjects, might be a 
+better way, although this raises the question of legal regimes and incomplete 
+contracts mentioned above.  
+79
+ 
+Factor inputs are the resources that companies use to create products and 
+services. ​Data is a factor input, but not in the same way as other factor inputs. It is 
+non-rivalrous (supply is not affected by use) but with some business models – such 
+as Amazon’s – companies collect consumer data to greatly increase their ability to 
+target new consumers and offer better services, sometimes leading to a dominant 
+position in the market. That raises questions about competition and access to data 
+as a factor input for the creation and improvement of goods and services. Increasing 
+the ease of porting data between companies – perhaps directed by consumers as 
+they switch from one digital service to another, and using open application 
+programming interfaces (APIs) – could be a way to increase domestic competition 
+and raise export competitiveness.  
+80
+Backbone services and transaction costs 
+The second diagnostic question that the toolkit raises for data infrastructure is 
+around ‘backbone services’ and ‘transaction costs’. ​Difficulties faced regarding 
+81
+developing and trading goods and services - domestically or across borders - are 
+described as ‘transaction costs’. 
+ 
+Reducing transaction costs can make production significantly cheaper, thereby 
+increasing the price competitiveness of a product in a foreign market.​ For 
+example, easy access to intellectual property lawyers or experts on consumer 
+77
+ World Bank (2012) ‘Trade Competitiveness Diagnostic Toolkit’ 
+https://openknowledge.worldbank.org/bitstream/handle/10986/2248/673620PUB0EPI007869B009780821
+389379.pdf?sequence=1&isAllowed=y​, p4 
+78
+ Posner RA (1977) ‘The Right of Privacy’, 
+https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2803&context=journal_articles 
+79
+ Open Data Institute (2018) ‘No one owns data: we need to strengthen our rights’ 
+https://theodi.org/article/no-one-owns-data-we-need-to-strengthen-our-rights/  
+80
+ Digital Competition Expert Panel (2019) ‘Unlocking digital competition: Report of the Digital Competition 
+Expert Panel’ 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/785547
+/unlocking_digital_competition_furman_review_web.pdf  
+81
+ World Bank (2012) ‘Trade Competitiveness Diagnostic Toolkit’ 
+https://openknowledge.worldbank.org/bitstream/handle/10986/2248/673620PUB0EPI007869B009780821
+389379.pdf?sequence=1&isAllowed=y​, p4 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  18 
+
+ 
+demand in another country, can make it simpler for a firm to judge whether and how 
+to sell into that country; and being able to rely on a trade agreement that has 
+established commercial rules for working with a company in another jurisdiction can 
+have a similar effect.  
+ 
+Access to data science skills is a well-known example of a backbone data 
+infrastructure service. ​If a company has been collecting data for years – for example 
+on the productivity of its farms – and wants to use it to make better planting and 
+sales decisions, it may need the expertise of a data scientist to help analyse the data, 
+perhaps also developing a software application to help staff make decisions with the 
+data. The data scientists will be better able to deliver those improvements if they are 
+operating in a clear legal framework for data use, and have had industry-standard 
+training that allows experts to quickly start working together. There are a range of 
+other data skills and career paths. 
+82
+Government and market failures  
+The third diagnostic question that the toolkit raises for data infrastructure is 
+around policies for overcoming government and market failures.​ For data policy 
+these tend to involve coordination issues like open standards, which help to connect 
+companies and share market information through shared language, common 
+technology formats, and use guidance – that might not have been possible without 
+them.  
+83
+ 
+Special economic zones might be a future development for data standards. 
+Such zones are a common attempt by governments around the world to locate, say, 
+high-technology companies in one place to take advantage of some local skills, 
+collaborate, and create ‘knowledge externalities’ – positive spillover of new and 
+innovative knowledge that benefit entrepreneurs. And given that special economic 
+zones are often a way to improve a small part of a country’s business environment – 
+like Shenzen in China or the Subic Bay Freeport Zone in the Philippines – they could 
+be used to store data and determine access to it in countries with weak legal 
+regimes.  
+  
+The sections below use the toolkit to consider data infrastructure with several 
+classic aspects of trade competitiveness. ​These are: market access; incentives for 
+trade and investment; factor conditions; intermediate inputs and backbone services; 
+and trade promotion.  
+Market access 
+Market access is the ease with which a company in one country can sell to a 
+consumer in another. ​Tariffs and non-tariff barriers affect the ease of access, and 
+are raised by charges, indirect barriers, standards, quantitative restrictions, and 
+contingent protection; or lowered by trade agreements and market coordination 
+measures. Together, these affect the cost of entering an international market – the 
+84
+82
+ Data Skills Framework 2019 by Open Data Institute 
+https://theodi.org/article/open-data-skills-framework/ 
+83
+ Open Standards for Data, ‘Types of open standards for data’, 
+https://standards.theodi.org/introduction/types-of-open-standards-for-data/ 
+84
+ World Bank (2012) ‘Trade Competitiveness Diagnostic Toolkit’, 
+https://openknowledge.worldbank.org/bitstream/handle/10986/2248/673620PUB0EPI007869B009780821
+389379.pdf?sequence=1&isAllowed=y​, p63 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  19 
+
+ 
+amount a company has to pay to get its product to a consumer – and the risk of 
+doing so.  
+85
+ 
+Digital platforms have created substantial international markets, improving 
+producers’ access to international consumers. ​Amazon connects producers and 
+consumers across many countries, while ‘gig economy’ sites such as Upwork link 
+freelancers with new clients locally and internationally, in ways that were unheard of a 
+few decades ago. Such platforms have used their ‘two-sided’ role to increase the 
+efficiency with which market participants can connect with each other, often helping 
+to reduce price dispersion.  
+86
+ 
+Data standards make it easier for companies to benefit from ‘network effects’.  
+87
+A ​‘network​ ​effect’ is the effect that an additional user of a product or service has on 
+the value of that product or service. Network effects were most famously apparent in 
+the spread of telephone networks, when the value of telephones to each user 
+increased as more people owned telephones and joined the network. Facebook has 
+connected millions of people, making it more valuable to existing and new users, and 
+has created tools for developers that allows them to link more services and people – 
+and related data – to the network.  
+ 
+Trade agreements are a way of increasing market access through coordination.
+ ​They are the result of discussions between two or more countries about how they 
+88
+might reduce tariffs and restrictions on the sale of goods in their respective markets, 
+but also about reducing trade frictions through the mutual recognition of standards. 
+For example, the North American Free Trade Agreement sought to align some of the 
+labour environmental production standards between Canada, Mexico, and the US, 
+helping to boost trade between the countries from $290bn when the agreement was 
+signed in 1993 to $1.1tn in 2016. 
+89
+ 
+Some recent trade agreements have included stipulations against a new type of 
+non-tariff barrier: data localisation. ​Non-tariff barriers raise the costs for a firm 
+90
+selling into a country, but without requiring direct payment of tariffs, and include 
+requirements by countries such as China and Russia that data collected about their 
+citizens must be stored in their countries. This mandates the data-collecting firms to 
+maintain separate data storage and perhaps lose the benefits of being able to use 
+some cloud services, analyse the information elsewhere and share it efficiently with 
+commercial partners across the world. The Comprehensive and Progressive 
+91
+85
+ World Bank (2012) ‘Trade Competitiveness Diagnostic Toolkit’ 
+https://openknowledge.worldbank.org/bitstream/handle/10986/2248/673620PUB0EPI007869B009780821
+389379.pdf?sequence=1&isAllowed=y​,  
+86
+ Brynjolfsson B, Hui X, and Liu M (2018) ‘Does Machine Translation Affect International Trade: Evidence 
+from a Large Digital Platform’, 
+http://ide.mit.edu/sites/default/files/publications/Machine_Translation_NBER.pdf​, p4 
+87
+ World Bank (2012) ‘Trade Competitiveness Diagnostic Toolkit’, 
+https://openknowledge.worldbank.org/bitstream/handle/10986/2248/673620PUB0EPI007869B009780821
+389379.pdf?sequence=1&isAllowed=y​, p136 
+88
+ Grossman GM (2016) ‘The Purpose of Trade Agreements’, ​https://www.nber.org/papers/w22070.pdf​, p2 
+89
+ Council on Foreign Relations (2018) ‘NAFTA’s Economic Impact’ 
+https://www.cfr.org/backgrounder/naftas-economic-impact  
+90
+ The OECD has categorised data storage requirements. They can run from no requirements; to a 
+requirement for data storage with no stipulation with regard to the flow of data; to the additions of requiring 
+data to be processed in the jurisdiction or that it be used in all circumstances in the jurisdiction. See 
+Organisation for Economic Co-operation and Development (2019) ‘Trade and Cross-Border Data Flows’, 
+https://www.oecd-ilibrary.org/trade/trade-and-cross-border-data-flows_b2023a47-en​, p23 
+91
+ Data localisation requirements can be imposed on non-personal data forms as well, as with the United 
+States Copyright Act of 1976, which stipulates that work created by the US government is in the public 
+domain when it is used domestically, but is subject to copyright protection abroad. See Wikipedia, 
+‘Copyright status of works by the federal government of the United States’ 
+https://en.wikipedia.org/wiki/Copyright_status_of_works_by_the_federal_government_of_the_United_State
+s  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  20 
+
+ 
+Agreement for Trans-Pacific Partnership between 11 countries on either side of the 
+Pacific prohibits data localisation measures.’  
+92
+ 
+Data-localisation requirements may act in the same way that local content 
+stipulations do. ​A requirement for a company to use a local supplier during 
+93
+production reduces the range and possible quality of inputs and services available, 
+and is likely to push up costs and inhibit the quality of the final product. Depending 
+on the nature of a data-localisation requirement, it may stipulate that a company has 
+to store data in a local facility that perhaps is less secure than an international facility, 
+or that may use inferior technology than its international equivalent.  
+ 
+Data-localisation requirements affect a range of sectors. ​The ease of data flow – 
+including personal data – affects a broad range of sectors from mining, consumer 
+products and manufacturing, to healthcare retail. Small firms are the most affected 
+94
+in some instances – such as those running communication services – as they are not 
+so able to tailor their practices to specific countries compared to big firms. But it 
+does not impact only on small firms: there is evidence that data-localisation 
+requirements have caused many types of firms to cease operations in foreign 
+jurisdictions, perhaps because they make data-use decisions less efficient. 
+95
+Facebook has stated that it will not build data storage centres in countries it regards 
+as restricting freedom of expression.  
+96
+ 
+Requirements to account for the security and privacy of some data underpin 
+many data-localisation requirements. According to the OECD, concerns around 
+97
+privacy, regulation, security, and industrial policy may inform policymakers’ decisions 
+to alter international data exchange policy. Around a third of the stipulations force 
+98
+companies to locally store data and ban them from transferring it abroad, while 
+approximately a quarter require companies to hold a copy locally but allow them to 
+process it elsewhere. 
+99
+92
+ Lexology (2019) ‘The CPTPP Enters into Force: What Does it Mean for Global Trade?’, 
+https://www.lexology.com/library/detail.aspx?g=9941ebd7-a3f8-4630-bc65-c483931f81ba  
+93
+ Organisation for Economic Co-operation and Development (2019) ‘Trade and Cross-Border Data Flows’, 
+https://www.oecd-ilibrary.org/trade/trade-and-cross-border-data-flows_b2023a47-en​, p32 
+94
+ Information and Technology Foundation (2015) ‘Cross-Border Data Flows Enable Growth in All 
+Industries’ ​http://www2.itif.org/2015-cross-border-data-flows.pdf​; Organisation for Economic Co-operation 
+and Development (2019) ‘Trade and Cross-Border Data Flows’, 
+https://www.oecd-ilibrary.org/trade/trade-and-cross-border-data-flows_b2023a47-en​, p33 
+95
+ United States International Trade Commission (2017) ‘Global digital trade 1: market opportunities and 
+key foreign trade restrictions’ ​https://www.usitc.gov/publications/332/pub4716.pdf​, p278 
+96
+ ‘There's an important difference between providing a service in a country and storing people's data 
+there. As we build our infrastructure around the world, we've chosen not to build data centers in countries 
+that have a track record of violating human rights like privacy or freedom of expression. If we build data 
+centers and store sensitive data in these countries, rather than just caching non-sensitive data, it could 
+make it easier for those governments to take people's information’. Facebook (2019) ‘A Privacy-Focused 
+Vision for Social Networking’ 
+https://www.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156
+700570096634/  
+97
+ The E15 Initiative (2015) ‘Information Goes Global: Protecting Privacy, Security and the New Economy in 
+a World of Cross-border Data Flows’, 
+http://e15initiative.org/publications/information-goes-global-protecting-privacy-security-and-the-new-econ
+omy-in-a-world-of-cross-border-data-flows/​, p1 
+98
+ Organisation for Economic Co-operation and Development (2019) ‘Trade and Cross-Border Data Flows’, 
+https://www.oecd-ilibrary.org/trade/trade-and-cross-border-data-flows_b2023a47-en​, p13. Cultural values 
+have also been cited for restricting data flows. Countries such as China, Lebanon, Singapore, Turkey, 
+Germany, Iran, and Vietnam ban information exchange on the internet that they deem prejudicial to cultural 
+values and public order. See Mitchell D and Hepburn J (2017) ‘Don't Fence Me In: Reforming Trade and 
+Investment Law to Better Facilitate Cross-Border Data Transfer’, 
+https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1128&context=yjolt​, p191  
+99
+ As countries navigate the data protection approaches they might adopt, there are a number of 
+mechanisms available that make data exchange contracts more complete. These include business 
+contracts with accepted privacy standards, corporate rules for internal transfers, enforceable corporate 
+codes of conduct re transfers, consent given by data sources, and other methods. See Centre for 
+Information Policy Leadership (2017) ‘Essential Legislative Approaches for Enabling Cross-Border Data 
+Transfers in a Global Economy’, 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  21 
+
+ 
+ 
+Restrictions on the commercial use of data have been found to restrict services 
+trade. The European Centre for International Political Economy has found that 
+100
+countries which are more restrictive towards data use and exchange – including 
+across borders – see their imports of services become less data-intense; and that 
+countries with strong digital networks suffer from bigger effects on their services 
+imports. Both effects suggest that stringent data restrictions distance the imposing 
+country from international data-exchange networks.  
+ 
+Trust could be as important as any other factor when examining how a 
+country’s data infrastructure affects its trade competitiveness. ​Data subjects’ 
+trust in the organisations that use data affects data sharing; and it seems reasonable 
+to believe that if coordination around data ethics and rules is hard at the national level 
+it will be even harder at the international one. There is a large body of support in 
+many countries for the domestic storage of personal data – more than 75% of 
+surveyed internet users in Indonesia, China, India, Poland and Mexico – suggesting 
+that there is a long way to go before the general public are willing to engage in 
+cross-border data sharing in a way that would maximise the gains from trade. This 
+101
+might be unsurprising, given that the web has connected people around the world in 
+ways that they never have been before, and there may need to be a period of ‘cultural 
+learning’ before such a difficult trade issue can be addressed.  
+102
+ 
+Digital Planet 2017, a report on digital competitiveness, argued that some 
+countries have established more internal trust in their digital ecosystems than 
+others. ​It divided countries by whether users of digital services had trust and 
+103
+patience with their digital ecosystem, and found that consumers in countries such as 
+China, Ireland, and Malaysia were more likely to balance their appreciation of digital 
+services with their concerns about data; while those places like Estonia, France, and 
+South Korea were less likely to and had less trust in the digital economy as a result. 
+The report argued that consumers in the former were more likely to appreciate the 
+use of such services and were willing to use them despite having less trust in the use 
+of their data and suchlike.  
+ 
+China’s mix of market size and weak institutions challenges the argument that 
+trust and standards are a competitive advantage for all countries. ​The Global 
+Competitiveness Index ranks China’s the 27th most competitive economy in the 
+world, but mostly due to its domestic market, primary public services, and 
+macroeconomic stability. In 2015, information and communications technology 
+104
+services produced 2.6% of value-added in the Chinese economy, but in the same 
+year only Hong Kong’s exports of telecommunications services registered among the 
+https://www.informationpolicycentre.com/uploads/5/7/1/0/57104281/cipl_white_paper__final__-_essential_
+legislative_approaches_for_enabling_cross-border_data_transfers.pdf  
+100
+ European Centre for International Political Economy (2018) ‘Do Data Policy Restrictions Inhibit Trade in 
+Services?’, 
+https://ecipe.org/wp-content/uploads/2018/10/Do-Data-Policy-Restrictions-Inhibit-Trade-in-Services-final.
+pdf  
+101
+ CIGI and Ipsos (2014) ‘83% of Global Internet Users Believe Affordable Access to the Internet Should be 
+a Basic Human Right’, 
+https://www.cigionline.org/sites/default/files/documents/internet-survey-2014-factum.pdf​, p15 
+102
+ World Bank (2012) ‘Trade Competitiveness Diagnostic Toolkit’, 
+https://openknowledge.worldbank.org/bitstream/handle/10986/2248/673620PUB0EPI007869B009780821
+389379.pdf?sequence=1&isAllowed=y​, p66 
+103
+ Charavorti B and Chaturvedi RS (2017) ‘Digital Planet 2017: How Competitiveness and Trust in Digital 
+Economies Vary Across the World’, 
+https://sites.tufts.edu/digitalplanet/files/2017/05/Digital_Planet_2017_FINAL.pdf  
+104
+ World Economic Forum, ‘China’ 
+http://reports.weforum.org/global-competitiveness-index-2017-2018/countryeconomy-profiles/#economy=
+CHN  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  22 
+
+ 
+world’s most competitive. Despite the growth of Chinese firms such as Huawei and 
+105
+Lenovo, the European Centre for International Political Economy has argued that 
+China is underperforming in the internet economy.  
+106
+ 
+Involving social groups, public representatives, and others in the construction of 
+data infrastructure can help to reduce cultural, ethical and other indirect 
+barriers to trade. ​There are many other actors who can be included in data 
+107
+infrastructure questions, including data intermediaries who might coordinate data 
+exchange between parties and have a role in maintaining legal and technical 
+standards; reusers of data, who might be several steps along a data-use chain and 
+can affect trust in the use of data all along it; and academic researchers, who might 
+be working with the most sensitive types of data, such as health data.  
+108
+ 
+Coordination over data standards somewhat mimics international discussion of 
+internet governance.​ States, businesses, civil society, intergovernmental 
+organisations, technical communities, and academics are involved in determining 
+how the internet operates. The World Wide Web Consortium, for example, 
+109
+develops standards for the web, while the Internet Corporation for Assigned Names 
+and Numbers works on identifiers and coordinates naming on the internet.  
+110
+ 
+Achieving stable and internationally attractive domestic coordination around 
+data ethics could lead to greater trade competitiveness. ​The United Nations 
+Conference on Trade and Development has noted the high levels of data protection 
+coordination in international agreements, but also the divergent implementation. It 
+has recommended that countries adopt principles such as organisations being open 
+about their data collection; specifying the purpose of data collection; and allowing 
+data subjects to access and correct data about themselves. The Global 
+111
+Competitiveness Index lists intellectual property protection; corporate ethics; and 
+legal system efficiency as some of the leading measures of assessing a country’s 
+competitiveness. Perhaps data ethics and associated behaviour could be a future 
+addition if measuring it becomes feasible.  
+112
+ 
+Several approaches to balancing the security, efficiency, and productivity of 
+cross-border data transfers in international agreements have emerged in recent 
+years.​ The US International Trade Commission believes that they broadly divide into 
+the Asia-Pacific Economic Cooperation (APEC) model, the EU’s GDPR, and some 
+hybrid or sector-driven approaches. The EU’s approach has been described as one 
+113
+which uses adequacy requirements for data exchange between jurisdictions, with 
+exceptions applied, and has extended the EU’s reach to countries storing data 
+105
+ UNCTAD (2017) ‘Information Economy Report 2017: Digitalization, Trade and Development’ 
+https://unctad.org/en/PublicationsLibrary/ier2017_en.pdf​, p23, p29 
+106
+ European Centre for International Political Economy (2017) ‘China’s technology protectionism and its 
+non-negotiable rationales’, 
+https://ecipe.org/wp-content/uploads/2017/06/DTE_China_TWP_REVIEWED.pdf  
+107
+ World Bank (2012) ‘Trade Competitiveness Diagnostic Toolkit’, 
+https://openknowledge.worldbank.org/bitstream/handle/10986/2248/673620PUB0EPI007869B009780821
+389379.pdf?sequence=1&isAllowed=y  
+108
+ Open Data Institute (2018) ‘Mapping data ecosystems’, 
+https://docs.google.com/document/d/1vSqoHOYT5u6vrCHIebCS0rze0gWwXOspeEowWzwake8/edit#hea
+ding=h.gqlbnitjgdiq​, p10 
+109
+ World Bank (2016) ‘World Development Report 2016: Digital Dividends’, 
+http://documents.worldbank.org/curated/en/896971468194972881/pdf/102725-PUB-Replacement-PUBLI
+C.pdf​, p294 
+110
+ W3C, ‘About W3C’, ​https://www.w3.org/Consortium/​; ICANN, ‘Welcome to the Global Community!’, 
+https://www.icann.org/get-started  
+111
+ UNCTAD (2016) ‘Data Protection Regulations and International Data Flows: Implications for Trade and 
+Development’, ​https://unctad.org/en/PublicationsLibrary/dtlstict2016d1_en.pdf​, p56 
+112
+ World Economic Forum (2018) ‘The Global Competitiveness Report 2018’, 
+http://reports.weforum.org/global-competitiveness-report-2018/ 
+113
+ United States International Trade Commission (2017) ‘Global Digital Trade 1: Market Opportunities and 
+Key Foreign Trade Restrictions’, ​https://www.usitc.gov/publications/332/pub4716.pdf​, p274 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  23 
+
+ 
+outside the union. The APEC approach seeks to harmonise members’ data protection 
+laws while facilitating cross-border data transfers. The commission considers 
+114
+countries such as Indonesia and Russia to have taken the EU’s approach; while 
+China, India, and the US – which is one of several common-law countries that might 
+be thought of as taking an approach that tends towards accountability, due diligence, 
+and appropriate protection – address the question by sector rather than 
+comprehensively. 
+115
+ 
+As suggested by the US International Trade Commission, GDPR has affected 
+the sale of data-driven services by foreign producers into EU markets. 
+Professional services companies in Canada, for example, offer GDPR-readiness 
+assessments and implementation roadmaps. Fines violating GDPR rules can be up to 
+€20 million or up to 4% of the annual worldwide turnover of the preceding financial 
+year in case of an enterprise, whichever is greater. 
+116
+ 
+There are ongoing developments in the data-exchange relationship between the 
+EU and the US.​ Model contracts and the EU-US Privacy Shield have been developed 
+to facilitate data-enabled trade between the US and the EU, but these may have been 
+insufficient to prevent US companies from needing to build cloud storage centres in 
+the EU. Safe Harbour was developed because the EU thought the US privacy 
+117
+regime inadequate. 
+118
+ 
+As data regulation regimes develop, improving their interoperability may be 
+more efficient than global coordination. ​This would mean that countries would 
+119
+adopt codes of conduct, mutual recognition of standards, or other agreements that 
+clarify issues between countries rather than requiring lots of them to accede to one 
+agreement at once. Such an approach would also align with interoperability 
+approaches in software development, where developers often aim to make systems 
+interoperable rather than create one system for all uses.  
+Incentives for trade and investment 
+Incentives for data-enabled trade and investment are about how easy it is to 
+create value from data, attract capital, and export. ​In recent years it has become 
+clear that companies with an entrepreneurial approach to data-enabled goods and 
+services have a competitive advantage. A country’s business environment can affect 
+the dynamism of firms being established, operated, and closed down as they pursue 
+growth at home and abroad. The ease of doing that affects how attractive a country’s 
+business climate is to foreign companies who may want to operate a data-enabled 
+business in the country.  
+ 
+114
+ United States International Trade Commission (2017) ‘Global Digital Trade 1: Market Opportunities and 
+Key Foreign Trade Restrictions’, ​https://www.usitc.gov/publications/332/pub4716.pdf​, p274; Centre for 
+Information Policy Leadership (2017) ‘Essential Legislative Approaches for Enabling Cross-Border Data 
+Transfers in a Global Economy’, 
+https://www.informationpolicycentre.com/uploads/5/7/1/0/57104281/cipl_white_paper__final__-_essential_
+legislative_approaches_for_enabling_cross-border_data_transfers.pdf​, p1 
+115
+ United States International Trade Commission (2017) ‘Global Digital Trade 1: Market Opportunities and 
+Key Foreign Trade Restrictions’, ​https://www.usitc.gov/publications/332/pub4716.pdf​, p274 
+116
+ Christen L etal (2013) ‘The Impact of the Data Protection Regulation in the E.U.’, 
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.657.138&rep=rep1&type=pdf 
+117
+ United States International Trade Commission (2017) ‘Global Digital Trade 1: Market Opportunities and 
+Key Foreign Trade Restrictions’, ​https://www.usitc.gov/publications/332/pub4716.pdf​, p282  
+118
+ US Chamber of Commerce (2014) ‘Business Without Borders: The Importance of Cross-Border Data 
+Transfers to Global Prosperity’, 
+https://www.huntonprivacyblog.com/wp-content/uploads/sites/28/2014/05/021384_BusinessWOBorders_f
+inal.pdf​, p21 
+119
+ Heyder M (2014) ‘Getting Practical and Thinking Ahead: “Interoperability” Is Gaining Momentum’, 
+https://iapp.org/news/a/getting-practical-and-thinking-ahead-interoperability-is-gaining-momentum/  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  24 
+
+ 
+Public institutions inform the incentives for data-enabled trade, and regulatory 
+sandboxes can be a way for them to test ways in which to do so. ​Britain’s 
+Financial Conduct Authority created sandboxes for new fintech services in 2016, 
+giving companies the chance to sell new products to consumers under six months’ 
+close interaction with the financial regulator to gauge and adjust the performance of 
+the product within guidelines. Such an approach gives companies an opportunity 
+120
+to understand how to use and share users’ data, and the UK’s Financial Conduct 
+Authority believes that it allows companies to test new market offerings early while 
+also facilitating investment. The Hong Kong Monetary Authority established its 
+121
+Fintech Supervisory Sandbox in 2016. 
+122
+ 
+Britain’s Information Commissioner’s Office is extending regulatory sandboxes 
+into more data-enabled sectors. ​The commissioner has been keen to find ways 
+123
+to allow data-enabled innovation that respects regulation while allowing regulators to 
+respond to technology developments that it would have been difficult to foresee. 
+These include developments in biometrics, the Internet of Things, and wearable 
+technology. These may need a mix of regulator advice on rules and standards; the 
+regulator adopting frameworks rather than rules, and being ready to remove 
+innovation-stifling stipulations; or becoming better at anticipating change.  
+ 
+Assessing the quality of a data ecosystem has been a strong point of data 
+infrastructure analysis for a few years. ​The World Bank has sought to understand 
+and encourage private sector demand for government data around the world through 
+its Open Data for Business Tool. The Govlab has tried to identify organisations that 
+might use data to solve problems – after recognising that the public release of data in 
+many countries was falling into a habit of creating data portals with little appreciation 
+of how the data might be used. There are also applications in the financial sector 
+through the Open Banking Index, and for assessing national geospatial capabilities 
+with the Geospatial Readiness Index. 
+124
+ 
+Many governments have recently made governance a point of institutional 
+competitiveness in artificial intelligence. Several countries have artificial 
+125
+intelligence strategies which cover developing the skills for data manipulation; setting 
+technical standards; and coordinating between public research organisations and 
+private companies. For example, Japan has developed artificial intelligence utilisation 
+principles; Kenya has a task force on distributed ledgers and artificial intelligence; 
+and South Korea has published a ‘Master plan for the intelligent information society’.
+ 
+126
+ 
+Australia has put data exploitation at the centre of its Australia 2030 economic 
+strategy. It advocates making access to public data more useful for entrepreneurs, 
+127
+120
+ Financial Conduct Authority (2017) ‘Regulatory sandbox lessons learned report’, 
+https://www.fca.org.uk/publication/research-and-data/regulatory-sandbox-lessons-learned-report.pdf​, p4 
+121
+ Ibid, p5 
+122
+ Hong Kong Monetary Authority (2019) ‘Fintech Supervisory Sandbox (FSS)’, 
+https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/fintech-supervisory-sandbox.sht
+ml 
+123
+ Information Commissioner’s Office (2019) ‘Sandbox beta phase discussion paper’, 
+https://ico.org.uk/media/about-the-ico/documents/2614219/sandbox-discussion-paper-20190130.pdf  
+124
+ IDC (2018) ‘Ready for Open Banking?’ 
+https://www.finastra.com/sites/default/files/2018-11/Open%20Banking%20Readiness%20Index.pdf​; 
+Gebuiz (2018) ‘Countries Geospatial Readiness Index 2018 (CGRI-2018)’ 
+https://geobuiz.com/Countries-Geospatial-Readiness-Index-2018.html 
+125
+ Nesta (n.d.) ‘Mapping AI governance’ 
+https://www.nesta.org.uk/data-visualisation-and-interactive/mapping-ai-governance/ 
+126
+ Ibid 
+127
+ Australian Government, Department of Industry, Innovation and Science (2017) ‘Australia 2030: 
+Prosperity Through Innovation’, 
+https://www.industry.gov.au/data-and-publications/australia-2030-prosperity-through-innovation 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  25 
+
+ 
+and developing more high-performance computing to allow more research in 
+data-heavy activities. In the strategy, Australia has recognised that firms become 
+more competitive abroad if they are subject to the pressure of competition at home. It 
+reports that domestic competition filters weak market offerings, redistributing 
+financial and human capital to firms that are best able to innovate and efficiently meet 
+demand. The strategy notes that it is more likely that these firms will have 
+sophisticated business models that can survive foreign competition.  
+128
+ 
+Australia is using its Consumer Data Right to drive domestic competition in 
+data-heavy sectors. ​The right gives consumers access to data about them in 
+129
+machine-readable form, allowing them to extract it from one service and give it to 
+another. This ease of data portability incentivises data holders to improve digital 
+services, as customers can easily move to competitor services with better offers. 
+Australia has approached the question of data access and competition by giving 
+regulatory leadership to the Australian Competition and Consumer Commission, 
+supported by the Office of the Australian Information Commissioner. The right will 
+start in highly regulated sectors such as banking, energy, and telecommunications.  
+ 
+Encouraging data portability may improve entry into digital markets and 
+improve competition. ​Data portability allows consumers to extract data from one 
+holder and give it to another so that they can better direct how data is used. This is 
+likely to improve the goods and services provided to them by the selected company.
+ GDPR provides a right to data portability that is stronger than the previous right to 
+130
+data access. Through the Smart Data Review the UK government is exploring 
+131
+strengthening data portability in multiple sectors. 
+132
+ 
+Regulatory sophistication towards data-enabled digital sectors has recently 
+become more of a competitive advantage. ​A recent report on digital competition 
+133
+for the British government recommended that data openness and common standards 
+would allow more competition in data-heavy industries, some of which were liable to 
+quickly ‘tipping’ and making one company dominant in the market. But such 
+interventions are new and untested beyond a few cases, and the report mentioned 
+the difficulty of defining a digital market in which a firm might be dominating. 
+Competition in digital markets will drive innovation and productivity growth. But 
+developing countries face the problem of growing local companies in the face of 
+international firms that have established strong market positions – and the ability of 
+regulators to develop sophisticated interventions may affect the competitiveness of 
+their jurisdictions for years to come.  
+134
+ 
+Australia’s Consumer Data Right is starting in the financial sector because open 
+banking has become a leading example of the benefits of a good data 
+ecosystem. ​The Open Data Institute was part of establishing the UK’s Open Banking 
+Working Group in 2015, showing how open application programming interfaces 
+between the UK’s banks could ease the transfer of data between them, encouraging 
+128
+ Ibid, p4 
+129
+ Treasury.gov.au, ‘Consumer Data Right - Fact Sheet’, 
+https://static.treasury.gov.au/uploads/sites/1/2018/02/180208-CDR-Fact-Sheet-1.pdf 
+130
+ Information Commissioner’s Office (2018) ‘Right to data portability’, 
+https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulati
+on-gdpr/individual-rights/right-to-data-portability/ 
+131
+ Open Data Institute (2018) ‘Will GDPR and data portability support innovation?’, 
+https://theodi.org/article/will-gdpr-and-data-portability-support-innovation/  
+132
+ HM Government (2018) ‘Smart Data Review’, 
+https://www.gov.uk/government/publications/smart-data-review 
+133
+ Kay L (2019) ‘How to pit a small regulator against big tech?’, 
+https://medium.com/@lawrencebernardkay/how-to-pit-a-small-regulator-against-big-tech-3f1b000f99be 
+134
+ World Bank (2018) ‘Data-Driven Development’, 
+https://openknowledge.worldbank.org/handle/10986/30437​, p29 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  26 
+
+ 
+the development of new services. The open banking reforms built on the UK’s 
+135
+financial sector strengths to attract around $5.6bn of investment in 2018. Versions 
+136
+of the initiative have spread to Canada, Japan, Mexico, and other countries. 
+Factor conditions 
+Factor inputs are the resources that firms use to create products and services, 
+and the conditions in which they access them affect the costs of production. 
+Factor inputs include capital and labour, and in data infrastructure terms means the 
+access that firms have to data in given sectors, and its quality. Labour force skills 
+drive the extraction of value from the data.  
+137
+ 
+Data release by public organisations has long been a way to stimulate data 
+flows. ​For example, Australia’s 2015 Public Data Policy Statement provided a 
+mandate for Australian Government entities to optimise the use and reuse of public 
+data to drive innovation across the economy. The statement included mandating 
+138
+the release of data as ‘open by default’ when it is safe to do so and since then there 
+has been a dramatic increase in the number of datasets publicly available: 
+data.gov.au now hosts over 29,900 data records.  
+ 
+Recent figures suggest that there is a surge of finance available for data 
+applications that use artificial intelligence. ​The OECD has estimated that there was 
+nearly $17bn of equity investment into artificial intelligence across China, the EU, 
+Israel, the US, and some other places in 2017. It found that in the same year 
+139
+around 12% of worldwide private equity investment had gone to artificial intelligence 
+startups, up from 3% in 2011.  
+140
+ 
+Investment into artificial intelligence startups is a bet on a firm having access to 
+data, and having the technical efficiency to exploit it.​ The returns to scale – the 
+quantitative change in output resulting from a proportionate increase in inputs – of 
+data manipulation allow firms to improve their existing products, such as internet 
+search, while also learning about how they might produce new ones and expand into 
+further markets. But there is evidence to suggest that some of the world’s largest 
+141
+firms have been unable to develop useful data exploitation and artificial intelligence 
+skills: more than half of the large US firms responding to a recent survey said that 
+they were not treating data as an asset, nor using it to compete. This is despite the 
+142
+fact that ‘data-driven decision making’ has been found to raise firms’ productivity by 
+as much as 6%. 
+143
+ 
+There is a data feedback loop in artificial intelligence applications, which has 
+already had effects on international trade. ​Artificial intelligence improves by using 
+135
+ Open Data Institute (2016) ‘Introducing the Open Banking Standard’, 
+https://www.scribd.com/doc/298568600/Introducing-the-Open-Banking-Standard 
+136
+ KPMG (2018) ‘UK remains leader in fintech investment but loses global crown’, 
+https://home.kpmg/uk/en/home/media/press-releases/2019/02/uk-remain-leader-in-fintech-investment-but
+-loses-global-crown.html 
+137
+ Romer P (1989) ‘Endogenous Technological Change’, ​http://www.nber.org/papers/w3210.pdf  
+138
+ Australian Government (2015) ‘Australian Government Public Data Policy Statement’, 
+https://www.pmc.gov.au/sites/default/files/publications/aust_govt_public_data_policy_statement_1.pdf 
+139
+ OECD (2018) ‘Private Equity Investment in Artificial Intelligence’, 
+https://www.oecd.org/sti/ieconomy/private-equity-investment-in-artificial-intelligence.pdf 
+140
+ Ibid 
+141
+ Goldfarb A and Trefler D (2017) ‘​AI and International Trade​’, ​https://www.nber.org/chapters/c14012.pdf​, 
+p21 
+142
+ Bean R and Davenport TH (2019) ‘Companies Are Failing in Their Efforts to Become Data-Driven’, 
+https://hbr.org/2019/02/companies-are-failing-in-their-efforts-to-become-data-driven 
+143
+ Brynjolfsson E etal (2011) ‘​Strength in Numbers: How Does Data-Driven Decisionmaking Affect Firm 
+Performance?​’, 
+http://www.socialserviceworkforce.org/system/files/resource/files/Data%20Driven%20Decisions.pdf  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  27 
+
+ 
+an initial dataset, using it to carry out a task, and then getting better through learning 
+from the results and receiving more data. When consumers have so many products 
+144
+and services to choose from, using artificial intelligence to more efficiently link them 
+with sellers could raise consumer welfare, and some studies have shown that artificial 
+intelligence has raised international trade possibilities by as much as 20%.  
+145
+ 
+A range of business models for extracting value from data are being tested in 
+sectors all over the world. There are internal, supply-chain, and industry 
+146
+platforms that determine many business models in sectors using large amounts of 
+data. But these may be only frontier examples, with the skills and management 
+systems available to undertake extensive data manipulation in low supply and firms 
+around the world not operating with modern information technology. 
+147
+ 
+Allocating data science skills through an efficient labour market could have 
+significant effects on how well a country can maximise its data infrastructure 
+competitiveness. ​Skills for data manipulation have become some of the most 
+remunerative in the modern labour market. In the US job market, they are thought to 
+enjoy base salaries that are as much as 36% higher on average than people with 
+statistics skills but no coding ability.  
+148
+ 
+Despite the emergence of online freelance platforms, geographic 
+concentrations of data skills are becoming common.​ It is possible that one of the 
+least mobile inputs into the development of data-enabled digital services – labour – is 
+concentrated in only a few areas of the world – such as Berlin, Shanghai, and 
+Toronto. And this concentration of expert labour could be behind some of the biggest 
+advances in sectors such as artificial intelligence. This is perhaps driven by firms 
+149
+with valuable data being unwilling to share it with more than a few organisations 
+around the world; or by the advantages – management efficiency and control of a 
+complicated process – gained by having a small number of highly educated people in 
+one place.  
+ 
+Several countries have noticed the geographic concentration of data skills and 
+are investing heavily in education and the supply of skills for technology 
+careers.​ For example, Canada’s Ontario province is spending C$3bn through its 
+Innovation Agenda to improve its business climate, labour skills, and ability to 
+compete in developing internationally competitive digital services. This is in 
+150
+addition to its Advanced Manufacturing Supercluster strategy, for which public 
+authorities are coordinating skills training and technology adoption to boost 
+capabilities in machine learning and associated activities. 
+151
+ 
+144
+ Brynjolfsson B, Hui X, and Liu M (2018) ‘​Does Machine Translation Affect International Trade: Evidence 
+from a Large Digital Platform​’, 
+http://ide.mit.edu/sites/default/files/publications/Machine_Translation_NBER.pdf​, p1 
+145
+ Ibid, p1 
+146
+ Open Data Institute (2018) ‘​The role of data in AI business models​’, 
+https://theodi.org/article/the-role-of-data-in-ai-business-models/​; (2016) ‘Open Enterprise: How Three Big 
+Businesses Create Value with Open Innovation’, 
+https://theodi.org/article/open-enterprise-how-three-big-businesses-create-value-with-open-innovation/ 
+147
+ OECD (2004) ‘CT, E-Business and Small and Medium Enterprises’, 
+https://www.oecd-ilibrary.org/science-and-technology/ict-e-business-and-small-and-medium-enterprises_
+232556551425;jsessionid=4wjQLkUDoKvvMJkAERRYfn6t.ip-10-240-5-34 
+148
+ Press G (2018) ‘The Salaries Of Data Scientists Remain Steady But Still Sexy With AI On The Horizon’, 
+https://www.forbes.com/sites/gilpress/2018/05/04/the-salaries-of-data-scientists-remain-steady-but-still-s
+exy-with-ai-on-the-horizon/#1fbf993b733d 
+149
+ Goldfarb A and Trefler D (2017) ‘AI and International Trade’, ​https://www.nber.org/chapters/c14012.pdf​, 
+p9 
+150
+ Ontario (n.d.) ‘Seizing Global Opportunities: Ontario's Innovation Agenda’, 
+https://www.ontario.ca/page/seizing-global-opportunities-ontarios-innovation-agenda  
+151
+ Government of Canada (n.d.) ‘Advanced Manufacturing Supercluster’, 
+https://www.ic.gc.ca/eic/site/093.nsf/eng/00010.html 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  28 
+
+ 
+There are many schemes around the world for increasing worker skills in a way 
+that increase the ability to extract skills from data. ​MexicoFIRST has raised the 
+quality of information and communications technology (ICT) skills and increased job 
+opportunities. Surveys show that MexicoFIRST trainees credit the training 
+programme certification and skills with finding work or for gaining better salaries and 
+promotions. Over 100,000 trainees have received international standard certifications; 
+over 80,000 university students have attended MexicoFIRST courses; and 40,000 
+have found a new job in the IT industry. Digiboost Finland was launched in 2015 and 
+aims to increase the use of ICT in small and medium-sized enterprises by employing 
+ICT specialists. The programme funds the hiring of one or more digital experts for a 
+year who then help firms to use ICT. Since 2015, 220 firms have employed over 250 
+digital experts. 
+Intermediate inputs and backbone services 
+A data-enabled firm’s access to resources and services that it does not have 
+in-house affects how easily it can create value from data.​ This tends to mean 
+access to information and communications technology and associated infrastructure, 
+data science consultancy, and its connections in a vibrant data ecosystem. For 
+example, the ICT Development Index looks at factors such as mean years of 
+schooling in a population, the number of households with a computer, and the 
+number of fixed-broadband subscriptions. Hong Kong was ranked sixth in the world 
+in 2017, and its information and communications technology services sector employs 
+approximately 108,000 people and contributes 6.6% to its annual GDP.  
+152
+ 
+Including more people and organisations in creating data infrastructure can 
+help with the supply of digital skills and services. ​They can be:  
+ 
+●public servants that want to know how to better share data for the 
+improvement of public services 
+●developers that want to establish standards that make it easier to work with 
+their peers across the world 
+●entrepreneurs that need policymakers to understand that they need access 
+to more workers with digital skills 
+●firms with promising business models that cannot enter a market because of 
+unfair practices from incumbents 
+●international freelancers that want to work in a place for a short time before 
+moving on.  
+153
+ 
+Allowing more of these voices to be heard during the development of data 
+infrastructure - especially by policy-makers - can contribute to diversity in the supply 
+of services.  
+ 
+Building data infrastructure with many users in mind invites open innovation and 
+increases dynamism in the creation of data-enabled goods and services. ​Large 
+firms that want to be more innovative can benefit from allowing small firms with 
+specialist skills into their research and development processes, and it is easier to do 
+152
+ ICT Development Index 2017 (2017) ‘ICT Development Index 2017’, 
+http://www.itu.int/net4/itu-d/idi/2017/index.html​; Census and Statistics Department, HKSAR (2018), Table 
+017: Number of Establishments, Persons Engaged and Vacancies (other than those in the civil service) 
+Analysed by Industry Section, 
+https://www.censtatd.gov.hk/hkstat/sub/sp452.jsp?tableID=017&ID=0&productType=8 
+153
+ Dodds L and Wells P (2019) ‘Open Data and Data Infrastructure’ 
+https://docs.google.com/document/d/1tAeidONKZEkpCf9Jkwe4amWZKbQHTMiHJb8rW7PV7Fs/ 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  29 
+
+ 
+that if there are more organisations that they can collaborate with. Firms can foster 
+154
+this openness to innovation by setting up challenge prizes and development 
+networks, with corporations building digital tools to bring new ideas in more quickly. 
+ 
+There are ever more examples of how innovation by data management services 
+could feed more future innovation.​ There are a range of approaches to increasing 
+access to data. Newer approaches being explored include personal data stores. 
+155
+Mydex, for example, helps digital service users to monitor and control personal data 
+about them, while at the same time assisting companies improve their data security 
+credentials with their customers. Digi.me operates in a similar way, and is seeking to 
+help consumers, companies engage in private data sharing. It is also aiming to 
+spread such services to medical records in the UK’s healthcare system. Other 
+156
+approaches involve new institutions such as data trusts, data clubs and data 
+cooperatives. 
+157
+ 
+Public–private partnerships for data exchange and use have emerged, such as 
+Data 61 is Australia. It is seeking to work across the public sector, academia, and 
+158
+enterprise, to create a data innovation ecosystem. Data 61 offers consultancy and 
+connections on the use of data, research, testing new market offerings, particularly in 
+sectors such as smart cities, health and wellness, and machine learning. 
+ 
+Public exchanges and platforms for data use have found a role.​ The Amsterdam 
+Data Exchange, for example, is seeking to establish a system of data exchange 
+between researchers, businesses, citizens, and government organisations for a 
+variety of purposes. DECODE, a project by Nesta, is establishing decentralised and 
+159
+open-source technical standards for sharing data that could allow them to more 
+easily engage with projects that would value data. 
+160
+ 
+International development agencies have fostered data institutions, such as the 
+Africa Regional Data Cube, to boost data use for anti-poverty aims. ​The 
+161
+project is using satellites to help Kenya, Senegal, Sierra Leone, Ghana, and Tanzania 
+with agriculture, deforestation, and water supply. As it does so, partner governments 
+and organisations are being assisted to develop their capacity for collecting, 
+analysing, and using data for policy ends, thereby developing their data ecosystems.
+  
+162
+ 
+Public sector adoption of artificial intelligence may be a part of encouraging 
+wider adoption. ​Hong Kong’s Innovation and Technology Fund has supported 57 
+artificial and robotics-related projects with over HK$200 million in the past three 
+years. The Hong Kong government is also looking to use more artificial intelligence 
+163
+154
+ Febvre J and Bone F (2018) ‘Five open innovation mechanisms for successful startup-corporate 
+collaborations’, 
+https://www.nesta.org.uk/blog/five-open-innovation-mechanisms-successful-startup-corporate-collaborati
+ons/ 
+155
+ Open Data Institute (2018) ‘Data access archipelago: mapping the myriad ways we share data’, 
+https://theodi.org/article/data-access-archipelago-mapping-the-myriad-ways-we-share-data/  
+156
+ Mydex (n.d.) ‘Trust, identity & data management — solved’, ​https://mydex.org/​; digi.me (n.d.) ‘See what 
+your data can do for you with digi.me’, ​https://digi.me/ 
+157
+ Jeni Tennison (2019) ‘New institutions are needed for the digital age’, 
+https://www.ft.com/content/5f46f102-6741-11e9-b809-6f0d2f5705f6 
+158
+ Data 61 (n.d.) ​https://www.data61.csiro.au/ 
+159
+ Amsterdam Data Science (2018) ‘Launch of the Amsterdam Data Exchange (Amdex)’, 
+https://amsterdamdatascience.nl/news/launch-of-the-amsterdam-data-exchange-amdex/  
+160
+ Bass T and Meesen P (2018) ‘DECODE: A technical explainer’, 
+https://www.nesta.org.uk/blog/decode-technical-explainer/ 
+161
+ Global Partnership for Sustainable Development Data (2018) ‘Africa Regional Data Cube’, 
+http://www.data4sdgs.org/initiatives/africa-regional-data-cube 
+162
+ Global Partnership for Sustainable Development Data (2018) ‘Resources’, 
+http://www.data4sdgs.org/index.php/resource-listing 
+163
+ Computerworld HK (2018) ‘HK Budget 2018: Innovation gets a big boost with $50bn of Investment’, 
+https://www.cw.com.hk/it-hk/hk-budget-2018-innovation-gets-a-big-boost-50b-investment 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  30 
+
+ 
+in public administration, such as city management, transport, and customs 
+inspection. 
+ 
+Cities around the world are centres of data innovation, and this size and level of 
+innovation is ideal to analyse and identify the services that support data 
+exploitation.​ Connected Places Catapult, a British research institute, found that the 
+following roles and organisations had helped to foster data innovation in cities in the 
+UK: 
+ 
+●City data platforms for sharing data between organisations, such as 
+CityVerve Manchester which runs demonstration projects on how the Internet 
+of Things can improve the use of data to address urban issues.  
+164
+●Data catalogues for access to open data such as the Comprehensive 
+Knowledge Archive Network, which creates tools for openly publishing and 
+analysing datasets.  
+165
+●Suppliers in the Internet of Things, who in addition to collecting data, offer 
+analysis and visualisation services. Examples include Cleanspace, which 
+helps urban residents to track pollution in their area.  
+166
+●Cloud service providers that often host large datasets and can provide data 
+analysis and visualisation services, such as Amazon Web Services and 
+Microsoft Azure.  
+●Data producers who earn revenue through selling access to data, such as 
+that for maps. Examples in the include Ordnance Survey, Britain’s national 
+mapping service.  
+167
+●Large technology providers for database services and suchlike. Examples 
+include IBM and Cisco. 
+●Support organisations who are often doing research while providing 
+consultancy, such as universities.  
+●Data science providers.  
+168
+ 
+Artificial intelligence firms are an example of how business models for data 
+exploitation can be affected by the services and data ecosystem available. 
+169
+Because open or easily accessible data attracts people and organisations to work 
+with it, firms can pitch an approach on a spectrum that invites more or less 
+collaboration with others working on similar problems.​ ​There could be five stock 
+business models that mix judgements about how much a firm should use external 
+collaboration opportunities or internal and procured skills in the development of 
+artificial intelligence products: 
+ 
+1.Open algorithm and closed data model: with this approach firms restrict 
+access to data but give access to their algorithms, using open source toolkits 
+to work with interested specialists and allowing others to develop 
+complementary services. 
+2.Closed algorithm and closed data model: this approach treats data and a 
+company’s algorithms as intellectual property, relying on internal resources 
+and available services for exploitation.  
+164
+ Cityverve (n.d.) ‘What is Cityverve?’, ​https://cityverve.org.uk/what-is-cityverve/ 
+165
+ CKAN (n.d.) ‘CKAN, the world’s leading Open Source data portal platform’, ​https://ckan.org/ 
+166
+ Cleanspace (n.d.) ‘The world's first personal air pollution smart sensor’, ​https://our.clean.space/ 
+167
+ Ordnance Survey (n.d.) ​https://www.ordnancesurvey.co.uk/  
+168
+ Future Cities Catapult (2017) ‘City Data Sharing Toolkit’, 
+https://futurecities.catapult.org.uk/wp-content/uploads/2018/10/City-Data-Sharing-Toolkit_V1.1_FCC_Oct
+2018.pdf 
+169
+ Open Data Institute (2018) ‘The role of data in AI business models’, 
+https://docs.google.com/document/d/14g0p6KSyH1r1J_PrykJIXUX-rdeP1B4CLIffAyFPOnk/edit#heading=
+h.rcydy9gttjg4 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  31 
+
+ 
+3.Closed algorithm and open data model: this is also known as the ‘proprietary 
+algorithm model’ with which firms give access to data and low access to 
+algorithms. This approach tends to be favoured by firms that want to create 
+competitive algorithms without having to control a large dataset, as a startup 
+might want to.  
+4.Open algorithm and open data model: an approach that perhaps allows 
+innovation to occur more quickly, but requires a firm to restrict access to its 
+skills, hardware, or other assets, if it is to be commercially viable.  
+5.Shared algorithm and shared data model: an approach that is favoured by 
+consultancies that license access to their artificial intelligence systems.  
+ 
+Physical infrastructure for data-enabled trade affects how well firms can share 
+data and reach consumers.​ Data centres play a leading role in international finance 
+Data is collected, stored securely and analysed in data centres. Canada’s Digital 
+Economy Action Plan is spending over C$100m on digital infrastructure in Quebec, 
+but the costs of building data centres across the world can differ substantially and 
+affect competitiveness – perhaps varying by as much as $60.9m in Brazil, $51.2m in 
+Chile, and $43m in the US. 
+170
+ 
+Access to cloud computing is one of the most analysed aspects of data-enabled 
+competitiveness. ​Estimates of annual global spending on cloud computing 
+171
+services run from around $70bn to up to $90bn, with the US accounting for more 
+than double the spending in the EU and the rest of the world combined, although 
+spending has risen considerably in recent years in countries such as Brazil. There 
+172
+are essentially two types of product on offer: physical infrastructure for cloud 
+computing, and services for access to the infrastructure. Developing countries spend 
+more on the former than the latter, and developed countries the reverse.  
+173
+ 
+Cloud computing as a service can improve business processes and reduce 
+barriers to entry, especially for firms in developing countries. ​Cloud computing 
+174
+services reduce the information and communications technology costs that firms 
+have to bare. They remove the need for company servers and allow entrepreneurs to 
+store and manipulate data without having to invest in their own hardware before they 
+have proven their business model. Infrastructure service providers benefit from 
+175
+economies of scale, gaining market share and reducing costs for their customers; 
+and in mature markets, companies have been able to use multiple suppliers to build 
+bespoke services while reducing the risks from being dependent on one. Large US 
+176
+cloud computing suppliers have entered large developing country markets, but have 
+been challenged in recent years by local competitors.  
+177
+ 
+Geography appears to matter more in the provision of cloud computing than 
+might be expected. ​The latency in access to software as a service for data-heavy 
+activities introduces extra geographic aspects into data-enabled trade 
+competitiveness, meaning that some services might be better provided if they are 
+170
+ US Chamber of Commerce (2014) ‘Business Without Borders: The Importance of Cross-border Data 
+Transfers to Global Prosperity’, 
+https://www.huntonprivacyblog.com/wp-content/uploads/sites/28/2014/05/021384_BusinessWOBorders_f
+inal.pdf​, p13 
+171
+ United States International Trade Commission (2017) ‘Global Digital Trade 1: Market Opportunities and 
+Key Foreign Trade Restrictions’, ​https://www.usitc.gov/publications/332/pub4716.pdf​, p58 
+172
+ Ibid, p71, p73 
+173
+ Ibid, p74 
+174
+ Ibid, p189 
+175
+ Ibid, p67 
+176
+ Ibid, p63 
+177
+ United States International Trade Commission (2017) ​Global Digital Trade 1: Market Opportunities and 
+Key Foreign Trade Restrictions​, p76 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  32 
+
+ 
+close to servers. With the introduction of online-only digital services such as 
+178
+gaming, speed and geography questions may become more pertinent, while 
+connectivity demands could mean that servers are best placed in climates in which 
+they can be kept cool without high energy costs. There is also some evidence that 
+179
+cultural and legal familiarity has motivated European companies to choose local 
+cloud services suppliers.  
+180
+ 
+Cutting the cost of internet and data access and making them available to more 
+people domestically, is a competitiveness question. ​A country’s digital skills 
+181
+base is boosted through more people using the internet from an early age and being 
+more prepared for internet-driven processes in the workplace, while the price per 
+month for a gigabyte of data to download can vary from around 1% of GDP per 
+capita in Mauritius to 45% in Zimbabwe. The Global Competitiveness Index 
+182
+regards internet access in schools – and by extension access to data – to be an 
+‘efficiency enhancer’, meaning that more familiarity with the internet during education 
+helps employees to be better managers in the workforce.  
+183
+ 
+The nature of data exploitation, and availability of services, skills, and data 
+infrastructure could help explain geographic clusters of data competitiveness. 
+The agglomeration of skills and other resources for data-enabled sectors in a region 
+may have several causes, including the economies of scope that become possible 
+once a firm has set up the ability to manipulate and manage data; the difficulty of 
+moving data across jurisdictions, as mentioned above; and the benefits of firms 
+locating in their largest market. But it is difficult to extrapolate effective industrial 
+184
+policies from these observations.  
+ 
+China’s Greater Bay Area is an example of a data and technology cluster. ​The 
+185
+area includes Hong Kong, Macau and nine other cities in China’s Guangdong 
+province, has 67 million people, and creates 12% of China’s GDP. The Chinese 
+government has a vision for the region to rival Silicon Valley in the US and Tokyo Bay 
+in Japan, and to help achieve it, respective public authorities have made interventions 
+such as establishing research centres – specialising in healthcare technologies, 
+artificial intelligence and robotics technologies – at the Hong Kong Science Park.  
+186
+ 
+Trade promotion 
+Export promotion is about attracting foreign consumers, and investment 
+promotion is about attracting foreign investors. ​There are few examples of 
+countries using their data infrastructure credentials to promote themselves, but many 
+178
+ Ibid, p59 
+179
+ Onezero (2019) ‘Google Just Showed Us the Future of Gaming’, 
+https://onezero.medium.com/google-just-showed-us-the-future-of-gaming-37ccec59e2dd​; World Bank 
+(2018) ‘Data-Driven Development’, ​https://openknowledge.worldbank.org/handle/10986/30437​, p13 
+180
+ United States International Trade Commission (2017) ‘Global Digital Trade 1: Market Opportunities and 
+Key Foreign Trade Restrictions’, ​https://www.usitc.gov/publications/332/pub4716.pdf​, p76 
+181
+ Economist Intelligence Unit (2019) ‘The Inclusive Internet Index 2019’, 
+https://theinclusiveinternet.eiu.com/ 
+182
+ World Bank (2018) ‘Data-Driven Development’, 
+https://openknowledge.worldbank.org/handle/10986/30437​, p26 
+183
+ World Economic Forum (2017) ‘The Global Competitiveness Report 2017-2018’, 
+http://reports.weforum.org/global-competitiveness-index-2017-2018/#topic=methodology 
+184
+ Goldfarb A and Trefler D (2017) ‘AI and International Trade’, ​https://www.nber.org/chapters/c14012.pdf 
+185
+ German Industry and Commerce HK (2018) ‘What is the Guangdong-Hong Kong-Macau Bay Area 
+Development All About?’, 
+https://hongkong.ahk.de/news/news-details/?tx_news_pi1%5Bnews%5D=14032&cHash=465e53bafa364
+16edb3eaa4a46f22d8a 
+186
+ World Economic Forum (2019) ‘This is China’s plan to eclipse Silicon Valley’, 
+https://www.weforum.org/agenda/2019/02/this-is-china-s-plan-to-eclipse-silicon-valley/  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  33 
+
+ 
+of the elements that go with it – such as digital skills – are at the centre of strategies 
+for attracting investors to dynamic, digital sectors. Export promotion for data-enabled 
+goods and services tends to focus on digital services.  
+ 
+The EU made a move for data-enabled trade competitiveness in 1996 with its 
+Database Directive. The directive was partly about creating data rights for data 
+187
+collectors, in an attempt to incentivise European firms to create valuable databases 
+that would make them more internationally competitive. 
+ 
+Access to data is being used by some countries as an incentive for foreign 
+investment.​ For example, Singapore has increased access to government datasets 
+for location and transportation; while Hong Kong’s data portal has become a 
+forerunner to the Hong Kong Hospital Authority establishing a data analytics platform 
+for biotechnological research. Canada’s open government drive is identifying 
+188
+high-value datasets, and spreading adoption of the Open Data Charter, while the 
+country’s Open Data 150 – a project that maps Canadian companies that use open 
+data – allows potential open data users to see what applications are possible.  
+189
+ 
+Objectives for digitisation and more data use are some of the highest economic 
+priorities for OECD countries. In 2017 the OECD found that within the digital 
+190
+strategies of its member countries: 22 had objectives for developing their 
+telecommunications infrastructure; 16 had objectives for promoting information 
+technology skills; and 16 had objectives to generate more science and innovation.  
+191
+Countries such as Australia, Brazil, and Germany have been racing in recent years to 
+write artificial intelligence strategies and data protection frameworks that they hope 
+will push them ahead in developing and selling advanced technology abroad in 
+sectors such as automobiles, finance, and satellites.  
+ 
+If data standards become an aspect of trade competitiveness, subsidies for 
+certification could be an export support policy. ​Helping producers in one country 
+achieve the quality standards of another has long been an intervention favoured by 
+policymakers – particularly in developing countries – for raising the amount of value 
+that firms can gain from their exports. Guidance on data standards set by the 
+192
+International Organization for Standardization include ISO 8000 on data quality. 
+193
+Traditional interventions for helping firms to achieve such standards in the production 
+of goods, have included establishing national quality certification centres, facilitating 
+integration with international systems, and increasing demand for certification.  
+194
+ 
+‘Fintech bridges’ between the UK and several countries have been some of the 
+most prominent examples of promoting exports and investment in a 
+data-enabled sector. ​The UK–Australia FinTech Bridge is the most prominent 
+187
+ European Commission (2017) ‘The economics of ownership, access and trade in digital data’, 
+https://ec.europa.eu/jrc/sites/jrcsh/files/jrc104756.pdf​ p4 
+188
+ Computerworld HK (2018) 2018 Policy Address: Local R&D gets a boost for tech sector growth’, 
+https://www.cw.com.hk/it-hk/2018-policy-address-local-r-d-gets-a-boost-for-tech-sector-growth 
+189
+ Govlab (n.d.) ‘Open Data 500’, ​http://canada.opendata500.com/​; Canada Open Government Working 
+Group (2017) ‘Draft Work Plan 2017-2018’, 
+https://open.canada.ca/ckan/en/dataset/5cc8b7ea-1fb2-527c-a73f-824da6ef69a6 
+190
+ OECD (2017) ‘OECD Digital Economy Outlook 2017’, 
+https://read.oecd-ilibrary.org/science-and-technology/oecd-digital-economy-outlook-2017_978926427628
+4-en#page38​, p36 
+191
+ Ibid, p36 
+192
+ Guasch JL etal (2007) ‘Quality Systems and Standards for a Competitive Edge’, 
+https://openknowledge.worldbank.org/bitstream/handle/10986/6768/405160Quality0101OFFICIAL0USE0O
+NLY1.pdf?sequence=1&isAllowed=y 
+193
+ International Organization for Standardization (n.d.) ‘ISO/TS 8000-1:2011’, 
+https://www.iso.org/standard/50798.html 
+194
+ Guasch JL etal (2007) ‘Quality Systems and Standards for a Competitive Edge’, 
+https://openknowledge.worldbank.org/bitstream/handle/10986/6768/405160Quality0101OFFICIAL0USE0O
+NLY1.pdf?sequence=1&isAllowed=y 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  34 
+
+ 
+example, and was established partly as a market access and coordination 
+mechanism. It directs collaboration between the respective governments, financial 
+regulators and industry; and encourages fintech firms to use the facilities and 
+assistance available in the other jurisdictions to explore new business opportunities 
+and reduce barriers to entry. The bridge also serves as an intervention by the 
+195
+respective governments for focusing financial services on either country, and firms 
+with export potential have access to one-stop shops giving for legal, regulatory and 
+practical advice.  
+ 
+Associations for sector coordination have become some of the most common 
+examples of data-driven industries, and affect export competitiveness. ​Several 
+countries have installed organisations for the development and coordination of 
+artificial intelligence research and commercialisation. For example, Canada has 
+Canada.ai​ for celebrating Canadian advances in artificial and machine learning.   
+196
+  
+195
+ Australian Government, The Treasury (2018) ‘UK-Australia FinTech Bridge’, 
+https://treasury.gov.au/fintech/uk-australia-fintech-bridge/  
+196
+ Canada AI (n.d.) ​http://canada.ai  
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  35 
+
+ 
+Conclusion 
+Data offers considerable innovation possibilities, but analysis of what 
+determines a country’s data-enabled trade competitiveness has only just begun. 
+Data is unlike other resources and can be reused without depletion while often 
+holding delicate information about people – driving the development of new 
+technology such as artificial intelligence. But data as a resource also poses novel 
+policymaking questions about the rules, institutions, and understanding necessary for 
+its full economic exploitation. How countries answer those questions could affect 
+their ability to create valuable goods and services, sell them abroad, and grow, for 
+decades to come.  
+ 
+Blending classic trade competitiveness analysis with the concept of data 
+infrastructure offers guidance to policymakers on the choices they face. ​The 
+discussion here has suggested that delineating issues of data infrastructure – using 
+the World Bank’s Trade Competitiveness Toolkit framework – outlines the policy 
+choices that affect the ability of firms to create new and better digital services with 
+data and sell them to consumers in foreign markets. Years of research on digital 
+competitiveness offers a foundation for how to consider such questions, but data 
+infrastructure raises new issues with regard to data ethics, security of contract, and 
+technological standards for data exchange.  
+ 
+Becoming competitive in data-enabled trade may be a question of how to 
+develop openness and data sharing in a cautious manner. ​Surveys from countries 
+around the world suggest public hesitation towards cross-border data exchange. And 
+the nature of collection of – often personal – data through mobile technology brings 
+ever more people and organisations into the discussion of which datasets should be 
+shared and with whom. Some countries are approaching questions of data innovation 
+by using regulatory sandboxes and reconsidering their competition frameworks. 
+ 
+International coordination of data exchange is nascent, and many countries are 
+faced with some strategic choices over which framework they adopt. ​GDPR has 
+become the most prominent example of international data collection and use 
+regulations, and its approach has naturally been adopted by EU countries while 
+spreading to others in the union’s neighbourhood. But GDPR strikes a balance 
+between policymakers’ competing objectives of efficient cross-border data exchange 
+and protection of personal data, that the US and jurisdictions within APEC are 
+approaching differently. Dealing with the classic international trade problem of 
+incomplete contracts in a world of enormous quantities of data is a relatively young 
+topic.  
+ 
+Mistrust and the attraction of defending domestic firms from international 
+competition may be driving data use from openness and towards protectionism. 
+The discussion here has relayed research on the rising number of countries that are 
+requiring firms to store or use the data they collect in the country in which it was 
+collected. This may be due to contracts for international data exchange being 
+inadequate for the nature of data and its mix of personal and non-personal 
+information.ut the consequence is that it limits the range of information that countries 
+can exchange – and may limit the ability of firms in restrictive countries to extract 
+value from the data they have access to.  
+ 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  36 
+
+ 
+Geography matters in the trade of data-enabled goods and services. ​The further 
+a cloud storage server is away from using the data in it, the slower the speed with 
+which it can be accessed, giving a competitive advantage to countries that host 
+servers with large amounts of data.  
+ 
+Not being like China may be a long-run advantage for many countries. ​China has 
+generated large amounts of data on its citizens, allowing its firms to create digital 
+services that have made them some of the most valuable companies in the world. But 
+that is without China having developed the means for its companies to sell large 
+amounts of digital services abroad. It would be understandable for policymakers to 
+want to emulate China’s success, but that may be difficult without China’s domestic 
+market size. Establishing an international reputation for high data standards may be a 
+more competitive approach for many countries.  
+ 
+The field of data-enabled trade competitiveness study will grow in the coming 
+years to answer some of the questions that this report has raised. ​A research 
+agenda could answer pressing questions such as: whether data flows between 
+countries show anything about their export performance; how data exchange options 
+between countries might be formalised in trade agreements and how these might 
+affect their ability to export data-enabled products; how competition policy towards 
+digital firms might affect a country’s ability to produce competitive firms in markets 
+dominated by existing ones; and whether trade promotion activities could help some 
+places to attract investment because of their data ethics standards. The Open Data 
+Institute will be analysing some of these issues in future work.  
+ 
+ 
+ 
+ 
+ 
+Open Data Institute 2019What are the links between data infrastructure and trade?  37 

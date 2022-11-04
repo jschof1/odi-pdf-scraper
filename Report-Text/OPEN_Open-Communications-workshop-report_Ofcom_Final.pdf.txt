@@ -1,0 +1,619 @@
+
+
+ 
+ 
+
+ 
+Contents 
+Open communications1 
+Contents1 
+About1 
+Executive summary2 
+Background3 
+Open data ecosystems4 
+The value of sharing data6 
+Workshop format and attendance7 
+The communications data ecosystem8 
+Use cases for open communications10 
+Greatest benefit to consumers10 
+Greatest benefit to providers11 
+Quick wins12 
+Risks12 
+Recommendations14 
+Appendix 1: Workshop Attendance15 
+Appendix 2: Additional Resources16 
+ 
+ 
+ 
+ 
+ 
+About 
+This report was produced as part of a three-year innovation programme funded by 
+Innovate UK. The views in this report are those of the authors. 
+ 
+This report has been researched and produced by the Open Data Institute (ODI), 
+and was published in August 2020. The lead authors are Josh D’Addario and Jeni 
+Tennison; ODI. 
+ 
+To share feedback by email or to get in touch, contact Josh D’Addario, at 
+info@theodi.org​.  
+ 
+ 
+ 
+ 
+To share feedback by email or to get in touch, contact 
+Josh D’Addario, at info@theodi.org 
+ 
+
+ 
+Executive summary 
+Alongside the wider smart data initiatives championed by the Department for Business, 
+Energy and Industrial Strategy (BEIS), Ofcom, the UK's communications regulator, is 
+currently exploring a data portability initiative: open communications. Open 
+communications would enable people and businesses to share data about their use of 
+telecoms services, held by their providers, with third parties who could help them 
+navigate the market and get a better deal. 
+ 
+As part of the ​Innovate UK R&D Programme​, the Open Data Institute (ODI) convened a 
+workshop with industry representatives to generate use cases for consumers and 
+providers and to look at the potential risks of enabling people and businesses to share 
+more information about their use of communications services. Findings from the 
+workshop included the potential to provide better products to consumers, better insights 
+to service providers, while acknowledging the risks of increasing access to data. 
+ 
+Making a sector more open is a long journey, but the communications data ecosystem is 
+poised for such a change and Ofcom will not be the first organisation to attempt a 
+sector-wide open data initiative. Ofcom has been looking at similar initiatives in other 
+industries to understand what works best and what should be avoided. Importantly, 
+Ofcom will have to understand what combination of mandate, reward and opportunity 
+needs to be created to motivate organisations to change and ensure benefits reach as 
+many stakeholder groups as possible. 
+ 
+  
+ 
+
+ 
+Background  
+The ODI works with companies and governments to build an open, trustworthy data 
+ecosystem, where people can make better decisions using data and manage any 
+harmful impacts. In November 2019, we hosted a workshop for Ofcom, the UK 
+communications regulator, looking at the future of data sharing in the communications 
+sector. 
+ 
+The communications data ecosystem contains data that exists on a spectrum, from 
+1
+closed, to shared, to open. Below is a graphic of ​The Data Spectrum​, produced by the 
+ODI. Much of the data is closed or shared in a limited manner for security and privacy 
+reasons, such as security credentials and call data records (CDRs). Some data is shared 
+widely such as product information, coverage, and store location. Ofcom ​publishes open 
+data​ on a variety of topics such as fixed and mobile network coverage and the service 
+quality that providers offer. 
+2
+ 
+An open communications initiative would seek to increase open and shared data in the 
+sector in a way that maximises value for communications customers, opportunities for 
+companies, and provides further benefits to society. This could be done by looking at 
+what data infrastructure could become more open. When data is more open, more 
+people can access, use and share that data.  
+ 
+ 
+ 
+  
+1
+ Open Data Institute (n.d.). The Data Spectrum. 
+https://theodi.org/about-the-odi/the-data-spectrum/  
+2
+ Ofcom (2020), “Open data”, 
+https://www.ofcom.org.uk/research-and-data/data/opendata  
+ 
+
+ 
+Open data ecosystems 
+Data infrastructure​ consists of data assets such as datasets, registers and common 
+identifiers like metadata. It also includes the standards and technologies used to curate 
+and provide access to those data assets and the guidance and policies that inform the 
+use and management of data assets. It can also include the organisations that govern 
+the data infrastructure and has to involve the communities involved in contributing to or 
+maintaining it; and those who are impacted by decisions that are made using it.  
+3
+ 
+Increased access to certain communications data infrastructure, including identifiers or 
+other standards, or even the metadata to closed or shared data, could boost innovation 
+in the sector that benefits customers. 
+ 
+Other regulators and industry bodies have explored and implemented initiatives to 
+increase access to data in their sectors: 
+ 
+●Open banking​ allows retail banking customers to share account and transaction 
+data with trusted partners. When securely shared, the data can be used to build 
+useful services such as account aggregation and personal financial 
+management. The Financial Conduct Authority (FCA) is looking to expand this 
+4
+to other financial data sources under the banner of open finance.  
+5
+●Open energy​ standards could help to change markets, create open ecosystems 
+and implement policy objectives. It could improve consumer control over energy 
+data about them, and support the creation of innovative new energy services. 
+6
+●An ​open water​ initiative could benefit all parts of the sector, allowing water 
+companies to learn from each other, encouraging efficiency in sharing 
+technology and increasing transparency to customers, leading to greater 
+customer satisfaction. 
+7
+●The ​OpenActive​ programme from Sport England and the ODI is currently helping 
+the sports and leisure sector adopt data standards and publish open data with 
+the hope of getting more people in England active. 
+ 
+There is also support from UK government initiatives for making data ecosystems as 
+open as possible: 
+ 
+●In October 2018 HM Treasury sought views and evidence on its Digital 
+Competition Expert Panel. ​The expert panel concluded​ that data openness can 
+be used as a tool to promote competition, where it is determined this is 
+3
+ Dodds, L. & Wells, P. (2019) Issues in Open Data - Data Infrastructure. In T. Davies, S. 
+Walker, M. Rubinstein, & F. Perini (Eds.), The State of Open Data: Histories and Horizons. 
+Cape Town and Ottawa: African Minds and International Development Research Centre. 
+https://www.stateofopendata.od4d.net/chapters/issues/data-infrastructure.html 
+4
+ Open Data Institute (2019), “How far Open Banking has come: our five takeaways”, 
+https://theodi.org/article/how-far-open-banking-has-come-our-five-takeaways  
+5
+ Financial Conduct Authority (2019), “FCA asks for proposals on how open finance could 
+transform financial services”, 
+https://www.fca.org.uk/news/press-releases/fca-asks-proposals-how-open-finance-could-
+transform-financial-services  
+6
+ Open Data Institute, “R&D: Open standards for the UK energy sector”, 
+https://theodi.org/project/open-standards-for-the-uk-energy-sector/#1558340061441-cb8
+100c5-47f3 
+7
+ Ofwat (2017), “Driving innovation in water”, 
+https://www.ofwat.gov.uk/wp-content/uploads/2017/12/Driving-innovation-in-water-FINAL
+.pdf  
+ 
+
+ 
+necessary and proportionate to achieve its aims, such as in the case of enduring 
+market power. 
+8
+●In 2019, the ​Smart Data Review​ was published as part of the UK Industrial 
+Strategy. This review proposed that greater access to telecoms data would 
+foster innovation to improve consumer outcomes by: 
+○accelerating the development of innovative data-driven services in 
+consumer markets 
+○using data and technology to help vulnerable consumers 
+○ensuring consumers and their data are protected. 
+9
+ 
+In Australia the rollout of the ​Consumer Data Right​ will help give consumers greater 
+access to and control over personal data, starting with banking and gradually increasing 
+to include energy, telecoms, and health. 
+10
+ 
+Our first look into ​open APIs in the telecoms industry​ demonstrated that there is potential 
+to enable new products and services that meet the needs of a wide set of users. In this 
+11
+context, the ODI looked further into what it would take to bring more openness to 
+communications data. 
+ 
+  
+8
+ Department for Business, Energy and Industrial Strategy (2019), “Unlocking Digital 
+Competition: Report of the Digital Competition Expert Panel”, 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_
+data/file/785547/unlocking_digital_competition_furman_review_web.pdf  
+9
+ Department for Business, Energy and Industrial Strategy (2019), “Smart Data: Putting 
+consumers in control of their data and enabling innovation”, 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_
+data/file/808272/Smart-Data-Consultation.pdf  
+10
+ Australian Competition & Consumer Commission (2017), “Consumer Data Right (CDR)”, 
+https://www.accc.gov.au/focus-areas/consumer-data-right-cdr-0  
+11
+ Projects by IF (2018), “Open APIs in the Telecoms Industry”, 
+https://openapis.projectsbyif.com/  
+ 
+
+ 
+The value of sharing 
+data 
+Businesses can create value by using third-party data to develop new products and 
+services. Our research has shown that they can unlock additional value by sharing data 
+they have collected. Increasing access to data held in the private sector has proven 
+12
+benefits to businesses in many ways, including: 
+ 
+●Improving supply chain efficiency 
+13
+●Increasing market reach 
+14
+●Facilitating ​benchmarking and market insights 
+15
+●Building trust 
+16
+●Improving efficiencies through ​open innovation, including within ​regulated 
+17
+markets 
+18
+●Collaborating to ​address sector-wide challenges 
+19
+ 
+Our research with the Bennett Institute at the University of Cambridge on ​the value of 
+dat​a​ has shown that despite increasing access to data being an important way to unlock 
+its wider economic and social benefits, there are various market failures around data and 
+the data economy that mean data sharing initiatives will not necessarily emerge on their 
+own. 
+20
+ 
+  
+12
+ Open Data Institute (2020), “Report: Sharing data to create value in the private sector”, 
+https://theodi.org/article/report-sharing-data-to-create-value-in-the-private-sector/  
+13
+ Open Data Institute (2020), “Case study: The value of sharing data in supply chain optimisation”, 
+ ​https://theodi.org/article/case-study-the-value-of-sharing-data-in-supply-chain-optimisation/  
+14
+ Open Data Institute (2020), “Case study: The value of sharing data for improving market reach”, 
+https://theodi.org/article/case-study-the-value-of-sharing-data-for-improving-market-reach/ 
+15
+ Open Data Institute (2020), “Case study: The value of sharing data for benchmarking and insights”, 
+https://theodi.org/article/case-study-the-value-of-sharing-data-for-benchmarking-and-insights/  
+16
+ Open Data Institute (2020), “Case study: The value of sharing data to build trust”, 
+https://theodi.org/article/case-study-the-value-of-sharing-data-to-build-trust/  
+17
+ Open Data Institute (2020), “Case study: The value of sharing data to drive open innovation”, 
+https://theodi.org/article/case-study-the-value-of-sharing-data-to-drive-open-innovation/  
+18
+ Open Data Institute (2020), “Case study: The value of sharing data in regulated environments”, 
+https://theodi.org/article/case-study-the-value-of-sharing-data-in-regulated-environments/  
+19
+ Open Data Institute (2020), “Case study: The value of sharing data to address sector challenges”, 
+https://theodi.org/article/case-study-the-value-of-sharing-data-to-address-sector-challenges/  
+20
+ Open Data Institute & Nuffield Foundation (2020), “Valuing data: foundations for data policy”, 
+https://www.nuffieldfoundation.org/project/valuing-data-foundations-for-data-policy  
+ 
+
+ 
+Workshop format and 
+attendance 
+The workshop hosted participants from a variety of backgrounds such as potential data 
+users, consumer advocacy groups and government. The full list of attendees is included 
+in ​Appendix 1​. The workshop was convened to help better understand the potential for 
+Ofcom’s open communications initiative. The workshop did not include communications 
+providers as we wanted to give more space to organisations that could start to use open 
+communications data for innovative new consumer-facing applications or have 
+experience doing this in other sectors. 
+ 
+Select participants were requested to give short presentations on their organisations, 
+and on what an open communications initiative might mean to them. These speakers 
+were: 
+ 
+●OpenWrks​ – an open banking service provider and potential data user under 
+open communications, who focussed on the opportunities for data users to 
+provide better services for customers through access to data from customers 
+and industry. 
+●Which?​ – a consumer organisation that aims to help consumers make the right 
+choices around purchases through testing and advice. They spoke of the 
+potential to improve customer outcomes through increased availability to data 
+and information.  
+●uSwitch​ – a price comparison and switching service for energy, personal 
+finance, insurance and communications services that saw open communications 
+as a way to improve their service to customers and expand it beyond price 
+comparison. 
+  
+Participants engaged in ‘data ecosystem mapping’ to understand the current 
+communications data ecosystem and some of its potential under open communications. 
+Participants also created example use cases in which both consumers and providers of 
+communications services could benefit, and explored their associated risks. 
+  
+ 
+
+ 
+The communications 
+data ecosystem 
+Data infrastructure can be hard for people to visualise and understand. We therefore 
+need to create ways to understand the ecosystems it supports. These aid 
+communication and enable us to make better decisions about investing in and operating 
+that infrastructure to maximise the value it provides. One approach is a ​data ecosystem 
+map​. 
+ 
+A data ecosystem map identifies the key data stewards and users, the relationships 
+between them and the different roles they play. In the workshop, participants created 
+data ecosystem maps to share information and discuss the current and potential 
+telecoms data ecosystem. 
+ 
+Example mobile data ecosystem map from the workshop redrawn on kumu: 
+  
+ 
+All the ecosystem maps were different but they captured the complexity of the data 
+ecosystem, with large numbers of actors playing a variety of roles in the ecosystem and 
+creating value in different ways. 
+ 
+All the maps highlighted two main aspects: how consumers navigate the 
+communications market; and how different types of communications providers access 
+data and value across the ecosystem. 
+ 
+ 
+
+ 
+A variety of other insights were highlighted by the groups through the mapping exercise 
+and subsequent presentations, such as: 
+ 
+●Valuable communications related data sits not just with mobile providers, but 
+also adjacent organisations, such as banks, transport companies, and 
+regulators. 
+●Customers could be incentivised to share communications data and more with 
+mobile providers as well as third parties in order to improve service delivery. 
+●The physical infrastructure of the ecosystem can influence the data and value 
+flows of the ecosystem. 
+●Mapping the data ecosystem could help new challengers identify where to 
+access data from. 
+●Consumers provide data and money and often get back value in the form of 
+services and insights, but do not receive monetary compensation for providing 
+data. 
+ 
+With a better shared understanding of the data ecosystem they operate in, the workshop 
+then moved on to the main focus, use case generation. 
+  
+ 
+
+ 
+Use cases for open 
+communications 
+Workshop teams were asked four questions about the potential of increasing access to 
+data in the communications sector, and generated, discussed and prioritised their 
+answers. The four questions all had the same format: 
+ 
+●What are the possible services that could have ​most benefit to 
+communications customers? 
+●What are the possible services that could have the ​most benefit to 
+communications providers? 
+●What are the possible services that could be the​ easiest to implement​ with 
+increased access to data? 
+●What are the ​risks that are associated​ with possible new services? 
+Greatest benefit to consumers 
+The overarching theme of what would be the greatest benefit to consumers was around 
+finding the communications products that were best suited for them. Comparing, 
+switching, aggregating and managing communications products based on their needs 
+and lifestyle – such as location, commute, living situation – were seen as the greatest 
+benefits of increased access to communications data. Other priority products included 
+bill splitting in shared households, unbundling services across multiple providers for the 
+best deal, and understanding usage patterns in public services.  
+ 
+Lower priority services included: 
+ 
+●Automated switching across service providers 
+●Emergency services locator 
+●Add-ons without tie-ins and shorter tie-in on contracts 
+ 
+In our previous work on ​Open APIs in Telecoms​ we looked at three potential use cases 
+that could benefit telecoms customers. These use cases were tested with 
+21
+communications providers to ensure their feasibility. 
+ 
+●Choosing a new mobile network​. Comparison sites are typically geared towards 
+price, helping people find the cheapest deal. Using data for signal strength, 
+ethical preferences such as carbon footprint and sourcing practices, or real data 
+usage this could enable the creation of services for managing and switching 
+between mobile network providers based on more than price. 
+●Managing utility bills in a shared household​.  Most utility companies do not 
+optimise for the complexity of people living together in shared houses, including 
+shared responsibility for paying and managing the bills and some people 
+21
+ Open Data Institute (2018), “Building the future: opportunities for new services and 
+stronger digital rights in telecoms and utilities”, 
+https://theodi.org/article/building-the-future-opportunities-for-new-services-and-stronger-di
+gital-rights-in-telecoms-and-utilities/  
+ 
+
+ 
+periodically moving. Making this data portable could help to split the bills in a 
+household, while allowing everyone to see all the accounts in one place. 
+●Improving a city’s air quality using bulk location data from mobile phones​. Cities 
+may have rich street-level data about air quality, but can lack footfall and cyclist 
+data. Better data would help urban planners working to combat pollution to 
+prioritise the streets in which the highest number of people are affected by poor 
+air quality. 
+Greatest benefit to providers 
+Increasing access to communications data could also benefit the organisations currently 
+stewarding this data. Our research shows that private sector organisations can gain 
+value from sharing data. In the Open Banking ecosystem, traditional banks have 
+benefitted from improved Know-Your-Customer (KYC) – the process whereby a business 
+verifies the identity and suitability of their customers, the ability to create personalised 
+product offerings, and access to competitor customer information. 
+ 
+There were no current representatives from communications providers present at this 
+workshop, but participants discussed how providers could benefit from improving their 
+service provision. Open communications could give communications providers a better 
+understanding of the market by having better insights to customer preferences and 
+service use through consented data access. Service providers would potentially be able 
+to compete better by providing personalised services, using competitor data to target 
+certain market segments, and improve services with non-telecoms data. 
+ 
+Lower priority services that were mentioned in this category included: 
+ 
+●Targeting investment in networks (in infrastructure, coverage, etc.) 
+●Understanding switch incentives 
+●Consumer feedback mechanisms 
+●Upselling to customers 
+●Identifying vulnerable consumers 
+●Identifying opportunities to share assets with competitors 
+●Standardisation of product metrics 
+ 
+Communications providers are investing in new technologies that have the potential to 
+generate large quantities of data. Analysing data generated from Internet of Things (IoT) 
+devices, software defined networks (SDNs) - the separation of network control functions 
+from network data functions - and network function virtualization (NFV) - software 
+implementations of network functions - could provide a lot of value to communications 
+providers. Given the difficult nature of analysis however, communications companies 
+22
+may be best served using an open innovation approach that draws on external expertise. 
+This approach could be facilitated by the wider open communications initiative in similar 
+ways to how the Data Pitch programme was able to do so for data providers in different 
+sectors. 
+23
+22
+ Cisco (n.d.) “SDN vs. NFV: What’s the difference?”, 
+https://www.cisco.com/c/en/us/solutions/software-defined-networking/sdn-vs-nfv.html 
+23
+ London Economics (Jan 2020), “Data Pitch Evaluation”, 
+https://datapitch.eu/wp-content/uploads/2020/01/London-Economics-Data-Pitch-evaluati
+on-FINAL-PDF.pdf 
+ 
+
+ 
+Quick wins 
+Some services will be more difficult to implement in the market than others due to 
+technical requirements or data privacy and sensitivity. In order to ensure continued 
+momentum and support for an open communications initiative, lower risk and more 
+technically simple services could be implemented first.  
+ 
+Participants noted that publishing some types of data could be an easy “quick win”, such 
+as open standards around products, and data around geographic coverage. Groups 
+also noted that enabling people to combine their communications data with data from 
+other household utilities for ease of bills management could feature in the first rollout of 
+services.  
+ 
+Lower priority services that were mentioned in this category included: 
+ 
+●Publishing better and more product data for Price Comparison Websites (PCWs) 
+●Standard publication of usage data per service and per user 
+●Make metadata available to help decide which data to share first 
+●Publishing fuller information on tariffs 
+ 
+Outside of increasing access to customer data to third parties, open communications 
+could also mandate organisations to publish open data. Ofcom and the industry should 
+focus on first publishing data that is of low risk to data providers and high benefit to 
+potential users, they should consider: 
+ 
+●Publishing data without personal information openly first removes the need for 
+potentially risky anonymisation processes. 
+●Publishing low risk geospatial data - data about a place, such as a building, 
+river, or city  - quickly has the additional benefit of improving the overall 
+geospatial data infrastructure of a region, with uses beyond the communications 
+sector. 
+●Publishing data on terms and conditions for various communications products 
+could promote consumer choice and protection but requires some 
+standardisation of product offerings. 
+Risks 
+In order for a data ecosystem to be trusted it must be trustworthy. Having an 
+understanding of the risks of increasing openness and putting in place measures to 
+combat those risks is a fundamental aspect of trustworthy data stewardship. 
+ 
+The results of this question were mixed across the groups but the main theme to emerge 
+was a lack of initial trust from consumers to share personal data with third parties. This 
+risk is not new when trying to implement an open data initiative and was a similar 
+concern with Open Banking. Another key set of risks were around the misuse of data 
+after being shared, a concern that can go hand in hand with low consumer trust. 
+ 
+Lower priority risks included: 
+●Large costs for industry 
+●Slow progress developing standards 
+ 
+
+ 
+●Misleading recommendations due to incomplete sets of data being used 
+●Lack of market incentives 
+●Potential for unacceptable price discrimination 
+ 
+There are important steps that Ofcom and industry organisations can take to reduce the 
+risk and minimise harm from increasing access to data, such as: 
+ 
+●Ensuring strict alignment to regulation around personal data such as the General 
+Data Protection Regulation (GDPR) in the EU, and ​using proper anonymisation 
+techniques when aggregating personal data so that it can be opened. 
+24
+●Implementing data ethics assessments that go beyond compliance and legal 
+issues. Tools such as the ​ODI’s Data Ethics Canvas​ can help identify and make 
+decisions about potential ethical issues. Publishing findings openly can help 
+build trust.  
+25
+●Implementing safeguards so that incumbent communications providers do not 
+unfairly benefit and that vulnerable customers are protected from harm. 
+ 
+  
+24
+ Open Data Institute (2019), “Anonymisation and open data: An introduction to managing 
+the risk of re-identification”, 
+https://docs.google.com/document/d/1CoXniaTnQL_4ZyQuji9_MA_YCEElQjx4z1SEdB08c
+2M/edit#  
+25
+ Open Data Institute (2019),”The Data Ethics Canvas, 
+https://theodi.org/article/data-ethics-canvas/#1557853049317-baab6160-135f  
+ 
+
+ 
+Recommendations 
+It takes a lot of work to create an open, trustworthy data ecosystem. Ofcom is well 
+positioned to begin that journey. The communications sector is poised for a data 
+portability initiative, and there is interest by end users, data users and providers. There 
+are other sectors to look at for inspiration and caution. Culture change in a sector 
+requires understanding the various motivations of the different actors. Ofcom will have to 
+understand what combination of mandate, reward and opportunity needs to be created, 
+and for whom, to further the goals of the initiative. 
+ 
+Ofcom should focus on the next steps in their journey so as to ensure a strong 
+foundation to move forward: 
+ 
+●Confer with key representatives from other data portability initiatives in the 
+energy, water, and banking sectors to learn best practice and where pitfalls may 
+exist 
+●Seek buy-in from the industry’s main service providers to ensure a smooth 
+implementation and achievement of goals 
+●Convene a working group of different industry representatives to develop a 
+programme of activity for further discovery and implementation 
+●Focus initial work on a non-contentious and low risk quick win, such as 
+geospatial data 
+●Explore ways to stimulate and encourage further work on specific use cases. 
+This might involve engaging in discovery projects, funding hackdays or offering 
+stimulus funding for small projects 
+●Promote and sponsor further engagement and research to understand the data 
+ecosystem better, such as a report on communications data infrastructure and 
+standards, or on an appropriate ​model for data access​, such as a ​data trust​ or 
+other institution for data that cannot be openly published. 
+  
+ 
+
+ 
+Appendix 1: Workshop 
+Attendance 
+The following organisations had one or more members attending the workshop: 
+ 
+●Ofcom 
+●Which? 
+●Bud 
+●OpenWrks 
+●OpenDataSoft 
+●USwitch 
+●DCMS 
+●UK Regulators Network 
+●Open Data Institute 
+  
+ 
+
+ 
+Appendix 2: Additional 
+Resources 
+●Mapping data ecosystems​ methodology and ​tool​ – a tool for documenting and 
+mapping data ecosystems 
+●Open APIs in the Telecoms Industry 
+●The ODI’s ​Data Toolkit for Business​ is a set of collaborative tools that will help 
+businesses unlock the value of data 
+●Open standards for the UK energy sector 
+●Furman Review: Access to data is a new tool against monopoly 
+●Anonymisation and open data: An introduction to managing the risk of 
+re-identification 
+●How far Open Banking has come: our five takeaway 
+●Open Standards for Data​ - This guidebook helps people and organisations 
+create, develop and adopt open standards for data. 
+●Open data for public services​ – includes example data ecosystem maps 
+●Report: Sharing data to create value in the private sector 
+●Data sharing in the private sector​ - includes case studies on businesses gaining 
+value from increasing access to data they hold and a ​summary report 
+●The Value of Data report​ - exploring ideas around how to effectively and ethically 
+tap into the value of data 
+ 

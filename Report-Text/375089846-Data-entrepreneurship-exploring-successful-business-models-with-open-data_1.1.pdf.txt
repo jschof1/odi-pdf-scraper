@@ -1,0 +1,1175 @@
+
+
+Open Data Institute / Whitepaper ODI-WP-2017-004
+Jamie Fawcett, Lucia Chauvet and Ryan Goodman
+Open Data Institute in partnership with ODINE
+Data entrepreneurship: 
+exploring successful business 
+models with open data
+
+Contents
+Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    3
+4 About
+5 Executive summary
+6 Introduction
+The value of open data
+    6
+Building business models involving open data    7
+Better understanding of open data business models through ODINE     7
+8 More than just ‘open data startups’
+How core is open data to your business?
+    8
+Diversity of industry    8
+ Case study: BikeCitizens    10
+11 Beyond consumption: creating value through publishing
+The role of open data
+    11
+The importance of the role that open data plays    11
+ Case study: Green City Solution    13
+14 Generate revenue through publishing
+Freemium models for open data services
+    14
+Deriving revenue from open data    14
+ Case study: OpenGazettes    16
+17 Combine data from multiple sources
+Using multiple open data sources
+    17
+Combining open, shared and closed data sources    17
+Case study: urban Data Analytics (uDA)    20
+21 Services built on open data have wide-reaching value
+Targeting customers and markets
+    21
+Case study: InSymbio    23
+24 Conclusion: open is the future of business
+25 Methodology 
+26 Bibliography 
+
+Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    5Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    4
+About
+This report is based on research carried out by the Open Data 
+Institute as a partner in the Open Data Incubator for Europe. 
+Specifically, it draws upon the ODI’s primary research for the 
+ODINE D6.3 business models, lessons learned and success 
+stories deliverable.
+[1]
+About the ODI
+ODI works to build a strong, fair and sustainable data 
+economy by helping governments and businesses around 
+the world get data to people who need it. It is independent, 
+nonprofit and nonpartisan, founded in 2012 by 
+Sir Tim Berners-Lee and Sir Nigel Shadbolt. From its 
+headquarters in London and via its global network of 
+startups, members and nodes, the ODI offers training, 
+research and strategic advice for organisations looking 
+to explore the possibilities of data. 
+Since its inception in 2013, the ODI startup programme has 
+supported 33 startups spread across five ‘cohorts’. Initially 
+the programme focussed on businesses that placed open 
+data at the core of their business model and had a 
+triple-bottom-line impact socially, environmentally and 
+economically. The evolution of the data-enabled economy 
+sector demonstrated that most business models, whilst 
+adopting an open-innovation approach, incorporated a blend 
+of open and shared data. In response to this, we broadened 
+the scope of the latest cohort to include a wide range of 
+data-enabled startups. 
+As a whole, startups incubated by the ODI while in the 
+programme have secured around £16m in sales and 
+investments and directly employed more than 130 people. 
+About ODINE
+The Open Data Incubator for Europe (ODINE) was a six-
+month incubator programme for startups and SMEs across 
+Europe looking to innovate with open data. The programme 
+was delivered by seven European partners and funded by the 
+EU’s Horizon 2020 initiative. It looked to help startups and 
+SMEs to innovate with open data to develop or improve 
+products and services. Over 20 months, the ODINE project 
+funded 57 companies from 18 different European countries 
+across a range of industries and markets. Alongside funding, 
+the programme provided a number of services, including 
+mentoring and coaching sessions, as well as peer to peer 
+support and networking. Across the eight cohorts of startups, 
+ODINE has resulted in €23.7M of sales, investment and 
+efficiencies, and generated 278 jobs.
+[2]
+ Furthermore, the 
+startups have created over 50 open data products or 
+services, which in turn provide new opportunities for other 
+companies within the ecosystem.
+Authors: Jamie Fawcett, Lucia Chauvet and Ryan Goodman
+Editors: Anna Scott and Charlotte Fleming 
+Design and art direction: Adrian Philpott / PHILPOTT design 
+Executive summary
+Data is infrastructure on which the modern economy is built. Data’s 
+increasing ubiquity and abundance makes it vital in every sector, and 
+businesses of every size are becoming more and more dependent. 
+Open data is creating value for society and the economy.
+[3]
+ In this age 
+of data abundance the amount of open data available will keep 
+increasing. Individual businesses, especially startups and SMEs, 
+can take advantage of open data in many ways.
+By analysing data alone or 
+together with third parties, 
+retailers By pioneering value 
+propositions and business 
+models that take advantage of 
+open data now, businesses can 
+get ahead of the competition. 
+This paper presents key lessons learned about the role of 
+open data in successful business models, based on the ODI’s 
+experience incubating startups and on research carried out 
+as part of the Open Data Incubator for Europe 
+(ODINE) programme.
+[4]
+These lessons are not exhaustive, however we hope they can 
+help guide new and existing startups and SMEs to create 
+value with open data. Although the exact business models 
+surrounding open data are still evolving, the value of open 
+data to business is clear. What these lessons show is the 
+unique opportunity that open data creates for startups and 
+SMEs to create growth, extract value and ensure 
+sustainability while defining the successful business models 
+of the future.
+Key lessons for businesses
+ You don’t have to be an ‘open data startup’ to 
+benefit from open data.
+ While some businesses are set up to explicitly take 
+advantage of the opportunities presented by open data, 
+many other businesses are building new products 
+and services or enhancing their existing offering with 
+open data.
+ Beyond consumption: open data publishing is 
+creating value for small business.
+ Access to open data presents businesses with a valuable 
+opportunity to innovate but increasingly businesses are 
+publishing open data to attract new customers, improve 
+customer experience and capture new markets.
+ Freemium subscription models are being used to 
+generate revenue from publishing open data.
+ Revenue models for products and services based on open 
+data tend to adopt ‘as-a-service’ subscription revenue 
+models and when it comes to publishing open data, 
+businesses are increasingly using freemium models to 
+derive revenue while keeping data open.
+ Greater value is created by combining different 
+data from multiple sources.
+ Strong value propositions are often built to solve very 
+complex problems. Businesses often address them by 
+combining a wide variety of data types from different open, 
+shared and closed sources. 
+ Services built on open data are of value to a wide 
+range of organisations and individuals.
+ The products and services built with open data are useful 
+to a diverse range of businesses, governments and 
+individuals from across the whole economy.
+3 The ODI (2016), ‘The value of open data’,  
+https://theodi.org/the-value-of-open-data. 
+4 ODINE (2016), ‘Business models, lessons learned and success stories’,  
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf.
+1 ODINE (2016), ‘Business models, lessons learned and success stories’,  
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf.
+2 IDC (2017), ‘Impact Assessment of ODINE Programme’,  
+https://opendataincubator.eu/files/2017/07/ODINE_Final-report_2.0.pdf.
+
+Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data 7Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    6
+Building business models involving open data
+Categorising business models is often done through 
+frameworks, the most widely used of which is the Business 
+Model Canvas.
+[15]
+ This breaks down any business model 
+into nine core building blocks. Academics, businesses and 
+research organisations have been using these frameworks 
+to evaluate emerging trends and patterns among those 
+building products and services with open data. The Creative 
+Commons team have developed an Open Business Model 
+Canvas
+[16]
+ to describe business models built on openly 
+licensed content. This fed into their work on the Made 
+with Creative Commons
+[17
+ project, designed to document 
+such businesses.
+Others who have begun to categorise different trends include 
+Ferro and Osella,
+[18]
+ Howard,
+[19]
+ Zeleti,
+[20]
+ Ojo and Curry, 
+Jeni Tennison,
+[21]
+ the World Wide Web Foundation
+[22]
+ and 
+Deloitte.
+[23]
+ In our research for ODINE, we compiled a 
+synthesis of the emerging trends and patterns identified in 
+existing research. This report, however, will not build on 
+these categories but will explore broader findings relating to 
+components of models currently used by SMEs and startups.
+Better understanding of open data business 
+models through ODINE 
+The ODINE programme provided diverse examples of 
+successful value propositions and business models involving 
+open data. The 57 companies that were given funding came 
+from 12 industries, 18 European countries and varied 
+between established SMEs and startups born within the 
+programme. On completion of the programme, the estimated 
+return on investment (ROI) was 300x, with an independent 
+evaluation
+[24]
+ projecting this to grow to 540x return on 
+investment by 2020. 
+The goal of the research on which this paper is based was 
+to explore the business models of the ODINE-funded 
+companies, and use them to help inform wider research 
+into open data and business models.
+[25]
+The goal of this report is to help startups, SMEs and Venture 
+Capitalists (VCs) to understand the business value that can 
+be created through open data and to explore some of the 
+new models that can capture that value. We do this by 
+sharing lessons from our research into the successful ODINE 
+companies and our work with other businesses. We believe 
+that these new business models provide a glimpse of the 
+future data economy.
+The value of open data
+Current estimates suggest the value of public sector open 
+data sits between 0.4% and 4.1% of GDP.
+[10]
+ However, 
+existing research tends to focus on the benefits of open data 
+to the wider economy, rather than the benefits it can bring to 
+individual organisations. 
+Research has revealed the huge amount of value created by 
+individual open datasets, primarily those published by 
+governments. For example, a study of the US Landsat data 
+– comprising satellite imagery of the Earth’s surface
+published under an open licence – found that the dataset
+generated an estimated $2.19bn economic benefit in
+2011 alone.
+[11]
+Other research has been able to quantify the overall value of 
+an organisation publishing open data. For instance, Transport 
+for London’s release of open transport data was recently 
+estimated to be worth up to £130m per year for travellers; 
+London and TfL itself in saved time, operational efficiency 
+and jobs.
+[12]
+ However, there are few estimates of the value 
+created for individual private sector companies, and next to 
+none on the value they derive from publishing their own 
+open data. 
+The ODI has been working with companies of various sizes 
+and capturing the lessons learned through research into open 
+data businesses. This report represents the third in a trio of 
+products sharing these lessons, alongside the ‘Open data 
+means business’
+[13]
+ and ‘Open enterprise’
+[14]
+ studies.
+More businesses are 
+recognising the opportunities 
+available to build and enhance 
+their value proposition using 
+open data.
+Open data is data that anyone can access, use and share,
+[5]
+ 
+by virtue of the limited set of constraints imposed by 
+publishing data under an open licence.
+[6]
+ With increasing 
+amounts of open data available, more businesses are 
+recognising the opportunities available to build and enhance 
+their value proposition using open data. Open data brings 
+more than just access to new data sources – it is allowing 
+businesses to explore innovative business models that 
+include publishing open data or supporting others to 
+publish it. 
+The unique selling point for businesses using data does not 
+arise from exclusive access to the data, but what they do with 
+it and how that helps customers make decisions.
+The ODI has been working with open data startups and SMEs 
+since it was founded in 2012. This report shares some 
+lessons learned about innovative startups and SMEs that 
+have built unique value propositions based on open data. We 
+draw upon recent research
+[7]
+ that was carried out by the ODI 
+for the EU-funded Open Data Incubator for Europe (ODINE) 
+programme,
+[8]
+ additional analysis of the data from this 
+research and our own experiences with the ODI 
+Accelerator programme.
+[9]
+Introduction
+15 See: https://strategyzer.com/canvas/business-model-canvas.
+16 Stacey (2016), ‘What is an Open Business Model and How Can You Generate 
+Revenue?’, https://medium.com/made-with-creative-commons/what-is-an-open-
+business-model-and-how-can-you-generate-revenue-5854d2659b15.
+17 See: https://medium.com/made-with-creative-commons.
+18 W3 (2013), ‘Eight Business Model Archetypes for PSI Re – Use’,  
+https://www.w3.org/2013/04/odw/odw13_submission_27.pdf.
+19 Howard (2013), ‘Open data economy: Eight business models for open data and 
+insight from Deloitte UK’,  
+https://www.oreilly.com/ideas/open-data-business-models-deloitte-insight.
+20 See: https://dl.acm.org/citation.cfm?doid=2612733.2612745.
+21 Tennison, J. (2012), ‘Open Data Business Models’,  
+http://www.jenitennison.com/2012/08/20/open-data-business-models.html.
+22 Web Foundation (2015), ‘Open Data Intermediaries: Their Crucial Role’,  
+https://webfoundation.org/2015/08/open-data-intermediaries-their-crucial-role.
+23 Deloitte (2012), ‘Open growth’, https://www2.deloitte.com/content/dam/Deloitte/uk/
+Documents/deloitte-analytics/open-growth.pdf.
+24 IDC (2017), ‘Impact assesment of ODINE programme’,  
+https://opendataincubator.eu/files/2017/07/ODINE_Final-report_2.0.pdf.
+25 ODINE (2016), ‘Business models, lessons learned and success stories’, 
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf.
+5 The ODI (2016), ‘What is open data?’, https://theodi.org/what-is-open-data. 
+6 Open Definition, ‘Open Definition 2.1’, http://opendefinition.org/od/2.1/en. 
+7 ODINE (2016), ‘Business models, lessons learned and success stories’, 
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf.
+8 See: https://opendataincubator.eu.
+9 See: https://theodi.org/start-ups. 
+10 The ODI (2015), ‘The economic impact of open data: what do we already know?’, 
+https://medium.com/@ODIHQ/the-economic-impact-of-open-data-what-do-we-
+already-know-1a119c1958a0. 
+11 NASA Landsat Science (2015), ‘Landsat Benefited U.S. Economy by  
+$1.8 Billion in 2011’,  
+https://landsat.gsfc.nasa.gov/landsat-benefits-u-s-economy-by-1-8-billion-per-year. 
+12 Transport for London (2017), ‘Assessing the value of TfL’s open data and digital 
+partnerships’, http://content.tfl.gov.uk/deloitte-report-tfl-open-data.pdf. 
+13 The ODI (2015), ‘Research: Open Data means business’,  
+https://theodi.org/open-data-means-business.
+14 The ODI (2016), ‘Open enterprise: Executive summary’,  
+https://theodi.org/open-enterprise-big-business.
+
+Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data 9Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    8
+37% said their company would be able to exist without 
+open data. These businesses, especially in the ODINE 
+context, are typically businesses with an existing value 
+proposition. While they are not dependent on open data, 
+they tend to be exploring the opportunity presented by open 
+data for building new products or services, or enhancing 
+their existing offering. As well as offering access to a wider 
+variety of data, open data allows them to try things out and 
+experiment more quickly – without having to buy access 
+to data or negotiate data-sharing agreements.
+None of the respondents to our research said they would 
+be able to easily exist without open data. This clearly 
+indicates that all the businesses believe open data is playing 
+some role in their overall success, even if it is not necessary 
+for their survival.
+Diversity of industry
+We asked companies which industry best described their 
+area of business. Just over half the respondent companies 
+did not consider themselves first and foremost a tech 
+company. These companies placed themselves across 10 
+different industries, from healthcare to education. While it is 
+likely that most of the companies are technologically 
+advanced and data-savvy, they are attempting to build 
+products and services with open data to tackle existing 
+industry problems. Those who do consider themselves a 
+tech  company are most likely to be working across several 
+traditional market sectors.
+Organisations are increasingly 
+building open data into their 
+businesses; some without even 
+realising it.
+Where in the past, open data may have seemed like a 
+niche field, populated by specialist ‘open data businesses’, 
+increasingly we are seeing organisations of all types building 
+open data into their business, some without even realising it.
+Open data is simply data that has been published under an 
+open licence for anyone to access, use or share. All modern 
+businesses are now looking to make better use of data. 
+Whatever field, industry or market a business is in, there is 
+likely to be useful and relevant data available. Our research 
+into the ODINE companies found clear evidence that a 
+range of different businesses from different sectors and 
+geographies were integrating open data into their 
+business models.
+How core is open data to your business?
+We asked the ODINE companies how important open 
+data was to the existence of their companies. Of those who 
+responded, there was a fairly even split between three 
+different ways in which they were taking advantage of 
+open data. 
+29% said their company would not exist without open 
+data. These are what might typically be described as ‘open 
+data companies’. They tend to build services specifically 
+around open data. They are often members of ‘the open data 
+community’ and are likely to have built a value proposition 
+around openness.
+34% said their company would struggle to exist without 
+open data. These businesses are more focused on a value 
+proposition that is enabled by data, using open data to lower 
+costs or time to market. While open data may not be at the 
+core of their products and services,it has become a key 
+factor in their overall success.
+More than  
+just ‘open data 
+startups’
+0
+10
+20304050
+From the ODINE research
+Percentage of ODINE companies
+Answers to the question: Which of the following statements 
+best describes your company?
+Education
+Environment & Weather
+Research & Consulting
+Transportation
+Business & Legal Services
+Energy
+Housing/Real Estate
+Geospatial/Mapping
+Food & Agriculture
+Healthcare
+Data/Technology
+Figure 2: ODINE companies’ answers to the question: Which category best describes your company’s area of business?
+[27]
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Our company would be
+able to exist without
+open data
+Our company would
+struggle to exist without
+open data
+Our company would
+not exist without
+open data
+29%34%37%
+0%
+Percentage of ODINE companies
+Answers to the question: Which of the following statements 
+best describes your company?
+Figure 1: ODINE companies’ answers to the question: Which of the following statements best describes your company?
+[26]
+26 ODINE (2016), ‘Business models, lessons learned and success stories’, 
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf.
+27 ODINE (2016), ‘Business models, lessons learned and success stories’, 
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf. 
+Our company would be 
+easily able to exist without 
+open data
+
+Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    11Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    10
+The role of open data
+We asked companies whether they used, published or 
+supported others to publish open data; 93% used it, 55% 
+were publishing and 60% were supporting others to publish 
+it. While open data use is high, over half the respondents 
+were publishing or supporting others to publish indicates the 
+wider role businesses play in the data economy.
+Open data plays more than one role in 81% of respondent 
+companies, suggesting that businesses generate value from 
+open data in more diverse ways than simply by ingesting 
+and selling it. One in four companies used, published and 
+supported others to publish open data, compared to less 
+than one in five only using open data.
+Half of the respondents both used and published open data, 
+which indicates that they built products and services based 
+on it, which in turn led to data being published. This might 
+indicate that the companies are ‘infomediaries’ – businesses 
+that clean or improve open data to re-publish and sell access 
+to it. However, there are also a number of companies who 
+publish open data as part of the wider products and services 
+they provide.
+The importance of the role that open data plays
+We asked companies about how important role was for 
+their products and services, and their value propositions. 
+The research showed that on the whole, use of open data 
+played a core role in 25% of the businesses and a key role 
+in a further 63%. This was much higher than either 
+publishing (14% core, 32% key) or supporting open data 
+(4% core, 44% key). 
+New models building on and 
+republishing data are 
+challenging the notion that 
+data’s value comes from 
+limiting access to it.
+Open data has begun to play a much wider role in 
+businesses, with new models looking not only to use open 
+data but to build on and republish data, support others to 
+publish and generally drive open data publishing further. 
+These models run counter to the dominant position on data, 
+which is that value can only be derived from data by limiting 
+access to it. What makes these models particularly appealing 
+for startups is their ability to capture existing markets, create 
+new markets and produce network effects. This leads to 
+greater value creation for the startups themselves and the 
+industries or markets they operate in.
+Beyond consumption: 
+creating value  
+through publishing
+Case study: BikeCitizens
+BikeCitizens is a good example of a startup benefitting from 
+open data without being an ‘open data startup’.
+[28]
+ The 
+company’s primary offering is a smartphone application which 
+offers cyclists route planning services. BikeCitizens also sell 
+smartphone mounts, which enable the cyclist to attach their 
+smartphone to the handlebars of any bike. 
+BikeCitizens business model revolves around partnering with 
+cities to license their cycling app in order to make it free to 
+download for their citizens. BikeCitizens also collect data from 
+users and provide aggregated data to cities to help them 
+understand cycling in the city and explore ways to improve city 
+design for cyclists.
+However, after obtaining funding from ODINE, the company 
+could use and publish open data on bike-sharing service 
+locations to improve access to bike-sharing services in cities 
+through their application. They also use OpenStreetMap and 
+open weather data in their application and this has enhanced 
+their value proposition so they now reach over 430 cities
+https://www.bikecitizens.net 
+28 See: https://www.bikecitizens.net. 
+
+Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    13Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    12
+Case study: Green City Solution
+Open data is playing a role in Green City Solutions’ business 
+model and product, CityTree, which addresses the global 
+problem of air pollution.
+[30]
+A CityTree is a free-standing vertical plant display, which 
+combines a special moss culture with the company’s own 
+Internet of Things (IoT) technology. The moss is attached to air 
+vents in order to speed up the air cleansing process and collect 
+data about the types and levels of pollution in the city. The 
+plant is capable of targeting and reducing air pollution, such as 
+fine dust and nitrous oxides, up to 275 times more efficiently 
+than a normal tree.
+CityTrees have been implemented in several European cities, 
+with vertical plant displays in city streets of Oslo (Norway), 
+Paris (France), Hanover, Dresden and Berlin (Germany) and 
+Hong Kong. Green City Solutions ensure profitability by 
+implementing visual and digital information on the product 
+for marketing purposes. The product also contains smart 
+sensors, which collect environmental and climatic data, 
+allowing regulation and control units to ensure that moss 
+culture survives. The business can also integrate benches with 
+wi-fi spots and e-bike charging services for an additional cost. 
+CityTrees collect data on air quality and Green City Solutions 
+use and publish it to benefit the cities where the trees are being 
+used. Open data therefore generates new possibilities to 
+analyse data about air quality, enabling cities to make better 
+environmental decisions. 
+https://greencitysolutions.de/en
+0
+10
+20
+30
+40
+50
+60
+70
+80
+It is a marginal ingredient in our
+products or services – it forms
+a non-essential feature
+It is a key ingredient in our
+products or services – it forms an
+essential feature
+It forms the core of our
+products or services
+24%
+63%
+32%
+43%
+13%
+45%
+48%
+14%
+4%
+Use
+Publish
+Support
+Answer to questions about the importance of use, publishing or supporting others
+to publish from the ODINE business model research
+Figure 4: ODINE companies’ answers to the question on the importance of using, publishing or supporting others to publish 
+open data. 
+0
+5
+10
+15
+20
+25
+30
+Only supportPublish &
+support
+Only useUse & publishUse, publish
+and support
+Use & support
+26%26%
+24%
+17%
+5%
+2%
+Percentage of ODINE companies
+Answer to questions about whether businesses use, publish or support others
+to publish from the ODINE business model research
+Figure 3: ODINE companies’ answers to the question of whether they use, publish or support others to publish open data.
+[29]
+29 ODINE (2016), ‘Business models, lessons learned and success stories’, 
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf.30 See: https://greencitysolutions.de/en.
+
+Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data 15Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    14
+Freemium models for open data services
+We asked companies if their product was ever free at the 
+point of use in order to examine the prevalence of the 
+freemium model, and to understand other sales strategies 
+including free trial services. Over three fifths of companies 
+employed a freemium model for their product or service, 
+whether that was data itself or another service.
+ 
+Deriving revenue from open data
+We asked businesses how they derived revenue from the 
+products and services they had developed with open data, 
+including but not limited to data itself. 86% of businesses 
+derived revenue using a subscription fee – with 49% using 
+subscription fees as their only revenue model – suggesting 
+that, on the whole, ODINE companies are selling ongoing 
+access to data, platforms and services.
+Only 32% of companies used one or more revenue streams 
+that did not involve direct payment from the customer. Just 
+over a fifth of companies were employing some form of 
+cross-subsidy model – either attracting customers to other 
+paid-for products and services, or using open data to 
+generate leads for other transactions. However, only 5% of 
+businesses were relying exclusively on this strategy, while 
+the rest also employed direct revenue models. 
+Many businesses are already 
+using, publishing and 
+supporting others to publish 
+open data as part of viable 
+paid-for products and services.
+Where businesses are not charging directly for products or 
+services, there are usually indirect revenue strategies 
+in place.
+One common approach to non paid-for services, especially 
+around the publication of open data by businesses, is the use 
+of freemium models. Freemium models grant access, 
+normally to openly licensed data, free of charge under some 
+conditions, while introducing premium paid tiers for certain 
+types of access or value-added services. Businesses can 
+also employ cross-subsidy models where they use free open 
+data services to attract customers to other paid-for services 
+or to generate leads for other business opportunities.
+Generate revenue 
+through publishing
+0
+10
+20
+30
+40
+50
+60
+70
+Not freemiumFreemium
+24%
+10%
+21%
+7%
+17%
+21%
+Yes, for all customers under certain conditions
+Yes, for certain types of customers
+Yes, for certain types of customers under certain conditions
+Percentage of ODINE companies
+No
+Yes, for all customers under all conditions
+Response to question 13: Is your product or service ever free at the point of use? 
+Yes, for a limited trial period
+Figure 5: ODINE companies’ answers to the question: is your product or service ever free at the point of use?
+[31]
+0
+20
+40
+60
+80
+100
+Featuring paid
+advertising
+Lead generation
+for paid services
+Funded by
+grants
+Attracting
+customers to
+paid services
+Single paymentSubscription fee
+86%
+31%
+12%12%
+10%
+5%
+Direct revenue
+Indirect revenue
+Percentage of ODINE companies
+How do you derive revenue from the product and/or service?
+Figure 6: ODINE companies’ answers to the question: how do you derive revenue from your product and/or service?
+[32]
+31 ODINE (2016), ‘Business models, lessons learned and success stories’, 
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf.
+32 ODINE (2016), ‘Business models, lessons learned and success stories’, 
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf. 
+
+Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    17Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    16
+Case study: OpenGazettes
+OpenGazettes aim to make government gazettes more 
+accessible to companies and individuals around the world.
+[33]
+ 
+Gazettes are official journals published online and accessed 
+globally, which are used for research or for private companies 
+assessment. They contain information such as notices of 
+incorporation, dissolutions, mergers and more. However, these 
+notices are hardly ever linked to the right companies. Run by 
+OpenCorporates, which manages the largest open database 
+of companies in the world, OpenGazettes aim to connect 
+companies with the correct notices and contracts.
+OpenGazettes derive their revenue from open data using a 
+freemium subscription model: users are able to access some 
+of the data for free if using it for public benefit, but must pay 
+fees for personal or corporate use of the database. At present, 
+fees are charged in accordance with a user’s daily or monthly 
+access to API documentation. 
+Open data was crucial in allowing gazettes to be published 
+and accessed openly in order for companies to be better 
+informed and build a profitable business.
+http://opengazettes.com
+While in some cases all the data a business uses will be 
+open, often it will come from across the Data Spectrum.
+[34]
+ 
+For example, open data can be mixed with data shared by 
+customers to make analysis more relevant to them. Value 
+arises not from the data’s content, but from combining 
+different data sources in a way that meets the 
+customer’s needs. 
+That said, profitable business models do not rely on selling 
+access to data. In many cases, startups and SMEs are 
+looking to disrupt markets by publishing open data. 
+By publishing open data – sometimes just cleaning, 
+enhancing and re-publishing existing open data – they can 
+encourage further open innovation. In doing so, they can 
+directly benefit, principally by creating an ecosystem of 
+companies that rely on their data, build complementary 
+services and are potential customers for their paid-for 
+Products and services provided 
+by businesses often rely on 
+various data sources to be 
+combined in innovative ways 
+to    help customers solve 
+problems.
+This variety can be a necessity of the sector or subject of 
+the data, but it can also arise from the terms under which 
+the business has access to the data.
+Combine data from 
+multiple sources
+Medical researchTwitter feedDriving licencesSales reports
+Via authenticationLicence that 
+limits use
+Explicitly assigned 
+by contract
+Employment
+contract + policies
+Open licence
+Open
+Small  /  Medium  /  Big data
+Personal  /  Commercial  /  Government data
+SharedClosed
+Bus timetable
+Group-based
+access
+Public
+access
+Named 
+access
+Internal 
+access
+Anyone
+The Data Spectrum helps you understand the language of data.theodi.org/data-spectrum
+The Data Spectrum
+Figure 7: The Data Spectrumr.
+33 See: http://opengazettes.com.
+34 The ODI (2017), ‘The Data Spectrum helps you understand the language of data’, 
+https://theodi.org/data-spectrum.
+
+Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    18Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data 19
+reasons but to help the data better meet their own needs, 
+without the need to build and maintain their own 
+infrastructure. Examples of this collaborative approach are 
+not limited to startups or SMEs, for example Facebook uses, 
+and improves, OpenStreetMap to support their own 
+services,
+[37]
+ while reducing costs that would be associated 
+with maintaining their own mapping data infrastructure.
+We also asked businesses what types of open data they 
+were using. While 29% said they were only using data on 
+only one topic, on average businesses were using data on 
+four different topics with 16% were using data on eight or 
+more different topics.
+Combining open, shared and closed 
+data sources
+We asked companies about the types of products and 
+services they were developing. 43% were providing a 
+product/platform for analysing, visualising and/or interpreting 
+customer data and 29% a product/platform for hosting, 
+managing and/or publishing customer data. Only 5% of all 
+companies who were developing these types of services 
+were not using open data; in most cases the value was 
+unlocked by combining shared customer data with open 
+data sources.
+services. TransportAPI provide an early example of this 
+model, aggregating and cleaning various open transport 
+data feeds,
+[35]
+ leading to the development of companies 
+like CityMapper.
+[36]
+Using multiple open data sources
+We asked businesses what open data sources they used. 
+87% of companies using open data used data published by 
+government. Over 55% were using open data published by 
+other businesses despite there being much less available 
+than public sector data – clearly indicating the usefulness of 
+private sector data. Of the companies using open data, 74% 
+were using data published by two or more types of publisher, 
+with 11% using data from all five sources, demonstrating the 
+variety of sources being used. 
+In hindsight, one type of open data publisher that was not 
+clearly represented by this question was community data 
+initiatives. These were specifically named by users: 
+OpenStreetMap was mentioned by 13% of users, while 
+others mentioned initiatives such as DBpedia, Geonames 
+and Wikidata. 47% of companies using data noted that they 
+used data either published by individuals, the third sector, 
+or both, which could refer to these types of initiatives. 
+In turn, several companies were contributing to these 
+‘community’ initiatives. They were not doing this for altruistic 
+0
+20
+40
+60
+80
+100
+Open data published
+by the third sector
+Open data
+published by
+individuals
+Open data
+published by
+academia
+Open data
+published by
+businesses
+Open data
+published by
+government
+87%
+55%
+39%
+32%
+29%
+Percentage of ODINE companies
+From the ODINE research
+What open data do you use?
+Figure 8: ODINE companies’ answers to the question: what open data do you use?
+[38]
+0
+10
+20304050
+International/Global development
+Manufacturing
+Public Safety
+Legal
+Finance
+Tourism
+Consumer
+Education
+Housing
+Science and research
+Economics
+Energy
+Health/Healthcare
+Business
+Government Operations
+Transportation
+Weather
+Agriculture & Food
+Demographics & Social
+Environment
+Geospatial/Mapping
+From the ODINE research
+Percentage of ODINE companies
+What types of open data do you use?
+Figure 9: ODINE companies’ answers to the question: what types of open data do you use?
+[39]
+39 ODINE (2016), ‘Business models, lessons learned and success stories’, 
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf. 
+35 See: https://www.transportapi.com.
+36 See: https://citymapper.com/london.
+37 See: https://forum.openstreetmap.org/viewtopic.php?id=55220.
+38 ODINE (2016), ‘Business models, lessons learned and success stories’, 
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf. 
+
+Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    21Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    20
+Targeting customers and    markets
+All the responding companies were targeting organisations 
+as customers, and of the respondents, 93% were targeting 
+businesses and 38% were exclusively targeting businesses. 
+While 52% were targeting public sector clients, only 7% 
+were exclusively targeting governments. 38% were 
+targeting individual end users but all of these were also 
+targeting businesses, while some also targeted other types 
+of customer.
+The companies were also targeting their products across a 
+wide range of industries beyond the ‘tech sector’. Contrary to 
+expectation, only 33% of companies were targeting the 
+‘data/technology’ sector and only 3% were exclusively 
+targeting this sector. Over a third of companies – 36% – were 
+only targeting one industry or sector, while 46% were 
+targeting between two and four industries. The diversity 
+demonstrates the role of open data across a range of sectors, 
+and that value can be created across sectors and not only by 
+targeting other businesses in the same sector. 
+Startups and SMEs are using 
+open data to create successful 
+B2B services and products for 
+the third sector and academia. 
+Products and services built on open data are not limited to 
+consumer-facing applications or services that enable 
+governments to make better use of data, but are are creating 
+value in a wide variety of situations and sectors. Increasingly, 
+startups and SMEs are creating successful business-to-
+business (B2B) services built with open data, along with 
+products targeted at the third sector and academia. 
+Services built on 
+open data have 
+wide-reaching value
+Case study: urban Data Analytics (uDA)
+Founded in Madrid, Spanish startup urban Data Analytics 
+(uDA) offers access to a huge amount of high-quality, accurate 
+and real-time real estate data.
+[40]
+ The company is using this 
+data to help people make informed decisions around buying, 
+renting, selling, investing or refinancing properties. 
+uDA’s central product is the Real Estate Dynamics System, 
+a   database which provides people with access to real-time 
+estate data. The company creates this database using open 
+and shared data sources, which are classified into 160 sets 
+and divided into six categories: Urban People (eg. population, 
+education), Urban Economics (employment, production), 
+Urban Shape (compactness, housing density), Urban System 
+(parks and gardens, road networks), Urban Environment (noise 
+level, sun exposure) and Urban Move (private transport 
+network, time access parking areas). The business then 
+uses georeferenced data within these categories to create 
+visualisations, such as maps, charts or infographics, 
+and analyse the results according to identified indicators.
+The right combination of open data has enabled uDA to create 
+a service that is bringing transparency to estates data. This is 
+helping people make better property decisions faster.
+http://www.urbandataanalytics.com/en/
+40 See: http://www.urbandataanalytics.com/en.
+
+Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    23Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    22
+Case study: InSymbio
+Research shows that 33 million tons of bio-based waste are 
+produced in the EU per year. InSymbio is a business-to-
+business environmental engineering company which uses 
+open data, such as the EUROSTAT database, to help decrease 
+bio-based waste. It does this by informing businesses about 
+how bio-based residues could be treated and how their use 
+can increase revenues up to 40%.
+The company are raising awareness through a digital platform 
+where businesses can find the best opportunities to convert 
+and reuse bio-based residues and by-products. They see 
+waste as a resource out of place. The platform links the 
+Agriculture and Forestry sectors with bio-economy businesses 
+and those producing fuels, fibres, food, feed and chemicals. 
+By connecting these actors and allowing one company’s 
+waste to become another company’s raw material, InSymbio 
+hope to reduce biological waste and promote environmental 
+sustainability.
+http://www.insymbio.com
+0
+10
+203040
+From the ODINE research
+Percentage of ODINE companies
+Answer to the question: which of the following sectors are 
+you targetting with your product or service?
+Geospatial/Mapping
+Education
+Transportation
+Research & Consulting
+Energy
+Housing/Real Estate
+Business & Legal Services
+Finance & Investment
+Insurance
+Healthcare
+Scientific Research
+Environment & Weather
+Food & Agriculture
+Governance
+Data/Technology
+Figure 11: ODINE companies’ answers to the question: which of the following sectors are you targeting 
+with your product or service?
+[42]
+020406080100
+Third sector
+Academia
+Individuals
+Governments
+Businesses
+From the ODINE research
+Percentage of ODINE companies
+What types of organisations are you targetting?
+Figure 10: ODINE companies’ answers to the question: which types of organisations are you targeting?
+[41]
+41 ODINE (2016), ‘Business models, lessons learned and success stories’, 
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf.
+42 ODINE (2016), ‘Business models, lessons learned and success stories’, 
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf.
+
+Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    25Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    24
+Conclusion:  
+open is the future  
+of business
+The movement towards open 
+data allows businesses to 
+experiment with new, innovative 
+business models.
+Businesses are increasingly recognising the opportunities to 
+build and enhance their value propositions with open data. 
+Beyond access to new, cheap data sources, the movement 
+towards open data is allowing businesses to experiment with 
+new, innovative business models. 
+The ODINE programme has given new startups and SMEs 
+the opportunity to explore how these propositions and 
+models might function. The lessons they have learnt – along 
+with other startups and SMEs in the ODI global network – 
+can help lower the barriers for others by sharing what has 
+been working.
+These lessons are not exhaustive – there are plenty of 
+potential business models which are yet to be fully utilised 
+and tested. Some of the models and lessons might apply in 
+certain contexts or circumstances, in others they might not. 
+Business models that involve open data are still in early 
+stages of development, but what is clear is the potential value 
+of open data to business. 
+Trying, testing and experimenting with these models will 
+enable startups and SMEs to leverage this value. Open data 
+creates a unique opportunity for businesses to create growth, 
+extract value and ensure sustainability while defining the 
+successful business models of the future.
+Methodology 
+This report is based on research done as part of the ODINE 
+programme.
+[43]
+ The goal of that research was to explore the 
+business models of ODINE-funded companies and use them 
+to help inform wider research into open data and business 
+models. In order to do this, we chose to develop a survey 
+based on the existing literature exploring business models. 
+This short survey (available under an open licence) was then 
+distributed amongst the 57 ODINE-funded companies 
+between November 2016 and January 2017, with a response 
+rate of 74%. The results were then analysed with a view to 
+understanding how the companies operate. The tables of the 
+results developed from the analysis are also made available 
+alongside this research under an open licence.
+Because of the constraints placed on the analysis, and with 
+the aim of stimulating further research, companies were able 
+to opt into releasing their answers as open data – either with 
+their company identified or not, with 90% opting to have their 
+data released. This data is made available via the ODI Lab’s 
+Octopub tool, under an open licence.
+[44]
+ 
+43 ODINE (2016), ‘Business models, lessons learned and success stories’, 
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf.
+44 See: http://toolbox.theodi.org/tools/octopub/.
+
+Get in touch
+theodi.org | @ODIHQ
+info
+@
+theodi.org
+Open Data Institute, 65 Clifton Street, London EC2A 4JE
+Open Data Institute 2017 / Whitepaper   Data entrepreneurship: exploring successful business models with open data    26
+Bibliography 
+Deloitte (2012), ‘Open growth’, https://www2.deloitte.com/
+content/dam/Deloitte/uk/Documents/deloitte-analytics/
+open-growth.pdf
+Howard (2013), ‘Open data economy: Eight business 
+models for open data and insight from Deloitte UK’,  
+https://www.oreilly.com/ideas/open-data-business-models-
+deloitte-insight
+IDC (2017), ‘Impact Assessment of ODINE Programme’, 
+https://opendataincubator.eu/files/2017/07/ODINE_Final-
+report_2.0.pdf
+The ODI (2015), ‘The economic impact of open data: 
+what do we already know?’, https://medium.com/@ODIHQ/
+the-economic-impact-of-open-data-what-do-we-already-
+know-1a119c1958a0
+The ODI (2016), ‘The value of open data’,  
+https://theodi.org/the-value-of-open-data
+The ODI (2016), ‘What is open data?’,  
+https://theodi.org/what-is-open-data
+ODINE (2016), ‘Business models, lessons learned and 
+success stories’,  
+https://opendataincubator.eu/files/2016/01/D6.3-Final.pdf
+The ODI (2016), ‘Open enterprise: Executive summary’,  
+https://theodi.org/open-enterprise-big-business
+The ODI (2015), ‘Research: Open Data means business’,  
+https://theodi.org/open-data-means-business
+The ODI (2017), ‘The Data Spectrum helps you understand 
+the language of data’, https://theodi.org/data-spectrum 
+Open Definition, ‘Open Definition 2.1’,  
+http://opendefinition.org/od/2.1/en
+NASA Landsat Science (2015), ‘Landsat Benefited U.S. 
+Economy by $1.8 Billion in 2011’, https://landsat.gsfc.nasa.
+gov/landsat-benefits-u-s-economy-by-1-8-billion-per-year
+Stacey (2016), ‘What is an Open Business Model and How 
+Can You Generate Revenue?’, https://medium.com/made-
+with-creative-commons/what-is-an-open-business-model-
+and-how-can-you-generate-revenue-5854d2659b15
+Tennison, J. (2012), ‘Open Data Business Models’,  
+http://www.jenitennison.com/2012/08/20/open-data-
+business-models.html
+Transport for London (2017), ‘Assessing the value of TfL’s 
+open data and digital partnerships’,  
+http://content.tfl.gov.uk/deloitte-report-tfl-open-data.pdf
+W3 (2013), ‘Eight Business Model Archetypes for PSI Re 
+– Use’, https://www.w3.org/2013/04/odw/odw13_
+submission_27.pdf
+Web Foundation (2015), ‘Open Data Intermediaries: 
+Their Crucial Role’, https://webfoundation.org/2015/08/
+open-data-intermediaries-their-crucial-role
+
+theodi.org | @ODIHQ

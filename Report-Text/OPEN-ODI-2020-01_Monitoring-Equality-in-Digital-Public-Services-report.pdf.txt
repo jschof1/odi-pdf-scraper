@@ -1,0 +1,1393 @@
+
+
+ 
+
+ 
+ 
+Contents 
+ 
+About3 
+Executive summary4 
+Recommendations6 
+Introduction8 
+What we did10 
+Background11 
+What are protected characteristics?11 
+Why research protected characteristics?11 
+Why focus on digital services?12 
+Legislation and guidance13 
+What we found15 
+Inclusive services need to be accessible15 
+Equality requires more than accessible design16 
+We lack data on the use of digital services17 
+Data protection is no barrier to statutory duty17 
+Data about vulnerable people needs to be handled ethically18 
+There are examples of using and publishing monitoring data19 
+Inclusive services need more than numbers20 
+Our recommendations21 
+Collect data to understand service users21 
+Collaborate to develop standards, guidance and training22 
+Conduct further research23 
+Conclusion25 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About 
+This ‘Monitoring equality in digital public services’ report has been researched and 
+produced by the Open Data Institute, with funding from The Legal Education 
+Foundation, and published on 31 January 2020. Its lead author was Edafe ​Onerhime, 
+with additional support from Jeni Tennison, Renate Samson, Ben Snaith, Fionntan 
+O’Donnell and Walter Brown​. If you want to share feedback by email, or would like to 
+get in touch, contact the project lead, Renate Samson, at ​renate.samson@theodi.org​. 
+ 
+To share feedback in the comments, highlight the relevant piece of text and click the 
+‘Add a comment’ icon on the right-hand side of the page. 
+ 
+ 
+ 
+ 
+ 
+How can it be improved? We welcome suggestions 
+from the community in the comments. 
+ 
+ 
+ 
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  2 
+
+ 
+Executive summary 
+ 
+Many of the public and private services we use are now digital. ​The move to 
+digital is likely to increase as technology becomes more embedded in our lives. But 
+what does this mean for how essential public services understand who is using, or 
+indeed not using, them and why? Public services are required to adhere to legal 
+requirements around discrimination, but how do these requirements apply in the 
+1
+digital sphere, and how can we monitor adherence to them?  
+ 
+With funding from The Legal Education Foundation, we have explored how 
+2
+digital public services adhere to these legal requirements.​ ​We have sought to 
+understand how the protected characteristics of people using the digital services are 
+being collected, to make it possible to tell how they might be affecting excluded 
+communities. 
+ 
+Protected characteristics are a way of describing a part of who we are. ​The 
+3
+Equality Act 2010 outlines protected characteristics as being age, disability, gender 
+reassignment, marriage and civil partnership, pregnancy and maternity, race, religion 
+or belief, sex, and sexual orientation. Article 14 of the Human Rights Act 1998 makes 
+4
+it unlawful to discriminate against a person for a wide range of reasons, including 
+“​sex, race, colour, language, religion, political or other opinion, national or social 
+origin, association with a national minority, property, birth or other status”. 
+5
+ 
+We have found during this project that those providing digital public services 
+don’t know the demographic make-up of who uses them. ​Data about the 
+protected characteristics of people using these services isn’t currently collected and 
+statistics aren’t published in a consistent or collective way. This means it is harder to 
+find out who is excluded from using these services and why.  
+ 
+Barriers to access, exclusion or algorithmic biases based on protected 
+characteristics are problematic.​ ​We know from research by organisations like 
+Citizens Advice – a charity offering free, impartial advice – that people with mental 
+health conditions, for example, have encountered barriers using everyday services. 
+6
+The UK government report, ‘Exploring the UK’s digital divide’, showed that women, 
+people aged over 65 and disabled people are all disproportionately affected by digital 
+exclusion, meaning they are less likely to have the skills or access to use the internet 
+and are therefore excluded from using online services.  
+7
+ 
+There are also reports of exclusion from online services through built-in biases 
+in digital services that use face and voice recognition. ​In addition, there is a risk 
+8
+that data-driven systems can operate in a discriminatory fashion,​ ​for example by 
+having processes that are harder for women than men to successfully navigate. This 
+was highlighted in an open opinion by ​Dee Masters and Robin Allen QC. 
+9
+1
+ UK Government (2010), ‘Equality Act 2010’, ​https://www.legislation.gov.uk/ukpga/2010/15/contents  
+2
+ The Legal Education Foundation (n.d.),​ https://www.thelegaleducationfoundation.org/ 
+3
+ Equality and Human Rights Commission (n.d.), ‘Protected characteristics’, 
+https://www.equalityhumanrights.com/en/equality-act/protected-characteristics  
+4
+ UK Government (2010), ‘Equality Act 2010’, ​https://www.legislation.gov.uk/ukpga/2010/15/contents​ ​Equality Act 2010  
+5
+ Equality and Human Rights Commission (2018), ‘Article 14: Protection from discrimination’, 
+https://www.equalityhumanrights.com/en/human-rights-act/article-14-protection-discrimination  
+6
+ Citizens Advice (2017), ‘Citizens Advice finds people with mental health problems are being failed when trying to engage with 
+essential everyday services’, 
+https://www.citizensadvice.org.uk/about-us/how-citizens-advice-works/media/press-releases/citizens-advice-finds-people-with-m
+ental-health-problems-are-being-failed-when-trying-to-engage-with-essential-everyday-services/  
+7
+ Office for National Statistics (2019), ‘Exploring the UK’s digital divide’, 
+https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/articles/exp
+loringtheuksdigitaldivide/2019-03-04  
+8
+ New Scientist (2019), ‘UK launched passport photo checker it knew would fail with dark skin’, 
+https://www.newscientist.com/article/2219284-uk-launched-passport-photo-checker-it-knew-would-fail-with-dark-skin/  
+9
+ Cloisters (2019), ‘In the matter of automated data processing in government decision making’, 
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  3 
+
+ 
+ 
+Responsible collection and publication of data and statistics on protected 
+characteristics would enable the monitoring of digital public services​ to 
+determine whether everyone is being treated equitably by the system. 
+ 
+During this short research project, we conducted interviews with:  
+ 
+●organisations that have, or could develop, good practice 
+●organisations that implement digital transformation 
+●people and communities who could be helped or harmed by the data 
+●regulators. 
+ 
+Although we found a gap in specific guidance on how to design and collect data 
+about who uses digital services​,​ our desk research did reveal a range of useful 
+guidance on collecting data safely and securely, which is published by regulators, 
+government organisations like the Government Statistical Service, and in the 
+10
+humanitarian sector. We also found that the demographic data that is collected by 
+devolved governments and equalities guidance differs for England, Scotland and 
+Wales. 
+ 
+Furthermore, we found that organisations who already monitor for protected 
+characteristics do so with privacy and dignity of people in mind​ and in alignment, 
+where possible, with demographic data sources like the census.  
+ 
+In light of our research and conversations with interviewees, we have made 
+recommendations on how we think there could be a move forward to collect 
+and publish data about who uses digital services, while respecting people’s 
+privacy.​ ​These recommendations focus on the design and development of public 
+services, but equally could be adopted by private digital services and by 
+organisations seeking to understand how their services are working – or not. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+https://www.cloisters.com/wp-content/uploads/2019/10/Open-opinion-pdf-version-1.pdf  
+10
+ Government Statistical Service (n.d.), ​https://gss.civilservice.gov.uk/ 
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  4 
+
+ 
+ 
+ 
+ 
+ 
+Recommendations  
+ 
+1.Collect data to understand services users  
+We recommend that service designers start to embed, with respect and care, equalities 
+monitoring into the provision of digital public services.  
+ 
+We recommend that any collection of protected characteristics data is designed such 
+that: 
+ 
+●people can choose to provide information – or not  
+●privacy is respected  
+●standards and guidance are followed 
+●the results are transparent and follow good data practice. 
+ 
+2.Collaborate to develop standards, guidance and training 
+We recommend that regulators, and other bodies supporting and monitoring the 
+adoption of digital public services, collaborate to produce robust guidance, standards 
+and training on how to collect, use and publish data about the people using those 
+services.  
+ 
+We further recommend that the Gov.uk Design System is developed to include styles, 
+11
+components and patterns to collect data about who uses the services and that this 
+should be based on rigorous and collaborative user research.  
+ 
+We recommend that an open standard for data for monitoring equality requirements be 
+developed.  
+ 
+Data at a minimum should include:  
+ 
+●Protected characteristics.  
+●Where the person is.  
+●Why the service has failed. 
+ 
+We recommend that training for service designers includes how to:  
+ 
+●design coherent, multi-channel services  
+●design for opting-out 
+●consider inclusive user research.  
+ 
+3.Conduct further research  
+We recommend that further research could be undertaken in the following areas:  
+ 
+●Are there other examples of monitoring equal access to services? 
+●What other characteristics could be monitored?  
+●What impact does monitoring have on users of a service? 
+●Can monitoring be trusted?  
+●How do citizens feel about the collection of monitoring data? 
+ 
+ 
+11
+ Gov.uk (n.d.), ‘Design your service using GOV.UK styles, components and patterns’, ​https://design-system.service.gov.uk/  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  5 
+
+ 
+Introduction 
+ 
+Public and private services are being transformed. Traditionally offline services, many 
+of which are essential services, are now becoming digital by default. Part of the push 
+in the public sector to make services digital stems from the UK Government’s 
+‘Government Transformation Strategy 2017–2020’, which encouraged the harnessing 
+of digital channels to build and deliver public services. As services go digital, they 
+12
+must still meet legal requirements around discrimination, just as non-digital services 
+13
+must; but we have found there is work to be done.  
+ 
+In Great Britain, providers of services have a legal obligation to prevent discrimination 
+and exclusion of a service based on a person’s protected characteristics, which 
+1415
+includes a person’s: age, disability, gender reassignment, marriage and civil 
+partnership, pregnancy and maternity, race, religion or belief, sex, or sexual 
+orientation. 
+ 
+In Northern Ireland, service providers must make reasonable adjustments for people 
+with disabilities to help them to overcome barriers to accessing services. 
+16
+ 
+Unfortunately there is no accepted practice for collecting and publishing data about 
+who uses digital services, which makes it hard to tell whether they have 
+discriminatory effects or not. The absence of this data means providers of digital 
+services don’t know who is using the service and who is excluded. There is evidence 
+that some aspects of services are discriminatory, such as the algorithms behind visa 
+application processing, but it is unclear how widespread this is. The failure of an 
+17
+accepted approach to collecting this data means it is hard for public authorities who 
+have obligations under the Public Sector Equality Duty (PSED) to advance equality 
+18
+and demonstrate compliance.  
+ 
+The impact of lack of data is also felt outside government bodies. Advocacy 
+organisations such as Age UK and regulators like the Equalities and Human Rights 
+19
+Commission (EHRC) or the Equality Commission for Northern Ireland (ECNI) are 
+2021
+finding it hard to understand if people are being discriminated against, and with a 
+lack of data it is difficult for them to subsequently hold organisations to account.  
+ 
+In this project, funded by The Legal Education Foundation (TLEF), we have explored 
+22
+how exclusion can happen and how data can help people understand if these legal 
+obligations are being met. We wanted to understand the motivations, needs, wants 
+and challenges people faced in collecting and publishing data about who uses digital 
+services.  
+ 
+We interviewed people from organisations that have existing good practice in place, 
+12
+ Cabinet Office and Government Digital Service (2017), ‘Government Transformation Strategy’, 
+https://www.gov.uk/government/publications/government-transformation-strategy-2017-to-2020/government-transformation-strat
+egy  
+13
+ UK Government (2010), ‘Equality Act 2010’, ​https://www.legislation.gov.uk/ukpga/2010/15/contents 
+14
+ Equality and Human Rights Commission (2019), ‘Your rights under the Equality Act 2010’, 
+https://www.equalityhumanrights.com/en/advice-and-guidance/your-rights-under-equality-act-2010  
+15
+ Equality and Human Rights Commission (n.d.), ‘Protected characteristics’, 
+https://www.equalityhumanrights.com/en/equality-act/protected-characteristics  
+16
+ NI Direct (n.d.), ‘Protection against disability discrimination’, 
+https://www.nidirect.gov.uk/articles/protection-against-disability-discrimination 
+17
+ The Guardian (2018), ‘Lawyer blames visitor visa refusals on ‘deep underlying racism’, 
+https://www.theguardian.com/uk-news/2018/jul/06/lawyer-blames-visitor-visa-refusals-on-deep-underlying-racism  
+18
+ Equality and Human Rights Commission (2019), ‘Public Sector Equality Duty’, 
+https://www.equalityhumanrights.com/en/advice-and-guidance/public-sector-equality-duty  
+19
+ Age UK (n.d.), ​https://www.ageuk.org.uk/   
+20
+ Equality and Human Rights Commission (n.d.), ​https://www.equalityhumanrights.com/en 
+21
+ Equality Commission for Northern Ireland (n.d.), ​https://www.equalityni.org/Home  
+22
+ ​The Legal Education Foundation (n.d.), https://www.thelegaleducationfoundation.org/  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  6 
+
+ 
+organisations which could help develop good practice, organisations that implement 
+digital transformation, people and communities who could be helped or harmed by 
+the data or lack of data, and regulators. 
+ 
+We also researched how organisations collect data on who uses their services, what 
+good practice exists or is used to collect data safely and securely, and other 
+regulations to consider when collecting or publishing data on who uses digital 
+services. 
+ 
+We focused on speaking with organisations in the UK, including representatives from 
+government departments and from civil society. However, there are also good 
+practices for collecting and publishing this type of data emerging from international 
+bodies and much of this practice is applicable globally.  
+ 
+This report explains what we discovered from interviews and desk research – from 
+the lack of insight into who uses digital services, to concerns about collecting data 
+safely – and our recommendations on how to move forward with good practice. 
+  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  7 
+
+ 
+What we did 
+ 
+With funding from the TLEF, we explored how protected characteristics of people 
+23
+using digital public services are collected and published. 
+ 
+During research over eight weeks, we interviewed people from different stakeholder 
+groups, including the UK government, digital transformation practitioners and 
+community, and regulatory and advocacy bodies. We also engaged with 
+organisations interested in our research and researched current practices, guidance 
+and data. We produced this report based on our engagement, desk research and 
+interviews. 
+ 
+With thanks to: 
+ 
+●Emily McCarron, Equality and Human Rights Policy Manager, Age UK 
+●Tom MacInnes, Head of Data, Citizens Advice 
+●Amy Turton, Project Diamond Manager, Creative Diversity Network 
+●Ewan Devine-Kennedy, Principal Researcher, The Equality and Human Rights 
+Commission 
+●Andrew Goldsby, Community and Relationship Manager, Equality Advisory & 
+Support Service 
+●Ali Harris, CEO, Equally Ours 
+●Elric Honoré, Development Officer, Fife Center for Equalities 
+●Ben Carpenter, Inclusive Services Lead, Government Digital Services  
+●Mhairi McGee, Policy and Campaigns Officer, HEAR Equality Network 
+●Ali Shah, Head of Technology, Information Commissioner’s Office  
+●Judith Jones, Head of Regulatory Strategy (Domestic), Information 
+Commissioner’s Office  
+●Zoe Leventhal, Public Law and Human Rights Barrister, Matrix Law 
+●Clare Pini, Statistician, GSS Best Practice and Impact, Office for National 
+Statistics 
+●Paola Serafino, Head of the Centre for Equalities and Inclusion, Office for 
+National Statistics  
+●Richard Laux, Deputy Director (Data and Analysis), Race Disparity Unit 
+●Samantha Fothergill, Lawyer and Campaigner, Royal National Institute of 
+Blind People  
+●Albert King, Deputy Chief Data Officer, Scottish Government 
+●Cat Macaulay, Chief Design Officer, Scottish Government 
+ 
+  
+23
+ The Legal Education Foundation (n.d.), ​https://www.thelegaleducationfoundation.org/  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  8 
+
+ 
+Background 
+What are protected characteristics? 
+In Great Britain, it is against the law to treat a person unfairly because of who they 
+are. The Equality Act 2010, regulated by the EHRC, makes discrimination against a 
+24
+person due to any of the following nine characteristics unlawful: 
+ 
+1.Age:​ This may be a specific age or a range of ages, for example people over 
+60. 
+2.Disability:​ A long-term physical or mental impairment that affects a person’s 
+ability to carry out everyday activities.  
+3.Gender reassignment:​ ​A person reassigning their birth sex to a preferred 
+sex and changing their physical or other characteristics. 
+4.Marriage and civil partnership:​ Marriage or civil partnership between same 
+or different sex couples. 
+5.Pregnancy and maternity:​ A person who is pregnant, expecting a baby, on 
+maternity leave or breastfeeding. 
+6.Race:​ A person belonging to a group defined by their colour, race, nationality 
+or national origins. 
+7.Religion and belief:​ A person’s religion or lack of religion, including a 
+religious or philosophical belief that affects the way they live. 
+8.Sex:​ A man, woman or group of people like men, boys, women or girls. 
+9.Sexual orientation:​ A person’s sexual attraction to same sex, different sex or 
+both. 
+ 
+In Northern Ireland, the Disability Discrimination Act 1995 applies and is regulated by 
+the ECNI. Providers of services must make reasonable adjustments to prevent 
+25
+discrimination against people with disabilities. The definition of disability here differs 
+26
+from the Equality Act 2010 in terms of length and seriousness of conditions – a 
+person must satisfy the particular definition. 
+ 
+Our research focuses on the broader set of protected characteristics that apply in 
+Great Britain (England, Scotland and Wales). 
+Why research protected characteristics? 
+Everyone has the right to fair and inclusive access to services and protection from 
+discrimination. In Great Britain, the Equality Act 2010 defines protected 
+characteristics as part of a person’s identity; essentially making them who they are. 
+The act replaces various laws that protected people from discrimination, including the 
+Race Relations Act 1976 and the Disability Discrimination Act 1995 in England, 
+2728
+Scotland and Wales.  
+ 
+Discrimination can be direct or indirect: a person who is treated worse than other 
+29
+people due to them having a protected characteristic, being thought to have a 
+protected characteristic, or being associated with someone with a protected 
+characteristic, experiences direct discrimination. A policy can cause indirect 
+24
+ UK Government (2010), ‘Equality Act 2010’, ​https://www.legislation.gov.uk/ukpga/2010/15/contents  
+25
+ Equality Commission for Northern Ireland (n.d.), ​https://www.equalityni.org/Home 
+26
+ NI Direct (n.d.), ‘Disability discrimination law’, 
+https://www.nidirect.gov.uk/articles/protection-against-disability-discrimination#toc-1 
+27
+ UK Government (1976), ‘Race Relations Act 1976’, ​https://www.legislation.gov.uk/ukpga/1976/74/enacted 
+28
+ UK Government (1995), ‘Disability Discrimination Act 1995’, ​https://www.legislation.gov.uk/ukpga/1995/50/contents/enacted 
+29
+ Equality and Human Rights Commission (2019), ‘What is direct and indirect discrimination?’, 
+https://www.equalityhumanrights.com/en/advice-and-guidance/what-direct-and-indirect-discrimination 
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  9 
+
+ 
+discrimination when it is applied in the same way to everyone, but overall 
+disadvantages a group of people with a protected characteristic. 
+ 
+In 2017, Citizens Advice – a charity offering free, impartial advice – found that people 
+with mental health conditions encountered barriers using everyday services. These 
+30
+services include paying bills, switching energy providers, and contacting local 
+authorities. Their research concluded that more flexibility is needed when 
+communicating with people who have a mental health diagnosis. Long-term mental 
+health conditions are a disability under the Equality Act 2010, and by collecting and 
+publishing who uses digital services, we can better understand who faces barriers 
+using them. 
+ 
+Our research focuses on all protected characteristics, with the aim of advancing 
+equal access to fair and inclusive services. 
+Why focus on digital services? 
+In 2017, the then UK Government set out the ‘Government Transformation Strategy 
+2017–2020’. This strategy outlined how the government planned to harness digital 
+31
+to build and deliver fast, effective public services. 
+ 
+Digital channels, however, come with their own set of challenges. We know that 
+digital exclusion – when people are unable to, or choose not to, engage with the 
+digital world – presents a real risk of inequality. In 2018, 5.3 million adults, or 10% of 
+the adult UK population, experienced digital exclusion. According to the Office for 
+32
+National Statistics (ONS), women, people aged over 65 and disabled people were 
+disproportionately affected by digital exclusion. This is particularly true of disabled 
+33
+people, as one in five people in the UK are affected by long-term illness, have an 
+impairment or live with a disability. In 2017, 56% of internet non-users were 
+34
+disabled. 
+ 
+The risks of lack of fairness and equality in relation to digital services do not just arise 
+over access to those services, but in how they treat people differently. In 2019, a 
+report in ​New Scientist​ revealed that the new passport photo checking service from 
+the Home Office failed to recognise skin shades of people from ethnic minority 
+groups. The Passport Office’s digital service had also rejected an application from a 
+35
+young black man when his closed lips failed the facial recognition checks. Even if 
+36
+the final outcome of using such a service is eventually the same, through appeal to 
+human intervention, inequalities arise in the time, effort and emotional impact on 
+people with protected characteristics. 
+ 
+Digital services, from websites such as Gov.uk and the passport service, are the 
+potential future of UK government services. Services such as HM Revenue and 
+Customs (HMRC) Voice ID, which uses biometrics, may also become more prevalent 
+in the future. The use of biometrics is currently a sensitive area. In the UK, the use of 
+30
+ Citizens Advice (2017), ‘Citizens Advice finds people with mental health problems are being failed when trying to engage with 
+essential everyday services’, 
+https://www.citizensadvice.org.uk/about-us/how-citizens-advice-works/media/press-releases/citizens-advice-finds-people-with-m
+ental-health-problems-are-being-failed-when-trying-to-engage-with-essential-everyday-services/  
+31
+ Cabinet Office and Government Digital Service (2017), ‘Government Transformation Strategy’, 
+https://www.gov.uk/government/publications/government-transformation-strategy-2017-to-2020/government-transformation-strat
+egy  
+32
+ Office for National Statistics (2019), ‘The scale of digital exclusion in the UK’, 
+https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/articles/exp
+loringtheuksdigitaldivide/2019-03-04#the-scale-of-digital-exclusion-in-the-uk 
+33
+ Office for National Statistics (2019), ‘How does internet usage and digital exclusion vary for men and women?’, 
+https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/articles/exp
+loringtheuksdigitaldivide/2019-03-04#how-does-internet-usage-and-digital-exclusion-vary-for-men-and-women 
+34
+ Scope (n.d.), ‘Disability facts and figures’, ​https://www.scope.org.uk/media/disability-facts-figures/  
+35
+ New Scientist (2019), ‘UK launched passport photo checker it knew would fail with dark skin’, 
+https://www.newscientist.com/article/2219284-uk-launched-passport-photo-checker-it-knew-would-fail-with-dark-skin  
+36
+ BBC News (2019), ‘Passport facial recognition checks fail to work with dark skin’, 
+https://www.bbc.co.uk/news/technology-49993647  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  10 
+
+ 
+fingerprints and DNA are covered by the Protection of Freedoms Act 2012, but 
+37
+other forms of biometrics, such as facial biometrics, voice or gait, for example, are 
+not currently subject to legislative or regulatory guidance or oversight. Research into 
+issues of bias within the algorithms and technology used in facial biometrics for 
+example, has shown that false positives towards women, the elderly, children, and 
+West and East African and East Asian people are present.  
+38
+ 
+The move to digital, and more broadly to automated or biometric-based services, 
+therefore requires a focus on understanding who is using, or not using, these digital 
+services; the outcomes of their interactions with the services; and the experiences of 
+different groups when using these services and the alternatives they are offered. 
+ 
+ 
+ 
+37
+ UK Government (2012), ‘Protection of Freedoms Act 2012’, 
+https://www.legislation.gov.uk/ukpga/2012/9/contents/enacted?view=plain 
+38
+ National Institute of Standards and Technology, US Department of Commerce (2019), ‘Face recognition vendor test. Part 3: 
+Demographic effects’, ​https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8280.pdf 
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  11 
+
+ 
+Legislation and guidance 
+In England, Scotland and Wales, the Equality Act 2010 is the key piece of legislation 
+that protects people from discrimination. In Northern Ireland, the Disability 
+39
+Discrimination Act 1995 applies. 
+40
+ 
+Article 14 of the Human Rights Act 1998 makes it unlawful to discriminate against a 
+person for a wide range of reasons, including “sex, race, colour, language, religion, 
+political or other opinion, national or social origin, association with a national 
+minority, property, birth or other status”. 
+41
+ 
+Public authorities must also comply with the Public Sector Equality Duty (PSED) to 
+42
+eliminate discrimination, advance equality and foster good relations between those 
+who share protected characteristics and those who don’t.  
+ 
+Guidance on the PSED is devolved for Scotland and Wales. There is also 
+4344
+separate guidance for England and non-devolved public authorities in Wales and 
+Scotland. To support transparency, public authorities must also publish equality 
+45
+objectives every four years and demonstrate their compliance.  
+ 
+For local authorities, the ‘Best value statutory guidance’ outlines how to work with 
+voluntary and community groups and small businesses to deliver effective public 
+services.  
+46
+ 
+Our research focuses on monitoring the use of digital public services, which means 
+collecting and publishing data about the people using them, to which the General 
+Data Protection Regulation (GDPR) and the Data Protection Act 2018 apply. Data 
+4748
+about protected characteristics is similar to sensitive personal data, which is 
+49
+defined as a special category of data under the GDPR. 
+ 
+Part 5 of the Digital Economy Act 2017 outlines how the government will make 
+better use of data, including data sharing, research and statistics, and safeguarding 
+people’s privacy. 
+50
+ 
+For websites and mobile devices, the UK government has committed to new 
+accessibility regulations: The Public Sector Bodies (Websites and Mobile 
+Applications) (No. 2) Accessibility Regulations 2018. 
+51
+ 
+39
+ UK Government (2010), ‘Equality Act 2010’, ​http://www.legislation.gov.uk/ukpga/2010/15/contents  
+40
+ UK Government (1995), ‘Disability Discrimination Act 1995’, ​https://www.legislation.gov.uk/ukpga/1995/50/contents  
+41
+ Equality and Human Rights Commission (2018), ‘Article 14: Protection from discrimination’, 
+https://www.equalityhumanrights.com/en/human-rights-act/article-14-protection-discrimination  
+42
+ UK Government (2010), ‘Equality Act 2010. Section 149: Public sector equality duty’, 
+http://www.legislation.gov.uk/ukpga/2010/15/contents  
+43
+ Equality and Human Rights Commission (2019), ‘Guidance for Scottish public authorities’, 
+https://www.equalityhumanrights.com/en/advice-and-guidance/guidance-scottish-public-authorities  
+44
+ Equality and Human Rights Commission (2014), ‘The essential guide to the Public Sector Equality Duty: An overview for listed 
+public authorities in Wales’, 
+https://www.equalityhumanrights.com/en/publication-download/essential-guide-public-sector-equality-duty-overview-listed-public
+-authorities  
+45
+ Equality and Human Rights Commission (2014), ‘The essential guide to the Public Sector Equality Duty’, 
+https://www.equalityhumanrights.com/en/publication-download/essential-guide-public-sector-equality-duty  
+46
+ Communities and Local Government (2011), ‘Best value statutory guidance’, 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/5945/1976926.pdf  
+47
+ Information Commissioner’s Office (2018), ‘Guide to the General Data Protection Regulation’, 
+https://www.gov.uk/government/publications/guide-to-the-general-data-protection-regulation  
+48
+ UK Government (2018), ‘Data Protection Act 2018’, ​https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted  
+49
+ Information Commissioner’s Office (n.d.), ‘What is personal data?’, 
+https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/key-definitions/
+what-is-personal-data/  
+50
+ UK Government (2017), ‘Digital Economy Act 2017’, ​http://www.legislation.gov.uk/ukpga/2017/30/contents/enacted  
+51
+ UK Government (2018), ‘The Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018’, 
+https://www.legislation.gov.uk/uksi/2018/952/made  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  12 
+
+ 
+ 
+Unfortunately, at present, there is no accepted practice for collecting and publishing 
+data about who uses digital services and their experience. There is little evidence of 
+public digital services collecting this data consistently and transparently. There is also 
+no open standard for doing so. However, there are pockets of practice and published 
+data inside and outside local and central governments. 
+ 
+Our research revealed a gap in how to safely and securely collect and publish this 
+data as part of digital services. In the next section, we describe how we carried out 
+our research, and outline our findings and recommendations. 
+ 
+ 
+ 
+ 
+  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  13 
+
+ 
+What we found 
+Inclusive services need to be accessible 
+The Government Digital Service (GDS) ‘Service manual’ is the guidance for 
+52
+government teams building digital services. It provides a quick and easy way to 
+53
+understand how government services are built, agile ways of working, and provides 
+examples of how government service principles are used. It is used to help​ “teams to 
+create and run great public services” and​ ​touches on the need to design inclusive 
+services. For example, the guidance on understanding users who don’t use digital 
+services focuses on making design inclusive and providing support for those who 
+54
+need help. The section on making your service more inclusive emphasises the 
+55
+barriers people may face to using government services and the legal duty to be 
+adhered to under the Equality Act 2010. The importance of creating inclusive 
+government services guidance details the GDS’s work on building inclusive services 
+56
+for everyone.  
+ 
+To comply with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) 
+Accessibility Regulations 2018, the manual includes guidance on making your 
+57
+service accessible. Accessible services must meet the Web Content Accessibility 
+58
+Guidelines (WCAG) 2.1. For example, they must support assistive technologies like 
+59
+screen magnifiers and screen readers, work with people who are disabled as part of 
+their user research, and explain what it is that has been done to make the service 
+more accessible. 
+ 
+We found that no single design element makes a service fairer and more inclusive for 
+all protected characteristics. People may fit in one group, or they may have multiple 
+characteristics in a single group, for example, multiple disabilities, or they may be 
+part of more than one group. As Cat Macauley, Chief Design Officer at the Scottish 
+Government, said to us: “I don’t know any people who fit in a [single] protected 
+characteristic, most people who fit one will also fit another, if multiple.”​ ​Furthermore, 
+there is also the issue that how people choose to define themselves may differ from 
+how others define them.  
+ 
+While it is important to meet the accessibility requirements, it must be understood 
+60
+that accessibility alone will not provide support to all people with protected 
+characteristics who may use a digital service.  
+ 
+Fully inclusive services that take into account the intersection between protected 
+characteristics are needed. It is important to understand that people’s needs and 
+circumstances can change. Disability, for example, may be as temporary as a broken 
+foot, or as permanent as the ongoing need to use a wheelchair. People’s engagement 
+with technology, therefore, can also change. For example, while a screen reader may 
+be beneficial for a period of time, if a person’s sight deteriorates, a screen reader may 
+52
+ Gov.uk (n.d.), ‘Service manual’, ​https://www.gov.uk/service-manual  
+53
+ Government Digital Service (2018), ‘How we write guidance for the service manual’, 
+https://gds.blog.gov.uk/2018/05/17/how-we-write-guidance-for-the-service-manual/  
+54
+ Gov.uk (2016), ‘Service manual: Understanding users who don’t use digital services’, 
+https://www.gov.uk/service-manual/user-research/understanding-users-who-dont-use-digital-services  
+55
+ Gov.uk (2018), ‘Service manual: Making your service more inclusive’, 
+https://www.gov.uk/service-manual/design/making-your-service-more-inclusive  
+56
+ Government Digital Service (2018), ‘The importance of creating inclusive government services’, 
+https://gds.blog.gov.uk/2018/06/29/building-inclusive-government-services/  
+57
+ UK Government (2018), ‘The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018’, 
+http://www.legislation.gov.uk/uksi/2018/852/contents/made  
+58
+ Gov.uk (2019), ‘Service manual: Making your service accessible: An introduction’, 
+https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction  
+59
+ World Wide Web Consortium (2018), ‘Web Content Accessibility Guidelines (WCAG) 2.1’, ​https://www.w3.org/TR/WCAG21/  
+60
+ HM Government (n.d.), ‘Making online public services accessible’, ​https://accessibility.campaign.gov.uk/  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  14 
+
+ 
+not be the solution they need to enable them to access a service.  
+ 
+These concepts are explored in ‘Inclusive design principles’, which encourages 
+“putting people first”​ ​by “designing for the needs of people with permanent, 
+temporary, situational, or changing disabilities”,​ ​with people being defined as “all of 
+us”.   
+61
+ 
+Internationally, the Ontario government’s inclusive design toolkit similarly 
+62
+encourages the design of services for people with ​“​temporary or situational 
+disabilities”​, ​while in the UK, the GDS guidance on ‘the importance of creating 
+inclusive government services’ stresses that: ​“​fully inclusive service is one that can 
+be accessed and successfully completed by all its users. They will be able to interact 
+however they need to, regardless of their personal characteristics, situations, 
+capabilities or access needs.” 
+63
+ 
+Expanding on these helpful toolkits and service manuals, well-researched guidance 
+and inclusive design patterns​ ​will help make it easier to design fairer, more inclusive 
+services.  
+Equality requires more than accessible design 
+Services tend to exclude people with disabilities. Citizens Advice found that people 
+with mental health conditions encountered barriers using everyday services, while 
+64
+the United Nations Special Rapporteur has raised concerns about the digital welfare 
+state.  
+65
+ 
+Digital exclusion presents a real risk of inequality, and disabled people are 
+6667
+disproportionately affected, as one in five people in the UK are affected by long-term 
+illness, have an impairment or live with a disability.  
+68
+ 
+We welcome making digital services easier to use for people with disabilities. The 
+GDS has committed to meeting accessibility requirements, including level AA of the 
+WCAG 2.1 as a minimum. 
+69
+ 
+We found that work towards equality currently focuses heavily on disability, but less 
+so on other protected characteristics.  
+ 
+Organisations we interviewed were less likely to focus on sexual orientation, gender 
+reassignment, and religion or belief, for example. We discovered a reluctance to ask 
+about these protected characteristics and assumptions that other protected 
+characteristics are more likely to be the basis for exclusion from public digital 
+services. 
+61
+ Inclusive Design Principles (n.d.), ​https://inclusivedesignprinciples.org/  
+62
+ Ontario Government (2020), ‘Inclusive design toolkit’, ​https://www.ontario.ca/page/inclusive-design-toolkit  
+63
+ ​Government Digital Services (2018), ‘The importance of creating inclusive government services’, 
+https://gds.blog.gov.uk/2018/06/29/building-inclusive-government-services/  
+64
+ ​Citizens Advice (2017), ‘Citizens Advice finds people with mental health problems are being failed when trying to engage 
+with essential everyday services’, 
+https://www.citizensadvice.org.uk/about-us/how-citizens-advice-works/media/press-releases/citizens-advice-finds-people
+-with-mental-health-problems-are-being-failed-when-trying-to-engage-with-essential-everyday-services/  
+65
+ ​United Nations Special Rapporteur (2019), ‘Report of the Special rapporteur on extreme poverty and human rights’, 
+https://www.ohchr.org/Documents/Issues/Poverty/A_74_48037_AdvanceUneditedVersion.docx  
+66
+ ​Office for National Statistics (2019), ‘The scale of digital exclusion in the UK’, 
+https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/arti
+cles/exploringtheuksdigitaldivide/2019-03-04#the-scale-of-digital-exclusion-in-the-uk  
+67
+ ​Office for National Statistics (2019), ‘What is the pattern of internet usage among disabled people?’, 
+https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/arti
+cles/exploringtheuksdigitaldivide/2019-03-04#what-is-the-pattern-of-internet-usage-among-disabled-people 
+68
+ ​Scope (n.d.), ‘Disability facts and figures’, ​https://www.scope.org.uk/media/disability-facts-figures/  
+69
+ ​World Wide Web Consortium (2018), ‘Web Content Accessibility Guidelines (WCAG) 2.1’, 
+https://www.w3.org/TR/WCAG21/  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  15 
+
+ 
+ 
+Ben Carpenter from the GDS said to us: “It seems that the timing of when to ask 
+people potentially very sensitive questions is hard to fit in with their user needs, so 
+you’re trying to provide a service that is just about what they need, whereas this is 
+something that we need.”  
+ 
+Understanding that designing for equal access must consider all protected 
+characteristics is an important step for organisations providing digital services to 
+take.  
+ 
+Furthermore, we must ensure that the problem of bias being built, often 
+unintentionally, into automated systems using machine learning algorithms to make 
+decisions, does not impinge on equality of access to services.  
+ 
+Already automated systems making decisions about people’s lives have been shown 
+to have demonstrably negative impacts on people with protected characteristics. One 
+example is the UK’s visa application programme, which has been identified by some 
+organisations as being biased against applications from black and ethnic minority 
+applicants.  
+70
+ 
+Whether the system is biased or not is unclear. Answers to the problem are unlikely 
+to become clear anytime soon, not solely because of government secrecy, but 
+because the process of lifting the hood and interrogating algorithmic decision is 
+complex at best. Challenging or seeking redress against a decision is rarely, if ever, 
+possible. How future systems are audited to ensure that protected characteristics are 
+being analysed and used appropriately and ethically is a critical concern which 
+should be addressed now.  
+We lack data on the use of digital services 
+A key source of information to help with understanding equalities in the UK today is 
+the ONS equalities data audit. The report audits data sources and publications on 
+71
+outcomes for the nine protected characteristics covered in the Equality Act 2010, to 
+inform policy. It is informed by the EHRC’s ‘Measurement framework for equality and 
+human rights’ and the United Nations ‘A human rights-based approach to data’ 
+72
+report.  
+73
+ 
+Over 280 sources are listed in the equalities audit dataset and work is ongoing. The 
+report is interesting as it highlights that good guidance makes it easier for people to 
+use data; by explaining what the data is intended for, how it was collected, things to 
+consider before using it and important features to be aware of.  
+ 
+One of the key findings of the report is that there is an increasing demand for robust 
+and accessible data about equalities. The report also notes that access to information 
+about data sources is an issue, with the exception being good practice from NHS 
+Digital.  
+ 
+Complementing the report are the Government Statistical Service’s (GSS) 
+‘harmonised principles’. These principles are “guidance on how to make statistics 
+74
+70
+The Guardian (2018), ‘Lawyer blames visitor visa refusals on “deep underlying racism”’, 
+https://www.theguardian.com/uk-news/2018/jul/06/lawyer-blames-visitor-visa-refusals-on-deep-underlying-raci
+sm  
+71
+ ​Office for National Statistics (2018), ‘Equalities data audit, final report’, 
+https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/equalitiesd
+ataauditfinalreport  
+72
+ ​Equality and Human Rights Commission (2017), ‘Measurement framework for equality and human rights’, 
+https://www.equalityhumanrights.com/sites/default/files/measurement-framework-interactive_pdf.pdf  
+73
+ ​United Nations Human Rights (2018), ‘A human rights-based approach to data’, 
+https://www.ohchr.org/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData.pdf  
+74
+ ​Government Statistical Service (n.d.), ‘Harmonisation’,​ https://gss.civilservice.gov.uk/guidances/harmonisation/  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  16 
+
+ 
+more comparable by encouraging producers to use the same methods of data 
+collection and presentation”.​ ​The principles include​ ​“definitions, survey questions, 
+standards for administrative data, rules for presentation and guidance for users”. The 
+aim of them is to encourage “data collection to be consistent where appropriate to 
+improve understanding of data and statistics and to make statistics comparable”.  
+ 
+A couple of the people we interviewed referred to these principles as being helpful in 
+offering some good practice and a clear approach which could be used by all. 
+Data protection is no barrier to statutory duty 
+We encountered concerns that public bodies connect compliance with the GDPR 
+with avoiding collecting and publishing data about protected characteristics. 
+Concerns included collecting data without justification and being wary of 
+non-compliance with data protection. Data protection is no barrier to fulfilling 
+equalities duties. The Information Commissioner’s Office (ICO) recently shared 
+guidelines to help organisations collect sensitive data which overlaps with protected 
+characteristics. 
+ 
+We spoke with the ICO to clarify this. Judith Jones of the ICO told us: “There is 
+provision in the Data Protection Act about collecting and retaining information for 
+equality purposes and we’ve got guidance that’s just come out on what we would call 
+special category data, which is pretty close to the protected characteristics data and 
+we very much emphasise it being fair and transparent, so telling people what you’re 
+doing and treating them fairly, but also what we would look at is proportionality.” 
+ 
+The guidance on collecting ‘special category data’ overlaps with protected 
+characteristics in several areas. The key message is that public bodies must meet 
+their legal obligations under the PSED as well as comply with the GDPR. Compliance 
+with the GDPR, therefore, is not, and should not, be seen as a barrier to the collection 
+or publication of data, so long as the process adheres to the guidance from the ICO, 
+particularly around using a privacy impact assessment to detail how, among other 
+things, the data will be collected, for what purpose and for how long.  
+ 
+Understanding and implementing the ICO guidance will help data controllers define 
+the purpose, assess risks, take precautions and demonstrate they can protect this 
+data.  
+Data about vulnerable people needs to be 
+handled ethically 
+Outside of government, humanitarian organisations have produced guidance on 
+working ethically with data about vulnerable people; upholding their rights and 
+treating them with dignity and respect. Oxfam publishes the ‘Responsible data 
+management’ training pack, the US Agency for International Development (USAID) 
+75
+provides ‘Considerations for using data responsibly’, and The Centre for 
+76
+Humanitarian Data shares the working draft of their ‘Data responsibility guidelines’. At 
+the ODI, we have published a theory of change, which demonstrates how those who 
+steward and create information from data can act in ways that lead to the best social 
+and economic outcomes for all. 
+75
+ ​Oxfam (n.d.), ‘Responsible data management’, 
+https://policy-practice.oxfam.org.uk/our-approach/toolkits-and-guidelines/responsible-data-management  
+76
+ U​S Agency for International Development (2019), ‘Considerations for using data responsibly at USAID’, 
+https://www.usaid.gov/responsibledata  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  17 
+
+ 
+ 
+The ODI theory of change 
+77
+ 
+ 
+Trust was a key factor for organisations with experience monitoring who uses their 
+services. In the UK, the Equality Advisory & Support Service (EASS) shares data with 
+organisations including the EHRC, as part of their work advising and assisting people 
+on equality and human rights.  
+ 
+We learned from Andrew Goldsby, Community and Partnership Manager at EASS, 
+that they safely and securely collect detailed information about protected 
+characteristics from people using their helpline. This information is provided on a 
+completely voluntary and optional basis. Andrew told us that “it’s a case of you can 
+either provide us with nothing, or some of the information, or everything that you feel 
+comfortable with.”​ ​This approach allows them to monitor which protected 
+characteristics are prevelent when experiencing discrimination, as well as gaining an 
+understanding as to who is using their service. 
+There are examples of using and publishing 
+monitoring data 
+Collecting and publishing data to monitor public digital services is accepted practice 
+according to the ‘measuring success’ section of the GDS ‘Service manual’. Data 
+78
+must be collected and published on digital take-up, user satisfaction, completion rate 
+and cost per transaction. The aggregated data is published to the performance 
+dashboard and is available to service providers, government and the public. 
+ 
+77
+ ​Open Data Institute, ‘Theory of change’, 
+https://theodi.org/about-the-odi/our-vision-and-manifesto/our-theory-of-change/  
+78
+ ​Gov.uk (n.d.), ‘Service manual: Measuring success’, ​https://www.gov.uk/service-manual/measuring-success  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  18 
+
+ 
+ 
+ 
+Image source: Gov.uk 
+ 
+In most cases, the published data does not break down these statistics based on 
+protected characteristics, nor does it describe the outcomes for different user 
+segments. One exception is voter registration, which tracks applications based on 
+age. This demonstrates the technical feasibility of monitoring data being published 
+79
+on the performance platform. 
+ 
+Citizens Advice was frequently mentioned by the government and the civil service as 
+having good practices in collecting and publishing data about who uses its services. 
+We learned from Tom MacInnes, Head of Data at Citizens Advice, that its data 
+collection focuses on five of the nine protected characteristics, with gender 
+reassignment, pregnancy and maternity, sexual orientation, and religion or belief 
+collected less frequently. This approach has clearly been of value, as Citizens Advice 
+and the GDS worked together in 2018 to produce several dashboards which 
+80
+highlight the use of high-level data, including gender and location.  
+ 
+While collecting and publishing data about protected characteristics as people use 
+services isn’t widespread or consistent, organisations such as the EASS and Citizens 
+Advice have shown that it is possible.  
+Inclusive services need more than numbers 
+We discovered concerns that providers of digital services may focus on data, 
+especially quantitative data, and lose sight of the objectives of equalities legislation, 
+namely creating a fairer, more inclusive society. 
+79
+ Gov.uk (n.d.), ‘Voter registration’, ​https://www.gov.uk/performance/register-to-vote  
+80
+ Government Digital Service (2018), ‘Working with Citizens Advice and its amazing data’, 
+https://gds.blog.gov.uk/2018/01/10/working-with-citizens-advice-and-its-amazing-data/ 
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  19 
+
+ 
+ 
+Cat Macauley, Chief Design Officer at the Scottish Government, told us: “As a 
+designer, what I struggle with is helping my teams and the people that we work with 
+understand the need to go beyond quant[itive] data. I think where we have real issues 
+with data is around qualitative data.” 
+ 
+This point about qualitative data is important. The need to understand not only who is 
+using a digital service, but who isn’t and why, is also important. As is the need to 
+grasp who is being excluded and who may be being discriminated against. If service 
+designers can get a handle on these issues, and find a deeper understanding of the 
+reasoning and behaviours behind these questions, they will gain insights which will, 
+we believe, help them design and build more inclusive services. Considering the 
+collection of different types of data and staying clear on the objectives outlined in 
+equality legislation are critical elements of the design process.  
+ 
+ 
+  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  20 
+
+ 
+Our recommendations 
+Collect data to understand service users 
+Our first set of recommendations is for those designing digital public services. 
+ 
+This report has described how digital public services may exclude people by putting 
+up barriers to access, embedding discriminatory algorithms, and/or providing a 
+substantially worse experience for people with protected characteristics. Collecting 
+data to understand service users can help those operating digital services to 
+demonstrate their adherence to equality duties and to understand where to iterate on 
+the design of the service to address any equality issues. 
+ 
+We recommend that service designers start to embed equalities monitoring into the 
+provision of digital public services. However, data about protected characteristics is 
+sensitive and needs to be handled with respect and care. Collecting this data in itself 
+may discourage people from using the service and increase concerns about the 
+government’s use of personal data. We therefore recommend that service designers 
+take a measured and informed approach, with an emphasis on trust and ethical 
+practice, and make its impact a focus of user research. 
+ 
+In particular, we recommend that any collection of protected characteristic data for 
+monitoring purposes is designed such that: 
+ 
+●People can choose to provide information or not:​ People using digital 
+services must have a choice of whether to provide or withhold information, 
+including opting out entirely or out of providing certain information, without 
+this having a negative impact on their ability to use the service. The absence 
+of data, where people have opted out, should not be feared. It is valuable 
+data in itself. Data collection is important, but it is not more important than 
+rights and autonomy. 
+ 
+●Privacy is respected:​ People using digital services can provide information 
+about protected characteristics that aren’t linked to their records or 
+outcomes; examples of how are already out there, notably the blind 
+applications used by the civil service when hiring staff. Anonymous data 
+collection is more likely to encourage people to volunteer information about 
+protected characteristics, as they are less likely to feel that revealing 
+information would be detrimental to them. Minimise personal data collected 
+to provide the service and maintain a separation at all levels – from front end 
+to back end – between that collected to provide the service and that required 
+for monitoring it. 
+ 
+●Standards and guidance are followed:​ This report has described a number 
+of sources of guidance for the design of accessible services and the 
+collection of protected characteristics data. Refer to and adopt the 
+recommendations of existing standards and guidance rather than develop 
+new ones. This not only reduces effort, but makes it easier to aggregate 
+statistics and compare services. 
+ 
+●The results are transparent:​ People with protected characteristics may 
+already be concerned about discrimination. Hiding data that could reveal 
+discrimination, such as disaggregated statistics about the outcomes 
+experienced by people with different protected characteristics, undermines 
+trust in government further. Transparency of this data, alongside explanations 
+and action plans if the data reveals discrimination, can build trust. 
+ 
+●Transparency follows good data practice:​ Publishing data about who uses 
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  21 
+
+ 
+a digital service is valuable for providers of the service, namely government 
+and advocacy bodies. Transparency is important as long as good data 
+practices are followed to aggregate data, reduce the chances of 
+81
+re-identification by individuals recognising themselves, being identified when 
+combined with other data, or by emerging technologies that are not privacy- 
+preserving. 
+82
+Collaborate to develop standards, guidance and 
+training 
+Our second set of recommendations is for regulators and other bodies supporting 
+and monitoring the adoption of digital public services. We want to see collaboration 
+between them to develop standards, guidance and training on how to collect, use 
+and publish data about the people using those services. 
+ 
+We’ve seen the impact of effective guidance and standards like the WCAG 2.1 in 
+83
+helping digital services improve accessibility. The GDS has committed to helping 
+public sector websites meet accessibility requirements; by 2020 for existing websites 
+and 2021 for apps. Applying lessons learnt in this area is important to developing 
+84
+similar, robust guidance and standards for wider equality. 
+ 
+To produce robust guidance, collaboration is recommended between regulators 
+including the ICO and the EHRC, the GDS and organisations such as Citizens Advice 
+and the EASS, who have mature practices in monitoring protected characteristics. 
+Such an approach would also help provide clarity for those building services so that 
+they understand clearly what they can and cannot do in relation to the various pieces 
+of legislation in this space.  
+ 
+We recommend that the Gov.uk Design System is developed to include styles, 
+components and patterns to collect data about who uses digital services. This should 
+be based on rigorous and collaborative user research, and should consider what data 
+is required as part of the service, how data will be aggregated while protecting user 
+privacy, and when to harmonise data with official statistics to allow easier 
+comparison. Aligning with, or adapting, the GSS harmonisation principles will ensure 
+data collected is robust and comparable with official statistics. This will allow 
+comparison of who is using digital services with who is expected to do so and who 
+may be excluded. 
+ 
+Data at a minimum should include: 
+ 
+●Protected characteristics:​ As a person uses a digital service they should be 
+asked to provide information, optionally and anonymously, about their 
+protected characteristics. This allows the provider to understand who is using 
+their service compared with the population expected to do so. 
+ 
+●Where the person is: ​Protected characteristics guidance can depend on 
+location. Data needed to better understand who is excluded may be 
+collected differently by devolved governments. User research is needed to 
+understand what location data is good practice to collect, for example, 
+postcode, location from IP addresses or other location information. 
+ 
+81
+ ​Government Statistical Service (n.d.), ‘Guidance’, ​https://gss.civilservice.gov.uk/guidance/  
+82
+ ​Information Commissioner’s Office (2019), ‘Data minimisation and privacy-preserving techniques in AI systems’, 
+https://ico.org.uk/about-the-ico/news-and-events/ai-blog-data-minimisation-and-privacy-preserving-techniques-in-ai-syst
+ems/  
+83
+ ​World Wide Web Consortium (2018), ‘Web Content Accessibility Guidelines (WCAG) 2.1’, ​https://www.w3 
+.org/TR/WCAG21/  
+84
+ Government Digital Service (2018), ‘How we’re helping public sector websites meet accessibility requirements’, 
+https://gds.blog.gov.uk/2018/09/24/how-were-helping-public-sector-websites-meet-accessibility-requirements/  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  22 
+
+ 
+●Why the service has failed:​ When a person can’t use a digital service, they 
+should be able to share why and which protected characteristics, if any, have 
+contributed to the service failing for them. This allows service failure to be 
+directly related to a group of protected characteristics.  
+ 
+We recommend that guidance for the data elements of the Design System is 
+published as an open standard for data; a reusable agreement between 
+85
+organisations with expertise in service design, equalities, official statistics and 
+monitoring protected characteristics, including the GDS, the GSS, the Race Disparity 
+Unit, the ONS, and organisations outside government like Citizens Advice.  
+ 
+Any open standard for data developed should align with the ‘Open standard 
+principles’ and be signed off by the Cabinet Office’s Open Standards Board. An 
+8687
+open standard signed off by the board will encourage reuse within and outside 
+government, providing leadership in how organisations collect and publish data about 
+who uses digital services. 
+ 
+We recommend that guidance covers how to compare who uses a service with the 
+population expected to do so. This comparison should take into account where 
+people live or where they are gaining access from. Service providers should be aware 
+of the impact of devolution when their service is location-specific, and consider 
+measures for services provided throughout the UK. Demographic data, for example 
+census data and Indices of Multiple Deprivation, are collected by respective devolved 
+nations. Guidance around the PSED is also affected by devolution, with specific 
+responsibilities described in Wales and Scotland. The GSS provides detailed 
+guidance on using official statistics and harmonising data across the UK.  
+ 
+We recommend that guidance and training provided to service designers covers how 
+to design services that collect and publish protected characteristics. Service 
+designers should be trained on how to make reasonable adjustments for people who 
+need help with digital channels, as well as people who can’t use them. 
+ 
+Inclusive design training for service designers would focus on designing for a wide 
+88
+range of people, including those with protected characteristics. We recommend that 
+training includes: 
+ 
+●Designing coherent, multi-channel services:​ People with protected 
+characteristics may require alternatives to digital channels, which should 
+provide a comparable experience, including monitoring for protected 
+characteristics.  
+ 
+●Designing for opting-out:​ People using a service should have the option to 
+provide or withhold information about their protected characteristics. Their 
+choices should not impact the outcome of the service, for example a person 
+choosing not to share their sexual orientation with the passport service must 
+not be prevented from obtaining a passport. 
+ 
+●Inclusive user research:​ Service designers should be aware of who would 
+use a service and what barriers they could face. Knowing who could be 
+excluded should inform the people and organisations invited to take part in 
+representative user research. User research techniques should also prevent 
+bias in how information is presented and in the final results. 
+85
+ ​Open Data Institute (n.d.), ‘Open standards for data’, ​https://standards.theodi.org/  
+86
+ ​Cabinet Office, The Rt Hon Matt Hancock MP and The Rt Hon Lord Maude of Horsham (2018), ‘Open standards 
+principles’, ​https://www.gov.uk/government/publications/open-standards-principles  
+87
+ ​Gov.uk (n.d.), ‘Open Standards Board’, ​https://www.gov.uk/government/groups/open-standards-board  
+88
+ ​University of Cambridge (n.d.), ‘Inclusive design toolkit’, ​http://www.inclusivedesigntoolkit.com/whatis/whatis.html  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  23 
+
+ 
+Conduct further research 
+Our final set of recommendations is for researchers, and the funders of research, on 
+this topic. 
+ 
+This report details the findings of a short research project which presents an overview 
+of the current landscape in the UK. Further research could be undertaken in a number 
+of areas including: 
+ 
+●Are there other examples of monitoring equal access to services? ​We 
+have focused on digital public services in the UK. A broader study could look, 
+for example, internationally, examine practices in the private sector as well as 
+the public sector, and seek to learn more from existing experience in 
+inclusive non-digital services. 
+ 
+●What other characteristics should be monitored?​ We have described the 
+protected characteristics defined in the Equality Act 2010. However, these do 
+not include characteristics such as income, region, living situation or 
+employment status, which may also be associated with digital exclusion and 
+algorithmic bias that exacerbates current inequalities. Further research could 
+explore which other characteristics digital public services should monitor. 
+ 
+●What impact does monitoring have on users of a service?​ Collecting data 
+to monitor the use of a digital service may put people off using that service. 
+This might be particularly true for people who are already concerned about 
+discrimination, which could exacerbate any exclusion that already occurs. 
+Further research could examine how the collection of such data changes how 
+people interact with a service, whether and how this can be mitigated 
+through design, and the degree to which people with different protected 
+characteristics react differently to this monitoring. 
+ 
+●Can monitoring data be trusted?​ People with protected characteristics may 
+be more likely to opt out of data collection which asks about those 
+characteristics, leading to biases in monitoring data. In addition, rather than 
+opting out, people may provide misleading information when completing 
+monitoring forms (such as always selecting the first option). While there are 
+always uncertainties and biases in any optional, self-reported data, further 
+research could examine the extent of these problems, help inform design to 
+mitigate them, and guide analyses of monitoring data. 
+ 
+●How do people feel about the collection of monitoring data?​ Those who 
+collect and use personal data must always make a decision about the 
+balance between the benefits that data can provide and the privacy impacts 
+on those the data is about. Clearly some data must be collected to enable 
+organisations to demonstrate their compliance with their legal duties. But 
+there are choices to be made about the granularity of that data (for example, 
+precise age or age bracket) and the collection of data outside legally 
+specified protected characteristics. Further research could explore public 
+attitudes to the collection of this data, to help guide the design of data 
+standards and guidance. 
+ 
+ 
+ 
+  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  24 
+
+ 
+Conclusion 
+Many government services, as well as services provided by charities and private 
+sector organisations, have become, or are becoming, digital by default. Access to 
+these often essential services relies on the public knowing how to use websites and 
+applications, as well as having access to digital devices and an internet connection. 
+But this cannot always be guaranteed or taken as standard. 
+ 
+Not only is internet access or use not 100%, many people have certain protected 
+characteristics, protected by equalities legislation, which make it more difficult for 
+them to use the internet; what the ONS describes as ‘digital exclusion’. Furthermore, 
+with the development of digital services that extend technology away from the 
+internet to biometric technology, such as voice or face recognition, the risk of 
+exclusion based on algorithmic biases could cause harm we cannot yet fully predict.  
+ 
+Monitoring who uses digital services is necessary to understand who is excluded, 
+and can help service designers make services fairer and more inclusive. Asking about 
+the protected characteristics of service users is a key element of this. Yet we found 
+over the course of our research that organisations were concerned about asking 
+people to provide their protected characteristics. Concerns varied from questions 
+being intrusive, to data collection causing non-compliance with the GDPR and the 
+Data Protection Act 2018. 
+ 
+Service providers should not shy away from understanding who uses their services, 
+and people with protected characteristics should have their privacy and dignity 
+respected when it comes to collecting and publishing data. These goals are not 
+mutually exclusive. To build trust, service providers must show that they can be 
+trusted to both protect privacy and act on the data they collect. Data protection law 
+takes both these points seriously and provides clear guidance on how to make use of 
+data without harming people’s privacy or security.  
+ 
+Anonymous, optional data collection, published using good data practice that 
+prevents people from identifying themselves in the data or being identified by the 
+data, will help build trust with communities of people who are excluded from using 
+digital services. Providing suitable alternatives for people who are digitally excluded, 
+as well as making services fair and inclusive, will ensure that more people can access 
+essential services. 
+ 
+Our research shows that it is possible and desirable to collect and publish data about 
+who uses digital services in a way that is safe, secure and respects people’s rights to 
+privacy. This data will enable service providers to demonstrate their Public Sector 
+Equality Duty. It will help advocacy bodies, researchers and regulators to hold the 
+government to account. And it will help focus and inform improvements to those 
+public services, so that everyone can benefit from them.  
+ 
+Open Data Institute 2020 / ReportMonitoring Equality in Digital Public Services​  25 

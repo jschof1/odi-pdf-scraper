@@ -1,0 +1,1229 @@
+
+
+
+
+Contents
+Executive summary5
+Introduction8
+Chapter 1: Data
+for green finance10
+Chapter 2: Data assurance for green finance15
+Chapter 3: Embedding data assurance in
+green finance21
+Next steps28
+Appendices29
+Glossary34
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance2
+
+About
+This draft report has been researched and produced by the Open Data Institute,
+and published in June 2022. Its lead authors are Matt Davies and Lucas Stiglich,
+with contributions from Deborah Yates, Milly Zimeta, Annalisa Eichholzer and
+Mahad Alassow.
+To share feedback you can comment directly on this document, or contact the
+ODI’s Policy team atpolicy@theodi.org.
+This report is published under theCreative CommonsAttribution-ShareAlike 4.0
+International licence.
+To share feedback in the comments, highlight the relevant piece of text and
+click ‘Add comment' (the ‘+’ plus icon) on the right-hand side of the page.
+How can it be improved? We welcome suggestions
+from the community in the comments.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance3
+
+Executive summary
+Averting the worst impacts of climate change requires organisations in every
+sector to shift investment away from harmful activities and towards projects which
+support the transition to net zero carbon. To facilitate this shift, an ecosystem of
+green financefirms has sprung up, offering servicesrelated to reporting the
+environmental performance of sectors, companies and their activities.
+These organisations, which range from data providers and vendors to
+environmental, social and governance (ESG) investment funds, indexes and
+ratings agencies, are fundamentally data businesses. The way they create impact
+can be understood in terms of the Open Data Institute’s (ODI’s) established
+concept of the‘data value chain’:
+●
+Data stewardship:companies and data providers stewardenvironmental
+performance data: collecting it, maintaining it and sharing it.
+●Insight creation:companies, asset owners and financialorganisations
+create information from this data in the form of analyses, insights, and
+visualisations, which are disclosed to investors.
+●Decision-making:investors (both institutional andretail) make decisions
+about how to invest on the basis of this information and other factors.
+However, the integrity of this process is threatened bygreenwashing: ‘the
+practice of businesses or investment funds making misleading or unsubstantiated
+claims about their environmental performance’. This threat, over time, risks
+discrediting the green finance agenda entirely and jeopardising the transition to
+net zero carbon.
+At the ODI, we believe that the wider adoption ofdata assurancepractices –
+which we define as ‘the process, or set of processes, that increase confidence
+that data will meet a specific need, and that organisations collecting, accessing,
+using and sharing data are doing so in trustworthy ways’ – could help tackle
+greenwashing, and build trust in environmental performance data, by delivering
+the below:
+●
+Consistencyof,andcompliancewith,metrics, standardsand ratings,
+reducing the ability of organisations to ‘shop around’ to find indicators that
+are more favourable to them.
+●Transparencyabout how data is being used to produceinsights into
+environmental performance and make decisions about capital allocation
+based on these insights.
+●Accountabilityto external stakeholders, preventingorganisations from
+‘marking their own homework’ on their environmental performance.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance4
+
+Firms offering data assurance products and services are being created at a rate of
+nearly 12% per annum, and we expect to see continued growth in the years to
+come, as more organisations grapple with demand for data and the need to build
+confidence in that data with customers, shareholders and the public. This includes
+products and services focused on assurance of environmental performance data,
+which are increasingly offered by traditional professional services firms as well as
+new entrants into the sector.
+Current initiatives tend to focus on the first stage of the green finance data value
+chain (data stewardship) and particularly on thevalidityof the data used for
+disclosure, with some also focusing ontransparencyanddata sharing.
+Comparatively few companies are focusing on assurance of data and data
+practices at the second (insight creation) and third (decision-making) stages of the
+green finance data value chain, or on attributes beyond the provenance and
+quality of data.
+We think that different assurance activities are essential at each stage of the green
+finance data value chain, for example by:
+●
+at thedata stewardshipstage, helping to ensure thatthe right data is
+collected and shared, and that its collection and reporting follows
+appropriate standards
+●at theinsight creationstage, helping to ensure thatorganisational
+processes for reporting are compliant with legal and regulatory
+requirements, and are comparable across different companies and
+investment products
+●at thedecision-makingstage, ensuring that decision-makingand
+accountability processes adequately take into account and respond to the
+information created from data.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance5
+
+The year 2022 is likely to be a pivotal year for the green finance agenda, as new
+requirements for disclosure of environmental performance will come into force
+around the world. We have identified three areas that will require further
+investigation and intervention from policymakers in order to embed data
+assurance practices in green finance and help the sector realise its full potential:
+●
+Laying the foundations for the assurance of data for green finance, by
+working on developing clear definitions and standards, as well as ensuring
+that the organisations evaluating environmental performance are trusted
+by the general public.
+●Driving and directing the growth of the assurance sector, by taking
+steps to stimulate demand for data assurance services, ensuring quality of
+the services provided, and assessing the additional costs and benefits
+introduced by embedding assurance of data in green finance.
+●Future proofing the assurance of data for green financeby addressing
+emerging challenges and opportunities such as the prevalence of missing
+data for disclosure requirements, the increasing use of alternative data
+sources, the need for assurance of artificial intelligence systems, and the
+emergence of data institutions that steward environmental performance
+data.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance6
+
+Introduction
+We are living through what is increasingly being termed a climate emergency – by
+scientists, activists, politicians and business people alike. According toreports
+from the United Nations Intergovernmental Panel on Climate Change, levels of
+global greenhouse gas (GHG) emissions must peak by 2025 if we are to avert the
+worst impacts of global heating.
+Countries across the world have committed to legally binding carbon emission
+reduction targets at a series of international summits – most recently theParis
+AgreementandCOP26. In 2019, the UK becamethe firstmajor economy to
+commit in law to net zero greenhouse gas emissions by 2050. Meeting these
+targets will require organisations in every sector to shift investment away from
+polluting activities and towards projects which support the transition to a net zero
+economy.
+Investors and consumers increasingly expect their money to support these
+environmental objectives, with the Financial Conduct Authority’s (FCA) most
+recentFinancial Lives surveyfinding that 71% ofUK retail investors want to ‘invest
+in a way that is protecting the environment’. To meet this need, an ecosystem of
+firms has sprung up offering services related to the reporting of environmental
+performance; from providers of data about climate-related impacts, to indices and
+ratings of environmental, social and governance (ESG) performance.
+The market for green finance-related services – including ratings, data and verification
+– is a relatively new one, but it is fast-growing, withOptimasestimating that the
+market for green finance and related services was worth $1bn by the end of 2021 and
+predicting annual growth rates of more than 20% in the coming years.
+While the green finance sector continues to grow, its integrity is threatened by
+greenwashing: defined in the UK government’sGreenFinance Roadmapas ‘the
+practice of businesses or investment funds making misleading or unsubstantiated
+claims about their environmental performance’. Reports in both themainstream
+andfinancialpress have highlighted instances ofenvironmental performance
+being exaggerated or misrepresented, while 60% of the respondents to the2021
+Schroders Institutional Investor Studycited it asa major concern; more than any
+other issue.
+By diminishing consumer, investor and policymaker trust in the reporting of
+environmental performance, greenwashing threatens to discredit the green finance
+agenda entirely:Erik Thedéen, chair of the sustainablefinance task force at the
+International Organization of Securities Commissions (Iosco), has argued that
+‘greenwashing could damage the credibility of the green finance movement,
+endangering the work to limit the rise in global temperatures to 1.5°C.’
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance7
+
+At the ODI, we believe thatdata assurance– ‘theprocess, or set of processes,
+that increase confidence that data will meet a specific need, and that
+organisations collecting, accessing, using and sharing data are doing so in
+trustworthy ways’ – can help to tackle greenwashing. By improving transparency,
+accountability and consistency across the sector, data assurance can improve
+both trust in, and the trustworthiness of, environmental performance data and help
+ensure the green finance agenda succeeds.
+This draft (open for comment) report gives an overview of the role that data plays
+in the green finance system(Chapter 1); exploreswhat data assurance for green
+finance looks like(Chapter 2); and suggests someareas that will require further
+investigation and intervention if data assurance is to be embedded in green
+finance(Chapter 3).
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance8
+
+Chapter 1: Data
+for green finance
+Having the right data on the environmental risks and impacts of companies
+will be essential if we are to make finance ‘green’. This chapter gives an
+overview of the role that data plays in the green finance system and explores
+some of the structural factors which drive greenwashing.
+From data to decision-making
+The termgreen financerefers to two separate, butoverlapping, trends within the
+finance sector. The first of these might be referred to as ‘greening finance’: a
+movement to encourage investors to cease investment in companies and
+investment products which adversely impact the environment, thereby
+withdrawing funding from environmentally harmful activities and so indirectly
+supporting the transition to a net zero economy. The second might be termed
+‘financing green’, and can be understood as efforts to actively direct investment
+towards companies and investment products that are contributing to the transition
+to a net zero economy.
+Green finance, in short, is about making investment decisions that, at worst, don’t
+adversely impact the environment – and at best improve it. Meeting these aims
+requires investors to have access to new sources of information to inform their
+decision-making. While previously decisions about where to allocate capital may
+have rested on a narrow set of metrics related to a company’s financial
+performance, green finance instead requires that they are made on the basis of a
+wider range of considerations related to environmental performance.
+The need to provide investors with this information is why data on environmental
+performance (hereafter referred to asenvironmentalperformance data) is so
+fundamental to green finance. The ODI’stheory ofchangesets out how three
+activities create impact from data:
+●
+Data stewardship– collecting it, maintaining it andsharing it.
+●Insight creation –creating informationfrom thatdata in the form
+of products and services, analyses and insights, or stories and
+visualisations.
+●Decision-making –deciding what to do, informed byinformation from
+multiple sources along with experience and understanding.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance9
+
+Each of these activities can be carried out by individuals, companies, communities
+and governments. In the context of green finance, investors need to have access
+to relevant information on the environmental performance of the companies and
+products they are choosing to invest in or divest from in order to make decisions.
+This information, in turn, will need to be underpinned by accurate, high-quality
+data – in most cases, combinations of data from multiple sources.
+Applying the ODI’s theory of change to the green finance data value chain, the
+process by which data creates value, can help clarify this complex space, and can
+be summed up as follows:
+●
+Companies and data providersstewarddataon environmentalrisks:
+collecting it, maintaining it and sharing it
+●Companies, asset owners and financial organisationscreate insightfrom
+this data, which is disclosed to investors.
+●Investors (both institutional and retail)make decisionsabout how to
+invest on the basis of this information and other factors.
+Data needs for green finance
+To arrive at some indicative examples of data for green finance, the following
+questions can be asked, starting with the decision-making stage and moving
+backwards along the green finance data value chain:
+1.
+What decisions need to be made?Decisions need tobe made about
+how to manage three factors: transition risks, physical risks and
+externalities (see Table 1).
+2.What information is needed to make these decisions?This is
+determined by the specific risk that has been identified in step 1.
+3.What data is needed to produce the relevant information?This is
+determined by the information identified as necessary in step 2.
+Table 1draws on these questions to provide some indicativeexamples of data
+needs for green finance.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance10
+
+Table 1: Examples of data needs for green finance along the three ODI data
+value chain stages
+What kinds of investment
+decisions need to be made?
+What information needs to
+be created?
+What data should be
+stewarded?
+Decisions about
+transition risks
+Transition risks are
+business-related risks arising
+from the changes necessary for
+the transition to net zero, which
+include changes in technology,
+policy, regulation, markets and
+consumer sentiment.
+Scope 1 emissions
+Direct greenhouse gas
+emissions from company
+activities. Disclosure required
+under new UK legislation on
+Sustainability Disclosure
+Requirements (SDRs).
+Data on operational processes
+that emit GHGs (for example
+manufacturing activities,
+transportation, waste
+disposal).
+Scope 2 emissions
+Indirect emissions from
+purchased electricity, heat or
+steam. Disclosure required by
+SDRs.
+Data on energy consumption
+by sources.
+Scope 3 emissions
+Emissions that occur in the
+value chain of the reporting
+company both upstream and
+downstream remain.
+Disclosure currently voluntary.
+Data from upstream activities
+such as those of companies
+executing outsourced
+activities, fuel consumption by
+contractor owned vehicles,
+and the production processes
+of purchased materials; and
+downstream data such as the
+emissions generated from the
+use of products produced and
+sold by the company.
+Decisions about
+physical risks
+Physical risks are
+business-related risks arising
+as a consequence of the
+climatic impact of global
+heating and the increased
+frequency or severity of
+extreme weather events.
+Flood risk to company assetsData on flood risk and historic
+flood incidence; data on the
+location of operations and
+assets; data about climate
+conditions such as
+precipitation, temperature and
+sea levels; scenario forecasts
+of future weather conditions.
+Decisions about externalities
+Impacts on the climate and
+environment as a consequence
+of business activities, but
+without necessarily posing
+business-related risks.
+Pollution prevention and
+control
+Data on the location of
+operations and assets;
+localised data on air quality
+such as the density of
+particulate matter; data on
+emissions from operations to
+water, air or land.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance11
+
+Environmental performance reporting is increasingly a legal requirement, with
+eight jurisdictions including the UK, the EU and Japan having introduced
+environmental disclosure requirements aligned with standards set out by the
+G20-founded Task Force on Climate-related Financial Disclosures (TCFD)as of
+September 2021.
+This means that, in practice, the types of decisions made by investors – and
+therefore the information and data needs underlying those decisions – will be
+determined by legal reporting requirements, rather than investor discretion.
+More information on disclosure requirements in the UK context can be found
+inAppendix 1.
+Enablers of greenwashing
+Greenwashingis the practice of businesses or investmentfunds making
+misleading or unsubstantiated claims about their environmental performance.
+Reports in both themainstreamandfinancialpresshave highlighted instances of
+environmental performance being exaggerated or misrepresented, while 60% of
+the respondents to the2021 Schroders InstitutionalInvestor Studycited it as a
+major concern; more than any other issue.
+By diminishing consumer, investor, and policymaker trust in the reporting of
+environmental performance, greenwashing threatens to discredit the green finance
+agenda entirely:Erik Thedéen, chair of the sustainablefinance task force at the
+International Organization of Securities Commissions (Iosco), has argued that
+‘greenwashing could damage the credibility of the green finance movement,
+endangering the work to limit the rise in global temperatures to 1.5C.’
+Greenwashing can arise from intentionally dishonest business practices, but it is
+also enabled by structural and systemic factors:
+●
+Inconsistencyof existing frameworks, definitions,ratings and standards.
+This createsspace for companies and investors to‘shop around’for
+indicators that are more favourable to them.
+●Lack of transparencyas to how data is being usedto produce insights
+and make decisions about strategies for mitigating climate risk and
+reducing environmental impacts. Organisations may purport to make
+decisions on the basis of environmental performance information
+underpinned by sound data, but refuse to make this public as a result
+of uneven transparency requirements.
+●Lack of accountabilityto external stakeholders, withorganisations
+frequently ‘marking their own homework’ about their exposure to climate
+risk and environmental impacts, as a result of weak institutional
+arrangements. In other words, even when decisions and the information
+and data underlying them are transparent, poor or non-existent
+accountability mechanisms can mean that investment in environmentally
+harmful activities continues unabated.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance12
+
+Example of structural factors enabling greenwashing
+This section provides a simplified example of how these structural factors
+enable greenwashing at each stage of the green finance data value chain.
+Data stewardship stage
+Amanufacturing companywants to gather data on theenvironmental impact of
+its activities, both to fulfil mandatory reporting obligations placed on itself and its
+owners, and also to make voluntary disclosures to gain a competitive advantage.
+The company leadership decides to source this data through a combination of
+internal data gathering activitiesand by procuringdata collection services from
+external data aggregators and providers.
+At this stage, the data might be inconsistent in format, level of detail or standards
+for reporting environmental performance. If the manufacturing company fears that
+its environmental performance will be found to be poor, it might be tempted to
+‘shop around’ – selecting metrics that highlight their lack of exposure to certain
+physical and transition risks, while minimising the negative environmental
+externalities produced by the company’s activities. Even if no deception is
+intended by either the manufacturing company itself or the external data provider,
+there is a risk that the metrics selected will not accurately or comprehensively
+reflect the company’s environmental performance.
+Insight creation stage
+After stewarding the relevant data, the manufacturing company, itsinvestorsand
+anyfinancial indicesit is listed on want to usethis data on the company’s
+environmental impacts to create insights into its environmental performance for
+compliance with disclosure requirements.
+At this stage in the data value chain, it is possible that inaccurate information may
+be created due to inconsistency and lack of standardisation in the frameworks and
+definitions on environmental performance. Different indices and ratings agencies
+provide opinions on different aspects of sustainability performance and their
+assessments may not always be comparable. Again, there may be an incentive at
+this stage for the manufacturing company and its investors to shop around for
+more favourable assessments. In that sense, inconsistency of frameworks and
+definitions, coupled with an interest to show good performance indicators,
+incentivises greenwashing. This, in turn, is further exacerbated by the lack of
+transparency and accountability over how ratings and indices are arrived at, which
+makes comparisons across different companies and investment products difficult.
+Decision-making stage
+Once the disclosures have been made,investorswantto use the insights created
+at the insight creation stage to make investment decisions informed by the
+environmental performance and the climate-related risks of their investments and
+existing alternatives.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance13
+
+At this stage in the data value chain, it is possible that the information created in
+the previous stage will not be properly reflected in the decision-making process,
+resulting in poor investment decisions, or investments that contribute to global
+heating.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance14
+
+Chapter 2: Data assurance
+for green finance
+Data assurance practices can help to improve confidence in data and how it
+is being used. This chapter explores what data assurance for green finance
+could look like, and how it can help to mitigate the structural causes of
+greenwashing.
+Building trust in environmental performance data
+Assurance of business practices has existed for years, allowing businesses
+to demonstrate trustworthiness to investors, consumers and regulators. These are
+evolving, and we anticipate that assurance of dataand data practices will be
+increasingly important as digital and technology dominate the way we
+do business.
+At the ODI, we definedata assuranceas:‘the process,or set of processes, that
+increase confidence that data will meet a specific need, and that organisations
+collecting, accessing, using and sharing data are doing so in trustworthy ways.’
+As detailed in Figure 1, assurance activities can help to improve trust in a range
+of attributes associated with data and datasets, such as data provenance,
+discoverability and quality, as well as data practices, such as how data is shared,
+governed and kept secure.
+Figure 1 – Data practices and datasets: what can be assured?
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance15
+
+In the context of green finance, we believe that the wider adoption of data
+assurance practices could help to undermine the systemic enablers of
+greenwashing, and build trust in environmental performance data, by delivering
+the following:
+●
+Consistencyof,andcompliancewith,metrics, standardsand ratings,
+reducing the ability of organisations to ‘shop around’ in order to find
+indicators that are more favourable to them.
+●Transparencyabout how data is being used to produceinsights and
+make decisions about capital allocation based on these insights.
+●Accountabilityto external stakeholders, preventingorganisations from
+‘marking their own homework’ about their environmental performance.
+The remainder of this chapter focuses on data assurance in the green finance
+sector.Appendix 2goes into further detail on therange of data assurance
+activities and the organisations involved in carrying them out.
+Data assurance in green finance
+Research carried out for the ODI by Frontier Economics in 2021found a nascent
+but buoyant market of UK business-to-business data assurance firms and
+services, with around 900 firms offering data assurance products and services in
+the UK, and more than half of them having been incorporated in the previous 10
+years. Data assurance firms are being created at a rate of nearly 12% per annum,
+and we expect to see continued growth in the years to come, as more
+organisations grapple with demand for data and the need to build confidence in
+that data with customers, shareholders and the public.
+This market includes data assurance products and services focused on
+environmental performance data. Traditional professional services firms such as
+KPMG, Ernst and Young, PwC and Deloitte (sometimes referred to as the Big Four)
+have started paying attention to opportunities in the ESG assurance sector, with
+onerecent blog post by KPMGarguing that ESG assurancewill be a ‘game
+changer’ for the professional services sector. Services offered bythesefirmsare
+generally focused on offering independent assurance of the data and frameworks
+used for disclosure, as well as of legal and regulatory compliance.
+In addition to incumbent firms, ESG assurance products are being developed by
+new entrants to the market. The second cohort of theFCA’s Digital Sandbox
+focused on supporting firms that are developing innovative or disruptive products
+and services in the area of ESG data and disclosure. This cohort included firms
+such asGreenway Analytics, which draws on multipledata sources (for example
+from Internet of Things devices, Energy Performance Certificate reports and
+satellite imagery) to validate reported data on energy performance, and using
+machine learning to provide environmental insights into the impact achieved.
+Another company,Telespazio UK, is working on a toolthat uses satellite imagery
+to measure environmental impacts on forests in order to assign an impact score
+and a recovery score for economic activities.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance16
+
+Most companies working on innovative assurance solutions face barriers to
+scaling them up, including a lack of standardisation around scores and metrics (as
+highlighted above), as well asissues around interoperabilityand access to data.
+Some companies are focused on tackling these issues, for example:
+●
+Synectics Solutionsis creating a standardised datamodel for storing and
+transmitting ESG data.
+●Element22andESGihave developed a product for financialinstitutions to
+share ESG data between them.
+●Coriolis Technologiesis developing standardised andglobal ESG scoring
+methodologies.
+As these examples show, current initiatives tend to focus on the first stage of the
+green finance data value chain (data stewardship), and particularly on thevalidityof
+the data used for disclosure, with some also focusing ontransparencyanddata
+sharing. Comparatively few companies are focusingon assurance of data and data
+practices at the second (insight creation) and third (decision-making) stages of the
+green finance value chain, or on attributes beyond data provenance and quality.
+Data assurance across the data value chain
+Different activities to provide assurance of data will be relevant at each stage of
+the green finance data value chain, for example by ensuring that:
+●
+the right data is collected and shared, and that its collection and reporting
+follows appropriate standards
+●organisational processes for reporting and insight creation are compliant
+with legal and regulatory requirements, and are comparable across
+different companies and investment products
+●decision-making processes adequately take into account and respond to
+the information created from data.
+Some examples of data assurance in the context of environmental performance
+data are inTable 2.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance17
+
+Table 2: Assurance across the green finance data value chain
+ODI data value chainStage 1: Data
+stewardship
+Stage 2: Insight
+creation
+Stage 3:
+Decision-making
+What happens at this
+stage?
+Data is gathered on
+environmental impact of
+companies and their
+activities.
+Data is analysed to
+create insights into
+environmental impact of
+investments.
+Investment decisions
+are made on the basis
+of insights created at
+the previous stage.
+Who is involved?Specialist data
+providers; companies
+themselves
+Companies and their
+owners; financial
+organisations
+Investors (retail and
+institutional)
+What are the
+greenwashing risks?
+Incorrectly sourced
+data; poor quality data
+Inconsistency of
+frameworks
+Weak institutional
+arrangements; failure to
+act
+What aspects of data
+need to be assured?
+Validity, provenance,
+privacy, security, ethics,
+user engagement
+Interoperability; legal
+and regulatory
+compliance;
+availability;
+discoverability
+Quality and accuracy
+What data practices
+might need to be
+assured?
+Sharing and acquisition,
+knowledge
+management,
+governance and internal
+oversight, skills and
+knowledge, privacy,
+security, ethics and
+transparency, user
+engagement
+Skills and knowledge;
+strategy, quality and
+accuracy, data access
+processes
+User engagement; user
+support
+What sort of assurance
+products or services
+might be suitable?
+Guidance on design
+and collection of data;
+validation against
+agreed standards
+Certification of
+organisational
+processes against
+pre-defined standards
+Audits of
+decision-making
+processes
+The remainder of this chapter returns to our example of a
+manufacturing firm to explore in more detail how assurance of data
+and data practices might work in the context of green finance.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance18
+
+Data stewardship
+Amanufacturing companywants to gather data on theenvironmental impact of
+its activities, both to fulfil mandatory reporting obligations placed on itself and its
+owners and also to make voluntary disclosures to gain a competitive advantage.
+The company leadership decides to source this data through a combination of
+internal data gathering activities and by procuring data collection services from an
+externaldata provider.
+At this stage, the manufacturing company itself might want to consider the
+following data assurance practices:
+●
+Assurance of its own data practices and those of the provider,
+including the appropriate sharing and acquisition of data and
+organisational governance; risk management; and data management
+policies and processes once the data has been collected or procured.
+Activities to help provide assurance here could include checking that data
+access and management processes are being followed, or that they are in
+line with the company’s data strategy; or more formal mechanisms such
+as external audit or certification to an agreed industry standard.
+●Assurance of the data itself,particularly its provenance(where it is from
+and how it was produced), validity (its accuracy and quality), linkability,
+and risks related to its use for this particular purpose. Activities to help
+provide assurance here could include documentation or licensing, or
+validation against a set of standards.
+Insight creation
+After stewarding the relevant data, the manufacturing company, itsinvestorsand
+anyfinancial indicesit is listed on want to usethis data to create insights into its
+environmental performance for disclosure.
+At this stage, they might want to consider the following assurance practices:
+●
+Assurance of data practices relevant to the creation of insights,
+including the presence of relevant skills and knowledge, the adoption of
+an appropriate strategy, and the suitability of data analysis processes (for
+example that they are repeatable and transparent). Activities to help
+provide assurance here could include the certification of organisational
+processes against a set of standards.
+●Assurance of the data itself,particularly its interoperabilitywith other
+datasets that it might need to be linked or combined with, and its
+compliance with any legal and or regulatory expectations. Activities to
+help provide assurance here could include documentation or licensing, or
+validation against a set of standards.
+●Access to data assurance outputsfrom the previousstage.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance19
+
+Decision-making
+Once the disclosures have been made,investors (bothretail and institutional)
+want to use the insights created at the stage, to make investment decisions
+informed by the likely environmental impact of their investments.
+At this stage, they might want to consider the following assurance practices:
+●
+Assurance of data practices relevant to the decision-making stage,
+including that data users have been appropriately engaged and supported
+throughout; that decisions have been informed by data and insights which
+the company is justifiably confident in; and that the limitations of those
+data and insights are known. Activities to help provide assurance here
+could include checking organisational processes against certain
+predefined standards.
+●Access to data assurance outputsfrom the previousstage.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance20
+
+Chapter 3: Embedding
+data assurance in
+green finance
+For the green finance agenda to succeed, it will need to be accompanied by
+measures to embed data assurance within the sector. This chapter sets out
+areas for investigation and intervention to embed data assurance at each
+stage of the green finance data value chain.
+The year 2022 is likely to be a pivotal year for the green finance agenda, with new
+requirements for the disclosure of environmental performance information coming
+into force in jurisdictions across the world, including the UK, the EU and Japan.
+For more information on disclosure requirements in the UK, please refer to
+Appendix 1.
+If new disclosure requirements are to be successful, they will need to be
+accompanied by measures to catalyse the development of an assurance sector
+around environmental performance data and mainstream these practices in green
+finance.
+These measures fall into three categories:
+●
+Laying the foundations for the assurance of environmental
+performance data
+●Driving and directing the growth of the assurance sector
+●Future proofing the assurance of environmental performance data
+Laying the foundations for the assurance of
+data for green finance
+Defining green
+Data assurance is about increasing confidence that data will meet a specific
+purpose, but this is difficult without clear criteria for evaluating whether that
+purpose is being supported. In the case of green finance, this means that
+assurance of data and data practices will require clear guidance on what is
+considered to be sustainable, and what risks and impacts need to be considered
+to evaluate sustainability.
+An important prerequisite for assurance of environmental performance data will
+therefore be clarity on which transition risks, physical risks and environmental
+externalities should be considered in evaluating the environmental sustainability of
+economic activities and investments, and thus influence investment decisions.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance21
+
+As mentioned above, and discussed in more detail inAppendix 1, this work is
+already in train, both in the UK and in other jurisdictions.
+We think it will be important for mandatory disclosure requirements to
+provide clear, usable definitions of the risks and impacts that ought to be
+reflected in sustainability reporting. This should reflect the role that data
+assurance products and services can play in further refining such definitions
+and improving the trustworthiness of environmental disclosures.
+Reporting standards
+In standardising statutory sustainability disclosure requirements (SDRs), financial
+regulators can define the type, frequency and level of detail of the information to
+be disclosed, and formalise it as adata standard– a documented, reusable
+agreement that helps people and organisations to publish, access, share and use
+better quality data.
+By introducing requirements on what data must be disclosed, regulators also
+determine what kind of data companies and financial product providers need to
+collect, manage and share from their operations and their wider supply chain.
+Additionally, regulators can assure data published within their sector, assessing
+the quality of what is reported and ensuring that it meetsbest practice standards.
+This will allow consumers and investors to be able to better compare different
+products and companies.
+We think that it will be important for regulators to support open data
+standards for sustainability reporting, helping to consolidate a standards
+ecosystem which is currently crowded and complex.
+Trusted rating providers
+As mentioned above, the capacity to ‘shop around’ for favourable ratings and
+indicators is an enabler of greenwashing. This risk can be mitigated by setting
+standards for ratings and indicators. The legitimacy of ratings ultimately depends
+on the legitimacy of the organisations providing them. The question remains of
+whether public bodies such as regulators should define or provide ESG ratings or
+whether it should be an entirely private matter.
+While it is important that providers are trusted by investors, asset managers and
+companies, the consequences of green finance affect the wider public and not
+just those actively participating in investment decisions. Our work onTrusted Data
+Institutions, andTrustworthy Data Stewardship, andourrecommendationsto the
+CMA on the future oversight of open banking, offer some pointers on how this can
+be achieved.
+We think the government, regulators and industry bodies should take steps
+to ensure that standards and ratings are provided by institutions that are
+trusted not only by investors and companies, but also by the wider public.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance22
+
+Driving and directing the growth of the
+assurance sector
+Increasing demand
+It is likely that the introduction of new disclosure requirements (seeAppendix 1)
+will stimulate the growth of the environmental performance data assurance market
+by creating incentives for firms, investors and regulators to provide assurance that
+the data being used to comply with these requirements is suitable. However, there
+might be downstream barriers and market failures preventing these services from
+emerging.
+In most sectors, companies will often have a direct interest in ensuring that the
+data they use is trustworthy, regardless of whether the SDRs require them to do
+so. Using poor quality or unreliable data could impact the effectiveness of
+company decision-making, harming profitability. In the case of data on
+environmental performance, this won’t always be the case. Companies and
+investors are bound to a certain extent by fiduciary duties to understand their
+exposure to climate-related risks and mitigate these risks accordingly. However,
+upcoming disclosure requirements go beyond this and require the reporting not
+only of climate-related risks but also impacts – activities that produce negative
+externalities for society or the environment. In these cases, there may be an
+incentive to downplay or minimise the extent of such activities.
+This has potential implications for the role of data assurance in green finance.
+Demand, and therefore growth, might be lower for data assurance services
+provided to this sector. There might be a need to stimulate demand, which could
+take the form of mandating specific formal types of assurance (for example
+certification against agreed standards).
+We think it will be important for the government to monitor demand and
+uptake of assurance services and take steps to stimulate demand if
+necessary.
+Maintaining quality
+For reasons similar to those outlined in the section above, it may also be the case
+that quality requirements for assurance in green finance might be lower. As a
+consequence, there might need to be a greater role for public or regulatory
+involvement in assurance of data for green finance, compared with the assurance
+of data for other sectors and use cases.
+This could involve more tightly regulating assurance providers and
+standards-setting bodies: for example, requiring that firms providing these
+services subscribe to mandatory standards. It could involve regulators themselves
+having to carry out certain assurance responsibilities, if it is found that private
+providers are failing to do so to the requisite standard.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance23
+
+Short of this, and using their current powers, regulators could engage in ‘softer’
+forms of intervention, such as the setting of best practices and publication of
+guidance, or the integration of data assurance into existing regulatory activities. In
+order to drive adherence to these best practices, regulators couldcollaborate with
+industry or professional bodiesto offer certificationschemes or to accredit other
+organisations to do so.
+We believe that there is a need for policymakers, the governance profession
+and regulators to work together to shape and maintain quality in assurance
+services for green finance.
+Costs and benefits of assurance
+Whether through mandatory requirements, incentives or provision of services,
+implementing data assurance for environmental performance reporting will mean
+that costs associated with environmental performance disclosure may initially
+increase. Areport by the Climate Risk DisclosureLab at Duke Universitypublished
+in 2021 found that most companies expected audit and assurance services to be
+the main cost driver associated with the introduction of new disclosure
+requirements.
+However, empirical evidence has shown that, at least in some cases, mandating
+assurance of non-financial disclosures can bring economic benefits to individual
+firms. It is reasonable to assume that increasing the trustworthiness of
+sustainability disclosures should enable the most sustainable firms and asset
+managers to differentiate themselves from less sustainable competitors and
+attract investment.Research conducted recently inTaiwan, where mandatory
+assurance was introduced for Corporate Social Responsibility disclosures,
+supported this, finding that mandatory assurance had the effect of reducing the
+cost of debt capital for firms.
+Beyond the costs and benefits associated with individual firms and investors,
+there are also benefits to the wider economy that need to be factored in. Assuring
+that sustainability disclosures are accurate should enable the government, civil
+society organisations and the private sector to better understand the impacts of
+economic activities on the environment, and thus improve decision-making aimed
+at reducing climate change related impacts. Moreover, asa report commissioned
+to Frontier Economics by the ODIshowed, increasingtrust in data ecosystems has
+the effect of increasing the economic value generated by data in the long term. By
+increasing the trustworthiness of sustainable disclosures through assurance that
+they use reliable data and are created by following adequate data practices, data
+assurance should increase the value created from this data over time.
+We think it will be important for any interventions aimed at embedding data
+assurance in green finance to assess – and, if necessary, aim to reduce – the
+additional costs of embedding assurance, while at the same time weighing
+these against the short-term and long-term economic benefits of a
+trustworthy green finance sector.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance24
+
+Future-proofing the assurance of data for green
+finance
+Finally, we believe that several challenges will need to be addressed in the coming
+years if data assurance is to be successfully embedded in the green finance
+sector.
+Data gaps and data holes
+Although in many cases the data requirements for sustainability disclosures are
+clear, and the data itself is available, there remain manydata gapsanddata holes
+– instances where there are limited frameworks or guidance about what data is
+needed – that need to be filled:
+●
+Data gapsare instances in which reporting frameworksexist but datasets
+are not adequately populated. A recent report byTheFuture of
+Sustainable Data Alliancefound that important datagaps still exist,
+including for energy consumption and production by source, emissions of
+GHG, executive pay and board composition. These are all included in
+existing reporting frameworks, but the data to populate them is not always
+available.
+●Data holesare instances where there are limited frameworksor guidance
+about what data is needed. These are often emerging topics that society
+is trying to tackle through ESG disclosure, but which are not yet captured
+by available reporting frameworks. These include risks and impacts on
+biodiversity, and issues associated with supply chain reporting. In both
+cases, there are still pending challenges on formulating indicators and
+standardising reporting.
+Data assurance activities, such as third-party audits, could play an important role
+in discovering and fixing these data gaps and data holes, for example by
+highlighting specific examples of where a disclosure or type of disclosure is not
+underpinned by the necessary data.
+We think it will be important for regulation to reflect the constructive role
+data assurance can play in helping to discover and fix data holes and gaps.
+Alternative sources of data
+It could be possible to fill some of these data gaps and data holes through the use
+ofalternative data: data from new and unique sourcesused by investors to help
+evaluate a company or investment. Alternative data includes vast amounts of
+non-standardised and unstructured data that takes significant time and
+investment to properly make use of. The quality and limitations of the datasets
+being sold in the market today are often not known by alternative data users until
+this investment has been made.
+There are many sources of alternative data – from web traffic and public records,
+to surveys and weather reports – but they can be broken down into three broad
+types:
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance25
+
+●
+Data about individuals,such as data on consumer sentiment from social
+media and citizen-generated data.
+●Data about business processes,like using web-scrapedjob postings to
+gain insights on company hirings.
+●Data from sensors,such as from private aeroplaneflight trackings to
+help discover potential deals between companies.
+Data assurance activities can help to ascertain whether new or alternative sources
+of data are being used properly to fill data gaps and data holes in environmental
+performance reporting, providing confidence in their use.
+We think it will be important for the government to consider how data
+assurance practices can help to improve confidence in alternative data.
+AI assurance
+Artificial intelligence (AI) systems are typically used at the insight creation stage of
+the data value chain, to create more sophisticated analyses and insights from
+data. Financial institutions, investors, ratings agencies and individual companies
+are increasingly using forms ofAI modellingto produceinsights into climate risks
+and externalities.
+AI assuranceis related to, but distinct from, dataassurance. AI assurance is
+defined by the Centre for Data Ethics and Innovationas services which ‘help
+people to gain confidence in AI systems by evaluating and communicating reliable
+evidence about their trustworthiness’.
+Data assurance is a necessary condition for AI assurance: data is used to train and
+use AI systems, so AI assurance requires confidence that the data supplied is
+trustworthy and collected ethically and equitably. Beyond the assurance of the
+training and input data, AI assurance will involve other elements such as
+assurance of the AI models being used and of the instructions provided to these
+models by human operators.
+AI assurance, like data assurance, will have a role to play in ensuring sustainability
+disclosures are both trusted and trustworthy.
+We think it will be important for the government to consider green finance as
+a key use case for AI services and therefore AI assurance, as it continues to
+develop and roll out the support for the sector outlined in theAI Assurance
+Roadmap.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance26
+
+Data institutions for environmental performance data
+Data institutionsare organisations that steward dataon behalf of others. They
+make decisions about who has access to data, for what purposes and to whose
+benefit, to realise the value and limit theharm thatuse of data can bring.The
+relative importance and number of data institutions – some of which are referred
+to as data intermediaries or data-sharing services – is increasing as we require
+data for various use cases to be aggregated from multiple sources.
+Many existing data institutions steward data that is or may become relevant to
+green finance.The Data Institutions Register, developedand maintained by the
+ODI, includes a list of 30 data institutions working with climate data, including:
+●
+iNaturalist, a citizen science project which empowerspeople to document
+biodiversity and share images of flora and fauna.
+●Globe at Night, an international citizen science campaignto raise public
+awareness of the impact of light pollution by inviting citizen-scientists to
+measure and share their observations of the brightness of the night sky.
+●Sensor.Community, a network of individuals with DIYair quality sensors.
+The community pools data about air quality from all over the world to
+create an open environmental dataset.
+●TheEnergy Data Co-op, being developed by Open DataManchester and
+Carbon Co-op, where people can pool and share data to improve the
+efficiency of their homes by changing how energy is used.
+These institutions could potentially play a role in stewarding environmental
+performance data that is relevant for ratings providers and regulators, as well as
+for investors and asset managers wanting to make better informed decisions. Data
+institutions can play a role both in setting standards and in making data from
+statutory disclosures accessible in ways that allow third parties to evaluate and
+compare information across different companies and products.
+Recent research carried out by the ODI with GPAI and Aaptihas set out the
+potential for data trusts – themselves a type of data institution – to help tackle the
+climate crisis. There could be a role for data trusts and other types of other data
+institution in stewarding new and alternative datasets relevant to green finance.
+There are a number of ways the government can consider intervening to build trust
+in emerging data institutions, as outlined in arecentODI report.
+We think it will be important for the government to understand the role data
+institutions can play in stewarding environmental performance data, and
+consider how they can intervene to build trust in such organisations.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance27
+
+Next steps
+The ODI has carried out this project to explore what data assurance for green
+finance could look like, and how it can help to tackle the threat posed by
+greenwashing. It forms part of our ongoing programme of work ondata
+assurance.
+We will continue to actively investigate these issues, and are interested in hearing
+from others working on this topic across industry and civil society. If you’d like to
+stay informed about our work in this area, provide feedback on this draft report, or
+get involved as a project partner or collaborator, we’d love to hear from you!
+This report is published as an open draft for comment – please feel free to add
+your thoughts, reactions and commentary directly.
+Alternatively, you can get in touch with us by emailing the ODI’s Policy team at
+policy@theodi.orgor by filling out the contact formon ourproject page.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance28
+
+Appendices
+Appendix 1: Disclosure requirements in the UK
+Environmental performance reporting is increasingly a legal requirement, with
+eight jurisdictions including the UK, EU and Japan having introduced
+environmental disclosure requirements aligned with standards set out by the
+G20-founded Task Force on Climate-related Financial Disclosures (TCFD) as of
+September 2021.
+The UK government sees the disclosure of whether products are sustainable or
+not as a vital mechanism for ‘greening’ the financial system: by ensuring that
+‘decision-useful’ information on investment sustainability is available to financial
+market decision-makers; those decision-makers can then factor sustainability into
+their investment choices.
+The Greening Finance roadmap published by the Treasury in 2021 outlined the
+steps that the government will take to make this a reality:
+1.The implementation of Sustainability Disclosure Requirements (SDRs)
+from April 2022 onwards.
+2.Further mandatory disclosure requirements introduced by 2025,
+incorporating the UK Green Taxonomy and ISSB issued standards.
+From April 2022: Sustainability Disclosure Requirements (SDRs)
+From April 2022, newSustainability Disclosure Requirements(SDRs)will come
+into force, placing new responsibilities on investment products, for corporate
+actors, and for asset managers and asset owners.
+SDRs will cover both information that can have a material impact on investors’
+interests (transition risks and physical risks), and information on how firms impact
+the environment (negative and positive externalities).
+Based on standards developed by theG20 Taskforceon Climate-related Financial
+Disclosures, SDRs will require the disclosure of informationaround four pillars:
+1.Governance: governance arrangements around sustainabilityrelated
+risks, opportunities and impacts.
+2.Strategy:actual and potential implications of sustainability-relatedrisks,
+opportunities and impacts for businesses.
+3.Risk management:the processes by which risks, opportunitiesand
+impacts are identified, assessed and managed will also have to be
+disclosed.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance29
+
+4.Metrics and targets:metrics and targets used to assess and manage
+risks, opportunities and impacts, as well as the performance against these
+targets, and relevant supporting information.
+By 2025: The UK Green Taxonomy
+TheGreening Finance roadmapalso details the developmentof the UK Green
+Taxonomy, with additional disclosure requirements based on this taxonomy set to
+be introduced in the coming years. Taxonomies have already been developed in
+jurisdictions around the world including the EU, China, Malaysia, Bangladesh and
+Russia. The UK taxonomy will build on these existing taxonomies, focusing on net
+zero in the UK context.
+The aim of the UK taxonomy is to ‘clamp down on greenwashing –
+unsubstantiated or exaggerated claims that an investment is environmentally
+friendly - and make it easier to understand how a firm is impacting the
+environment’ by ‘clearly defining which economic activities count as
+environmentally sustainable’.
+Taxonomy-related disclosures will provide information on how firms impact the
+environment (negative and positive externalities). For an activity to count as
+taxonomy-aligned, it will need to meet the following criteria:
+1.Make a substantial contribution to one of six environmental objectives:
+a.Climate change mitigation
+b.Climate change adaptation
+c.Sustainable use and protection of water and marine resources
+d.Transition to a circular economy
+e.Pollution prevention and control
+f.Protection and restoration of biodiversity and ecosystems
+2.Do no significant harm to the other objectives.
+3.Meet a set of minimum safeguards, based on the OECD Guidelines for
+Multinational Enterprises, and the UN Guiding Principles on Business and
+Human Rights.
+Appendix 2: Data assurance
+At the ODI, we definedata assuranceas:‘the process,or set of processes, that
+increase confidence that data will meet a specific need, and that organisations
+collecting, accessing, using and sharing data are doing so in trustworthy ways.’
+As detailed in Table 3, assurance activities can help to improve user confidence in
+a range of attributes associated with data and datasets – such as data
+provenance, discoverability and quality – as well as data practices – such as
+strategy, governance and user support.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance30
+
+Table 3: What data and data practices can be assured?
+You can provide assurance for several aspects of data and data practices, for example:
+Data and
+datasets
+to improve confidence that:by performing activities such as:
+data is of trustworthyprovenancechecking individual data points to assess
+their accuracy; verifying the sources of
+data, including those that may come
+from third parties
+data has beenethically sourcedreviewing a dataset to ensure it does not
+contain personal data
+data is of appropriatequalitychecking the structure of a dataset
+against a standard to confirm that it is
+well-formed and complete
+Data
+practices
+to ensure:by performing activities such as:
+data can beeffectively usedby relevant
+decision-makers
+ensuring that those involved in data
+practices have the necessary skills and
+knowledge to work with data
+data is shared with the right peopleassessing the decision making for how
+data is shared, to ensure that it is shared
+responsibly and in ways that will
+minimise harms
+there are no harmful impacts on people,
+organisations and communities who the
+data is about, or who are affected by use
+of the data
+reviewing the lifecycle of how data is
+collected, managed and shared to
+confirm that data is managed legally,
+securely and ethically
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance31
+
+Formal and informal data assurance activities
+Data assurance activities can be classified based on how formally they are defined
+and applied.
+More formalassurance activities include processessuch as audits, certification or
+accreditation schemes. They are described and supported by well-defined
+standards and involve multiple layers of review and assessment; not just of the
+process itself, but the people and organisations involved in it.
+Less formaldata assurance activities include developingand applying norms and
+principles that might help to guide and reinforce trustworthy behaviours. But their
+application may only be loosely defined and the results are not verifiable. In
+contrast, more formal data assurance activities typically follow well-defined
+processes and produce verifiable outputs.
+Table 4: What types of data assurance activities are there?
+What is assured?Less formalMore formal
+DataGuidance on use of modelling
+and design of data
+Provision of data
+documentation or data licences
+Quality control
+Validation against agreed standards
+Data practicesDeveloping skills
+Building professional, social or
+organisational norms
+Developing shared principles
+and best practices
+Conducting audits of data processes
+and governance
+Certification of organisational
+processes against predefined
+standards
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance32
+
+Who is responsible for data assurance?
+The assurance ecosystem extends to actors beyond the immediate environment of
+organisations creating and providing data, and those consuming data from third
+parties. This wider ecosystem includes:
+●
+Providers of data assurance. These organisations canbe found across
+different sectors of the economy, and they vary in size, although the
+majority of firms currently providing data assurance services were
+incorporated in the last 10 yearsand employ fewerthan 10 people each.
+Public bodies such as regulators can directly provide data assurance
+services, although they are more likely to play amarket-shaping role.
+●Governments, regulators, researchers and advocacy organisations.
+These other actors help to create policies and legislative frameworks that
+guide how data is accessed, used and shared; provide guidance, support
+and influence to encourage and enable others to behave in certain ways;
+or develop the tools and technologies that support their activities.
+●Standards development organisationssuch as the BritishStandards
+Institutions (BSI), Office for Product Safety and Standards, National
+Physical Laboratory and theUnited Kingdom AccreditationService. These
+organisations help to develop and maintain the standards that describe
+how a product or service should operate (core standards), the standard
+processes by which a data-enabled product or service might be certified
+against that standard, and standard training and assessments that are
+used to accredit organisations to complete these certifications.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance33
+
+Glossary
+Assurance: the process, or set of processes, thatshow evidence that something
+is reliable or trustworthy.
+AI assurance: the process, or set of processes, thatincrease confidence that AI
+systems work as they are supposed to work, and that they are effective,
+trustworthy and legal.
+Climate-related risks:potential negative impactsof climate change on an
+organisation. They can either be transition risks, which are financial risks
+associated with the transition to a lower-carbon economy, or physical risks, which
+are related to the physical impacts of climate change.
+Data assurance: the process, or set of processes,that increase confidence that
+data will meet a specific need, and that organisations collecting, accessing, using
+and sharing data are doing so in trustworthy ways.
+Data assurance activity: a specific activity to createtrust in data, such as
+conducting an audit, validating a dataset, or carrying out training.
+Data assurance scheme: a specific project that worksby applying one or more
+data assurance activities and may involve multiple actors.
+Data ecosystem: data infrastructure and the people,communities and
+organisations that benefit from the value created by it.
+Data institutions: organisations whose purpose involvesstewarding data on
+behalf of others, often towards public, educational or charitable aims.
+Data practices:the processes by which data is collected,shared,
+held and/or managed.
+Data value chain: the set of activities that createimpact from data. At the ODI, we
+consider that the data value comprises three activities: stewarding data, creating
+information from that data, and deciding what to do based on that information.
+Disclosure: the action of publishing information abouta company’s activities,
+financial performance, exposure to risks and other aspects relevant to its
+operations and current and future performance.
+Environment: the surrounding on which a company orfirm operates. It includes
+everything that is not within the company boundaries but can be impacted or
+affected by its activities.
+Environmental performance: effects of business activitiesand products on the
+natural environment, which can be assessed in relation to development goals or
+policy objectives such as net zero.
+Environmental performance data: data about the effectsof business activities
+and products on the natural environment.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance34
+
+ESG: company reporting framed around three key factors: environment, social and
+governance. The first covers how organisations impact and are impacted by
+climate change and broader environmental issues. The second includes factors
+such as labour conditions, and impact on development. The third one refers to
+information about the way a firm is controlled and directed.
+Green finance: an approach to the financial systemthat aims to align financial
+flows with the goal of achieving a low-carbon world. In 2019, the UK government
+published a Green Finance Strategy, which set out policy commitments to help
+align UK financial flows with a low-carbon world, by supporting the financial
+services sector to align with environmental goals and by mobilising finance to
+support clean and resilient growth.
+Greenwashing: the action of making misleading or unsubstantiatedclaims
+about environmental performance of businesses, economic activities or
+investment products. It can lead to wrong investment and buying decisions,
+misallocation of capital intended for sustainable investments, and the
+undermining of trust in the market.
+Mandatory Sustainability Disclosure Requirements:requirements announced
+by the Chancellor in July 2021 that aim to create an integrated framework for
+decision-useful disclosures on sustainability across the economy. They cover
+three types of disclosure: corporate disclosure, asset manager and asset owner
+disclosure, and investment product disclosure.
+Physical risk: climate-related risks that may havefinancial implications such as
+damage to assets, supply chain disruption, changes in resource availability or
+quality, among others. According to the TCFD guidance, physical risks can either
+be considered acute when they are event driven, or chronic when they relate to
+longer-term shifts in climate patterns.
+Quality infrastructure: formal mechanisms of assurancesuch as standardisation,
+conformity assessment, measurement or accreditation.
+Sustainability Disclosure Requirements (SDRs): newrequirements for
+corporate, asset managers and owners, and investment product disclosures that
+will create an integrated framework for decision-useful disclosures on
+sustainability across the UK economy. They build on the UK’s TCFD
+implementation and its first measures will come into force in 2022.
+Standards:documented, reusable agreements that solvea specific set of
+problems or meet clearly defined needs. Data standards are often used to help
+define or support a data assurance activity.
+Taskforce on Climate Related Financial Disclosures (TCFD): an organisation
+created in 2015 by the Financial Stability Board of the G20 to develop consistent
+climate-related financial risk disclosures for use by companies, banks and
+investors. It published its final recommendations in June 2017.
+Transition risk: financial or reputational risks associatedwith the transition to a
+lower-carbon economy and the policy, legal, technology and market changes that
+it requires or will require.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance35
+
+Trustworthy data ecosystem:an environment in which individuals and
+organisations across the public, private and third sector trust that data is flowing
+in ways that will maximise benefits whilst minimising harms.
+UK Green Taxonomy: a common framework to determinewhich investments and
+economic activities are considered by the UK government to be environmentally
+sustainable. The government expects to have a Green Taxonomy legislation in
+place by the end of 2022.
+EU Taxonomy: a classification system, establishinga list of economic activities
+considered by the EU to be environmentally sustainable.
+Open Data Institute | June 2022 | Tackling greenwashing through data assurance36

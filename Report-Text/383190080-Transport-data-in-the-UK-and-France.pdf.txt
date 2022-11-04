@@ -1,0 +1,1262 @@
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+About2 
+Executive summary3 
+Introduction5 
+Transport Data Case Studies: France 
+ 
+ 
+Jean Gabriel Audebert-Lasrochas from Trainline presenting the challenges of 
+working with open transport data in France and the UK6 
+Building a digital common and social network with national transport data  
+Ishan Bhojwani – Etalab7 
+Working across borders in France and Spain – and what this could mean for the UK 
+and France 
+Julien de Labaca – Transfermuga8 
+Five reasons DX matters for open transport 
+Eugena Ossi - Five by Five9 
+Mobility-related projects at OpenDataSoft  
+Fanny Goldschmidt - OpenDataSoft10 
+Open Transport as a platform for open innovation ecosystem 
+Bertrand Billoud – Kisio Digital11 
+The history of open data in France and the UK: differences and similarities  
+Samuel Goëta – Datactivist12 
+Catalogue 
+Zakaria Bouziane – Transdev15 
+Transport data case studies: UK16 
+Tom Forth from ODI Leeds, Vincent Lara from Etalab, and Christopher Barnes from 
+Highways England during the UK France Transport Data Workshop’s afternoon 
+Unconference.16 
+Examples of collaboration on transport data: Lyon and Birmingham 
+Andrew Radford – Birmingham City Council17 
+Public transport open data in the UK, and what ODI Leeds has done with it 
+Tom Forth - ODI Leeds18 
+Engaging with your community of open data users 
+Rikesh Shah - Transport for London19 
+The role of ‘open’ in the development of new mobility services 
+Giles Bailey – TravelSpirit20 
+Challenges of working with travel data in the UK and France  
+Jean-Gabriel Audebert-Lasrochas, Trainline21 
+Ten ideas for cross-country transport data collaboration22 
+Fanny Goldschmidt from Opendatasoft, Andrew Radford from Birmingham Council 
+and Rick Bruce from ITO World prioritising ideas for cross-country collaboration 
+between France and the UK22 
+Appendix27 
+Workshop Participants27 
+ 
+Open Data Institute 2018 | Case studyTransport data in the UK and France   1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About 
+This report has been researched and produced by the Open Data Institute, and 
+published on 5 July 2018. Its lead authors are Tom Hunter and Lucia Chauvet. If you 
+want to share feedback by email or would like to get in touch, contact 
+tom.hunter@theodi.org​ or ​lucia.chauvet@theodi.org​.  
+ 
+To share feedback in the comments, highlight the relevant piece of text and click the 
+‘Add a comment’ icon on the right-hand side of the page. 
+ 
+ 
+ 
+ 
+This is work in progress. It is likely to be updated as 
+we continue our work. Keep an eye out for updates! 
+ 
+ 
+How can it be improved? We welcome suggestions 
+from the community in the comments. 
+  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   2 
+
+ 
+ 
+Executive summary  
+Cross-country collaboration on transport data offers opportunities to 
+address common challenges such as ticketing, conversion of data 
+standards, and procurement best practice 
+As part of its ​innovation programme​, the Open Data Institute (ODI) has been 
+building on the recommendations of the ​UK–France Data Innovation Task Force
+1
+, to connect data innovators and data innovation across both countries. 
+ 
+The ODI is exploring data innovation at sector level, with​ transport​ emerging as 
+a priority sector. Arguably, France and the UK are leading the way in mobility 
+and transport innovation, with the ​UK government aiming to be at the forefront 
+of connected and autonomous vehicles research and development, and France 
+2
+leading and providing expertise in ​driverless metro technology.  
+3
+ 
+Both countries also have sophisticated open data ecosystems, and are ranked 
+4
+in the top five worldwide in the ​Open Data Barometer rankings​. 
+ 
+In this report we summarise the findings from our full day ​UK–France transport 
+data workshop, which aimed to share stories of data innovation in transport 
+5
+across both countries, and to identify ideas for cross-country collaboration with 
+transport data.  
+ 
+In total, ​twelve case studies ​were presented and helped reveal similarities and 
+differences between the countries. ​Etalab, for instance has recently begun work 
+6
+on a ​National Access Point – a mechanism for accessing, exchanging and 
+7
+reusing transport-related data – a task that the Department for Transport is 
+replicating for the UK. The Lille case study describes the process of including 
+open data requirements in franchise contracts, providing fascinating insights for 
+both French and UK cities.  
+ 
+These case studies also revealed shared challenges: from the difficulty of 
+converting and working with different data standards and formats; to the poor 
+customer experience of ticketing outside large cities; to evaluating the correct 
+users of ​Open Database Licenses; to addressing the concerns around ‘GAFA’ 
+8
+1
+ UK government: Department for Digital, Culture, Media and Sport (July 2016), 'UK-France Data Innovation 
+Taskforce Report', ​gov.uk/government/publications/uk-france-data-innovation-taskforce-report  
+2
+ ​UK government: Department for Transport (June 2018), Centre for Connected and Autonomous Vehicles, 
+gov.uk/government/organisations/centre-for-connected-and-autonomous-vehicles  
+3
+ Wavestone (2017), ‘Smart Cities and Mobility: France is at the cutting-edge in the strategic market for 
+driverless metros’ 
+wavestone.com/en/trade-report/smart-cities-and-mobility-france-is-at-the-cutting-edge-in-the-strategic-marke
+t-for-driverless-metros/  
+4
+ ​Data ecosystem: a mapped data infrastructure detailing how data is stored, accessed, used and shared, 
+showing interactions between the data, its users, and related services and apps 
+5
+ See: ​theodi.org/topic/transport  
+6
+ See: ​etalab.gouv.fr 
+7
+ National Access Points can take various forms, such as a database, data warehouse, data marketplace, 
+repository, and register, web portal or similar depending on the type of data concerned and provide discovery 
+services, making it easier to fuse, crunch or analyse the requested data sets. See: 
+ec.europa.eu/transport/themes/its/road/action_plan/nap_en  
+8
+See: ​opendatacommons.org/licenses/odbl/summary 
+Open Data Institute 2018 | Case studyTransport data in the UK and France   3 
+
+ 
+ 
+(the four US tech giants: Google, Apple, Facebook, and Amazon). 
+ 
+The afternoon culminated in a series of informal discussions where participants 
+aimed to identify the most promising avenues for transport data collaboration 
+between the UK and France. These are included in the table below.  
+ 
+ 
+ 
+ 
+Executive summary: nine promising avenues for collaboration 
+between the UK and France on transport data 
+ 
+1.Demonstrating the economic impact of open transport data in Europe 
+2.Developing open source transport data conversion tools – particularly 
+from General Transit Feed Specification (GTFS) to Network Timetable 
+Exchange (NeTEx) standard 
+3.Drafting ‘Transport 101’ market summaries for both countries, to help 
+private sector operators understand key differences 
+4.Facilitating dialogue between politicians, transport data providers, and 
+‘GAFA’  
+5.Sharing best practice on the inclusion of open data clauses in 
+transportation contracts 
+6.Ensuring smaller towns do not suffer from ‘transport data exclusion’ 
+7.Evaluating the impact of different licenses for open data and innovation 
+in transport 
+8.Making ticketing (particularly in smaller cities)  more user-friendly to 
+work across multiple providers 
+9.Including a wider range of European countries in transport data 
+collaboration 
+ 
+ 
+ 
+The final section of this report contains further details on these ideas and how 
+they emerged. Workshop participants have already started work on some of 
+these. ​DataCity has developed an open source tool that converts UK public 
+9
+transport timetables from TransXChange format to General Transit Feed 
+Specification (GTFS) format.  
+10
+ 
+The findings summarised in this report sit alongside a broader set of activities 
+conducted to connect data innovators across the UK and France. These include: 
+three bilateral projects involving stakeholders from Leeds, Lille, Manchester, 
+11
+Rennes, Bordeaux, and Bristol; interviews with data practitioners; and activities 
+related to the UK–France Digital Conference. 
+ 
+ 
+ 
+ 
+ 
+9
+ See: ​datacity.org  
+10
+ Github (2018), TransXChange to GTFS translator, 
+github.com/danbillingsley/TransXChange2GTFS  
+11
+ Open Data Institute (2017), 'The ODI launches three collaborative data innovation projects between the UK 
+and France', 
+theodi.org/article/the-odi-launches-three-collaborative-data-innovation-projects-between-the-uk-and-france/  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+How are the UK and France using transport data, and 
+what are the promising avenues for collaboration 
+between both countries? 
+ 
+On Thursday 15 February 2018, the ODI brought together 24 leading organisations 
+working with transport data in France and the UK to share and explore areas of data 
+innovation in transport across the two countries. 
+ 
+This piece of work fits into a wider project to connect data innovators across the UK and 
+France. The ODI has taken a sector-based approach, with transport identified as a key 
+sector. Previous exploratory research by the ODI has shown that ​France and the UK are 
+leading innovation in mobility and transport​, and both have sophisticated open data 
+ecosystems, often with complementary skill sets. The UK, for example is praised for its 
+12
+active community engagement, while France is noted for its technical excellence.  
+ 
+Participants in the workshop included representatives from organisations such as 
+Transport for London ​(TfL), ​Transfermuga, ​data.gouv.fr,​ ​Trainline, and city councils 
+131415
+in France (​Lille Metropole) and the UK (​Birmingham City Council), amongst many 
+1617
+others. A list of all the participants, and the organisations they represent, is available in 
+the appendix.  
+ 
+This report summarises the workshop findings, and aims to:  
+ 
+●share stories and areas of data innovation in transport in the UK and France 
+●suggest promising ideas for collaboration on transport data between the UK 
+and France (and potentially more European countries) 
+ 
+This workshop and research form part of the discovery phase of a project designed to 
+understand opportunities for cross-country collaboration on transport data. In the longer 
+term, this will help inform the ODI’s work on global data infrastructure for trade.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12
+ ​Data ecosystem: a mapped data infrastructure detailing how data is stored, accessed, used and shared, 
+showing interactions between the data, its users, and related services and apps. 
+13
+ See: tfl.gov.uk 
+14
+ ​See: transfermuga.eu 
+15
+ See: thetrainline.com 
+16
+ ​See: ​lillemetropole.fr 
+17
+ ​See: ​birmingham.gov.uk  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Transport data case studies: 
+France 
+ 
+ 
+Jean Gabriel Audebert-Lasrochas from Trainline presenting the challenges of working with open  
+transport data in France and the UK 
+This section presents summaries of the case studies presented by transport 
+professionals based in France. Each case study includes: 
+ 
+●a summary of the presentation 
+●key takeouts from the presentation  
+●a link to the presentation slides  
+●contact details of the presenter for further details 
+ 
+Please note that the views expressed in the case studies and presentation are the views 
+of the presenters, and not necessarily the views of the ODI.  
+ 
+  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   6 
+
+ 
+ 
+Building a digital common and social network with national transport 
+data  
+Ishan Bhojwani – Etalab  
+ 
+Summary​:  
+ 
+Ishan Bhojwani presented Etalab’s current work on creating a national access point for 
+18
+all type of transport data in the country, which he described as “an aggregation of 
+platforms to aggregate data from everywhere in France”. It was then mandated by a 
+2017 ​European Union (EU) directive for all EU member states. 
+19
+ 
+Etalab’s vision is to produce an access point, and gather and improve the data quality 
+from 320 territories in France, while driving adoption of the NetEx standard to improve 
+interoperability of transport data across the EU member states. The access point will be 
+available on ​transport.data.gouv.fr​.  
+ 
+Ishan’s work involves seeking and openly publishing the data about each territory, 
+but also approaching expert technicians to provide support for each access point (which 
+is more challenging). By doing so, Etalab hopes to create not only a national access 
+point, but a transport data social network that connects producers and users of 
+transport data across Europe.  
+“ 
+The idea is that transport.data.gouv.fr acts not 
+only as an access point but as a social 
+network. So for each data point you’ve got the
+data file but also the ability to ask questions to 
+the person from that territory that can best 
+answer them. 
+Key takeouts 
+ 
+●In the UK, transport data is gathered by operators at a national level, authorised 
+by the government, whereas France data gathering is decentralised between 
+330 distinct territories 
+ 
+●Transport Systems Catapult (TSC), who also attended the workshop, has been 
+tasked by UK Department for Transport with developing a national access point 
+for the UK. Etalab’s experience has learnings for TSC. 
+ 
+ 
+Slides: ​view ​Ishan Bhojwani’s presentation here​. 
+ 
+Want to find out more? ​Please contact Ishan at ​ishan.bhojwani@beta.gouv.fr  
+18
+ National Access Points can take various forms, such as a database, data warehouse, data marketplace, 
+repository, and register, web portal or similar depending on the type of data concerned and provide discovery 
+services, making it easier to fuse, crunch or analyse the requested data sets. 
+19
+ ​European Commission (2017) ‘National Access Points’ 
+ec.europa.eu/transport/themes/its/road/action_plan/nap_en 
+ 
+Open Data Institute 2018 | Case studyTransport data in the UK and France   7 
+
+ 
+ 
+Working across borders in France and Spain – and what this could 
+mean for the UK and France 
+Julien de Labaca – Transfermuga  
+ 
+Summary​:  
+ 
+Julien de Labaca presented the story of ​Transfermuga​, from a portal for cross-border 
+mobility between France and Spain (in the Basque Country) to a cross-border planner, to 
+an open data project. 
+ 
+The project started with a simple idea: a portal as a ‘single location’ for information on 
+cross-border travel that would redirect to existing sites if the user needed more 
+information. This portal launched in 2015. 
+ 
+However, Transfermuga quickly realised that a portal would not be enough and that 
+users needed a route planner. For scoping reasons, this route planner was limited to 
+certain provinces in the south of the Basque Country. The open route planner was open 
+to all actors, who all adhered to a framework agreement, which committed them to 
+joining a central purchasing group, and importantly to joining a ‘medium-to-long term 
+open data project’.  
+ 
+Julien mentioned that the creation of the route planner was mainly an opportunity to lead 
+a project based on transportation open data. The actors involved included two railways, 
+three long distance bus lines, and five urban bus lines. The process for opening data 
+was phased, with a simplified choice of licences (owner, Open Database License (ODbL), 
+and Etalab) that nudged towards the most open of those three (Etalab). Julien concluded 
+his presentation by discussing the future of Transfermuga, which includes moving 
+towards the European NeTEx standard, and a common data feed. 
+ 
+ 
+Key takeouts: 
+ 
+●The biggest challenges of the opening data process were not technical, but 
+related to the management of data, and the organisational approach of the 
+project. 
+ 
+●Do not neglect the political arena. Even if the projects are essentially technical, 
+political intervention (at the local or national level) often has a very strong impact 
+on the calendar for the different tools.  
+ 
+Slides:​ view ​Julien de Labaca’s presentation here​. 
+ 
+Want to find out more? Please contact Julien at ​julien.delabaca@naen.eu  
+ 
+ 
+ 
+  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   8 
+
+ 
+ 
+Five reasons developer experience (DX) matters for open transport 
+Eugena Ossi – Five by Five  
+ 
+ 
+Summary​:  
+ 
+Eugena explained why the developer experience matters in the transportation sector. 
+She defined the developer experience as “anything that a developer touches, from using 
+a product to source library codes, raw data, open source code.” Since developers are 
+primary users, their experience of using code, data or portals is very important.  
+ 
+Eugena presented five reasons why developer experience is important for open 
+transport:  
+1.First, developers are humans. Understanding why they use the data, why it is 
+important and what they can get out of it are key elements to consider. Eugena 
+stated that no matter how good the data is, “if you don’t have developers using 
+[it], you have nothing.”  
+2.Giving access to documentation is also crucial because this will help developers 
+use the product.  
+3.Transparency is the third reason: being honest and having reliable software and 
+data helps gain credibility.  
+4.Maintaining the developer community is an important asset because the more 
+involved developers are, the more likely they will contribute to the community.  
+5.Finally, developers sustain innovation. Indeed, once developers start using a 
+product, they will iterate and improve it, which fosters creativity and the 
+emergence of new products. 
+ 
+ 
+ 
+Key takeouts: 
+ 
+●Developer experience is important because the easier tools used to design, test 
+and maintain software programmes are, the more they will be used. 
+ 
+●Presenting transport data in a developer friendly way will lead to more innovation 
+in the transport sector. 
+ 
+ 
+Slides: ​View ​Eugena Ossi’s presentation here (from slide 26)​. 
+ 
+Want to find out more? Please contact ​eugena@fivebyfive.io  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Open Data Institute 2018 | Case studyTransport data in the UK and France   9 
+
+ 
+ 
+Mobility-related projects at OpenDataSoft  
+Fanny Goldschmidt – OpenDataSoft 
+ 
+Summary​:  
+ 
+Fanny presented examples of how OpenDataSoft clients are using open data platforms 
+and portals to share and encourage the reuse of open transport data. Her key message 
+was that mobility-related data can be useful outside of the mobility field, and that sharing 
+it openly can lead to unexpected uses by a diverse range of organisations and 
+individuals. 
+ 
+One of the examples Fanny shared is Waze – a global community-based traffic and 
+20
+navigation app – and the city of Seville, who are working together to implement a 
+two-way data exchange. The city of Seville is using the service to identify and address 
+traffic jams more quickly and efficiently.  
+ 
+Another is a pilot project in Paris: the city has set up pedestrian and bike counting 
+sensors; air quality sensors; noise pollution sensors; and car traffic data (a mixture of 
+mobility data and non-mobility data) to think about traffic redeployment around one of 
+the busiest roundabouts in the city.  
+ 
+A final example she gave is that of the city of Rennes, whose open data portal, also 
+powered by OpenDataSoft, has allowed Handimap to develop a journey planner for 
+disabled citizens. Sharing transport data openly can lead to unexpected benefits!  
+ 
+ 
+Key takeouts: 
+ 
+●Mobility data can be useful to organisations who operate outside of the mobility 
+field. 
+ 
+●The operation of motorways in the UK is by a government-owned company 
+(Highways England) whereas in France operators are private. This has 
+implications for the release and availability of open data​. 
+ 
+ 
+Slides: ​View ​Fanny Goldschmidt’s presentation here​. 
+ 
+Want to find out more? ​Please contact ​fanny.goldschmidt@odsoft.com  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+20
+ See: ​waze.com 
+ 
+Open Data Institute 2018 | Case studyTransport data in the UK and France   10 
+
+ 
+ 
+Open Transport as a platform for open innovation ecosystem 
+Bertrand Billoud – Kisio Digital 
+ 
+Summary:  
+ 
+Bertrand, the Head of Marketing and Communication at Kisio Digital, introduced Navitia, 
+an open source software that “builds cool stuff with locomotion”. Navitia technology, 
+Kisio’s core open reactor, allows: download of a open source software with six features 
+(eg journey planner, timetables); download and usage of an API; and access to 400 
+datasets and a community of over 10,000 developers from 25 countries on the 
+OpenDataBar. 
+ 
+Bertrand explained that although the data is ‘official data’ and originates from transit 
+agencies, it may not always be high quality. To help address this, Navitia continues to do 
+more work with crowdsourced open data from OpenStreetMap. For example, the team 
+ran projects in Ghana and Nicaragua, where they cleaned and redistributed data on the 
+portal. It is necessary to provide clean data because “all the re-users are asking for good 
+data”.  
+ 
+However, the platform doesn’t produce data: it acts as a middle-man between the 
+producer and the user. The teams often hears back from the users asking for better 
+quality data, but rarely get feedback from producers, which is why it is crucial to connect 
+data users with data producers.  
+ 
+Bertrand disclosed that when they first built the platform they were not sure who the 
+users would be, and in the end, examples he gave were very diverse and ranged from 
+SNCF’s passenger mobile information application to Facebook’s conversation web 
+services application. 
+“ 
+...we didn’t know what kind of people would 
+use the data, the software, the API – and first 
+we thought is was only in the mobility sector 
+but now we see that there’s a lot of usage in 
+different kinds of sectors like real estate and 
+recruitment. 
+Key takeouts: 
+ 
+●Navitia’s objective is to enable the creation of simple mobility digital services 
+while providing the open source software (with  six key features), an API and the 
+access to the OpenDataBar. 
+ 
+●Transport data benefits the transport sector as well as other  sectors, such as.... 
+ 
+Slides: ​View  ​Bertrand Billoud’s presentation ​here. 
+ 
+Want to find out more? ​Please contact ​bertrand.billoud@kisio.org   
+ 
+Open Data Institute 2018 | Case studyTransport data in the UK and France   11 
+
+ 
+ 
+The history of open data in France and the UK: differences and 
+similarities  
+Samuel Goëta – Datactivist 
+ 
+Summary:  
+ 
+Samuel, the co-founder of Datactivist, presented his views on the background of open 
+data in the UK and France, and explained how it relates to the transport sector. He 
+described how, in the UK, the open data journey began in 2004 with OpenStreetMap. To 
+avoid misinterpretation of what can be open and what cannot, the Open Knowledge 
+Foundation and Rufus Pollock then put together a definition. In Samuel’s view, the 
+official birth of open data happened in the US in December 2007, where a group of 
+leaders gathered to discuss and define the term ‘open data’. Then, Sir Tim Berners-Lee 
+worked on the launch of data.gov.uk as well as the Open Data Institute with Sir Nigel 
+Shadbolt. You can ​read more about the history of open data in the UK here.  
+21
+ 
+France has a different background, as described by Samuel: “Open data appeared in 
+France in a very peculiar setting” – explaining that ​the French government used to sell 
+data, but stopped this practice inline with European Union regulation. With the open 
+22
+data movement growing in the UK and the US, at the end of 2010, the French 
+government created Etalab, to coordinate the sharing of public data. 
+ 
+Samuel said that another difference between the two countries is that the Freedom of 
+Information (FOI) law in the UK is much stronger than in France. The UK responds to 
+more than 300,000 requests every year from citizens via the government platform. 
+Whereas in France, the law is “quite old and quite weak as well”. The French 
+government does not have this same requirement to address citizens’ requests for 
+information. 
+ 
+Regarding the transport sector, Samuel highlighted that he finds most issues originate 
+from the supply side, such as government: “Governments tend to often open the data 
+without consulting the public, without replying to the freedom of information request, 
+without really listening to what the public wants.” 
+“ 
+Governments tend to often open the data 
+without consulting the public, without replying 
+to the freedom of information request, without 
+really listening to what the public wants. 
+He then presented a new initiative: ‘Dodo Data’, which will aims to radically improve the 
+way Freedom of Information requests on specific datasets are dealt with. Samuel’s clear 
+message is that he believes that France and the UK have strong open data communities 
+and that there is huge potential for collaboration. 
+21
+ Wikipedia (2016), ‘Open data in the United Kingdom’, 
+en.wikipedia.org/wiki/Open_data_in_the_United_Kingdom  
+22
+ Transparency International (2017). OPEN DATA AND THE FIGHT AGAINST CORRUPTION IN FRANCE. 
+webfoundation.org/docs/2017/04/2017_OpenDataFrance_EN-3.pdf  
+ 
+Open Data Institute 2018 | Case studyTransport data in the UK and France   12 
+
+ 
+ 
+“ 
+Something that unites France and the UK is 
+that we have vibrant open data communities 
+across all channels , with many stimulating 
+discussions.  
+Key takeouts: 
+ 
+●Although the UK and France did not start the open data movement at the same 
+time, nor have reached a similar maturity, they both have driven communities 
+eager to take the movement forward. 
+ 
+●Freedom of Information (FOI) laws are more powerful and widely used in the UK. 
+ 
+ 
+Want to find out more? Please contact ​samuel@datactivi.st  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   13 
+
+ 
+ 
+ 
+Catalogue 
+Zakaria Bouziane – Transdev  
+ 
+Summary​:  
+ 
+The aim of Transdev’s Catalogue is to create a global open data platform in the 
+23
+transport sector, and build a community around it, where users exchange and consume 
+data. 
+ 
+Zakaria, Lead Developer at Transdev, explained that the aim is to give data ownership to 
+publishers who upload data to the platform. As the platform neither controls nor edits 
+data, full responsibility is given to the publisher. When users spot errors, they can inform 
+the platform which then notifies the publisher. The platform has several features such as 
+notification features, enabling the subscriber to receive news and/or updates about a 
+specific dataset. The code is open source and people are encouraged  to contribute, 
+copy, learn from and use the code and data. 
+ 
+Regarding community building, Zakaria shared that publishers often express their 
+annoyance that data consumers take advantage of ‘their data’ and generate commercial 
+value, while the publishers do not benefit from it. He emphasised that it is important to 
+make clear that value sits in the growth of the transport sector, such as tourism, and not 
+specifically in the data itself.  
+ 
+ 
+Key takeouts: 
+ 
+●Catalogue invites data owners to publish data using the most open licences to 
+help foster innovation the transport sector. 
+ 
+●Even in a sector like transport, which has produced many successful case 
+studies, it can be difficult to ‘sell’ the value of ‘open’ to data producers.  
+ 
+Slides: View ​Zakaria Bouziane’s presentation here​ (from slide 139). 
+ 
+Want to find out more? Please contact ​zakaria.bouziane@transdev.com  
+ 
+ 
+ 
+23
+ See: ​catalogue.global 
+Open Data Institute 2018 | Case studyTransport data in the UK and France   14 
+
+ 
+ 
+Transport data case studies: 
+UK 
+  
+Tom Forth from ODI Leeds, Vincent Lara from Etalab, and Christopher Barnes from Highways  
+England during the UK France Transport Data Workshop’s afternoon Unconference.  
+ 
+This section presents summaries of the case studies presented by transport 
+professionals based in the UK. Each case study includes: 
+ 
+●Summary of the presentation 
+●Key takeouts from the presentation  
+●Link to the presentation’s slides  
+●Contact details of the presenter for further details 
+ 
+ 
+Please note that the views expressed in the case studies and presentation are the views 
+of the presenters, and not necessarily the views of the ODI.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   15 
+
+ 
+ 
+Examples of collaboration on transport data: Lyon and Birmingham 
+Andrew Radford – Birmingham City Council  
+ 
+ 
+Summary​:  
+ 
+Andrew shared his experience of working on EU-funded projects (Opticities), and 
+particularly the close relationship between Birmingham and Lyon that had developed 
+through a project on multimodal journey planning.  
+ 
+Working on this project (and other European ones) has unearthed interesting anecdotes 
+and illuminating insights on the differences between the UK and France. For example, 
+while the UK excelled at data strategy work, European partners often excelled at the 
+implementation stage. He gave the example of an EU project where a team from 
+Gothenburg (Sweden) were introduced to the Electronic Transfer of Notifications (​EToN) 
+standard which had already been developed in the UK, and then built a system for 
+24
+roadworks which improved on the UK version. 
+ 
+Another interesting difference was that because of the emphasis on different 
+standards/metrics, different data is collated. In the UK, local authorities hold/steward 
+data on bus stop locations, but do not collect data on the number of people on the bus. 
+In France, the situation is reversed.  
+ 
+Andrew concluded his presentation with a reflection on the nature of European projects 
+and how projects and collaboration often stop when the funding ends. These abrupt 
+conclusions illustrate one of the key challenges: sustainability. 
+“ 
+My experience is that the UK did a lot of the 
+beard-stroking thinking, but the French 
+partners and some of the other European 
+partners were better at implementation and 
+actually getting on with it and delivering. 
+Key takeouts: 
+ 
+●In Andy’s experience of EU-funded projects, British partners are very good at 
+the reflective data strategy, and French partners very good at the 
+implementation stage. 
+ 
+●Collaboration between cities funded through EU projects often grinds to a halt 
+once the funding ends. Ensuring the sustainability of these partnerships is a key 
+challenge. 
+ 
+Slides: ​View ​Andrew Radford’s presentation here (from slide 137)​. 
+ 
+24
+ ​UK Department for Tranport (2013), ‘New Roads and Street Works Act 1991. Technical Specification 
+for the Electronic Transfer of Notifications (EToN) 
+assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/181675/eton-6-te
+chnical-specification.pdf  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   16 
+
+ 
+ 
+Want to find out more? ​Please contact ​andrew.radford@birmingham.co.uk  
+Public transport open data in the UK, and what ODI Leeds has done 
+with it 
+Tom Forth - ODI Leeds 
+ 
+Summary​:  
+ 
+ODI Leeds is one of the ODI Nodes (ODI Nodes are franchises of the ODI, hosted by 
+existing organisations). Tom explained that in the UK, most of the transport power is 
+currently centralised in London and speculated that Manchester and Birmingham would 
+be the next major cities to become centres of transport power. He noted the current 
+problem that, while the number of bus journeys and use of open data in transport has 
+doubled in London over the last 25 years, it has halved in other big English cities.  
+25
+ 
+What has been done in the UK? 
+ 
+-All stops are open and accessible through the National Public Transport Access 
+Nodes (NaPTAN). They are well maintained, correct, available on open licence 
+and cover all of Great Britain. However the challenge is linking postcodes to 
+addresses, which requires a fee and a licence. 
+-There are weekly-updated and high-quality timetables for buses, trains, trams, 
+ferries, and coaches in Great Britain. 
+-Fares are available as open data only in London, whereas fares are unregulated 
+and not always available openly elsewhere.  
+-Usage of public transport can be tracked but most of the details are 
+commercially sensitive and not shared. 
+ 
+ 
+Key takeouts: 
+ 
+●The number of bus journeys and use of open data in transport has doubled in 
+London over the last 25 years, but has halved in other big English cities. 
+ 
+●All bus stops in the UK are openly available through NaPTAN; in France bus stop 
+locations are not openly available. 
+ 
+Slides: View ​Tom Forth’s presentation here (from slide 50)​. 
+ 
+Want to find out more? ​Please contact ​tomf@odileeds.org  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+25
+ Department for Transport (2018), ‘TableBus 0103’ 
+gov.uk/government/statistical-data-sets/bus01-local-bus-passenger-journeys#table-bus0103 
+Open Data Institute 2018 | Case studyTransport data in the UK and France   17 
+
+ 
+ 
+Engaging with your community of open data users 
+Rikesh Shah - Transport for London 
+ 
+Summary​: 
+ 
+Rikesh presented the work Transport for London (TfL) does to engage with its 
+community of open data users. The numbers are impressive, illustrating why TfL is seen 
+as a worldwide leader in the field. Around 14,000 developers are registered to access 
+data, and 42% of Londoners use an app powered by TfL data. Nearly 700 apps are 
+powered by TfL data. The value of open transport data is £130 million per year according 
+to the latest report by Deloitte.  
+26
+ 
+TfL is now using third-party data for its API as opposed to creating its own datasets 
+independently. For example, the team work with Kings College, whose sensors collect 
+air quality data across London. They also partner with organisations such as National 
+Car Parks and are making concerted efforts to bring other relevant datasets into the data 
+ecosystem. To Rikesh, this level of impact is achieved more through culture change, 
+than through technology. He noted that it needs: championing at board level; to be 
+presented as a customer project, rather than a technological one; and requires early 
+engagement at the design stage, ideally with champions across the company.  
+ 
+TfL is moving towards new challenges around data partnerships: 
+-How to ensure tech players not only use TfL data, but that TfL starts getting 
+(enhanced) data back from some of them?  
+-How to crack the issue around procurement, so that the smallest innovators are 
+well positioned to bid for certain contracts and operate in a more corporate 
+environment? 
+“ 
+There’s an argument that says: I can’t make 
+‘my data’ available because if I do I might go 
+out of business. Well, it’s completely a false 
+argument. If you give the customer the 
+information they need, and they want, that will 
+create a better journey which will support your 
+revenue lines  
+Key takeouts: 
+ 
+●Use different techniques to engage with different types of users. 
+●As a large corporate, it can be difficult to procure from the smallest, most 
+innovative organisations in the field. 
+●Academics can be as useful as (and cheaper than) management consultants 
+when looking at the possibilities of open transport data. 
+ 
+Slides: ​View  ​Rikesh Shah’s presentation here​ (from slide 93). 
+26
+ Transport for London (2017), ‘New study quantifies value of open data to London’. 
+https://blog.tfl.gov.uk/2017/10/13/new-study-quantifies-value-of-open-data-to-london/  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   18 
+
+ 
+ 
+ 
+ 
+The role of ‘open’ in the development of new mobility services 
+Giles Bailey – TravelSpirit 
+ 
+Summary​:  
+ 
+TravelSpirit is a community which aims to develop an open approach to the future of 
+mobility, and in particular looking at how to make ‘open’ work for smaller cities in the UK 
+(ie beyond London). 
+ 
+Giles discussed TravelSpirit’s ‘openness index for cities’, one that and captures good 
+and challenging practice in a range of cities. This methodology is openly available on 
+TravelSpirit’s website and the company is keen to test it in other international cities.  
+ 
+The presentation concluded with a discussion of TSio Protocol and thoughts on how 
+27
+blockchain could potentially solve some of the biggest issues facing transport, and 
+particularly around transport ticketing. This is a particular issue in smaller cities, that 
+often have multiple operators, and thus multiple ticketing options. The benefits of 
+blockchain around data maintenance, and data exchange should not just be solely for 
+the financial world or the gaming world, but could also brought into the transport 
+context. 
+“ 
+Blockchain potentially provides a route to 
+solve a lot of the problems that we’ve had 
+around the country – making ticketing work 
+across different operators particularly with 
+private bus networks. 
+Key takeouts: 
+ 
+●Blockchain technology could be used to tackle some of the challenges of new 
+mobility, particularly the challenge of making ticketing work across many 
+different operators (see TSio Protocol​
+27​
+). 
+ 
+●There is a need to be cautious about new mobility solutions simply enabling new 
+monopolies or oligopolies. An open approach to the future of mobility could help 
+address this concern.  
+ 
+ 
+Slides: ​View ​Giles Bailey’s presentation here​. 
+ 
+Want to find out more? ​Please contact Giles at ​giles.bailey@travelspirit.io  
+ 
+27
+ ​TSio Protocol (2018), TSio Protocol, ​tsioprotocol.com  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   19 
+
+ 
+ 
+ 
+Challenges of working with travel data in the UK and 
+France  
+Jean-Gabriel Audebert-Lasrochas, Trainline 
+ 
+ 
+Summary​:  
+ 
+Jean Gabriel presented the challenges of working with transport data from the perspective 
+of a private sector user: Trainline, Europe’s leading train and coach app. His presentation 
+focused on the challenges of working with French transport data. 
+ 
+The first barrier is that there can be a confusion between open data, and simply publicly 
+available data. Some transport data producers in France publish in a format that is not 
+machine readable.  
+ 
+Another barrier is the charges made for API queries: in the airline industry for example, there 
+is a charge for excessive transactions (exceeding 1,000 queries) that don’t lead to a 
+booking. There are similar restrictions when dealing with rail data in France. A final barrier is 
+the fear factor associated with Big Tech and GAFA (Google, Apple, Facebook, and 
+Amazon): concern that this (non commercial) data in an open format will only benefit large 
+(US) companies.  
+ 
+Jean-Gabriel concluded his presentation by stating that public undertakings are often 
+referred to as “a piece of their country”. His hopes are that the next reform of French and 
+European mobility will provide an opportunity for ‘truly open rail data’.  
+“ 
+What we need is mandatory fair, reasonable and 
+non-discriminatory access to raw (non commercial) data and 
+the right products to allow us to build customer centric tools. 
+In France there are still some limitations that prevent us from 
+offering real value to our customers 
+Key takeouts: 
+ 
+●Publishing open transport data doesn’t just benefit GAFA, but a much wider set of 
+data users. 
+ 
+●Open data in transport is not just about train timetables: delays etc are also 
+important. 
+ 
+ 
+Slides: ​view ​Jean-Gabriel’s presentation here (from slide 122)​. 
+Open Data Institute 2018 | Case studyTransport data in the UK and France   20 
+
+ 
+ 
+10 ideas for cross-country 
+transport data collaboration 
+ 
+ 
+Fanny Goldschmidt from Opendatasoft, Andrew Radford from Birmingham Council and Rick  
+Bruce from ITO World prioritising ideas for cross-country collaboration between France and the UK 
+  
+What are promising avenues for collaboration between 
+the UK and France? 
+ 
+The workshop concluded with a series of ‘unconference’ group discussions, culminating 
+in a discussion on the most promising avenues for collaboration. (An ‘unconference’ is a 
+participant-oriented meeting where the attendees decide on the agenda, discussion 
+topics. The informal and flexible program allows participants to suggest topics of their 
+own interest and choose sessions accordingly). From these, we have derived 10 ideas 
+for cross-country transport data collaboration:  
+ 
+1) Demonstrating the economic impact of open transport data in Europe  
+ 
+Proving the economic value of openness in transport is crucial to get politicians on 
+board. This idea was highlighted by Rikesh Shah who noted TfL and Deloitte’s 
+economic impact report which shows that the release of open data by TfL is 
+28
+generating annual economic benefits and savings of up to £130M a year. A 
+28
+ Transport for London (2017), ‘TfL’s free open data boosts London's economy’ 
+tfl.gov.uk/info-for/media/press-releases/2017/october/tfl-s-free-open-data-boosts-london-s-economy  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   21 
+
+ 
+ 
+continent-wide equivalent could be valuable. 
+ 
+Some workshop participants mentioned the danger of over-promising 
+economically, particularly with respect to job creation, as it gives politicians the 
+opportunity to shut down if the jobs don’t materialise.  
+ 
+ 
+ 
+2) Developing open source transport data conversion tools (particularly from GTFS 
+to NeTEx standard) 
+ 
+The most widely discussed ‘quick win’ was the creation of open source tools to 
+quickly convert transport data from national formats to one another. In particular, 
+looking at conversions between the TransXchange (UK) GTFS (Global) and 
+NeTEx (European) standards. 
+ 
+In fact, participants from the workshop have already taken this on board and 
+created an open source tool that converts UK public transport timetables from 
+TransXChange format to GTFS format. The ​tool is available on Github​. 
+“ 
+There’s about four or five open source 
+conversion tools on GitHub, none are perfect 
+but they’re better than nothing. Connecting all 
+the open source conversion tools would be 
+valuable 
+ 
+3) Drafting ‘Transport 101’ market summaries for both countries, that will help 
+private sector operators understand key differences 
+ 
+Attending the workshop made participants realise how different the two markets 
+are. At basic level, we know that the French market is more state owned, and the 
+British one more market dominated. But what about centralised/decentralised? Or 
+the number of ticketing options in particular cities? A quick summary of the 
+markets could give smaller organisations the chance to know at a glance whether 
+their solution could work in the other country’s market. Participants also 
+mentioned that at a local government level, the opportunity to learn from existing 
+cities – rather than starting afresh – is an efficient use of resources at a time when 
+budgets are stretched.  
+“ 
+I’m coming from a private enterprise point of 
+view. Something like this is a good opportunity 
+for me to understand more about the 
+landscape in France and whether our product 
+could work there.  
+  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   22 
+
+ 
+ 
+4)  Facilitating dialogue between politicians, transport data providers, and ‘GAFA’  
+ 
+French citizens (and therefore politicians) are generally perceived as having more 
+hostile views towards ‘Big Tech and GAFA (Google, Apple, Facebook, and 
+Amazon) than in the UK. Recent research from the European Commission (2017), 
+29
+finds that just 53% of French citizens think technology has a positive impact on 
+society, v 70% of British citizens.  
+ 
+However, our conversations revealed that the broad areas of concern are now 
+equally shared. These include the fear that large tech players will ‘crush’ smaller 
+competitors. Solutions that have been tried (for example in Lyon) include price 
+discrimination (charging large players, but not smaller competitors) but results 
+have been disappointing: none seem to pay. Another concern, is that Big Tech is 
+not sharing back its use of open data. Facilitating dialogue between politicians, 
+transport data providers, and GAFA is the best way to address these concerns.  
+“ 
+A proposed solution to GAFA dominance 
+seems to have been charge different amounts 
+to different customers. You could offer data for 
+free to startups and you could try to charge 
+big players for the access to the data... but [so
+far] it hasn’t really worked, and in many ways 
+goes against the principles of open data 
+ 
+ 
+5) Sharing best practice on the inclusion of open data clauses in transportation 
+contracts  
+ 
+The group shared the example of certain municipalities in France (such as Lille) that have 
+started including open data requirements for franchisees who win the operation of 
+transport lines. Tracking whether these requirements are successful could create 
+interesting lessons, not only within France, but for UK cities as well. This is particularly 
+the case when dealing with cities of a similar size.  
+“ 
+It’s interesting that in Lille’s new franchise for 
+public transport they have added open data 
+requirements. I think UK cities (and French 
+ones) would do well to look at this and see 
+whether it works or not. 
+ 
+ 
+ 
+29
+ European Commission (2017), Eurobarometer on Attitudes towards the impact of digitisation and automation 
+on daily life (March 2017 Fieldwork). Access report ​here  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   23 
+
+ 
+ 
+6) Ensuring smaller towns do not suffer from ‘transport data exclusion’  
+ 
+App developers respond to market incentives, and therefore tend to concentrate 
+on the big cities where there are naturally larger markets. Smaller towns and 
+rural areas can therefore face a form of digital exclusion, where because of 
+limited market size, operators don’t dedicate the required resource to develop 
+the solutions they would for larger cities, or in certain cases even collect the data 
+in ways they would for larger cities.  
+“ 
+ 
+Sometimes, if you’re a small village and your data 
+isn’t being collected, it’s like you are you just kind 
+of chopped off and not visible on the map. 
+7) Evaluating the impact of different licenses for open data and innovation in 
+transport  
+ 
+One key question raised on the day was how transport providers who open 
+datasets start receiving (potentially enhanced) data back from some of the 
+bigger players that use it.  
+ 
+The ODbL is used a lot in France by local authorities, and forces users to share 
+any enhanced data that incorporates the ODbL-licensed dataset. In other areas 
+in France, open data clauses have been inserted in franchise contracts. 
+ 
+On the other hand, the use of sharealike licences can slow innovation as it 
+30
+makes it more likely people will have to consult lawyers or product managers 
+about what they should do with data. Empirically evaluating the impact of 
+different licences for open data use in transport was seen by participants as a 
+valuable activity.  
+ 
+8) Making ticketing (particularly in smaller cities) more user friendly to work across 
+multiple providers  
+ 
+Purchasing tickets can be difficult for customers – particularly in smaller cities 
+across the UK and France, and when dealing with a succession of different 
+operators, and multiple private bus and rail providers. Giles Bailey suggested 
+that certain aspects of blockchain technology look promising in helping address 
+some of the issues around ticketing. Could this solution help in France as well as 
+the UK? 
+“ 
+Go outside of London, and each bus operator 
+had its own app, different prices of tickets on 
+the app versus if you paid by cash. Then you 
+have to get on a train which is another app, 
+another unfathomable ticketing structure.  
+30
+ UK Authority (2018), ‘Can there be reciprocity for open data?’ 
+ukauthority.com/data4good/entry/7957/can-there-be-reciprocity-for-open-data  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   24 
+
+ 
+ 
+9) Including a wider range of European countries on collaboration on Transport 
+Data 
+ 
+Finally, the group mentioned that while the UK and France were ideal initial 
+candidates given their open data expertise, this initiative could also be extended 
+to other European countries. This is particularly the case given that operators 
+and transport data users will be dealing with similar issues, particularly around 
+standards and NeTEx.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Open Data Institute 2018 | Case studyTransport data in the UK and France   25 
+
+ 
+ 
+Appendix  
+Workshop: participant organisations 
+ 
+Organisation Country 
+OpenDataSoft  France 
+Transdev France 
+Five by Five  France 
+Lille Metropole (Mobilité)  France 
+Transfermuga  France 
+Kisio Digital  France 
+Trainline France 
+Ministre Economie (Attache Transport) France 
+transport.data.gouv.fr (Etalab) France 
+transport.data.gouv.fr  France  
+Datactivist France 
+Travelspirit  UK 
+DEFT153  UK 
+Highways England  UK 
+Arcadis  UK 
+TFL  UK 
+ODI Leeds  UK 
+Transport Systems Catapult  UK 
+Department for Transport  UK 
+Ito World UK 
+Birmingham City Council UK 
+ 
+Open Data Institute 2018 | Case studyTransport data in the UK and France   26 

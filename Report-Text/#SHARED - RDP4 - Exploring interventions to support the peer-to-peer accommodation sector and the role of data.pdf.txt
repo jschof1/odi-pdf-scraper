@@ -1,0 +1,994 @@
+
+
+
+
+Contents
+Contents2
+About3
+Executive summary4
+Introduction7
+What are the purposes of interventions in the peer-to-peer
+accommodation sector?8
+Interventions: areas of focus8
+Host behaviour8
+Assets/property9
+Platforms10
+Tools used to manage the impact of peer-to-peer accommodation11
+Traditional instruments11
+Self-regulation and shared data11
+The role of data12
+Plans for future interventions15
+Broader data policy landscape15
+Non-traditional approaches17
+Advantages of non-traditional approaches and processes to
+developing interventions17
+Non-traditional approaches and processes to developing interventions18
+Anticipatory18
+Cooperative18
+Data-driven19
+Co-regulation and co-designing policies with users19
+Aggregate regulations20
+Scaled regulations21
+Transferable sharing rights21
+Non-traditional or alternative interventions into the peer-to-peer
+accommodation sector21
+Shared Cities and the Policy Tool Chest21
+Methodology and limitations23
+Research design23
+Limitations24
+Next steps26
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data2
+
+About
+This report has been researched and produced by the Open Data Institute, and
+published in March 2018. Its authors were Leonard Mack, Gillian Whitworth, Lucia
+Chauvet, Tom Sasse, Jack Hardinges and Peter Wells. If you want to share feedback
+by email or would like to get in touch, contact the peer-to-peer accommodation
+project lead Isabelle Champion atisabelle@theodi.org.
+To share feedback in the comments, highlight the relevant piece of text and click the
+‘Add a comment’ icon on the right-hand side of the page.
+How can it be improved? We welcome suggestions
+from the community in the comments.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data3
+
+Executive summary
+Many people use peer-to-peer accommodation services to
+decide where to stay, whether to let a room or how to build
+a business. To make those decisions, people need data.
+Peer-to-peer accommodation services and marketplaces are emerging across a wide
+range of sectors and geographical areas. Each day, many consumers, businesses
+and communities use them to make decisions such as where to stay when on
+holiday, whether to use a service to let a spare room or how to build a business
+in popular areas. To make those decisions, people need data.
+The Open Data Institute is investigating how data can improve the peer-to-peer
+accommodation market to support businesses and communities, and improve
+the experience of consumers and users.
+Our starting point was to research and understand how national and local
+governments have sought to manage the impact of peer-to-peer letting; the issues
+they have sought to address; and the tools they have chosen to use. This report
+summarises the outputs and conclusions from that preparatory research.
+Data must be an inspiration and a resource for innovation. It can enable businesses,
+startups, governments, individuals and communities to create more efficient
+and effective services and products, fuelling economic growth and productivity.
+Interventions by local and national governments can help make this happen.
+We assessed35 different approaches to interventionin the peer-to-peer
+accommodation sector from around the world and considered the
+following questions:
+1.
+Which approaches are implemented or discussed?
+2.
+What aspects of peer-to-peer accommodation are addressed and how?
+3.
+What role does data play in supporting the different approaches?
+We learnt that most interventions by local or national
+governments used traditional top-down models.
+The interventions had four main goals:
+●
+Prioritising long-term housing (23 cases)
+●
+Tax collection (14 cases, mostly concerned with tourist/city taxes)
+●
+Improving service quality (seven cases)
+●
+Improving health and safety (five cases)
+We identified three key areas of regulation:
+●
+host behaviour
+●
+asset/property
+●
+peer-to-peer accommodation platform operators
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data4
+
+We found that platform operators, hosts and public authorities were carrying out data
+collection. We found that data was being passed from hosts to platform operators
+and then shared with public authorities; this occurred for both personal and
+non-personal data. We also found that data was being passed directly from hosts
+to public authorities as a result of the interventions.
+We also explored a number of ways in which city authorities sought to manage the
+impacts of the peer-to-peer accommodation sector in new ways, separate from these
+traditional models.
+Whilesome organisations published datawe foundno data matching theopen
+1
+definition.Some of the data was non-personal andcould have been made open.
+2
+We found that public authorities did not pass data to platform operators and data
+was not shared between platform operators.
+There are various parts of the broader data policy debate that were not considered in
+the local debates and interventions. For example:
+●
+open-by-default data policies
+●
+measures to improve free flow of data to increase competition and innovation 
+●
+individual control over personal data
+●
+registers of authoritative data, such as contact information for public
+authorities responsible for particular services or lists of peer-to-peer
+accommodation operators
+●
+common policy patterns, such as crowdsourcing data
+●
+policy trials to test assumptions and demonstrate value before
+full implementation
+As well as supporting immediate needs these areas should also be considered as
+part of the prototype development. They may help meet other needs or improve the
+effectiveness of current interventions.
+The preparatory research summarised in this report sits alongside a broader set of
+activities, including: interviews from across the sector – with consumers, local
+communities, platform operators, local authorities and central government; three
+stakeholder workshops; and  prototype development to test if some of the challenges
+we uncover can be improved by better data use.
+2
+Open Knowledge Foundation (2018), ‘The Open Definition’,http://opendefinition.org.
+1
+Airbnb Citizen (2015), ‘Overview of the Airbnb Community’,
+https://www.airbnbcitizen.com/data.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data5
+
+Introduction
+There is ongoing debate surrounding the impacts of
+peer-to-peer accommodation platforms and the growth
+of the sharing economy more broadly.
+Peer-to-peer accommodation can be broadly defined as accommodation – such as a
+spare room or an entire home – made available by an existing homeowner for others
+to rent, normally for a short period of time.
+Peer-to-peer accommodation platform operators – such as Airbnb, LoveHomeSwap,
+or Wimdu – have grown rapidly in recent years. Platforms such as these connect
+homeowners with people looking for short-term accommodation, providing a secure
+environment for transactions. Peer-to-peer accommodation platforms compete with
+others in the provision of short-term accommodation, such as hotels and more
+traditional forms of short-term letting.
+There is ongoing debate surrounding the impacts of peer-to-peer accommodation
+platforms and the growth of the sharing economy more broadly. There are clear
+opportunities driven by the trend: additional (occasional) income for hosts, cheaper
+accommodation for tourists, and more choice. These opportunities are balanced
+against fears of rising rents, new challenges for health and safety, effects on
+competition, and displacement of local people. In response to these issues,
+policymakers have started to respond with a number of interventions.
+This report summarises the findings of desk research completed by the Open Data
+Institute (ODI) into the range of interventions by national and local governments to
+manage the impacts of peer-to-peer accommodation sector. This research focused
+on addressing three research questions:
+1.
+Which approaches are implemented or discussed in the context of
+peer-to-peer accommodation?
+2.
+What aspects of peer-to-peer accommodation are addressed and how?
+3.
+What role does data play in supporting the different approaches?
+This research forms part of the discovery phase of a project designed to understand
+how data can help improve the sector. We will use these findings in combination with
+the outcomes of interviews and workshops with a broad range of stakeholders
+– including consumers, local communities, platform operators, local authorities
+and central government – to inform the design of a set of prototypes.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data6
+
+What are the purposes of
+interventions in the
+peer-to-peer
+accommodation sector?
+Our research identified 35 different cases of national and local governments’
+intervention in the global peer-to-peer accommodation sector, listed here ina public
+spreadsheet.These interventions were analysed todetermine their underlying
+3
+motivations.We found that most interventions (orproposed interventions) from
+4
+this sample were based on four motivations:
+1.
+to prioritise the affordability of long-term housing (23 cases)
+2.
+to facilitate tax collection (14 cases, mostly concerned with
+tourist/city taxes)
+3.
+to ensure service quality (seven cases)
+4.
+to support health and safety considerations (five cases)
+As interventions generally include multiple objectives, there are often overlapping
+motivations (eg in eight cases regulators sought to both facilitate tax collection and
+ensure the affordability of long-term housing).
+4
+The research methodology is described in detail later in this report.
+3
+The Open Data Institute, (March 2018), #OPEN UKgovRD, Project 4 (p2pa): Policy
+desk research sheet
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data7
+
+Interventions: areas of focus
+As well as analysing the cases to understand motivation, we also sought to establish
+the focus of the interventions. We identified three main areas:
+●
+host behaviour
+●
+asset/property
+●
+peer-to-peer accommodation platform operators
+Host behaviour
+We found that ‘host behaviour’ was the most common focus of interventions –
+specifying what a property owner or host can, must, or must not do when letting
+a property on a short-term basis.
+5
+Restricting the time period of short-term lets was the most frequently used approach
+in this scenario. Fifteen cases limited the number of nights per year for letting a
+property on a short-term basis (eg a maximum of 120 days in Paris, and Airbnb’s
+automatic limiting of entire home listings in Greater London to 90 nights per calendar
+year) or prohibited rentals below a certain threshold (eg minimum 31 days in New
+York City). In some cases, such as in Geneva, no specific cap was defined, but
+applicable laws required that short-term letting remains temporarily limited.
+The second most frequent pattern requires that hosts and their properties are
+registered with public authorities; alternatively, they may have to acquire a business
+licence.This established approach to regulate andmonitor market access was part
+6
+of the intervention process in 13 cases, nine of which also applied a cap on the
+maximum number of nights per year for short-term letting.
+Another pattern is to impose a limit which regulates how many properties an owner
+or host can rent via peer-to-peer accommodation platforms. We found this approach
+in seven cases, but in different forms: Geneva, Berlin and Lazio only allow hosts to
+short-term let parts of their primary residence; Vancouver allows short-term lets of
+the host’s entire primary residence; San Francisco allows short-term letting of one
+property per registered property owner; and Toronto and Seattle allow hosts to let
+their primary residence as well as one further unit.
+Other forms of intervention on the behaviour of hosts occur less frequently, including:
+●
+requirements for hosts to comply with minimum service standards, in five
+cases (eg welcoming guests on arrival, offering a dedicated phone number
+for calls 24/7, or providing bed linens)
+6
+The specific registration or licensing requirements can however vary; eg a
+registration or licence might require regular renewal. In some cases, such as in
+Barcelona, Vancouver or the Lazio Region, registrants or licensees must also comply
+with certain service, safety, or property quality standards (eg minimum size of rooms,
+functioning air conditioning/heating, personal contact numbers).
+5
+Given how we created data categories, we cannot calculate a simple count in order
+to assess what is regulated most frequently. However, the two most frequently
+regulated objects fall both under the case of owner/host behaviour.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data8
+
+●
+collection of guests’ identity information which is registered in official
+databases, observed in three implemented cases and one proposal
+●
+payment of tourist taxes, explicitly regulated in Bern and Seattle
+●
+a cap on a maximum gross income from short-term letting in Iceland
+of 1 million Krona (ca. £7,200)
+Assets/property
+In addition to the focus on owner or host behaviour, interventions also set
+requirements for the shared asset itself – in this case, the property.
+Authorities may require that properties that are let short-term meet certain general
+equipment standards. We observed this in eight cases. In the case of Lazio’s regional
+law, a property used for short-term letting must not have more than three bedrooms.
+In Brussels, the approach included a requirement for a detailed list on how rooms
+used for short-term letting must be furnished.
+A second, more stringent requirement is that properties used for short-term let meet
+minimum health and safety standards. As we observed in six cases, this mainly
+includes compliance with fire safety regulations. Vancouver, for instance, requires
+that all short-term let properties in buildings with three or more flats are equipped
+with interconnected smoke detectors on all floors. These requirements were paired
+in all cases with a registration or licensing process, during which hosts had to
+demonstrate compliance.
+Platforms
+Some interventions and proposals also include measures to directly regulate platform
+operators. This was the least common approach observed.
+TheUK Deregulation Act in 2015and the announcementofa sharing economy tax
+7
+allowancein the 2016 UK budget aim to foster thegrowth of the sharing economy
+8
+and peer-to-peer accommodation.
+We identified nine cases whereby Airbnb agreed with city authorities to automatically
+collect and remit tourist or city taxes.
+In some cases, platform operators are required to provide data to public authorities
+(the second most frequent requirement). In Lisbon and Lazio, platform operators
+agreed to regularly provide city authorities with summary statistics and aggregate
+data to help them monitor the development of tourism and short-term let activities.
+In Tokyo, Seattle, and Toronto, short-term letting companies must acquire a business
+licence to operate in the city. Through the licensing terms, companies are required to
+provide public authorities with certain data, such as summary statistics on lettings
+and details on individual listings on a case-by-case basis. In Brussels and Vienna,
+8
+HMRC (2016), ‘Policy Paper: Income Tax: a new allowance for property and trading
+income’,
+https://www.gov.uk/government/publications/income-tax-new-tax-allowance-for-pro
+perty-and-trading-income/income-tax-new-tax-allowance-for-property-and-trading-i
+ncome.
+7
+Ministry of Housing, Communities and Local Government (2015), ‘Press Release:
+Boost for Londoners as red tape slashed on short term lets’,
+https://www.gov.uk/government/news/boost-for-londoners-as-red-tape-slashed-on-
+short-term-lets.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data9
+
+authorities have been equipped with legal powers to acquire data from
+platform operators.
+In a few cases, interventions focused on platform operators by:
+●
+requiring platform operators to register their business with public
+authorities, subject to further obligations and conditions (three cases:
+Tokyo, Seattle, Toronto)
+●
+making platform operators liable for illegal listings (two cases: Brussels,
+Toronto)
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data10
+
+Tools used to manage the
+impact of peer-to-peer
+accommodation
+Traditional instruments
+The overwhelming number of cases we investigated applied traditional instruments to
+the peer-to-peer accommodation sector.
+In 28 of the 35observed cases, governments used traditionaltop-down regulatory
+interventions in order to achieve a number of different outcomes. Top-down
+interventions impose rules on businesses or individuals, often to restrict unwanted
+behaviour, set quality standards, or distribute financial or other resources.
+The contents of such interventions can vary widely: in the case of the peer-to-peer
+accommodation sector, they may include strict rules which widely prohibit private
+short-term letting (such as in Berlin or Geneva),and also rules which allow
+9
+short-term letting under certain provisions. In London, Paris, and Zurich this means
+that short-term letting is permitted for a specified number of days per year and
+applicable taxes are paid. While the formulation process of top-down intervention
+might be somewhat collaborative (eg through public consultations) they are
+nonetheless unilateral in their execution: public institutions create, monitor,
+and enforce interventions while businesses or individuals must ensure compliance
+(or face penalties).
+Self-regulation and shared data
+In seven cases, we found that traditional regulatory interventions were supplemented
+by self-regulation agreements (ie voluntary schemes led by the sector). In practice,
+this means that to enforce existing interventions, platform operators agreed
+Memorandums of Understanding (MOUs) with city authorities, obligating operators
+to limit listings to a certain number of nights per year (Amsterdam) or to collect and
+remit tourist/city taxes (Genoa, Lisbon, Canton Zug).
+In the UK the industry has developed a Sharing Economy UK TrustSeal as a form of
+self regulation. The TrustSeal is a set of good practice principles setting out minimum
+standards for sharing-economy businesses to ensure that they act with integrity and
+maintain professional standards, such as customer help and support.
+9
+In Geneva, the conversion of private property into commercial property is
+prohibited. However, home sharing is not forbidden as it is not considered a misuse
+of housing space when the tenant or owner still lives in the apartment, even after
+temporary absence.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data11
+
+As part of revised legislation by the Italian Lazio region, which includes Rome,
+platform operators will collect information on guests and share this data with
+the regional authorities.
+However, it does not automatically follow that cooperation between platform
+operators and authorities leads to data being published openly or shared with the
+local authority. A point of conflict for those city authorities requesting that platform
+operators collect tourist taxes is whether they only provide authorities with summary
+statistics or with access to detailed accounts. City authorities which are demanding
+the latter, such as Vienna, are currently at a gridlock.
+From our desk research Airbnb appears to be the only peer-to-peer accommodation
+platform which collaborates with authorities in this way.
+The role of data
+We also focused on better understanding the role data plays in the interventions
+we examined.
+Data exists on a spectrum of access, based on who can access it and how they are
+permitted to use it, as shown below in The Data Spectrum.
+The operations of the platform providers, along with associated interventions, create
+data, but it is difficult to determine how this data is made available and used. This is
+the case even for interventions in cases where platform operators provide support,
+for example by collecting and providing the identity of hosts. Our overall impression
+is that the data generating aspect of interventions is often overlooked.
+We found that platform operators, hosts and public authorities all collect data.
+We found data being passed from hosts to plathotel forms and then shared to
+public authorities; this occurred for both personal and non-personal data. We
+also found data being passed directly from hosts to public authorities as a result
+of the intervention.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data12
+
+Thirty-two cases involved the collection of personal data related to the identity of
+property owners or hosts. This collection occurred in multiple ways. For example,
+through a registration or licensing process with public authorities, or directly through
+the platform operators who then pass the data to the local authorities. This data flow
+is in the shared part of The Data Spectrum.
+In 28 cases, the intervention required property location and host identity data to be
+provided to local authorities. This was mostly as part of a registration process with
+authorities, rather than through the platform. This data flow also exists in the shared
+part of The Data Spectrum. Property location data is also publicly available on the
+platforms – guests need to know where properties are to make decisions about
+where to stay.
+There were no cases where fire safety information is collected by the platform and
+passed to the local authority. Information on fire safety equipment within the property
+is collected through a registration or licensing process by the local authority in 13
+cases. It is not clear if or how this data is presented to renters, who may need it to
+help them make a decision on where to stay, or to platform operators, who may
+need it to make decisions about which properties should be available to let on
+the platform.
+In 20 cases, data on the duration of short-term rentals is collected. In most cases,
+this is the result of the requirement to pay tourist or city taxes for tourist rentals.
+Where agreements with platform operators exist, we believe that these will be
+collected as part of the automatic tax collection process. In other cases, such as
+Vienna, Bern, or Toronto, hosts are required to handle the tax collection and
+processing themselves, eg through quarterly paper forms that they pass back directly
+to the local authorities. This data is likely to be less accurate. In all cases the data is
+in the shared part of The Data Spectrum.
+Eight cases include data collection by platforms to support the collection of
+appropriate levels of income taxes. This data is passed from the platform to the
+relevant public authority. Two of the eight cases are currently policy proposals.
+Only Iceland applies a direct cap on the maximum income generation allowed
+through short-term letting. In all other cases, the data on rental income must be
+reported by hosts as part of their income tax declaration to the relevant
+public authority.
+Six cases enforce the collection of guest identity data, including two policy
+proposals. In the remaining cases, hosts are obliged to register guests from foreign
+countries and share data with local authorities. More general guest statistics are
+collected in five cases. These include the collection of summary information to help
+develop macro-trends on tourism, eg how many guests stayed in a city or in specific
+quarters. This data is collected by platform operators, aggregated and then provided
+to the relevant local authority. We could not find examples of this data being
+published openly.
+Fourteen cases included the collection of a variety of other data, frequently on
+compliance with accommodation quality standards. For example, in Barcelona,
+a functioning air-conditioning system is a requirement for any property wishing
+to be registered with the tourism authorities. As with the data flows for fire safety
+equipment we could not determine if this data was also provided to platform
+operators or renters to help them make decisions.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data13
+
+Plans for future interventions
+To explore emerging models for interventions, we also reviewed proposals for future
+policies related to peer-to-peer accommodation.
+Our initial expectation was to find proposals for new instruments, possibly with a
+stronger angle on using data and technology. However, identifying such examples
+proved to be challenging. Despite this – and supplemented with broader research
+into other sectors – we have identified some potential approaches that may inform
+the peer-to-peer accommodation sector.
+Broader data policy landscape
+As governments increasingly realise the importance of data in our economies, there is
+growing debate around its role in supporting interventions, or alternative approaches
+to managing the impact on markets and sectors.
+Countries such as the UK are researching the sharing economyand publishing
+1011
+data to help  make better decisions about whether or how to intervene. This includes
+developing methodologies for identifying sharing economy businesses and activity,
+and producing economic and other data on activity in the sector.
+Many countries and cities have joined theOpen GovernmentPartnershipand
+adopted theOpen Data Charter. This commits them todata policies such as
+open-by-defaultto unlock innovation, and improvetransparency and public debate.
+12
+Data should be used to inform the decisions we make as individuals, organisations
+and societies. An open-by-default approach could assist by encouraging more data
+to be published openly leading to better public debate about the impact of
+peer-to-peer accommodation on housing, tourism and local communities.
+Geopolitical trading blocks, such as the EU, are recognising that there is undue
+friction in the use of data due to the lack of open or shared data. Many are working
+to increase thefree flow of datawhile respectingprivacy and creating trust.
+13
+Open-by-default is a mechanism that supports this direction of travel and so are the
+new and strengthened rights being seen in data protection legislation, such as the
+EU General Data Protection Regulation, that provide people with more control over
+personal data about them. Those rights might provide ways to tackle fears over the
+emergence of new short-term let monopolies by making it easier for renters and
+13
+European Commission (2017), ‘Building a European data economy’,
+https://ec.europa.eu/digital-single-market/en/policies/building-european-data-econo
+my.
+12
+Open Data Charter (2015), ‘Principles’,https://opendatacharter.net/principles.
+11
+UK Government, ‘Sharing Economy: User characteristics and tax reporting
+behaviour’.
+https://www.gov.uk/government/publications/sharing-economy-user-characteristics-
+and-tax-reporting-behaviour
+10
+Office for National Statistics, ‘The feasibility of measuring the sharing economy:
+November 2017 progress update’
+https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/th
+efeasibilityofmeasuringthesharingeconomy/november2017progressupdate
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data14
+
+hosts to move between platforms, or support new mechanisms for dispute resolution
+by allowing renters or hosts to pass data to relevant public authorities.
+Whilst some government responses are of a traditional regulatory nature, for example
+the FrenchDigital Republic Billwhich gives governmentthe power to compel some
+data to be made openly available, others as using alternative approaches (such as
+the UK government's work onregisters).
+Registers of authoritative data, such as contact information for public authorities
+responsible for particular public services (eg fire prevention or trading standards),
+or a list of peer-to-peer accommodation operators, or a list of addresses may be
+immediately relevant to the issues presented by peer-to-peer accommodation.
+Such registers may provide ways to improve the experience for letters and renters,
+reduce the costs of compliance and meet the needs of regulators.
+The ODI’s own work onpolicy design patterns thatuse datamay be applicable to
+14
+the peer-to-peer accommodation sector. For example, crowdsourcing reports of fire
+safety issues, and subsequent use of data analytics to target inspection or
+understand risk profiles may improve the planning of the location of public resources.
+Using peer-to-peer accommodation data in the wider data policy
+landscape: building disaster preparedness in San Francisco
+Bysharing data with city authorities in San FranciscoAirbnb says that it can
+15
+help to build the city’s capacity to respond to natural disasters.
+Following the platform’s response to Hurricane Sandy in New York City, where
+Airbnb hosts opened their homes to those affected by the storm, the platform
+began discussions with the Department of Emergency Management in San
+Francisco to examine how the bodies might work together to build resilience.
+Among other commitments, the government has shared their ‘hazard layer’
+data with the platform that identifies areas near potential fires, flood plains
+and other risks. Airbnb integrates this information with data about their hosts
+and units on the platform, such as location, amount of space and contact
+information. Together, this data will help Airbnb employees to pinpoint
+appropriate hosts in an emergency.
+Airbnb’s cooperation with the city authorities demonstrates how a flexible
+approach to intervention might help governments meet their long-term policy
+goals. The city government should also consider how to open up hazard layer
+data more widely, so that it can be used by others to build resilience in the city
+and further afield.
+15
+Emergency Management (2014), ‘Airbnb Partners with San Francisco, Portland on
+Disaster Relief’,
+http://www.govtech.com/em/disaster/Airbnb-Partners-San-Francisco-Portland-Disas
+ter-Relief.html.
+14
+ODI (2017), ‘Policy design patterns that help you use data to create impact’,
+https://theodi.org/blog/policy-design-patterns-that-help-you-use-data-to-create-imp
+act.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data15
+
+Non-traditional approaches
+In addition to the interventions examined earlier and the role of data in it, there are a
+number of schools of thought emerging around new approaches to the peer-to-peer
+accommodation sector.
+These schools of thought diverge from the traditionalCommand and Control (CAC)
+style of regulationof the style examined earlierin this report. CAC regulation seeks
+16
+to regulate an object or action (permitted or forbidden), to produce a particular output
+(by which the regulation’s success is measured). In this sector, it may include
+requirements like host registration or a cap on the number of nights a unit can be
+rented. A non-traditional approach, such as the UK’s‘Smart Regulation’ approach
+17
+to shaping policy, moves away from CAC to viewing regulations as part of a broad
+policy cycle (from design to implementation to revision), and promotes a risk-based
+approach consulting with sectors affected.
+Non-traditional approaches can be separated into two sub-sections:
+●
+Non-traditionalapproachesandprocessesto developinginterventions
+●
+Non-traditional or alternativeinterventions intothe peer-to-peer
+accommodation sector
+These two areas will often overlap, with non-traditional approaches being used to
+form new alternative forms of intervention.
+Advantages of non-traditional approaches and processes to
+developing interventions
+Those who favour non-traditional approaches, such asacademic Kellen Zale,argue
+18
+that the sharing economy has revolutionised the importance of scale in interventions,
+meaning the peer-to-peer accommodation sector may not be able to adopt current
+models. Zale argues that ‘small-scale activities that once fit the criteria for light or
+no intervention are occurring at scales at which non-intervention makes little sense’.
+Writer Stephen Millersuggests that transactionsin the sharing economy are
+19
+different, producing different risks and therefore requiring a different response.
+In the UK, innovation foundationNesta has arguedthat the rapid growth of
+20
+these platforms defy the traditional pattern of waiting for sufficient growth
+before intervention.
+20
+Nesta (2017), ‘Anticipatory Regulation: 10 ways governments can better keep up
+with fast-changing industries’,
+https://www.nesta.org.uk/blog/anticipatory-regulation-10-ways-governments-can-be
+tter-keep-fast-changing-industries.
+19
+Miller, S. (2015), ‘First Principles for Regulating the Sharing Economy’,
+http://harvardjol.com/wp-content/uploads/2016/02/HLL107_crop.pdf.
+18
+Zale, K. (2016), ‘When Everything is Small: The Regulatory Challenge of Scale in the
+Sharing Economy’,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2866044.
+17
+Cabinet Office (2013), ‘Open Government Partnership UK National Action Plan
+2013 to 2015’,
+https://www.gov.uk/government/consultations/open-government-partnership-uk-nati
+onal-action-plan-2013/open-government-partnership-uk-national-action-plan-2013-t
+o-2015.
+16
+Bussu, S. (2015), ‘The Public’s Voice on Regulation’,
+http://webarchive.nationalarchives.gov.uk/20170110135609/http://www.sciencewise-
+erc.org.uk/cms/assets/Uploads/Public-engagement-on-regulationFebruary2015FINA
+L.pdf.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data16
+
+Non-traditional approaches and processes to
+developing interventions
+Anticipatory
+Promoted by innovation foundation Nesta, ananticipatoryapproach aims to assist
+21
+in the development of new technologies whilst addressing the risks and dangers.
+The approach is designed to work in economies where there is rapid change,
+emerging ethical issues, and market actors who are dependent on data and
+algorithms rather than physical resources. These are all present in the
+peer-to-peer accommodation sector.
+Anticipatory intervention promotes open dialogue between all parties, especially
+between innovators and regulators, to ensure that there are no unnecessary blockers
+to technological development. These rules are iterative and continuously adapted to
+fit the needs of actors, and encourage the use of testbeds and sandboxes for testing
+innovative ideas and identifying likely risks. Furthermore, Nesta has suggested that
+public engagement and skills-based training for regulators could produce more
+dynamic, effective intervention.
+Actors, inside or outside government, have not explicitly adopted this approach in
+relation to peer-to-peer accommodation in the UK. However, Nesta has implemented
+this approach in drone regulation, where huge potential gains with speed and cost
+could be offset by significant challenges regarding data and pricing models.
+The foundation has been working in partnership with cities, businesses and
+governments in testbeds to explore how authorities and providers could best
+pursue opportunities.
+Cooperative
+Cooperative intervention, put forward in one version byacademic Kellen Zale,
+22
+is a market-based approach to regulating peer-to-peer activity. Cooperatives are
+businesses where members (consumers, workers and producers) ‘own and manage
+the enterprise’, limiting profits and reinvesting them back into the business.
+Zale suggests that cooperatives could be a market alternative to sharing economy
+services by replacing third-party providers such as Airbnb and Uber. Instead of these
+services orchestrating a network of small-scale interactions and actors, a cooperative
+model would delegate this responsibility to the members themselves, making them
+responsible for organising and managing the network in line with local laws.
+Organisations who support this model, such asPlatformCooperativism, have
+suggested that municipalities could also be involved in setting up and running
+these cooperatives.
+22
+Zale, K. (2016), ‘When Everything is Small: The Regulatory Challenge of Scale in
+the Sharing Economy’,
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2866044.
+21
+Ibid.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data17
+
+Data-driven
+Academic commentator Arun Sundararajan has been anactive proponentof
+23
+‘data-driven delegation’, an approach encouraging platform operators and
+marketplaces to engage in more self-regulatory activity.
+Sundararajan proposes a model that would encourage peer-to-peer accommodation
+platform operators to self-regulate in some areas, such as the verification of hosts,
+with city authorities supporting as required, such as for disaster preparedness.
+Sundararajan opposes‘mandated transparency’whichwould require platforms to
+24
+share data with relevant authorities, instead suggesting that data should be retained
+within companies and selective access granted through an API. He argues retaining
+data within companies is more secure and more closely mirrors the interventions
+related to companies outside the sharing economy (such as financial audits).
+Sundararajan proposes that this approach will encourage platform operators and
+marketplaces to become ‘partners in transparency’, making them more likely to help
+in inventing self-regulatory solutions that government find difficult to address.
+Co-regulation and co-designing policies with users
+Co-regulation aims to‘utilise industry to implementregulatory standards’,
+25
+using industry expertise about the sector and delegating responsibilities to
+companies themselves. This approach allows government to focus resources
+where outside oversight is most necessary. The process of designing this
+approach in collaboration with users is called ‘co-design’.
+In 2016 innovation company MaRS Solution Labimplementeda co-design approach
+to regulating peer-to-peer accommodation in Canada,working with the
+26
+Province of Ontario, the City of Toronto and local government to ‘redesign regulation
+for the sharing economy’. Bringing together regulators from three levels of
+government, industry representatives, insurers, agencies and experts, the company
+implemented a five-step strategy to collaboratively design policy through a series of
+workshops with the relevant parties.
+The strategy included the following five steps:
+●
+creating a vision matching the city’s identity and strengths that unites
+partners across the city
+●
+mapping the underutilised assets of the city, particularly skills, stuff
+and space
+26
+MaRS Solution Labs (2016), ‘Shifting Perspectives: Redesigning Regulation for the
+Sharing Economy’,
+https://www.marsdd.com/wp-content/uploads/2016/04/MSL-Sharing-Economy-Publi
+c-Design-Report.pdf.
+25
+Zale, K. (2016), ‘When Everything is Small: The Regulatory Challenge of Scale in
+the Sharing Economy’,
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2866044.
+24
+Sundararajan, A. (2016), ‘What Governments Can Learn From Airbnb And the
+Sharing Economy’,http://fortune.com/2016/07/12/airbnb-discrimination/.
+23
+European Parliament - Economic and Scientific Policy Department (2017), ‘The
+Collaborative Economy: Socioeconomic, Regulatory and Policy Issues’,
+http://www.europarl.europa.eu/RegData/etudes/IDAN/2017/595360/IPOL_IDA(2017)5
+95360_EN.pdf.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data18
+
+●
+identifying opportunities by matching these assets with key issues
+the city faces
+●
+defining actions related to each opportunity
+●
+supporting the strategy with the right resources and structure
+to ensure implementation
+The workshops produced a number of pilots that may be implemented, including
+a Pilot for Burden Reduction for Existing Operators, addressing the implementation
+and enforcement of safety regulation, and Piloting Condominium Regulation Models,
+which encourages ongoing and open dialogue among those sharing condos, which
+make up almost half of the city’s housing. The workshops also reinforced the
+importance of data sharing with city authorities to help with city planning, space
+asset management and strengthening understanding of each neighbourhood.
+Airbnb is also working with Canadian authorities on a pilot project to raise awareness
+about rights and responsibilities when offering or booking accommodation in Toronto.
+This includes information about tax laws and regulatory obligations like smoke
+alarms, dispensed through a joint website between the Ontario Province and Airbnb.
+Aggregate regulations
+Recognising the difficulty of focusing on a large number of small-scale interactions,
+aggregate regulations address the large-scale impact of a sector. In the sharing
+economy space, aggregateregulations have been introducedin Sao Paulo(Brazil)
+27
+and Washington DC (USA) to regulate ride-hailing companies. In Brazil, ride-hailing
+companies are charged bi-monthly upfront fees based on mileage traveled by drivers
+in their network, to compensate the city for use of its public infrastructure; in DC,
+ridesharing fares include a surcharge that is remitted to the city.
+Scaled regulations
+Scaled regulations focus on individual actors based on the extent of their activity.
+For instance, a scaled fee-based approach may require more active individuals to pay
+more to account for the externalities that result from their activity and the increased
+oversight required. For instance, the US city of Portland, Oregon charges a minimum
+permit fee for home sharing, with those who engage in more frequent rentals required
+to pay a higher fee.
+Transferable sharing rights
+Academic Stephen Miller has suggested atransferablesharing rights framework
+28
+to provide an alternative method of intervention in the peer-to-peer sector.
+This framework builds upon the common process of transferring development rights,
+where landowners who are ‘required to maintain a less intense use’ than codes or
+regulations allows can sell their unused development rights, allowing a ‘receiving site’
+to develop more intensely than is permitted.
+Miller has suggested that such rights could be transposed onto the peer-to-peer
+sector, allocating transferable sharing rights (TSRs) that allow people to engage
+28
+Miller, S. (2015), ‘First Principles for Regulating the Sharing Economy’,
+http://harvardjol.com/wp-content/uploads/2016/02/HLL107_crop.pdf.
+27
+Zale, K. (2016), ‘When Everything is Small: The Regulatory Challenge of Scale in
+the Sharing Economy’,
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2866044.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data19
+
+in a short-term rental for a given amount of time. Rights could be redeemed on
+29
+an online platform for a fee payable to the city, with the fee contributing to activities
+that neutralise the impact peer-to-peer accommodation activities have on a
+neighbourhood. Those who do not want to redeem their rights could sell them to
+others through a market brokered by the city, with profits split between the seller
+and the city.
+Non-traditional or alternative interventions into the peer-to-peer
+accommodation sector
+Shared Cities and the Policy Tool Chest
+In 2016, Airbnbunveiled its new plansfor a ‘SharedCity’ concept. This concept
+30
+aims to ‘help civic leaders and [the Airbnb] community create more shareable,
+more livable cities through relevant, concrete actions and partnerships’
+(CEO Brian Chesky). The concept represents the company’s broad commitment
+to working collaboratively with city authorities as they update and create legislation
+to regulate home sharing, particularly in the United States.
+A ‘Shared City’: Portland, Oregon
+The first‘Shared City’ partnershipis with the Americancity of Portland,
+31
+Oregon, and binds Airbnb and the city to the following commitments:
+●
+enabling Airbnb hosts to contribute to city improvements by donating
+money they earn on the platform to local causes, and the company will
+match these donations
+●
+making free smoke and carbon monoxide detectors available to every
+host who requests one, helping hosts meet updated safety
+requirements of the city
+●
+working with the tourism bureau, Visit Portland, on joint campaigns
+to promote the city and its small businesses
+●
+collecting and remitting taxes on behalf of the City Council, collected
+out of guest payments and sent quarterly to the City of Portland
+The ‘Shared City’ concept represents a new model for Airbnb’s engagement with
+city authorities, which they aim to scale up over the next years. The partnership
+is accompanied by the company’sPolicy Tool Chest,which presents four policy
+32
+options as a ‘resource for governments to consider as they draft or amend rules
+for home-sharing’. The options are:
+Tax collection:collecting hotel or tourist tax revenuedirectly from guests on behalf
+of the authorities, assuming costs for this collection from hosts or city authorities
+32
+Airbnb Citizen (2017), ‘Home sharing policy approaches that are working around
+the world’,
+https://www.airbnbcitizen.com/home-sharing-policy-approaches-that-are-working-ar
+ound-the-world/.
+31
+Gallagher, L. (2014), ‘Airbnb cozies up to cities’,
+http://fortune.com/2014/03/26/airbnb-cozies-up-to-cities/.
+30
+Chesky, B. (2014), ‘Shared City’,
+https://medium.com/@bchesky/shared-city-db9746750a3a.
+29
+Ibid.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data20
+
+who otherwise may have to pay these costs. The company has established
+partnerships of this nature, which they call Voluntary Collection Agreements,
+in over 200 jurisdictions.
+Good neighbours:helping hosts and guests be respectfulof the communities they
+stay in, and helping to update zoning laws that may be inappropriate for commercial
+activities that now take place across neighbourhoods. An example of this is the
+Friendly Buildings program, which encourages building owners, landlords, tenants
+and platform operators to get together to enable home sharing under agreed rules.
+This has been used in Nashville, Philadelphia and San Jose in the United States.
+Accountability:collaborating with city authoritiesto design and implement practical,
+enforceable rules for home sharing. The company advertises that its analysts “are
+able to assist policymakers with identifying the point at which short-term rentals [...]
+generate more income than long-term rentals per year”, helping identify a reasonable
+cap. The company has also worked with city authorities in San Francisco and
+New York City to implement ‘One Host, One Home’ policies, and a ‘three strikes’
+policy that bars hosts who have been cited by law enforcement ‘for violating home
+sharing rules or other restrictions intended to preserve neighbors’ quality of life’.
+Transparency and privacy: Airbnb is willing to sharedata with authorities ‘to enable
+smarter-decision making about home-sharing rules’, whilst respecting privacy. Its
+Community Compact, released in November 2015, commits the company to share
+the following data openly:
+●
+total economic activity generated by Airbnb in the city
+●
+amount of income earned by typical host
+●
+geographic distribution of Airbnb listings
+●
+number of hosts who avoided eviction by renting on Airbnb
+●
+percentage of Airbnb hosts sharing their permanent home
+●
+number of days typical listing rented
+●
+total number of guests visiting city, average number of guests per listing
+●
+their average stay length
+●
+safety record of Airbnb listings
+Beyond this, the company has entered into several data sharing agreements with city
+authorities to share data for policy, usually aggregated at the neighbourhood level.
+Agreements of this type have been agreed inNew Orleansand Chicago. Notably,
+33
+open data was published concerning Airbnb activities in each of New York City’s
+Neighbourhood Tabulation Areas.
+33
+Benner, K. (2016), ‘New Orleans Becomes New Model for Airbnb to Work With
+Cities’,
+https://www.nytimes.com/2016/12/07/technology/new-orleans-airbnb-model.html.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data21
+
+Methodology and limitations
+Research design
+Managing the impacts of peer-to-peer accommodation has become an important
+topic for policy-makers in areas where it has started to affect the housing and tourism
+sectors. But while intervention in the peer-to-peer accommodation market is not
+a universal phenomenon, the limited number of interventions already implemented
+or discussed makes a comprehensive review very challenging. Furthermore, in
+individual countries, many city or regional interventions often follow a nationally
+homogeneous approach. This makes them very similar, which limits the marginal
+utility of analysing every single case.
+34
+To maximise the variety of cases analysed, we applied a systems-design approach.
+With a limited number of cases, this approach seeks to maximise the variety of cases
+analysed, allowing us to gain insights across a broad spectrum of current policy
+approaches. We focused our research on 17 developed countries in Europe, North
+America, and Asia. All cases were identified through anonymous browsing using
+search engines Google and Bing. Ultimately we assessed35 different interventions.
+In the five largest cities of each country, we reviewed news reports, policy
+discussions, and legal and policy documents from city councils to identify any
+relevant activity in the city or whether the topic was discussed at all. Cases were
+added to our research depending on whether they added to the variety of the
+overall sample.
+35
+In a second step, a detailed content analysis was conducted. This mapped all
+cases along a number of qualitative indicators to understand the type of intervention,
+the focus of the intervention (ie its objective), and what data is being collected.
+Following an inductive process, we created and coded categories for the different
+characteristics we identified through the qualitative desk research. The results of this
+coding are discussed in this report.
+Non-traditional approaches were researched by using search engine tools to surface
+media articles and academic reports into this issue. These were then analysed for
+interest and summarised.
+Limitations
+The observations presented are subject to limitations, resulting from the research
+design and the phenomenon we investigated. First, the selective sampling of our
+research implies that the results cannot be generalised. In particular, they do not
+allow us to draw inferences on specific cases not included in the sample. However,
+the patterns we observed can be helpful in understanding the policy and regulatory
+35
+This implies that cases which largely replicated previously identified patterns were
+not added to the database. For example because approaches in different German
+cities are very similar, only Berlin has been added to the database as an exemplary
+and well documented case.
+34
+Even though resulting from national legislation, French cities apply a relatively
+uniform model, which limits short-term letting to 120 days per year; in a number of
+French cities,AirBnB also collects and remits touristand district taxes.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data22
+
+discussions, public concerns, the role of data and technology. Hence, they can be
+seen, a) as an assessment of high-level needs (where they have been articulated by
+and included in policy designs); and b), as an assessment of the the interventions
+made in the peer-to-peer accommodation sector.
+Second, intervention in the peer-to-peer accommodation sector is an emerging
+phenomenon. Researching it requires an inductive approach, which is grounded in
+real-world data. By collecting comprehensive information on a number of issues and
+then grouping observations into frequent categories, our research design follows this
+grounded theory logic. An important limitation to this exploratory design is that the
+resulting categories should not be seen as exhaustive or authoritative. Rather, they
+are meant to be informing, based on the characteristics of cases observed.
+Particularly the categories we used to structure ‘primary motivations for intervention’,
+and what they focus on (‘object’) depend on the specific sample and the motivations
+for research.
+Another limitation is that the collection of data on interventions is a process of
+interpreting the main topics of policy discourses and then encoding the findings into
+common groups. Very few interventions clearly state why they were proposed.
+To answer our question on the primary motivations for their introduction, we had to
+make assumptions based on our readings of policy papers, texts, news reports, and
+other online resources. Already this first step is selective, eg because not all relevant
+discussions are discoverable online. Deciding which topics were the most important
+and then coding them into summary tables introduces two more layers of
+assumption. For possible future interventions this is made even more difficult,
+as many plans and discussions are unlikely to be made publicly available.
+When reading the results, we should thus keep in mind that to condense our real
+world observations into neat summary tables, we had to make several consecutive
+assumptions. This means that the data presented is “cleaner” than the real world
+phenomenon: for example, not recording “managing tourism” as a primary motivation
+for interventions in London does not imply that the issue was not a concern at all in
+the public discourse. Instead, we just do not think it is important and decisive enough
+for the final approach.
+Finally, our findings on the role of data in interventions (or proposals) require
+particularly careful interpretation. The fact that data is almost never considered in
+interventions – and the policy discussions which precede them – is a finding in its
+own right.
+Few interventions explicitly mention which types of data will be required,
+eg when hosts must acquire a newly created business licence to offer a home
+on a peer-to-peer accommodation platform. How data is collected, managed,
+or processed is extremely difficult to understand without talking directly to
+specialist staff at authorities or businesses.
+Our findings on the type of data involved in interventions only provide a macroview,
+which is heavily based on assumptions about which datacouldbe involved.
+In making these assumptions, we have been deliberately conservative: for example,
+where properties listed on peer-to-peer accommodation platforms are required to be
+officially registered, we can safely assume that at least the name of the proprietor and
+the property location will be collected. More data may well be collected, eg on fire
+safety installations; but we did not include these sources, unless they were explicitly
+mentioned in official documents.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data23
+
+Next steps
+This piece of research is part of the overall work that the ODI is currently undertaking
+to understand how data can improve the peer-to-peer accommodation market to
+support businesses and communities, and improve the experience of consumers
+and users.
+During a discovery phase (starting in summer 2017), the ODI also completed
+interviews with key stakeholders in the sector including platform users, platform
+operators, estate agents, renters’ associations, local authorities, fire services, etc.
+Based on a combination of this research and the research described in this report,
+the ODI established a set of topics, or areas, of opportunity to focus on in the alpha
+phase of the project.
+Several were tested during workshops with various stakeholders in October 2017.
+Based on the feedback received, the ODI will focus on the portability of data related
+to peer-to-peer accommodation, establishing whether a data observatory could be
+used to understand the impact of the sector, and finding ways for local data to be
+shared in a standardised way with hosts and guests.
+Open Data Institute 2018Exploring interventions to support the peer-to-peer accommodation sector and the role of data24

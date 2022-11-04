@@ -1,0 +1,1246 @@
+
+
+ODI-WP-2016-003 
+2016-04-20
+Lessons on
+supporting
+public sector
+open data
+leadership
+Open Data Institute
+
+2 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+Table of contents
+Authors: Fiona Smith and Liz Carolan (Open Data Institute)
+Executive summary 3
+Introduction                                                                                                                  5
+Evaluating different methods to support open data leadership 8
+Peer leadership networks 8
+Open data training for civil servants 18
+Strategic assessments for open data 23
+Learning about cross-cutting issues  28
+External context and constraints  28
+Project management and governance  29
+Conclusion: the future of supporting open data leadership 31
+About this report 33
+Appendix                                                                                                                     35
+
+3 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+1. Executive summary
+As open data initiatives mature, we need a generation of entrepreneurial public sector 
+leaders who are able to successfully navigate through reform, from early adoption to wide-
+scale implementation.
+This paper presents a summary of the lessons learned from the Open Data Institute’s 
+experience supporting open data leaders around the world. We aim to help practitioners 
+and researchers working in good governance and open data to understand effective 
+techniques for building leadership capacity, particularly for implementing transformational 
+reforms within government.
+The lessons in this paper are drawn from testing different methods of delivering capacity 
+building and advice to leaders through peer networks, training and strategic assessments. 
+From our research, we found:
+1. Peer networks help boost personal and professional 
+development, but more research is required to understand how to scale 
+their impact. A peer network (the ‘Open Data Leaders Network’) benefited 
+the personal development of individual members, in particular through 
+enhancing their social capital and challenging their thinking. More time and 
+research is required to understand whether this will translate to impact at the 
+institutional or national level.
+2. Training programmes for civil servants are one component of 
+a broader process of capacity building. Face-to-face and virtual training 
+methods worked well for increasing knowledge especially on technical 
+subjects such as licensing. But affecting long-term behavioural and culture 
+change may require a long-term form of multi-faceted engagement, built on a 
+relationship of trust between trainees and training partners.
+3. Strategic assessments should be reframed in participatory 
+terms to promote ownership of results and follow-up actions. The 
+assessment tool we piloted provided rigorous guidelines for structuring a 
+review of a team’s ongoing progress implementing their open data initiative. 
+Using the tool to promote dialogue, reflection, and to generate a list of 
+collectively agreed priorities – as opposed to a one-off event – could deepen 
+the outcomes.
+4. Leadership programmes should incorporate a degree of 
+flexibility, and plans should be adapted as external circumstances 
+change. Prior country scoping in the form of desk research, stakeholder 
+
+4 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+interviews and learning needs assessment was crucial in tailoring the design 
+of leadership support programmes. An adaptive and responsive approach is 
+especially important in more fragile operating contexts.
+5. Teams providing leadership support or training activities should 
+conduct ongoing reviews of their own effectiveness. Reflecting on 
+our own practice throughout the cycle of design and implementation was 
+beneficial to promote continuous learning about how effective methods 
+were. In future, we should standardise this approach and ensure feedback 
+flows between participants and our own delivery team.
+Throughout the year, we also observed external trends that impact on sustainable open 
+data implementation. These included fragile governance conditions, weak feedback 
+loops with data users and uncertainty around data ownership and use. These challenges 
+are complex and cannot be solved by one leader alone, but are important to consider in 
+shaping appropriate leadership support programmes.
+We also gained general insights into managing leadership support programmes in 
+developing countries. For example, we learned the need to combine careful risk 
+assessment with an adaptive, flexible approach, and the value of taking a partnership 
+approach towards delivering support. These lessons are not specific to open data, and 
+could be transferrable to other sectors.
+Finally, we identified ongoing challenges and research questions which will need to be 
+addressed in the next phase of open data’s development and widespread adoption. These 
+include how to embed early changes catalysed by dynamic leaders into broader systems, 
+and how to strengthen feedback loops between governments and data users, to promote 
+greater use and adoption of open data.
+
+5 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+2. Introduction 
+Background 
+Around the world, governments of all levels – city, regional and national – are adopting 
+open data policies and portals. Open data is data that anyone can access, use and share. It 
+is increasingly seen as a tool to help promote transparency, boost innovation and business 
+development, and solve social challenges such as pollution, transportation and disaster 
+management. 
+In 2015, the ODI embarked on an set of projects to understand what works in supporting 
+leaders to implement transformational open data reforms. We sought to answer the 
+question: ‘How do you unlock a sustainable supply of open data in developing countries?’
+This builds upon our experience engaging with over 30 country governments for bespoke 
+open data training, and our previous research into navigating open data and organisational 
+change. We observed that leaders of open data initiatives often feel isolated, as vanguards 
+who are disrupting the status quo. They share many characteristics of what Everett Rogers 
+refers to as ‘innovators’ in his famous model of how new technologies and ideas spread 
+through cultures.
+1
+ As policy innovators, they are entrepreneurial thought leaders who are 
+willing to take risks, but can find themselves struggling to gain broader traction during the 
+implementation phase of a reform.
+Supporting leaders to shift open data from being a fringe innovation project to embedding 
+it into routine systems and culture will be essential if we are to realise data’s potential for 
+driving sustainable and inclusive global development. 
+Our theory of change was that a supply of open data can be sustained by empowered, 
+local leaders overseeing and driving culture change. Based on our experience, we 
+believed that some of the best ways to support leaders were to connect them with peers 
+and experts, promote strategy review processes, and challenge leaders to think more 
+innovatively and to amplify their successes by communicating stories of impact. Central 
+to our theory of change was a locally-driven approach, where governments and citizens 
+define their own goals for social and economic transformation.
+To test our hypothesis we piloted three different methods of providing leadership 
+support: 1) peer-leadership networks; 2) training civil servants (in person, and remotely); 
+and 3) strategic assessments. We sought to ‘learn through doing’, and to regularly reflect 
+on and adapt our practice.
+1 Rogers, E. M. (1962). Diffusion of innovations. Glencoe: Free Press.
+
+6 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+Our implementation approach involved hand-picking dynamic individuals to be part of an 
+Open Data Leaders Network (ODLN). The network brings together high-potential leaders 
+from all over the world to engage in peer-learning, professional development, and to 
+exchange promising practices.
+For the training and strategic assessments, we designed a scoping process to select 
+three focus countries we felt had the right enabling conditions for open data to mature. 
+These conditions included demand for technical assistance, the presence of an open 
+data champion in government, political commitment to open data, and prospects of high 
+impact. Ultimately, we wanted to understand whether having a strong leader was enough 
+to achieve transformation, even against challenging conditions such as a closed political 
+culture or nascent civil society.
+After selecting Burkina Faso, Tanzania and Macedonia as our focus countries, we 
+collaborated with their open data teams to co-design a package of support activities over 
+the following six to nine months. Over the course of the year, we delivered:
+•	Training to over 650 civil servants
+•	Six open data leaders trained to become trainers
+•	Two in-depth strategic assessments in Tanzania and Burkina Faso 
+
+7 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+Research methodology 
+ 
+Using rapid appraisal methods such as surveys, participant observation and focus group 
+discussions after each major intervention – whether training, assessments or strategic 
+support – we collected feedback on the content, quality of delivery and evidence of 
+meeting learning outcomes. We also held retrospectives with trainers and partners to 
+improve our curriculum and methods. 
+For the purposes of this paper, we invited an external consultant (Icarus) to help evaluate 
+our methods, and analyse the data we had collected over the year. The evaluation involved 
+a combination of desk review, participant surveys, interviews with trainers and partners, 
+and a focus group discussion with the ODI team. The lessons and recommendations 
+distilled from that process are summarised below. See the Appendix for more details about 
+the research methodology.
+We acknowledge that there are several limitations in our research approach. Given the 
+programme’s short 12-month timeframe, we were only able to assess effectiveness up to 
+the level of knowledge and skill acquisition.
+2
+ Given more time, we would follow up with 
+participants to track longer-term changes in attitudes, behaviour and institutions. We 
+also note the small sample size of three countries with diverse contexts. We intentionally 
+chose different social and political contexts in order to understand whether approaches 
+were transferrable. Repeating the piloted methods in more locations would strengthen the 
+validity of our results. 
+2 Kirkpatrick, D. L. (1998). Evaluating training programs: The four levels. 2nd ed. San Francisco: Berrett-Koehler Publishers.
+
+8 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+3. Evaluating different methods to support open data 
+leadership 
+ 
+Peer leadership networks 
+What are peer leadership networks?  
+Peer networks are horizontal organisational structures that distribute resources and support 
+to members (‘nodes’) via social bonds and joint activities (‘links’). They support professional 
+development by sharing and building upon knowledge held by individual members to 
+achieve greater collective impact. Increasingly, peer networks are emerging in the public 
+sector as a way of connecting policy innovators and diffusing promising practices within 
+various areas relevant to good governance, including open data.
+3
+One of the greatest perceived benefits of a peer network is enhancing the social capital 
+of members. Social capital, as an asset, is the collection of networks and bonds that 
+enable a person to work with others effectively. It is built upon shared norms, values and 
+understandings which can facilitate co-operation, exchange and innovation.
+4
+ 
+How the ODI used peer networks 
+With this in mind, we developed the Open Data Leaders Network (ODLN), a programme 
+that aims to promote peer-learning and to enhance the social capital of civil servants 
+responsible for implementing open data initiatives within different levels of government 
+around the world. It was developed in response to global demand for capacity building, 
+training and support for leaders in order to increase the sustainable supply and use of 
+datasets across government.
+5
+ 
+About the participants 
+Leaders were engaged to join the ODLN through the ODI – selected from within our 
+existing networks, through invitation to apply, or by recommendation from other open 
+data leaders. This selection process was intentional, in order to provide geographic and 
+gender diversity, but also to provide the conditions for respectful group dynamics. Each of 
+the selected candidates was reviewed against criteria including a strong mandate within 
+their government for reform, high leadership potential, and a collaborative and collegiate 
+3 Gerry, W., Harvey, B., and Smith, F. (2015). How to create and sustain peer networks for open data leaders. London: Open Data 
+Institute.
+4 Keely, B. (2007). Human Capital: How what you know shapes your life. OECD Insights, Paris, OECD Publishing.
+5 See, for example, findings of The World Wide Web Foundation, (2015). The Open Data Barometer Global Report. 2nd ed. 
+Available online at: http://www.opendatabarometer.org/assets/downloads/Open%20Data%20Barometer%20-%20Global%20
+Report%20-%202nd%20Edition%20-%20PRINT.pdf [Accessed 2016-04-14].
+
+9 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+leadership style. They were also selected based on their bold aspirations for open data in 
+their context, as the following quotes from participants about their goals indicate.
+“[We want to] become leaders in the publication and use of open data for 
+evidence-based policy making, economic growth and transparency.”
+“I want to see open data being released as business as usual and 
+(perhaps more importantly) innovative reuse of the data leading to a 
+multitude of social and economic impacts and better participation by 
+citizens, communities and business in government.”
+ 
+                                                                           –               ODLN               survey               respondents 
+Despite being at different stages in their open data journeys, the leaders in the ODLN 
+shared several common traits. All participants were dynamic individuals playing a 
+leading role in driving open data initiatives in their local contexts, actively participating 
+in international or regional open data communities. They also showed traits of ‘network-
+thinking’, such as a willingness to share knowledge and contribute to the advancement of 
+the sector as a whole. They also experienced common challenges in their day-to-day jobs, 
+such as managing political transitions, engaging the private sector, measuring the impact 
+and value of open data, and applying open data towards solving policy challenges.
+A key consideration while forming the ODLN was to ensure a mix of participants from both 
+developed and developing countries. From previous experience, we observed that the 
+challenges being faced by open data leaders in different contexts were relatively similar, 
+and that exciting data innovation happening in one context could inspire solutions to 
+challenges in another. 
+Participants represented a range of countries – Mexico, Ecuador, the Philippines, Moldova, 
+New Zealand, Morocco, Argentina, Tanzania, Nigeria, Macedonia, the UK, Chile and 
+Malaysia – and a variety of institutional structures, including the President’s office, the city 
+mayor’s office, planning commission, e-governance department and a semi-privatised 
+innovation agency.
+ 
+
+10 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+About the programme 
+The overall design of the ODLN programme was based on ODI research on network 
+building and insights gained from its other support programmes, including startup 
+incubation.
+6
+ We realised the importance of allowing time for the group to build relationships 
+of trust in-person, and providing them with enough space to be able to determine the 
+shape of the network they wanted. 
+Network activities included an inception week in London for training, relationship building 
+and knowledge sharing, followed by ongoing communication. In 2015 we conducted two 
+inception weeks for cohorts of seven individuals at a time. We adapted the curriculum for 
+the second cohort based on an assessment of learning needs and feedback from the first 
+cohort, which revealed a high demand for more challenging content on innovation.
+While the learning objectives differed slightly between cohorts, the outcome of the 
+programme remained to develop strong social and professional links between the 
+participants. This was to enable the sharing of ideas, inspiration and moral support to help 
+them in their leadership roles, while creating the foundations for a peer network that could 
+scale.
+The training week incorporated reflection and co-working based on current trends in open 
+data theory and practice, managing organisational change, private sector innovation, 
+communication skills and strategy planning. It was delivered through a number of 
+facilitation methods, including group discussion, abstract thinking and problem-solving 
+(eg business canvasses), role play, individual coaching, action learning sets, off-site visits 
+(including to a startup incubator), and lecture-style presentations. The training week also 
+exposed participants to experts representing diverse perspectives, from startups, global 
+institutions and the UK Government.
+ 
+ 
+6 Gerry et al (2015) as above; Carolan, L. (2015). Small teams, big ideas. [Blog] World Bank Data Blog. Available at: http://blogs.
+worldbank.org/opendata/small-teams-big-ideas-open-data-ambition-runs-start-ups-governments [Accessed 2016-04-14].
+
+11 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+The Open Data Leaders Network peer network model: key 
+findings 
+ 
+Overall we found positive results from the ODLN peer network model. Members of the 
+network scored the usefulness of their participation highly against three criteria: for their 
+own personal development, for their open data initiative, and for promoting their work and 
+open data more generally. 
+Our findings below are based on participant feedback surveys, ODI team reflections and 
+interviews with trainers. They reinforce what the wider literature suggests: that effective 
+network-building requires careful participant selection, the employment of an adaptive, 
+flexible model and the promotion of network-thinking from the outset.
+7
+ 
+We have organised our findings according to the key components of a peer network: 
+understanding impacts; selecting members; connecting members; balancing diversity; 
+managing membership turnover; and network evolution and governance.
+ 
+Understanding network impacts 
+Reported impacts of peer networks typically include members forming professional 
+relationships, improved professional approaches within a sector, enhanced organisational 
+capacity, and better government policies within a sector as a result of network member 
+engagement and advocacy.
+8
+During our research we asked network members about their key ‘take-home message’ from 
+the inception week training, as well as the aspects that have been most useful in their work. 
+ 
+ 
+Three themes emerged:
+•	Appreciating the crucial role of culture change in the process of 
+implementing open data policies
+•	Understanding how innovation approaches can be relevant and useful in 
+their work
+•	Establishing links with a group of people, with shared interests and 
+enthusiasm, who are experiencing similar challenges
+These themes aligned with the actions that members said they would undertake, having 
+attended the training. This suggests that elements of the training matched participants’ needs 
+and expectations. Members’ follow-up actions were wide-ranging:
+7 Smith et al (2015). As above.
+8 Ibid.
+
+12 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+“Pursue long-term structural changes and law reform, ask for reasonable 
+budget  and resources to kick-start things.” 
+“I have to take the time to be able to strategise more, and to focus more 
+open data-driven innovation.” 
+“Innovate (at a policy level, at project level and with team’s creative 
+problem solving). Implement a more effective change management 
+approach.”
+ 
+                                                                           – ODLN training feedback
+While it might be premature to see evidence of organisational change, members have 
+identified ways in which their teams, departments or governments have benefited from their 
+participation in the ODLN. Many members said the network had given them new ideas. 
+Many also said that participating in the network had helped them to acquire new insights 
+into how their own open data initiatives were progressing, and to generate increased 
+support or awareness. Together these findings suggest that peer networks have the 
+potential to contribute to mid- to long-term capacity building.
+“ODLN is like a small think tank with [rapidly] responsive people and plenty 
+of diverse experience at one place.” 
+ 
+                                                                           –               ODLN               survey               respondent 
+Selecting participants 
+Selecting the right kinds of participants is key to the success of a peer network, since the 
+rationale for connecting peers is to access mutual support and information from others at 
+similar positions. The ODLN participant selection approach appears to have been effective, 
+as feedback from participants suggests that the network reflects the original aspiration of 
+investing in individuals with high potential to affect change. Participants’ diverse experience 
+and knowledge of working with open data created rich opportunities for leaders to learn 
+from each other.
+“I felt I found a group of people who shared the same enthusiasm and the 
+same shortcomings in the daily work with open data.”
+ 
+                                                                           – ODLN survey respondent 
+Participant feedback from the first ODLN cohort exposed a need to increase diversity of 
+perspectives. For the second cohort, therefore, we invited participants from cities, regions, and 
+varied institutions. As the network grows and original members are promoted to new positions, 
+we need to continually review our approach to membership and ongoing governance.
+
+13 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+Connecting members and offering face-to-face training 
+A critical component of convening a peer network is connecting people. Bringing people 
+together for an intensive week of training and building relationships of trust is a resource-
+heavy approach, both for the organiser and in terms of the amount of time attendees have 
+to take out of their professional lives to attend. It therefore needs to be impactful in order to 
+justify the investment. 
+During the inception training week we used a number of activities to promote bonding, 
+including group problem-solving, action-learning sets in pairs, excursions to other startup 
+incubators, and social activities. Small group and pair selection was directed by ODI 
+facilitators in order to ensure a balance of personality types and learning styles. Open social 
+time (like getting lost in the city together), and space for problem-solving independent from 
+trainers helped to create a sense of closeness and solidarity.
+After each training session or presentation, we also dedicated time to group reflection. 
+This allowed for pattern recognition, and helped members to develop a sense of ‘tribe’ 
+or common endeavour. It was also important to create a safe space for members to have 
+private conversations and brainstorm joint actions independently.
+Overall, the training week appears to be a worthwhile investment, although adaptations 
+could be made to content and resourcing to increase effectiveness and resource 
+efficiency (see learning on ‘project governance and management’ below). The training 
+week contributes to several factors that are pivotal in building a peer network: making 
+connections where none otherwise exist; developing relationships of trust and respect; 
+leveraging collective expertise and resources; cultivating communities of learning; and 
+promoting network thinking.
+9
+ 
+“It was an amazing bonding experience, that created a network where you 
+can openly ask questions on your everyday decisions that you make as a 
+practitioner [...] That helps a lot, because we do have challenges: everyone 
+working on an open data national strategy has common challenges (like 
+Creative Commons licensing).” 
+ 
+                                                                                          –               ODLN               member 
+Face-to-face time is also crucial to laying the foundations of ongoing communication. 
+Members have remained active in the network, engaging with each other through various 
+mediums including Twitter, Whatsapp and email. An early attempt to develop a customised 
+ICT platform for document-sharing and discussion quickly gave way to more informal 
+9 Ibid.
+
+14 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+modes of communication, such as email. This suggests the need to allow members to 
+self-select and manage their own tools for collaboration, as opposed to introducing an 
+externally-led solution.
+ 
+Balancing member diversity 
+An important consideration when convening a peer network is managing member diversity 
+to enable group cohesion. We found the following aspects to be helpful when balancing 
+members’ capacities and cultural backgrounds.
+•	Ensure members can relate to the experiences of others in the 
+room. One trainer observed an interesting dynamic was created by the 
+heavy involvement of UK open data representatives (generally regarded 
+as being at the forefront of open data): “There is potential for this to 
+create a barrier because participants can be threatened by hearing from 
+a country that is so much further ahead than they are.” It is important, 
+therefore, that varying levels of experience are handled sensitively so 
+that all members feel comfortable and supported, rather than isolated. 
+Including more than one person from each of the four Open Data 
+Barometer groups (High Capacity; Advancing; Capacity Constrained; 
+One-Sided Initiatives)
+10
+ could help people to feel at ease and identify 
+with the experience of others in the room.
+•	Offer members experiences that are relevant to their level of 
+understanding around open data. For example, a visit to a UK startup 
+initiative may not be relevant to those countries that are ‘Capacity 
+Constrained’. When engaging network members, it is important to use 
+stories that inform and inspire all of them, regardless of their position in 
+the Open Data Barometer. Ideally, draw upon the pool of stories from 
+members’ own contexts; this will expand as membership grows.
+•	Offer a programme that can accommodate different learning 
+styles and facilitate joint working. One trainer noted that the level of 
+participants’ involvement depended somewhat on their background: 
+“One of the biggest challenges was the mixture of learning styles and 
+how to address that in the room so that everyone felt equally confident 
+and involved.” For example, some participants appreciated discussing 
+formal theory about organisational change management. One of the 
+most well-received training sessions combined classroom-style delivery 
+10 The World Wide Web Foundation, (2015). The Open Data Barometer Global Report. 2nd ed, pp.8–9. Available online at: http://
+www.opendatabarometer.org/assets/downloads/Open%20Data%20Barometer%20-%20Global%20Report%20-%202nd%20
+Edition%20-%20PRINT.pdf [Accessed 2016-04-14].
+
+15 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+with the opportunity for members to share their experiences in a 
+practical way.
+ 
+“The afternoon session [...] was an opportunity for the participants to work 
+together and see how beneficial that is. It gave some of the participants 
+the opportunity to speak in their mother tongue and get creative. Many 
+participants apparently went away with the intention to use this style of 
+participative teaching within their own countries – this was an unexpected 
+product of the training session.” 
+ 
+                                                                                          – ODI team member
+Managing membership turnover and job change
+ 
+The literature suggests peer networks often have high member turnover rates due to 
+individuals changing jobs, which can be challenging for continuity. However, job change can 
+also positively help to expand a network’s influence.
+11
+Those ODLN members who changed jobs (four of fourteen original members at the time 
+of writing) went on to occupy positions where they can influence open data policies while 
+remaining engaged with the network. In this instance, high turnover enriches the network. 
+However, it could pose a challenge if members’ new roles diverge away from open data, to 
+the point where the majority are no longer in a similar field. 
+ 
+Fostering network evolution through structures and norms 
+Constructing an effective network is an iterative task, which involves developing formal 
+structures, informal norms and defining tasks to guide collective action and accomplish 
+shared goals.
+12
+ It requires a coordinator or facilitator, with a good understanding of the 
+‘science’ of networks, to consolidate the network through preparing, convening and 
+sustaining it.
+For the ODLN, the ODI has taken on the coordination role. After the training week, we 
+avoided using a top-down approach, as the literature suggests continuing engagement 
+needs to develop organically. Although we joined in conversations via Whatsapp, Twitter 
+and Skype, we did not instigate structured engagement. This proved effective as members 
+11 Smith et al (2015). As above.
+12 Ibid.
+
+16 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+remain in regular contact, and have not requested a larger coordination role from the ODI. 
+Indeed, ODI staff are described as “remarkable co-ordinators and [the] leader of leaders” 
+(ODLN survey respondent).
+The involvement of members from the similar regions has helped to promote ODLN’s 
+organic evolution. They can communicate and establish dual-country programmes 
+relatively easily given their similar timezones and cultures. In South America, an effective 
+coalition has formed between some of the ODLN member countries, and there are a group 
+of individuals who partner together regularly on regional initiatives. A broader network of 
+people connected to the leaders is coming together, supported through other ODI initiatives 
+such as ‘Train the Trainer’ and regional open data events, such as the Africa Open Data 
+Conference.
+ 
+Mapping future membership and network governance 
+There is an appetite for the ODLN to continue: 75% (n:6) of survey respondents stated 
+that they would like more engagement with the network, for example, through further 
+opportunities for face-to-face engagement; 25% (n:2) said they would like about the same 
+level of involvement in the future. Seven members offered to support the ongoing work of the 
+network. 
+“Continue sharing what we’ve learned and enable other practitioners to 
+gain confidence in doing open data work and navigating the uncharted.”
+ 
+                                                                           – ODLN survey respondents
+There have been a number of ideas from network participants about how the ODLN can be 
+grown in the future. These include:
+ 
+•	Hosting in-country, regional, global or inter-cohort meetups
+•	Facilitating continued ongoing connections through Skype calls, 
+webinars, etc
+•	Members producing and sharing one-page briefing papers, or hosting 
+thematic discussions
+•	Pursuing further opportunities for training
+Ultimately, the ODLN is still an experiment in network-building. We encourage members to 
+develop their own local chapters, and to connect with ODLN with their existing network.
+ 
+
+17 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+Peer leadership networks: recommendations
+1. Select initial members of the peer network carefully. Committed 
+and energetic members are key to establishing strong networks in their 
+formative stages. These might be national, city-level or sector leaders. 
+Prior personal contact proved key in identifying people with the right kinds 
+of qualities for membership (including the ‘network-thinking’ mindset). As 
+networks grow and experience turnover, this approach to membership should 
+adapt to incorporate new members recommended by existing members, and 
+fresh applicants.
+ 
+ 
+2. Manage different levels of member experience and backgrounds 
+within the group sensitively. While the diversity of experience brings a 
+certain richness, it is important to balance differences. The Open Data 
+Barometer could be used to classify and understand members’ capacities in 
+their respective contexts, for example. Accommodate varied learning styles by 
+including a mixture of theory and practice, and include examples relevant to 
+different contexts. Participants should be provided with ample opportunities 
+to reflect, and to apply fresh insights through abstract thinking and problem-
+solving.
+ 
+3. Build strong foundations for a new network with an intensive 
+training week. With clear objectives and careful design, intensive training 
+weeks can help to facilitate trust, collaboration and network-thinking between 
+members. They can also provide actions for participants to take back to their 
+countries and implement immediately. Training courses are, however, costly, 
+and must be well constructed to justify the investment in time and resources. 
+They also need to be appropriately paced so that members have time to 
+attend to their day jobs where necessary. 
+ 
+4. Monitor how network membership evolves. Network membership 
+will inevitably change over time, as members’ roles and positions shift. 
+Members should share comparable functions such that they consider 
+each other ‘peers’, and consider the network relevant to their professional 
+development. As networks grow, coordinators should check that the 
+membership base continues to fulfil their original brief, and address significant 
+levels of divergence should this occur.
+
+18 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+5. Collaborate with members in managing the network and making 
+future plans. For the Open Data Leaders Network, we are planning for a 
+future where the ODI becomes one partner amongst supporting local and 
+regional institutions. We will encourage network members to self-organise, 
+engage, and take ownership over the future development of network priorities, 
+expansion and activities. 
+Open data training for civil servants
+What is open data training? 
+Open data training – in standards, publishing, change management, licensing, use, 
+and policy – can help build the  capacity of civil servants to proactively publish open 
+government data and implement impactful open data initiatives.
+13
+At the ODI, we train civil servants from many country contexts. This takes the form of 
+face-to-face, ‘classroom-style’ training and remote or online training, which have varying 
+benefits and weaknesses, depending on how they are delivered and the relationship we 
+have with participants. 
+Building on our experience in designing open data training courses, we experimented with 
+different models for conducting training. These included face-to-face classroom sessions, 
+remote or virtual sessions, skills-focused workshops, and coaching.
+Training topics included the basic principles of open data, how to operationalise and 
+employ open data as a tool for addressing policy challenges, case studies on benefits and 
+business models, data science skills and practical aspects of discovery, publication, law 
+and licensing. 
+Learning outcomes varied from basic understanding of open data, to acquiring specific 
+skills for people responsible for publication, to overcoming specific technical challenges 
+such as licensing.
+We developed our training methods, content and desired learning outcomes on the basis 
+of a training needs assessment. This typically involved conducting an onsite scoping visit, 
+13 See, for example, ‘Recommendations for training’ in The Open Data Barometer Global Report, 2nd ed; and Enabling the data 
+revolution: An International Open Data Roadmap (2015). Conference Report. In: 3rd International Open Data Conference. [Online] 
+Ottawa. Available at: http://1a9vrva76sx19qtvg1ddvt6f.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/opendatacon-
+report-en-web.pdf [Accessed 2016-04-12]. 
+
+19 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+a pre-training teleconference call, and a short introductory workshop before delivering a 
+package of different activities over the course of 6-12 months.
+In Macedonia, we delivered an introductory workshop on open data basics and 
+principles for senior officials and new data publishers (‘Open data in a day’), a skills-
+based workshop including data users, civil society, and developers (‘Telling stories 
+with data’), and technical coaching on laws and licensing, delivered remotely.
+In Tanzania, we conducted an introductory workshop remotely via webinar, an 
+offsite workshop on communicating open data and change management for 
+the cross-departmental implementation team (the ‘Open Data Task Force’), and 
+strategic coaching sessions with a small group of senior civil servants to identify 
+future priorities for their open data initiative.
+In Burkina Faso, we delivered remote technical coaching on laws and licensing, 
+and as in Tanzania, provided strategic coaching sessions to a core team in country 
+on change management.
+Open data training for civil servants: key findings 
+Overall we found a high demand for training programmes of all types. Where specific 
+training needs were identified, remote or online training methods are effective and less 
+costly than face-to-face formats. However, remote training alone may not be sufficient 
+to build relationships of trust between trainees and trainers, which is important for 
+transforming knowledge into action and behavioural change.
+Our findings below are based on participant feedback surveys, ODI team reflections and 
+interviews with trainers. They are consistent with the literature on public sector change 
+management, which suggests that training is an important (but not sufficient) component of 
+the capacity building process.
+14
+ 
+ 
+We have organised our findings to reflect key phases of designing and delivering training, 
+including: understanding learner needs; selecting delivery formats; ongoing support; and 
+assessing outcomes.
+14 Broad, E. et al (2015). Open data in government: how to bring about change. London: Open Data Institute. 
+
+20 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+Understanding learner needs 
+The training programmes offered to civil servants were tailored to reflect the status 
+of their open data initiatives, learning needs, country contexts (such as dynamics 
+between government and civil society), and the available scale of resources. Solid prior 
+understanding of the open data issue at hand, the country situation, and the participants’ 
+experience and knowledge, along with sufficient resources to develop, deliver and follow 
+up after the training, were key to the success of training according to country team surveys.
+ 
+Selecting training delivery formats 
+Open data training took place out of country, in-country and virtually. From participant 
+feedback surveys, each option worked effectively. Country teams have reflected that the 
+training was fully or partially successful in meeting their needs and delivering what it set out 
+to do.
+“The trainings were well designed and carried out. The trainers engaged 
+the group effectively thus increasing the efficiency of the trainings through 
+active participation and real life examples.” 
+ 
+                                                            – Country team survey respondent
+Remote training used relatively less programme resources in terms of trainer costs and 
+time. Trainers and participants state that it worked well, and is particularly well-suited to 
+technical subjects (such as open licensing) where there is information to impart in a didactic 
+fashion, rather than in more participative processes to develop behaviours. No technical 
+problems were encountered in our experience, but it is foreseeable that this could be an 
+issue in some contexts where internet connection is less reliable. There was a sense of 
+‘charisma gap’ at the start of one session, but this quickly dissipated, and there were good 
+levels of interaction between participants and everyone was able to participate fully.
+“As the training progressed they were brainstorming ideas together.” – 
+ODI Trainer
+
+21 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+Offering ongoing support 
+Those teams who underwent training received access to support both before and after 
+their sessions. However, follow-up support happened mostly on an ad hoc as opposed to 
+a regular structured basis, with questions and requests posed to the training team as and 
+when needed. 
+Ongoing engagement with participants is an area that could receive more focus in future. 
+One of our insights is that investing in leaders requires more than sporadic contact. A 
+process that engages leaders and their teams over a longer timescale is required to 
+measure progress and shifting learning needs.
+“We should continue working together to improve [...] Maybe periodical 
+meetings might help, to keep everyone on track.” 
+ 
+                                                            – Country team survey respondent
+Assessing training outcomes
+ 
+It is difficult to assess the long-term outcomes of the ODI’s open data training for civil 
+servants given its relatively short timescale. However, some short to mid-term reported 
+impacts are as follows.
+•	Macedonian civil servants made design changes to their open data 
+portal to make it more accessible, and applied a Creative Commons 
+licence to their datasets to improve data reusability.
+•	Tanzanian civil servants are reviewing their data policy framework and 
+strategy, with concrete plans to develop a specific open data policy over 
+the next 12 months.
+•	The Burkina Open Data Initiative gained recognition as an official project 
+of the Burkina Faso government, and has applied a Creative Commons 
+licence to some of its published datasets.
+As a stand alone intervention, there was low confidence among the ODI team that training 
+programmes can bring about an open data culture in government. While training might 
+form an initial step in the process, it was felt that prolonged and multi-faceted engagement 
+between teams of civil servants, peers, and experts is required in order to affect behaviour 
+change. Nonetheless bringing people together in a training setting has other benefits: it 
+unites teams who are not usually co-located, promotes collaborative work, and imparts 
+technical information.
+
+22 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+Open data training for civil servants: recommendations
+1. Conduct a training needs assessment, but also adapt as 
+circumstances change. Opportunities for interaction should be made 
+available to participants before sessions to develop a baseline of training 
+needs. It is also useful for the trainer to be available for follow-up after the 
+training.
+2. Secure senior sponsorship to ensure outcomes of training 
+achieve capacity building goals. Secure the involvement of senior staff 
+from within the participant’s government to ensure that learning can be 
+embedded into team plans, and have a greater chance of being successfully 
+implemented. Try to avoid transitional or busy periods such as elections, as 
+this can affect the momentum to take forward actions agreed through training.
+3. Frame training activities to respond to professional development 
+goals. Training is a familiar concept and an offer that people are likely to 
+accept; they may be less likely to attend events described as workshops or 
+information sharing, for example. Because it is familiar, people feel valued if 
+they are offered training opportunities, particularly if they see it will contribute 
+to their professional development and/or lead to some form of certification or 
+accreditation.
+4. Combine hard and soft skill development. Vary theoretical 
+frameworks and content with practical elements to build soft skills, for 
+example communication techniques to equip civil servants to explain open 
+data to different audiences. Using stories and relatable use cases from similar 
+contexts is also well received, and helps to inspire new ideas and actions.
+5. Deliver ongoing support following a flexible, yet structured 
+pathway. Investing in individuals requires the trainers to remain in contact, 
+with periodic reviews of progress and ongoing needs. This can be delivered in 
+low-cost ways, such as WebEx online meeting software, or periodic one-on-
+one/small group coaching sessions.
+ 
+
+23 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+Strategic assessments for open data
+What are strategic assessments for open data?  
+‘Assessment tools’ are a method for documenting, usually in measurable terms, an 
+organisation’s level of knowledge, skills, capacity or performance against predetermined 
+criteria. Strategic assessment tools are typically applied mid-process (that is, during 
+implementation) to reveal a team’s progress towards achieving desired objectives, and 
+highlight opportunities, weaknesses and roadblocks in current approaches.
+As open data initiatives have expanded around the world, various assessment tools have 
+been developed to evaluate capabilities to initiate open data policies, legislation, the 
+release and quality of open datasets, surrounding technology and technical capacity.
+Currently, most open data initiatives in developing countries follow the World Bank’s Open 
+Data Readiness Assessment (ODRA) process. Although ODRA provides an initial analysis of 
+the policy environment and current capacities to define first steps towards releasing open 
+data (such as portal design), there is no mechanism for countries to have ongoing progress 
+checks.
+15
+ 
+While the Open Data Barometer and Open Data Index provide helpful comparative analyses 
+of impact at a country-level, they do not necessarily assess the level of operational detail 
+that leaders require to overcome implementation barriers. What is missing is a method for 
+helping open data leaders take stock of achievements to date, diagnose ongoing capacity 
+or technical gaps, review their project management systems, and refresh their approach in 
+response to current opportunities. 
+With this in mind, we piloted a new strategic assessment tool for gathering feedback and 
+advice to leaders on the status of their open data initiative. The aim was to equip leaders 
+with useful information to guide internal decision making and planning, but also to help 
+them to identify stories of progress for external communication.
+The strategic assessment tool
+16
+ encompasses multiple dimensions of an open data 
+initiative, including internal capacities, leadership and strategy, team roles and structure, 
+external engagement and data management systems. 
+We experimented with different modes of delivering the tool in Burkina Faso and Tanzania. 
+In Burkina Faso we followed a highly structured approach, using interviews and small-
+group meetings with internal and external stakeholders to gather information, followed by a 
+15  Shekhar, S. and Padmanabhan, V. (2016). How to apply assessment tools for shaping successful public sector open data 
+initiatives. London: Open Data Institute
+16  The Open Data Strategic Assessment Tool was developed by the ODI. 
+
+24 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+presentation and discussion of our initial findings with the open data team. In Tanzania we 
+followed a much more fluid approach of informal meetings, small workshops incorporating 
+strategic advice, and a larger discussion forum involving civil society, academic and private 
+sector representatives. 
+In both cases the process took approximately five to seven days. This includes planning 
+time with the core open data team, and writing up the results with advice for next steps into 
+a brief report.
+Strategic assessments for open data: key findings 
+Overall, we found the design of the assessment tool itself was comprehensive. Trainers and 
+country teams alike reported that it introduced a rigorous approach to exploring multiple 
+dimensions of an open data initiative. The value was not so much in the technical design 
+of the tool in itself, but within the journey of planning the next steps flowing out of the 
+assessment with the open data team. 
+Our findings are based on participant feedback surveys, ODI team reflections, and 
+interviews with trainers. For ease, we have organised our findings to reflect key phases 
+of the strategic assessment process, including: framing the assessment; developing the 
+assessment tool; preparing for in-country engagement; and implementing the assessment 
+tool.
+Framing the strategic assessment
+ 
+Within global development and governance, the term ‘assessment’ is used routinely. 
+However, the term ‘assessment’ can infer an extractive element. It implies that the country 
+is being subjected to a form of testing to see how well they are performing, and that an 
+external agency is judging them. This can suggest a form of paternalism that may not be 
+compatible with building local leadership.
+In practice this means that, while rigorous in approach, the assessment tool faces a 
+number of challenges. Based on ODI team reflection and a literature review of open data 
+assessment processes, we observed:
+•	Countries can see it as something that is being ‘done to them’ and as a 
+result may have little ownership of or interest in the findings.
+•	The assessment report can be lengthy and give little in the way of a 
+steer to address priority needs – being faced with a long list of issues 
+can be overwhelming and a barrier to implementation.
+
+25 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+•	The lack of a follow-up action planning process aligned to the report 
+leaves the responsibility for action primarily with the country and may 
+not lead to significant levels of implementation.
+“Assessment of needs is set with mutual understanding of both parties.” 
+ 
+ – Country survey respondent
+This suggests a need to review how the method is framed (from ‘assessment’ to ‘review 
+and refresh’), and to ensure that there is scope for follow-up support.
+ 
+Developing the assessment tool
+From the start we set out to ensure the process of developing the assessment tool itself was 
+iterative, allowing time to deliver, reflect and then adapt the tool based on varied experience. 
+We found sufficient time (4–6 months) was needed to develop the tool, including thorough 
+background research and working it through with colleagues.
+“It should not be taken as a template, but more as guidelines. You have 
+to adapt to what is found on the ground and develop some specific areas 
+that are relevant to the context. Globally it is a great tool to ensure that no 
+key dimensions of an (open data) initiative are forgotten.” 
+– ODI facilitator
+Preparing for in-country engagement 
+To be most effective, there should be good knowledge within the team running the 
+assessment of the country, current dynamics, policy priorities, and identity of key 
+stakeholders. This can be acquired through extensive desk research and through speaking 
+with experts with previous experience of open data in that country.
+Ideally there is also a pre-existing relationship with the open data team. One of the key 
+challenges we experienced was gaining access to key stakeholders for meetings where the 
+relationship was quite new. A combination of prior planning, flexibility and opportunism to 
+construct the in-country engagement is therefore important.
+“When undertaking the assessment there is a balance to be struck 
+between making sure that you have identified the key stakeholders in 
+advance so that you are sure you get the right level of input, but there is 
+also a need to adapt when you are there and respond to opportunities that 
+arise to talk to other people.” 
+– ODI team member
+
+26 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+When the in-country engagement worked best, it incorporated a combination of some or all 
+of the following elements:
+•	Pre-visit, desk-based research
+•	Pre-visit engagement with key individuals, preferably face to face to 
+plan meetings
+•	At least one week of in-country engagement (combination of meetings 
+and workshops)
+•	Allow free days to allow time for additional interviews and meetings to 
+be set up with key individuals and organisations
+Implementing the assessment tool 
+Expertise in open data (both technical and policy elements) is critical for delivering a 
+successful assessment. On the ground support is needed to help countries work through 
+the multiple dimensions of the tool, and adapt it to their context. A skilled and experienced 
+facilitator is important to help the team identify the areas that require focus, and work with 
+them to identify achievable actions to take those forward. 
+“It’s not about filling in a questionnaire – the assessment tool is a prompt 
+that highlights the areas that need further discussion.” 
+                                                                                          –               ODI               facilitator
+However, there is a risk the strategic assessment output report itself will be underutilised 
+if too lengthy or technical. Making the process more of a dialogue, and narrowing down a 
+smaller list of collectively agreed priorities (eg 2–3) also appears to be more actionable based 
+on our experience in Burkina Faso. 
+Strategic assessments for open data: recommendations
+ 
+1. Organise the assessment in close co-operation with someone 
+who has sufficient leverage within the government, and secure 
+commitment and interest from high-level officials early. Meetings should be 
+organised as a joint activity with the government team, and there should 
+be a clear mandate from a high level official. This helps to ensure greater 
+participation, and it is more likely actions coming out of the process will be 
+implemented.
+
+27 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+2. Invest in scoping to establish a good prior understanding 
+of the local context.  Spending sufficient time in building relationships 
+and background research is essential to build trust between the experts 
+facilitating the assessment and the country team, and to deepen 
+understanding of needs and challenges. Where possible, do at least some of 
+this work face-to-face with the open data leader and other actors, in country. 
+Scoping has been less successful where it relied on the intelligence of third 
+party organisations.
+3. Incorporate joint prioritisation and action planning, involving 
+experts and the open data leads. Such a joint process of analysis and 
+forward planning promotes more ownership of results and action plans. The 
+strategic assessment should become a methodology that co-produces a 
+summary of needs and refines broad strategic direction. This will require a 
+re-branding of the tool to describe it as a review or refresh of the open data 
+initiative.
+4. Be flexible to delivery style based on level of engagement 
+and maturity level. Employ the tool as a framework, not a template. Not 
+all dimensions are relevant to a given country and so flexible application 
+is very important. For instance, capacity constrained countries could be 
+encouraged to focus on a smaller number of high-priority areas. However 
+there is an argument for at least some standardisation  in terms of process 
+– involving scoping,  assessment/review in country, then follow-up support – 
+to ensure rigour and to help countries develop a clear pathway.
+5. Facilitate a participatory process including opportunities for 
+user engagement. Workshop-style meetings provide the opportunity for 
+open data leaders and their teams to pause and reflect on their progress, 
+or be exposed to different outside perspectives. There is value in providing 
+the space and support for teams to experience this kind of semi-structured 
+dialogue. This can help to unearth roadblocks, or unlock innovative new 
+solutions to feed into their strategy. 
+
+28 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+4. Learning about cross-cutting issues
+Beyond learning about the effectiveness of individual methods for supporting open data 
+leadership, we observed other cross-cutting issues which impact open data initiatives 
+related to external context and constraints and project management and governance. 
+These are important to consider when designing any open data capacity-building project, 
+especially in developing country contexts. 
+External context and constraints
+1. The foundations of many open data initiatives remain fragile. 
+Open data portals are now widespread, even in resource-constrained 
+contexts such as Burkina Faso. However, open data initiatives in developing 
+countries are frequently located on the fringe of government activity, not yet 
+entrenched in core budgets, and are often perceived as being externally led. 
+All it takes is an election, the loss of a dynamic leader, or the withdrawal of 
+external support and initiatives risk collapse. Bringing open data initiatives 
+into the central business of government by connecting it to solving policy 
+problems – for example in sectors such as agriculture, health and education 
+– is needed to solidify these early foundations.
+2. An empowered local leader driving internal change is necessary, 
+but not enough to embed change. An encouraging six of the eight 
+respondents who completed the ODLN survey say that they have been 
+able to partially implement the actions they committed to at the end of the 
+inception training. However we have also observed several barriers which 
+inhibit an individual leader’s capacity to make deeper inroads. These barriers 
+are significant and include change of government, altered government 
+spending priorities, and a lack of funding for the initiative. This suggests the 
+need to support a wider group of stakeholders to embrace open data such 
+as senior policymakers, finance teams, and Ministers.
+3. Many open data initiatives lack feedback loops between 
+users, intermediaries and producers. Engagement process can be 
+difficult in country contexts where there is an absence of trust between 
+government, civil society and intermediaries. There is a need to find the 
+right local narrative to motivate open data adoption and use in a way that 
+is appropriate for the given context eg innovation, or solving development 
+challenges. Future leadership training should focus on developing 
+
+29 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+appropriate business models, narratives, and adapting external engagement 
+processes.
+4. Clarifying the national data infrastructure is required to manage 
+uncertainty. There is widespread uncertainty regarding who ‘owns’ 
+data, how to pay for data, and how to collect and share data internally 
+as well as externally to meet the nation’s competing development needs. 
+In many countries the ODI works with, there are multiple data collection 
+processes operating in isolation, with little overview of the totality of data 
+being collected, and how the systems could be integrated. A strong open 
+data policy could help to bring clarity and greater confidence around data 
+publication and use, both internally and externally. More work to support 
+governments through the process of strategic assessment and policy 
+development is required going forward.
+ 
+Project management and governance
+1. Careful country selection, and managing expectations is key. 
+Working in capacity-constrained countries can be challenging. The fact that 
+this was an action research project, testing out different approaches, meant 
+that there was an intrinsic level of uncertainty. To maximise prospects of 
+success, we followed a careful country selection process which considered 
+commitment to open data reforms, gaps in open data support, the presence 
+of an open data leader or champion/s in a position to effect change, and 
+significant potential to have a transformative impact on the open data 
+initiative. Where a programme is intended to be experimental in its approach, 
+designed to invest in pivotal individuals and teams, the degree of risk should 
+be recognised and flexibility permitted to adapt plans as required.
+2. Background research helps minimise risks, but ‘expect the 
+unexpected’. Although risk assessment was part of the country selection 
+process, we could not anticipate all of the changes that were to happen 
+during the lifetime of the programme (such as coups, and civic unrest). 
+Undertaking spot risk checks on an ongoing basis was helpful, to monitor 
+the impact of in-country changes on both delivery of the programme and the 
+safety of staff. At times this required decisions to be taken about whether 
+specific activities will continue, and on what timeline. 
+
+30 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+3. Look for alternative ways of delivering support which maximise 
+expertise and resources. There is a sense that the overall scale of the 
+programme was about right – that three countries gave sufficient scope 
+to test different approaches in varied situations and contexts, without 
+spreading resources too thinly. Approaches that minimised costs proved 
+effective, such as delivering training remotely and undertaking as much of 
+the assessment preparation that is possible before country visits. 
+4. Draw on a network of partners and experts, including local or 
+regionally-based partners, to deliver support. In future there is potential to 
+deliver support through harnessing a broader range of expertise inside and 
+outside the ODI, for example in injecting new ODLN content, introducing the 
+business perspective, or offering legal expertise. Where there is scope to do 
+this, a diversity of voices can benefit open data leaders by offering different 
+approaches to resolving challenges. 
+5. Streamline accountability, learning and evaluation processes. As 
+this was an action research project, throughout the year we built in reflective 
+activities with participants and trainers after each core training activity, so 
+that we could adapt activities to follow. This approach proved effective, but 
+could be formalised in future by ensuring participant feedback is shared with 
+future trainers providing support, and by communicating back to participants 
+the results of their feedback. Having a monitoring, evaluation and learning 
+plan from the start of the programme can help. The plan should be reviewed 
+and updated frequently to make sure it remains useful.
+ 
+
+31 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+5. Conclusion 
+ 
+The future of supporting open data leadership 
+ 
+As an increasing number of institutions actively publish open data, we need a generation 
+of leaders who have a vision for how open data can benefit their country or city, and 
+are empowered with the right kinds of skills and social capital to innovate and manage 
+organisational change. 
+In 2015 the Open Data Institute sought to explore the idea that a local empowered leader can 
+drive change, by providing three different types of support: access to a peer network, training, 
+and strategic assessment. 
+Looking back at our original theory of change, a dynamic leader can certainly be instrumental 
+in driving open data forward. Yet momentum can be lost if they leave their post, if there is an 
+external disruption such as an election, or if the policy and institutional foundations of the 
+open data initiative are not secure. 
+Supporting leaders and their teams throughout the change management process is key to 
+embedding open data as ‘business as usual’. This requires the development of soft skills, not 
+just technical skills. It also involves developing an internal culture that encourages risk taking 
+and innovation within government. A clearly defined policy and understanding of the broader 
+data infrastructure is also needed to provide a sense of clarity and certainty.
+From our overall experience piloting these different methods, we found:
+ 
+1. Peer networks help boost personal and professional 
+development, but more research is required to understand how to scale 
+their impact. A peer network (the ‘Open Data Leaders Network’) benefited the 
+personal development of individual members, in particular through enhancing 
+their social capital and challenging their thinking. More time and research is 
+required to understand whether this will translate to impact at the institutional 
+or national level.
+2. Training programmes for civil servants are one component of 
+a broader process of capacity building. Face-to-face and virtual training 
+methods worked well for increasing knowledge especially on technical 
+subjects such as licensing. But affecting long-term behavioural and culture 
+change may require a longer term form of multi-faceted engagement built on a 
+relationship of trust between trainees and training partners.
+
+32 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+3. Strategic assessments should be reframed in participatory terms 
+to promote ownership of results and follow-up actions. The assessment 
+tool we piloted provided rigorous guidelines for structuring a review of a team’s 
+ongoing progress implementing their open data initiative. Using the tool to 
+promote dialogue, reflection, and to generate a list of collectively agreed 
+priorities – as opposed to a one-off event – could deepen the outcomes.
+4. Support programmes should incorporate a degree of flexibility, 
+and plans should be adapted as external circumstances change. Prior 
+country scoping in the form of desk research, stakeholder interviews, and 
+learning needs assessment was crucial in tailoring the design of support 
+programmes. An adaptive and responsive approach is especially important in 
+more fragile operating contexts.
+5. Teams providing leadership support or training activities should 
+conduct ongoing reviews of their own effectiveness. Reflecting on 
+our own practice throughout the cycle of design and implementation was 
+beneficial to promote continuous learning about how effective methods were. 
+In future, we should standardise this approach, and ensure feedback flows 
+between participants and the delivery team.
+Several questions emerge from our review which requires further exploration:
+•	What is the relationship between policy change or culture change (and 
+what comes first)? 
+•	How to evolve from charismatic leadership, so that open data is 
+integrated into systems and can withstand political transitions?
+•	How to build on the early successes of the ODLN and scale peer 
+networks organically?
+•	What are most effective user engagement strategies which can 
+strengthen the feedback loop to motivate greater adoption and use of 
+open data to solve problems?
+ 
+These are some of the issues we will be investigating in 2016, as we continue to explore 
+different methods of building open data leadership around the world. 
+If you have an idea for network building, are part of a successful peer network, or are 
+interested in finding out more about the ODLN we would love to hear from you. Get in touch 
+with fiona.smith@theodi.org or tweet us at @ODIHQ.
+
+33 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+6. About this report 
+The Open Data Institute (ODI) connects, equips and inspires people around the world to 
+innovate with data. It is independent, nonprofit and nonpartisan, founded in 2012 by Sir Tim 
+Berners-Lee and Sir Nigel Shadbolt. From its headquarters in London and via its global 
+network of startups, members and nodes, the ODI offers training, research and strategic 
+advice for organisations around the world looking to explore the possibilities of open data.
+This report was supported by the Open Data for Development (OD4D) programme. OD4D 
+is managed by Canada’s International Development Research Centre (IDRC), and it is a 
+donor partnership with the World Bank, the United Kingdom’s Department for International 
+Development (DFID) and Global Affairs Canada (GAC). The OD4D network of leading 
+organisations are creating locally driven and sustainable open data ecosystems in Latin 
+America, the Caribbean, Africa, and Asia and East Europe. OD4D focuses on building up 
+the supply of quality open data, and also on improving the use of that data by leaders in 
+government, civil society, the media, and business so that it furthers public interest and 
+improves people’s lives.
+A partnership funded by
+
+34 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+7. Acknowledgements 
+With thanks to the members of the Open Data Leaders Network, the open data teams from 
+Tanzania, Macedonia, and Burkina Faso, and the ODI team of trainers and consultants (Liz 
+Carolan, Richard Stirling, Dawn Duhaney, William Gerry, Emma Truswell, Briony Phillips, Leigh 
+Dodds, Stephane Boyera, Pierre Chrzanowski) for their invaluable feedback.
+Special thanks to Helen Bovey and Nicola Stenberg from Icarus for their evaluation support. 
+Icarus is an evaluation, research and facilitation company with a key focus on participation. 
+They designed and facilitated an end of year reflection process to help the ODI synthesise the 
+lessons learned contained in this report.
+
+35 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+8. Appendix 
+Research methodology note 
+Research approach 
+We used a mixed method research approach to assess our activities over the course of the 
+year. This involved a combination of evaluation forms (distributed in person directly after 
+activities, and online), participant observation, interviews, and focus group discussions to 
+facilitate reflection. 
+To conduct the final evaluation, we engaged an external consultant, Icarus, to help us 
+collect and analyse results. Icarus employed two surveys: one to ODLN members, and one 
+to country team members who had participated in training and/or a strategic assessment. 
+Icarus also conducted telephone interviews with ODI trainers and consultants, and facilitated 
+a focus group discussion with the core ODI team responsible for implementing the support 
+programme.
+ 
+Research questions
+The survey of ODLN members asked:
+•	What was your role with regards to open data at the time you attended 
+the ODLN training? Are you still in the same role?
+•	What was your experience engaging with the ODI as a whole?
+•	What was the most notable point/take-away from participating in the 
+ODLN?
+•	What aspects of the ODLN, if any, have been most helpful to you in 
+doing your job?
+•	To what extent have you been able to implement the action/s you 
+committed to at the end of the training?
+•	To what extent have you been able to implement the action/s you 
+committed to at the end of the training?
+•	To what extent have you taken part in the network since attending the 
+training?
+•	To what extent have you found membership of and ongoing 
+
+36 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+engagement with the ODLN useful?
+•	Overall, what have been the personal benefits to you of being involved 
+in the ODLN?
+•	Overall, what have been the benefits for your team/department/
+government as a result of you being involved in the ODLN?
+ 
+The survey of country team members who participated in training and/or strategic 
+assessments asked:
+•	How accurate or otherwise do you think the assessment of needs 
+produced by the ODI was?
+•	To what extent do you think there was a good alignment between the 
+assessment of needs and the training and/or support you received from 
+the ODI?
+•	How closely did the training you received from the ODI meet the needs 
+of your team/department/government?
+•	To what extent was the training provided by the ODI successful in 
+delivering what we expected it to do?
+•	Overall, what have been the personal benefits to you of being involved 
+in this programme with the ODI?
+•	What significant changes around open data, if any, have happened as a 
+direct result of your engagement with the ODI?
+•	How confident are you that engaging the programme will make a lasting 
+difference to your team/department/country?
+ 
+The interviews with ODI trainers and consultants addressed:
+•	How effective was the format of the training provided (virtual, face to 
+face etc)?
+•	To what extent do you think the training met the local needs?
+•	Were there sufficient resources to design and deliver the training 
+effectively?
+•	What worked well about the training you delivered?
+•	Were there any aspects of the training that, in retrospect, you would 
+
+37 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+have changed? What are the optimal conditions for facilitating training 
+to public servants?
+•	What worked well about the strategic assessment tool – how effective 
+was it in capturing a full picture of the country’s needs?
+•	What improvements would make the assessment tool more useable 
+and/or effective?
+•	What are the optimal conditions for conducting open data strategic 
+assessments?
+•	Was the country scoping/selection process effective? Did it result in the 
+right kinds of countries receiving the support package?
+•	To what extent did in country issues (eg staff changes, elections) and 
+instability impact on the delivery of the programme? How could these 
+have been mitigated against, if at all?
+•	Were there sufficient/appropriate governance arrangements in place for 
+the programme as a whole?
+ 
+Research methodology note 
+Profile of respondents to ODLN survey 
+We received 10 surveys responses (out of 14 invitations sent)  from Nigeria, Tanzania, 
+Macedonia, Mexico, Argentina, Moldova, Romania, New Zealand, and one not specified. 
+From the ODLN survey respondents:
+70% (n:7) describe themselves as leading the open data initiative at country level
+20% (n:2) describe themselves as leading the open data initiative at city level
+10% (n:1) describe themselves as open data initiative co-ordinator
+80% (n:8) are still in the same role as when they joined the ODLN
+20% (n:2) are no longer in the same role but both still have open data responsibilities in 
+their new position
+ 
+Profile of respondents to country programme surveys  
+We received five survey responses from the core open data teams in Macedonia (2) and 
+Burkina Faso (3), but no country team survey responses were received from Tanzania. 
+
+38 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+These survey responses were supplemented by a desk review of:
+•	participant evaluation forms from ODLN cohorts (1 and 2), submitted 
+directly after the inception training week
+•	notes from ODI team retrospectives on ODLN, training and strategic 
+assessment, conducted within one month of implementing activities
+•	training evaluation forms from Macedonia, Tanzania and Burkina Faso, 
+submitted directly after training activities
+Profile of respondents to trainer interviews
+ 
+We conducted semi-structured telephone interviews with trainers David Tarrant, Leigh 
+Dodds, Melanie Dulong, Briony Phillips. Written feedback against the interview questions 
+was received from Pierre Chrzanowski. Lastly, a focus group was held with five members of 
+the core ODI team.
+ 
+Limitations 
+ 
+The mixed methods were designed to be robust, and were undertaken by Icarus to provide 
+an independent perspective on the findings. The advantages of this approach include an 
+independent perspective, working with experienced evaluators and analysts, while fitting 
+within an overall framework to provide a consistent approach.
+However, limitations include: the independent research was summative rather than 
+formative (happening at the end of the programme rather than throughout), the programme 
+team from Tanzania did not participate in the online survey, the small sample sizes from 
+the countries may mean that the results are partial and as a result there is little scope for 
+triangulation of the data where opinions differ. 
+Furthermore, our research only focused on the ODI’s direct inputs. Given that country 
+programmes and individual leaders typically receive support from multiple sources, it is 
+difficult to directly attribute results or isolate the ODI’s contribution from other inputs.
+
+39 Lessons on supporting public sector open data leadership | Open Data Institute 2016
+8. Bibliography 
+Broad, E., Smith, F., Duhaney, D., and Carolan, L. (2015). Open data in government: how to 
+bring about change. London: Open Data Institute.
+Carolan, L. (2015). Small teams, big ideas. [Blog] World Bank Data Blog. Available at: http://
+blogs.worldbank.org/opendata/small-teams-big-ideas-open-data-ambition-runs-start-ups-
+governments [Accessed 2016-04-14].
+Enabling the data revolution: An International Open Data Roadmap (2015). Conference 
+Report. In: 3rd International Open Data Conference. [Online] Ottawa. Available at: 
+http://1a9vrva76sx19qtvg1ddvt6f.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/
+opendatacon-report-en-web.pdf [Accessed 2016-04-12].  
+Keely, B. (2007). Human Capital: How what you know shapes your life. OECD Insights, 
+Paris, OECD Publishing.
+Kirkpatrick, D. L. (1998). Evaluating training programs: The four levels. 2nd ed. San 
+Francisco: Berrett-Koehler Publishers.
+Rogers, E. M. (1962). Diffusion of innovations. Glencoe: Free Press. 
+Shekhar, S. and Padmanabhan, V. (2016). How to apply assessment tools for shaping 
+successful public sector open data initiatives. London: Open Data Institute.
+Smith, F., Harvey, B., and Gerry, W. (2016). How to create and sustain peer networks for 
+open data leaders. London: Open Data Institute.
+The World Wide Web Foundation, (2015). The Open Data Barometer Global Report. 2nd ed. 
+Available online at: http://www.opendatabarometer.org/assets/downloads/Open%20Data%20
+Barometer%20-%20Global%20Report%20-%202nd%20Edition%20-%20PRINT.pdf 
+[Accessed 2016-04-14].
+

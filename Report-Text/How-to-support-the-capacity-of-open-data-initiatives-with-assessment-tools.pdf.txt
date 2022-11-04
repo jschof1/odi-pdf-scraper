@@ -1,0 +1,1158 @@
+
+
+1 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+How to 
+support the
+capacity of
+open data
+initiatives with
+assessment
+tools
+ODI-WP-2016-003 
+2016-04-20
+Open Data Institute
+
+2 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+Table of contents 
+Executive summary  3
+Introduction              5
+Assessment tools: definitions and characteristics     6
+The purpose of open data assessment tools  6
+Open data assessment tools as a method for capacity building  7
+Who carries out assessments?  8
+What constitutes an assessment tool?  8
+Analysis: evaluation of assessment tools for building open data capacity  11
+Conclusion and recommendations for developing  
+open data assessment tools in the future  15
+About this report  17
+Appendix              18
+Bibliography              27
+Authors: Satyarupa Shekhar (Citizen Consumer and Civic Action Group) and 
+Vinaya Padmanabhan (Independent Consultant)
+
+3 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+1. Executive summary
+This paper reviews existing open data assessment tools, to support organisations, researchers, 
+open data leaders, and global development practitioners in conducting assessments to build 
+capacity of open data initiatives. 
+Specifically, this paper will answer three key research questions: 
+1. What is the rationale for using open data assessment tools? 
+2. What are the different tools available for conducting capacity assessments, and 
+what are their key features? 
+3. How effective are assessment tools currently designed for building capacity of 
+open data initiatives?
+There are various tools for assessing different aspects of an open data initiative. Some tools 
+assess the capabilities of a country or organisation to implement an open data initiative. Others 
+measure the ongoing implementation of an open data initiative, or the quality of the data being 
+published. Others evaluate the impact created by open data. 
+For the purposes of this paper, we are particularly interested in how assessment tools can be 
+used  to  provide  useful  insights  into  the  progress, opportunities, risks  and  challenges  of  
+implementing an open data initiative – whether at the national, regional or city level.
+Based on previous research, we have chosen to categorise open data assessment tools as 
+assessing either open data capabilities, implementation or impact.
+1
+  While some tools fall into 
+one of these categories, most overlap. Each tool has different strengths and weaknesses, 
+depending on what they focus on. Yet the tools often lack coverage of in key areas: culture 
+change, operational management, data management systems and estimating impact. 
+Based  on  our  review  we  make  the  following  recommendations.  Assessment  tools  and  
+processes aimed at supporting open data capacity building should:
+1. Provide  practical  insights  for  managers  and  teams  implementing  open  data  
+initiatives  on  how  they  can  improve  implementation  for  enhanced  impact.  In  
+1     See Davies, T. et al (2014) Towards common methods for assessing open data: workshop report and draft framework. 
+[Online] New York: The World Wide Web Foundation and the Governance Lab at NYU. Available at: http://opendataresearch.
+org/sites/default/files/posts/Common%20Assessment%20Workshop%20Report.pdf [Accessed 2016-04-18].
+
+4 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+particular,  include  some  interim  progress  targets  to  encourage  organisations  to  
+learn from their experience and become more metric-driven in their approach.
+2. Take a holistic view that covers all aspects of managing the open data initiative 
+(including leadership, implementation, finances and user engagement practice). 
+When  examining  implementation  aspects,  it  is  also  important  to  consider  open  
+data within the context of the existing data management systems and capabilities, 
+eg how data is being collected and accessed, as well as the quality of that data 
+in  case  of  any  bias,  to  identify  any  possible  issues  limiting  reliability,  access  or  
+reuse.
+3. Incorporate inputs from multiple perspectives (internal and external) to provide 
+a  ‘360’  view  of  the  health  of  the  initiative.  This  may  help  to  promote  greater  
+shared ownership of results and action steps flowing out of the assessment.
+4. Identify the various outcomes and impacts of open data initiatives, including 
+any undesirable or unintended consequences. More effort is required to establish 
+common impact measurement methodologies, for example, to estimate the value 
+and financial sustainability of the open data initiative – particularly in developing 
+country contexts. 
+5. However, impact measurement should not be limited to only economic benefits, 
+but also consider how open data connects with furthering other policy objectives 
+of  the  organisation/country.  Tools  should  also recognise   the   social   and   
+environmental benefits that are likely to accrue from an open data initiative 
+and be able to identify suitable ways to offset the costs in order to achieve 
+those benefits. 
+This paper forms one of a series of ‘methods papers’ produced by the Open Data Institute 
+(ODI), looking at the literature and practice around how to support the growth and sustainability 
+of open data initiatives around the world. 
+We begin by outlining the need for assessment tools before reviewing different open data 
+assessment  tools,  their  key  features  and  methodologies,  similarities  and  differences.  We 
+conclude by recommending the development of a comprehensive open data assessment tool 
+that  would  be  valuable  to  organisations,  researchers,  leaders  responsible  for  implementing  
+open  data  initiatives,  and  global  development  practitioners  involved  in  open  data  capacity  
+building activities. 
+
+5 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+2.    Introduction
+Open  data  is  data  that  anyone  can  access,  use  and  share.  Open  data  can  help  bring   
+efficiencies  to  policymaking,  boost  citizen  engagement  and  stimulate  innovation  and  
+economic  growth.  Governments  and  organisations  around  the  world  are  developing  an  
+increasing number of open data initiatives: building capacities to use and produce open data 
+for social, environmental and economic benefits.
+As  open  data  initiatives  have  expanded  around  the  world,  tools  have  been  developed  to  
+evaluate capabilities to initiate open data policies, legislation, release and quality of open 
+datasets, technology and technical capacity. Others have been developed to estimate open 
+data’s impacts on government performance as well as its social, environmental and economic 
+benefits more broadly. 
+An assessment  tool  is  a  method  for  documenting,  usually  in  measurable  terms,  an   
+organisation’s  level  of  knowledge,  skills,  capacity  or  performance  against  predetermined  
+criteria.  The  results  can  be  analysed  to  reveal  risks  and  opportunities,  weaknesses  and  
+strengths, roadblocks and progress towards achieving desired objectives.
+The various reasons for conducting an assessment means that a single tool may struggle to 
+capture all of the elements of an open data initiative. Multiple assessment tools may therefore 
+be necessary. For the purposes of this paper, we are interested in how assessment tools can 
+be used to build an organisation’s capacity to unlock a sustainable supply of open data.
+Assessing open data for global development
+Within  the  Open  Data  for  Development  Partnership  (OD4D),  there  is  a  focus  on  different 
+methods  of  capacity  building  are  being  explored,  to  support  individuals,  organisations  and  
+systems in developing countries to effectively plan, implement and manage impactful open 
+data initiatives.
+One of these methods is the open data assessment tool. This paper provides an overview of 
+open data assessment tools, with practical recommendations for organisations, researchers, 
+open  data  leaders  and  global  development  practitioners  looking  to  use  them  to  build  their  
+open data capacity. 
+
+6 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+We aim to answer three key research questions: 
+1. What is the rationale for using open data assessment tools? 
+2. What are the different tools available for conducting capacity assessments, and 
+what are their key features? 
+3. How effective are assessment tools currently designed for building capacity of 
+open data initiatives?
+3. Assessment tools: definitions and characteristics
+The purpose of open data assessment tools
+As open data initiatives have multiplied in jurisdictions around the world, so too have open data 
+assessment tools. These tools assess open data quality, capacities, standards and initiatives, 
+to evaluate performance and help us to understand the impacts of approaches and actions to 
+inform open data strategies. 
+There are several purposes for open data assessment tools, which can be grouped into five 
+broad themes, depending on who is conducting the assessment and why.
+1. Implementing  agencies  and  project  teams  can  use  them  to  assess  the  quality  
+of  datasets,  and  monitor  organisational  progress  against  the  objectives  of  
+their open data initiatives (including achievements) to prioritise opportunities for 
+achieving maximum impact.
+2. Governments  and  citizens  can  use  them  to  benchmark  performance  against  
+other  countries,  and  identify  specific  areas  where  they  could  improve  their 
+capacity to publish and reuse open data. 
+3. Businesses and social entrepreneurs can use them to identify social or commercial 
+opportunities for their products or services. 
+4. Researchers and journalists can understand  the  degree  of  transparency  in  a  
+context,  the  social  or  commercial  impacts  of  open  data,  and  identify  critical  
+areas for future research to improve open data policy and practice.
+
+7 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+5. Funding agencies and open data activists can use them to strengthen advocacy 
+for investments in open data initiatives and capacity building efforts.
+For the purposes of this paper, we are particularly interested in the first two themes, ie  how 
+assessment tools can be used to support sustainable open data publication and use, through 
+providing  insights  to  managers  and  teams  about  areas  of  progress,  opportunity,  under-
+performance or risk. While we consider the other purposes to be vital in terms of growing the 
+demand for open data, our focus is primarily upon the potential supply-side capacity-building 
+benefits. 
+Open data assessment tools as a method for capacity 
+building 
+Ongoing monitoring and evaluation of open data initiatives is vital as it helps governments and 
+other implementing organisations to reveal problems, identify priority areas for improvement, 
+and find opportunities for impact.
+An assessment tool can identify how governments could engage with citizens and businesses 
+better to stimulate demand for, and reuse of, open data. It can also determine what improvements 
+are required to increase data quality and usability. If conducted in a participatory process 
+involving external actors, including civil society, it may also help to strengthen the open data 
+ecosystem to lay the foundation for social, economic and political impact.
+Assessment  tools  can  make  comparisons  across  countries,  governments  or  organisations  
+which allows for benchmarking against the performance of others. Assessments can determine 
+common minimum features for open data initiatives to adhere to, while also promoting global 
+transparency and accountability through the publication of assessment results.
+
+8 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+Who carries out assessments?
+In  terms  of  process,  assessments  can  be  conducted  by  internal  or  external  evaluators.  
+Internally,  it  can  be  carried  out  by  an  individual  or  group,  and  rely  on  information  shared  
+through observations, staff meetings and focus group discussions with internal (employees, 
+senior  management,  department  heads)  and  external  stakeholders  (users,  businesses).  
+External  assessments  are  typically  carried  out  by  evaluators  from  outside  the  organisation  
+being  reviewed,  and  are  based  on  publically  available  information  or  documents  that  the  
+organisation shares as part of the assessment. It could also include interviews and site visits 
+with internal and external stakeholders. 
+To learn more about the processes followed by different assessment tools, see the Appendix.
+What constitutes an assessment tool?
+The  current  landscape  of  assessment  tools  includes  both  quantitative  and  qualitative 
+frameworks,  which  are  delivered  through  a  combination  of  external  and  self-assessment 
+methods. The following table provides a summary of open data assessment tools and short 
+descriptions of their methods, coverage and units of analysis. It draws on reviews presented 
+in the Common Assessment Framework workshop report, the ODI’s analysis of assessment 
+tools, and (unpublished) discussion notes from an International Open Data Conference 2015 
+session on measurement.
+[See Appendix Table 1: Landscape of assessment tools]
+From this table, we can see that data assessment tools can be categorised using their unit 
+of  analysis  –  datasets,  open  data  portals,  organisations  or  countries,  for  example  –  as  well  
+as  purpose.  Tools  may  conduct  their  measurement  at  the  level  of  the  country,  government  
+agency, or company.
+The  ‘Common  Assessment  Framework’  originally  proposed  by  the  World  Wide  Web  
+Foundation  and  Governance  Lab  at  New  York  University,  assesses  open  data  initiatives 
+using four elements: the context where data is being released; the quality of datasets; data  
+reuse; and the impact gained from published datasets.
+2
+ 
+2 See Davies, T. et al (2014) Towards common methods for assessing open data: workshop report and draft framework. 
+[Online] New York: The World Wide Web Foundation and the Governance Lab at NYU. Available at: http://opendataresearch.
+org/sites/default/files/posts/Common%20Assessment%20Workshop%20Report.pdf [Accessed 2016-04-18].
+
+9 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+In this paper we classify assessment tools using similar, but simplified, categories according to 
+whether they measure capabilities, implementation or impact. We have reframed ‘readiness’ 
+as ‘capabilities’, as we are most interested in whether an initiative has the right capacity behind 
+it for it to succeed, including a solid strategy and action plan. 
+1. ‘Capabilities’ examines the preconditions for an open data initiative to thrive, for 
+example the Open Data Readiness Assessment developed by the World Bank.  
+3
+Measuring capabilities can help to understand whether the conditions for an open 
+data  initiative  exist,  and  could  help  implementing  agencies  to  identify  potential  
+opportunities for impact, or what capacity gaps/challenges to expect. Important 
+aspects  to  assess  include  the  legal  and  regulatory  environment;  organisational  
+context;   political   will   and   leadership;   technical   capacity;   the   wider   social   
+environment, in terms of civil society and political freedoms; and the commercial 
+environment and capacity of firms to engage with open data.
+2. ‘Implementation’ studies how open data policies are implemented and managed 
+on a day-to-day basis. Typically these assessments examine the extent to which 
+an organisation’s initiative meets the criteria for open data, ie whether open data 
+is (a) available and accessible, (b) reusable and redistributable and (c) allows for 
+universal participation and access. Important aspects to assess relate both to data 
+and use eg issues of data relevance and quality, users accessing (or providing) 
+the dataset, the purposes for which the data will be used, and the activities being 
+undertaken.
+3. ‘Impact’ attempts to uncover the causal relationships between open data, its use, 
+and  whether  open  data  has  resulted  in  increased  transparency,  accountability,  
+greater  participation,  or  other  social,  governance,  environmental  and  economic  
+benefits (and any unintended or undesirable consequences).
+3      See the World Bank’s Open Data Toolkit. [Online] Available at: http://opendatatoolkit.worldbank.org/en/odra.html [Accessed 
+2016-04-18].
+
+10 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+The table below summarises the categories of assessment tools, and common criteria they 
+use to evaluate open data initiatives:
+Category of assessmentTypical criteria being assessed
+Capabilities
+Legal context
+Presence of organisations
+Presence of leadership
+Technical capacity
+Social context
+Economic context
+Strategy and plans
+Implementation  
+Availability
+Methodology/ quality: how complete, primary, timely, usable 
+and reliable is data in general?
+Accessible, reusable and redistributable
+Universal participation
+Classifications: what kinds of datasets are available within a 
+country or sector?
+Use of open data (key user-groups and datasets)
+Purpose of use
+Activities
+Internal management (change management, capacity and 
+skills, budget etc)
+Impact
+Social benefits
+Environmental benefits
+Economic/ commercial benefits
+Political/ governance benefits
+For more on the landscape of assessment tools and the criteria they measure, see the Appendix.
+For  our  specific  research  focus,  we  have  focussed  on  the  implementation  and  impact 
+categories, as these relate most closely to building ongoing capacity. 
+
+11 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+4. Analysis: evaluation of assessment tools for  
+ building open data capacity
+In this section, we discuss how effective assessment tools can be designed to support the 
+capacity of governments to unlock a sustainable supply of open data. 
+Assessing open data capabilities
+Some assessment tools focus on the capabilities of a government to design and implement 
+an open data initiative. Most of these tools analyse capabilities at the national level and use a 
+checklist or points-based rating system that can be administered internally or by an external 
+agency. Points-based rating systems can encourage a government to build capacities in areas 
+that are prerequisites for the successful implementation of an open data initiative. For instance, 
+the Open Data Readiness Assessment creates a comprehensive weighted score for open data 
+capability based on an assessment of the surrounding legal and economic contexts, technical 
+capacity,  government  leadership  and  civil  society  participation  in  open  data  initiatives.  The  
+system  allows  governments  to  prioritise  weaker  areas  for  investment  and  capacity  building  
+activities. 
+Current gaps and challenges
+Checklists and points-based assessment systems offer a straightforward way of directing 
+governments to build capacities in certain areas. However, quantitative methodologies can 
+fail to capture important qualitative information. One key area is the attitude towards changing 
+government culture from a closed to an ‘open by default’ position. In most organisations looking 
+to  implement  open  data  initiatives,  the  biggest  obstacle  is  often  a  reluctance  to  implement  
+initiatives that promote transparency and accountability. Government officials are sometimes 
+concerned about opening data that could expose problems in the government, mistakes in 
+the data, or that could be misused by other people. 
+Tools based on surveys and checklists also tend to ignore context-specific information. For 
+instance, the tools focus on the legal context of open data, and rate countries highly if they 
+have  legal  provisions  for  open  data.  However,  adopting  open  data  legislation  is  a  complex  
+and  time  consuming  process,  especially  in  countries  experiencing  political  instability.  Also,  
+checklists can be reductive in certain contexts: several countries release data without a legal 
+framework or Freedom of Information laws. 
+
+12 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+Further, the current range of assessment tools do not necessarily elicit the kind of practical 
+information  that  is  useful  for  the  project  team  who  will  be  involved  in  actually  running  the  
+initiative. A national-level assessment in including analysis of policy could be useful in delivering 
+high-level guidance to senior leaders, but it may not equip the project team with operational-
+level information to inform their action plans.
+Finally, though all the tools measure different aspects of capabilities, only the ‘Open data 
+in government: how to bring about change’
+4
+    report  recommendations  and  the  Open  Data  
+Barometer attempt to link the rationale for the open data initiative to the intended outcomes. 
+This linkage is important as it forms the basis for future assessments of the effectiveness and 
+outcomes of open data initiatives. 
+Assessing open data implementation
+Most assessment tools focus on aspects of how governments and companies implement open 
+data initiatives. Some tools, such as the Open Data Inventory and the Open Data Index and 
+Census, use checklists and point-based rating systems to evaluate countries or companies. 
+Others like the Open Data Barometer and the United Nations E-Government Survey require 
+experts to survey countries/companies and assess open data implementation.
+Generally, tools in this category focus on data availability, quality, and data reuse. Assessing 
+data  reuse  is  important  for  several  reasons:  measuring  the  use  of  specific  data  provides 
+governments with accurate information on demand, and increased levels of data reuse could 
+indicate  the  success  of  a  government  initiative.  Only  the  Maturity  Model  Pathway  and  the  
+European PSI Scorecard evaluate both data quality and reuse. 
+Current gaps and challenges
+Overall,  we  find  a  heavy  weighting  of  tools  towards  impact  research  and/or  generating 
+comparative league tables, aimed at delivering content that is more suitable for an external 
+audience  (purposes  3–5,  listed  above).  However,  there  appears  to  be  less  coverage  of  
+implementation aspects in general to support the open data initiative itself (purpose 2).
+Although existing tools in this category are relatively strong on aspects of data publication and 
+use, they do not tend to provide information on how governments can improve implementation 
+and  day-to-day  internal  management  of  open  data  initiatives.  In  particular,  they  do  not 
+4 Broad, E. et al. (2015) Open data in government: how to bring about change. London, Open Data Institute.
+
+13 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+consider organisational aspects such as team structure, responsibilities, strategy, budgeting 
+and  leadership.  Addressing  cultural  change  issues  such  as  progress  towards  developing  
+an  ‘open  mindset’,  or  improving  user  engagement  practice  are  other  content  gaps.  More  
+operational-level content, and interim progress targets is required to enable teams to measure 
+their progress over time and position their initiative for success.
+Assessment  tools  in  this  category  typically  focus  on  certain  key  datasets  as  indicators  for  
+the  state  of  open  data  implementation  including  election  results,  maps,  land  ownership,  
+government budgets and legislation data. Limiting the sample number of datasets is practical, 
+and many of these datasets are highly valuable. However, many tools do not explain how they 
+extrapolate their findings from the sample of datasets to make judgements about the overall 
+national open data ecosystem. 
+We found in our review that measuring implementation poses several challenges. For instance, 
+assessment tools may not capture background issues such as discrimination in data collection 
+processes. These are issues that often relate to pre-existing data management systems, and 
+are not specific to open data. However, tools that do not analyse how the data is collected run 
+the risk of ignoring biases and irregularities. 
+While many tools focus on ensuring published data adheres to the open data definition, they 
+do not always evaluate the quality of that data. By failing to evaluate the quality, some of these 
+assessment tools may overestimate the usability and usefulness of published datasets.
+Further, automated tools that simply measure open data availability on the internet may not 
+address broader issues of who is able to access and use that data – an important consideration, 
+particularly in developing contexts with lower internet penetration. There may be other cases 
+where  open  data  is  available,  but  is  not  used  (due  to  low  awareness,  for  example),  which  
+assessment  tools  need  to  take  into  account.  As  a  result,  assessment  tools  that  focus  on  
+implementation should also examine how the data is collected, and any barriers to use and 
+reuse.
+
+14 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+Assessing open data impact
+Measuring  impact  can  be  very  difficult,  but  several  existing  frameworks  seek  to  evaluate 
+open data impacts. There are a number of studies that have developed methods to quantify 
+potential  economic  impacts  of  open  data  and  have  estimated  the  economic  value  of  open  
+data. For instance, a European Commission commissioned study in 2006 estimated that the 
+economic value of the public sector information market was €27 billion,
+5
+  while a similar study 
+in the UK estimated that the government’s open data portal (data.gov.uk) would increase its 
+GDP by £28 million in 2016.
+6
+ 
+Eight  tools  under  review  assessed  the  impact  of  open  data,  seven  of  which  used  surveys  
+and self-assessment checklists. Only the paper ‘Social impact of open data’ uses outcome 
+mapping  and  case  studies  as  its  primary  methodology.
+7
+  While  tools  using  checklists  can  
+capture information on a wide variety of impacts, the latter paper provides deeper analysis on 
+interim, indirect (or ‘downstream’) outcomes, focusing on three country case studies. Outcome 
+mapping, unlike one-off assessment tools, can be used as a form of ongoing monitoring and 
+evaluation to measure the progress and impact of an open data initiative.
+Current gaps and challenges 
+As yet, there is little consensus around measuring the economic impact of open data. Work 
+needs to continue in this area to advance common methods and understanding of estimating 
+economic impact and value for money of open data initiatives, including in developing contexts. 
+It is difficult to study the impact of something with so many potential benefits as open data. 
+Self-assessing open data impact could be a promising strategy as those who have experienced 
+the impact are best placed to report it and take ownership of results. There is, however, a risk 
+of producing biased results. For instance the Open Data Impact Map
+8
+ and Open Data 500
+9
+  
+require companies and organisations to fill in a short online survey about their use and reuse 
+5      Dekkers,  M.  et  al  (2006).  Final  report  of  study  on  exploitation  of  public  sector  information:  benchmarking  of  EU  
+framework conditions. Measuring European Public Sector Information Resources. Available at: https://ec.europa.eu/digital-
+single-market/en/news/mepsir-measuring-european-public-sector-information-resources-final-report-study-exploitation-0 
+[Accessed 2016-04-18].
+6     Carpenter, J. and Watts, P. (2013). Assessing the Value of OS Open Data™ to the Economy of Great Britain - Synopsis. 
+[Online]  Available  at:  https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/207692/bis-13-950-
+assessing-value-of-opendata-to-economy-of-great-britain.pdf [Accessed 2016-04-18].
+7      Keseru, J. and Chan, J. (2015). The social impact of open data. Sunlight Foundation. Available at: https://www.scribd.com/
+doc/263776138/The-Social-Impact-of-Open-Data [Accessed 2016-04-18].
+8      Open  Data  Enterprise. Open  Data  Impact  Map.  [Online]  Available  at:    http://www.opendataenterprise.org/map.html 
+[Accessed 2016-04-18].
+9      GovLab. The OD500 Global Network. [Online] Available at: http://www.opendata500.com. [Accessed 2016-04-18].
+
+15 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+impact of open data. Since the survey is online, it excludes organisations that have benefitted 
+from open data, but may not have access to computers and Internet connections, creating 
+a biased sample. Self-reporting also relies on a common understanding of what constitutes 
+‘impact’, and the distinction between open data ‘use’ and ‘impact’ is still unclear. 
+Although most impact studies measure the economic and political benefits of open data – such 
+as transparency and accountability – only the Open Data Barometer specifically measures 
+environmental benefits. This suggests the need to look for more ways of assessing the broader 
+range of open data impacts, including benefits that accrue downstream. 
+5. Conclusion and recommendations for developing  
+ open data assessment tools in the future
+The various potential benefits of open data have now been well asserted – from increases 
+in efficiency of service delivery to fostering economic innovation and entrepreneurship. The 
+myriad of benefits has, in part, contributed to the difficulties around how to measure progress 
+and impact. While many new tools have been developed to assess both internal and external 
+aspects of open data initiatives, several elements are not adequately captured by existing 
+assessment tools. 
+A number of recommendations emerge from this paper, which may help researchers, open data 
+leaders and global development practitioners to achieve a more holistic picture of progress, 
+capacity and impact through assessment tools and processes.
+1. Provide  practical  insights  for  managers  and  teams  implementing  open  data  
+initiatives  on  how  they  can  improve  implementation  for  enhanced  impact.  
+In  particular,  include  some  interim  progress  targets  to  encourage  organisations  
+to learn from their experience and become more metric-driven in their approach.
+2. Take a holistic view that covers all aspects of managing the open data initiative 
+(including  leadership,  implementation,  finances,  and  user  engagement 
+practice). When  examining  implementation  aspects,  it  is  important  to  consider  
+open  data  within  the  context  of  the  existing  data  management  system(s)  and  
+capabilities eg how data is being collected and accessed, as well as the quality 
+of that data in case of any bias, to identify any possible issues limiting reliability, 
+access or reuse.
+
+16 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+3. Incorporate inputs from multiple perspectives (internal and external) to provide 
+a  ‘360’  view  of  the  health  of  the  initiative.  This  may  help  to  promote  greater  
+shared ownership of results and action steps flowing out of the assessment.
+4. Identify the various outcomes and impacts of open data initiatives, including 
+any undesirable or unintended consequences. More effort is required to establish 
+common impact measurement methodologies, for example, to estimate the value 
+and financial sustainability of the open data initiative, particularly in developing 
+country contexts. 
+5. However, impact measurement should not be limited to only economic benefits, but 
+also consider how open data connects with furthering other policy objectives of the 
+organisation/country. Tools should also recognise the social and environmental 
+benefits that are likely to accrue from an open data initiative and be able to 
+identify suitable ways to offset the costs in order to achieve those benefits.  
+What do you think?
+If you have insights into open data assessment tools you would like to share, we want to hear 
+from you. Get in touch with fiona.smith@theodi.org or tweet us at @ODIHQ.
+
+17 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+7. About this report 
+The  Open  Data  Institute  (ODI)  connects,  equips  and  inspires  people  around  the  world  to 
+innovate  with  data.  It  is  independent,  nonprofit  and  nonpartisan,  founded  in  2012  by  Sir 
+Tim Berners-Lee and Sir Nigel Shadbolt. From its headquarters in London and via its global 
+network of startups, members and nodes, the ODI oers training, research and strategic advice 
+for organisations looking to explore the possibilities of open data.
+This  report  was  supported  by  the  Open  Data  for  Development  (OD4D)  programme.  OD4D  
+is  managed  by  Canada’s  International  Development  Research  Centre  (IDRC),  and  it  is  a 
+donor  partnership  with  the  World  Bank,  the  United Kingdom’s Department for International 
+Development  (DFID)  and  Global  Affairs  Canada  (GAC).  The  OD4D  network  of  leading  
+organisations  are  creating  locally  driven  and  sustainable  open  data  ecosystems  in  Latin  
+America,  the  Caribbean,  Africa,  and  Asia  and  East  Europe.  OD4D  focuses  on  building  up  
+the supply of quality open data, and also on improving the use of that data by leaders in 
+government,  civil  society,  the  media,  and  business  so  that  it  furthers  public  interest  and  
+improves people’s lives. 
+A partnership funded by
+
+18 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+8.    Appendix
+Table 1: Landscape of assessment tools
+NameDescriptionScopeMethods
+Common 
+Assessment 
+Framework
+Common 
+framework
+CountriesAssesses open data initiatives 
+using four elements: the context 
+where data is being released; the 
+quality of datasets; data reuse; 
+and the impact gained from 
+published datasets.
+European PSI 
+Scoreboard
+Crowdsourced 
+and expert 
+survey of 
+European 
+Public Sector 
+Information 
+policies and 
+practices
+Countries 
+EU countries 
+(subject to the 
+Public Sector 
+Information 
+directive)
+Quantitative scores against seven 
+different dimensions. Total score 
+out of 700. 
+Health Sector 
+Indicators
+Conceptual 
+framework for 
+measuring open 
+data impact in 
+specific sector
+UK health sector
+Applicable to 
+other countries
+Various quantitative and 
+qualitative indicators
+Maturity Model  
+and Pathway
+In-depth 
+assessment 
+and analysis 
+designed to help 
+organisations 
+(private and 
+public sector) 
+to assess how 
+effectively they 
+publish and 
+consume open 
+data.
+Organisations Self-assessment based on 
+scoring system against five core 
+categories
+Analyses organisational capacity 
++ data management release 
+process
+
+19 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+NameDescriptionScopeMethods
+OECD 
+Framework
+Paper suggests 
+a methodology 
+and framework 
+to empirically 
+analyse 
+government 
+open data 
+initiatives
+Framework and 
+methodology 
+guide proposed, 
+however, no 
+evidence of 
+implementation 
+to date
+Proposed a government survey to 
+be completed by officials
+Open Data 500Assessment 
+of the value of 
+open data in the 
+private sector
+Companies in 
+USA. Expanding 
+to other 
+countries.
+Desk research and survey of 
+companies. Linking commercial 
+activity with source datasets.
+Open Data 
+Barometer
+Annual ranking 
+of countries 
+according to 
+government 
+open data 
+initiative impact
+86 countries on 
+2014 survey. 
+Includes all G8 
+countries, but 
+only partial OGP, 
+OECD. 
+Expert survey and secondary 
+data. Also gathers and reports on 
+qualitative assessments.
+Analyses both organisational 
+capacity (ie strategic oversight) +  
+data management process and 
+release
+Open Data 
+Certificate
+Platform for 
+data publishers 
+to assess and 
+improve the 
+quality of their 
+own open data
+Datasets
+Four different 
+countries so far. 
+Strongest in UK
+Self-assessment with guided 
+questionnaire. Reports ‘level’ of 
+open data quality. 
+Open Data 
+Compass
+Focussed on 
+the availability of 
+open corporate, 
+litigation 
+and media 
+information 
+worldwide
+Countries
+Global
+Quantitative score based on 
+researcher assessment of data 
+sources
+
+20 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+NameDescriptionScopeMethods
+Open Data Index 
+and Census
+Annual ranking 
+of countries 
+based upon 
+whether key 
+datasets from 
+government 
+(ie mapping, 
+elections) are 
+available as 
+open data
+Datasets
+Open Data 
+Index solely 
+analyses 
+datasets 
+released, 
+not taking 
+into account 
+organisational 
+context or 
+wider reuse 
+community. 
+94 countries in 
+2014 index.
+Quantitative score 
+Crowd-sourced with expert review 
+to create an annual index
+Analyses only data type and 
+category of data released by 
+government
+Open Data 
+Inventory
+A 
+multidimensional 
+assessment of 
+data coverage 
+and openness on 
+NSO websites
+Countries, 
+focusing 
+on National 
+Statistical 
+Offices (NSOs)
+Prototype under 
+development 
+will be applied 
+to approximately 
+140 low- and 
+middle- income 
+countries
+Quantitative score 
+Information collected from 
+websites of NSOs
+Expert assessment based on 
+defined protocol and scoring 
+rubric
+Open Data 
+Monitor
+EU project 
+focused on 
+automated 
+assessment of 
+open data
+National open 
+data catalogues
+226 data 
+catalogues, 
+28 European 
+countries
+Automated analysis of data 
+portals providing ‘real-time’ 
+statistics. Methods under 
+development.
+
+21 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+NameDescriptionScopeMethods
+Open Data 
+Readiness 
+Assessment 
+(ODRA)
+In-depth country  
+assessment 
+designed to 
+analyse how well 
+a government is 
+prepared before 
+its open data 
+initiative launch
+Countries
+ODRAs have 
+been used very 
+widely and 
+implemented in 
+most developing 
+countries that 
+have open data 
+initiatives
+External assessment by 
+consultant based upon qualitative 
+interviews, workshops with 
+key personnel. Results feed 
+into a scoring system that then 
+produces recommendations. 
+Analyses organisational capacity 
++ data management release 
+process
+Open 
+eGovernance 
+Index
+Measures ability 
+of the different 
+actors of the 
+political system, 
+including 
+governments, 
+business and 
+civil society, 
+to participate 
+in decision 
+making in 
+society, through 
+the use of 
+information and 
+communication 
+technologies
+Countries but 
+currently in 
+Pakistan
+Measured on six dimensions: 
+meshed eGovernment, 
+eParticipation channels, digital 
+inclusion, ICT-empowered civil 
+society, open access to data, 
+information and knowledge and 
+communication rights
+Open 
+Government 
+Index
+Measures 
+government 
+openness 
+based on 
+general public’s 
+experiences 
+and perceptions 
+worldwide
+Global10,000 household surveys and in-
+country expert questionnaires
+
+22 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+NameDescriptionScopeMethods
+OUR Data index 
+(OECD)
+Assesses 
+government 
+efforts to 
+implement open 
+data in three 
+areas: openness, 
+usefulness, and 
+re-usability
+35 countries 
+(OECD + 
+Colombia)
+Government Survey. Assessment 
+based on quantitative data 
+gathered through a survey 
+completed by national 
+government representatives.
+RTI RatingsMeasures the 
+legal framework 
+for the right to 
+information, not 
+implementation
+89 countriesQuantitative score based on 
+61 indicators: analyses right 
+of access, scope, requesting 
+procedures, exceptions and 
+refusals, appeals, sanctions and 
+protections, and promotional 
+measures
+The Social impact 
+of Open Data
+A comprehensive 
+measurement 
+of the effect of 
+open data on 
+society
+CountriesOutcome Mapping (OM) is an 
+approach to planning, monitoring 
+and evaluating social change 
+initiatives developed by the 
+International Development 
+Research Centre in Canada. It 
+provides a set of participatory 
+tools and guidance for teams to 
+identify the desired mid- to long-
+term change they are seeking to 
+achieve, and how they will work 
+collaboratively with internal and 
+external stakeholders to bring it 
+about. It also provides a way of 
+measuring progress milestones of 
+an initiative or programme
+
+23 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+NameDescriptionScopeMethods
+UN 
+E-Government 
+Survey
+An assessment 
+of how 
+governments use 
+Information and 
+Communications 
+Technology 
+(ICT) to provide 
+access and 
+inclusion for all
+The 2014 E-Gov 
+Survey includes 
+questions on 
+open data
+Countries
+National web 
+portals OF 193 
+countries
+Desk research with structured 
+survey. Quantitative data.
+ 
+Table 2: Classification of assessment tools
+NameLevel of 
+analysis
+ClassificationJustification
+Common 
+Assessment 
+Framework
+CountriesCapabilities/ 
+implementation/ 
+impact
+The Common Assessment 
+Framework suggests that open 
+data assessments take into 
+account context, data, impact and 
+use. The framework measures 
+readiness as it takes into account 
+the legal and governance context 
+of an initiative and the extent 
+to which it may succeed. By 
+measuring data, impact and use, 
+the framework also assesses 
+open data implementation and 
+impact.
+
+24 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+NameLevel of 
+analysis
+ClassificationJustification
+European PSI 
+Scoreboard
+EU countries  Implementation/ 
+impact
+The European PSI Scorecard 
+is a crowdsourced indicator 
+that measures implementation 
+of government policies. It also 
+captures information on the 
+impact of these policies through 
+indicators on the reuse of open 
+data, and events and activities 
+organised around on themes of 
+open data. 
+Maturity Model 
+and Pathway
+OrganisationsImplementation/ 
+impact
+The Open Data Maturity Model 
+measures the implementation and 
+impact of open data initiatives. 
+It assesses how organisations 
+publish and consume data 
+based on five themes, data 
+management, knowledge and 
+skills, customer support and 
+engagement, investment and 
+strategic oversight. 
+Open Data 500Companies 
+in the United 
+States
+ImpactThe tool studies the use and 
+impact of open data.
+Open Data 
+Barometer
+CountriesCapabilities/ 
+implementation/ 
+impact
+The Open Data Barometer relies 
+on primary and secondary data 
+to assess all three stages of the 
+cycle
+Open Data 
+Certificate
+DatasetImplementationAlthough not strictly an 
+assessment tool, the Open Data 
+Certificate is a portal where 
+users can certify data as open. 
+It assesses the quality of open 
+data but does not compare open 
+data across different levels of 
+analysis. It is classified under 
+implementation because it 
+analyses whether open data has 
+met a particular standard. 
+
+25 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+NameLevel of 
+analysis
+ClassificationJustification
+Open Data 
+Impact Map
+OrganisationsImpactThe Open Data map is set to be 
+launched in 2016, but its ‘beta’ 
+version provides information 
+on data use across sectors in 
+countries.  
+Open data in 
+government: how 
+to bring about 
+change (paper)
+GovernmentsCapabilities/
+impact
+‘Open data in government’ 
+predominantly assesses 
+readiness. It contains several 
+steps that governments could 
+follow to plan open data 
+initiatives. However, one of 
+these steps involves collecting 
+information on the impact of the 
+initiative and, as a result, it can 
+also be classified under impact.
+Open Data Index 
+and Census
+DatasetsImplementationThe Global Open Data Index 
+measures whether a country 
+releases key types of open data. It 
+measures the status of open data 
+in a country by examining whether 
+countries release ten key datasets 
+and evaluating their quality. 
+Open Data 
+Inventory
+CountriesImplementationLike the Global Open Data Index, 
+the Open Data Inventory assesses 
+the quantity and quality of data 
+provided by National Statistical 
+Offices (NSOs)
+Open Data 
+Readiness 
+Assessment 
+(ODRA)
+CountriesCapabilitiesOpen Data Readiness 
+Assessment (ODRA) is a 
+methodological tool that 
+exclusively measures the 
+readiness of a government to 
+plan and implement an open data 
+initiative
+
+26 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+NameLevel of 
+analysis
+ClassificationJustification
+Open 
+eGovernance 
+Index
+CountriesCapabilities/ 
+implementation
+The Open Government Index is 
+similar to the Right to Information 
+ratings as both assess the 
+legal context, or capabilities of 
+governments to implement open 
+data initiatives. Unlike Right to 
+Information ratings, the Open 
+Government Index also measures 
+aspects of implementation, like 
+complaint mechanisms and civic 
+participation.  
+OUR Data Index 
+(OECD)
+CountriesImplementationThe OECD OUR Data Index 
+restricts itself to measuring 
+implementation on three criteria, 
+openness, usefulness and the 
+usability of government data
+Right to 
+Information 
+Ratings
+CountriesCapabilitiesThe Global Right to Information 
+Rating restricts itself to measuring 
+the legal framework for freedom of 
+information in a country. It is listed 
+under capabilities as it measures 
+the context, and not the quality of 
+implementation or impact.
+The Social impact 
+of Open Data
+Country case 
+studies
+ImpactThis paper is based on qualitative 
+methodology and analysis of 
+secondary data. It compiles case 
+studies that demonstrate the 
+impact of open data use. 
+UN 
+E-Government 
+Survey
+CountriesImplementationThe UN E-Government Survey 
+ranks member states on the 
+status of Information and 
+Communications Technology 
+in their governments. Although 
+not strictly an open data 
+assessment, the index includes 
+several indicators that measure 
+transparency, openness and data 
+sharing. 
+
+27 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+Bibliography
+Open Knowledge Foundation, (2013). Open Definition. [Online] Available at: http://blog.okfn.
+org/2013/10/03/defining-open-data [Accessed 2016-04-18].
+Bates, J. (2013). Information policy in the crises of neoliberalism: the case of Open Government 
+Data in the UK. In: Proceedings  of  the  IAMCR  2013  Conference,  25-29  June  2013. Dublin: 
+International Association for Media and Communication Research.
+Caplan, R., Davies, T., Wadud, A., Verhulst, S., Alonso, J. M. and Farhan, H. (2014) Towards 
+common methods for assessing open data: workshop report and draft framework. [Online] New 
+York: The World Wide Web Foundation and the Governance Lab at NYU. Available at: http://
+opendataresearch.org/sites/default/files/posts/Common%20Assessment%20Workshop%20
+Report.pdf [Accessed 2016-04-18].
+Carpenter, J. and Watts, P. (2013). Assessing the Value of OS Open Data™ to the Economy 
+of  Great  Britain  -  Synopsis. [Online] Available at: https://www.gov.uk/government/uploads/
+system/uploads/attachment_data/file/207692/bis-13-950-assessing-value-of-opendata-to-
+economy-of-great-britain.pdf [Accessed 2016-04-18].
+Davies,  T.  (2013).  Notes  on  open  government  data  evaluation  and  assessment  frameworks. 
+[Online] Available at: http://www.opendataimpacts.net/2013/02/506 [Accessed 2016-04-18].
+Dekkers,  M.  et  al  (2006).  Final  report  of  study  on  exploitation  of  public  sector  information:  
+benchmarking  of  EU  framework  conditions.  Measuring  European  Public  Sector  Information  
+Resources.   Available   at: https://ec.europa.eu/digital-single-market/en/news/mepsir-
+measuring-european-public-sector-information-resources-final-report-study-exploitation-0 
+[Accessed 2016-04-18].
+Gray, J. (2013). Open Government Partnership should foster accountability and social justice. 
+[Blog]  Poverty  matters.  Available  at: http://www.theguardian.com/global-development/
+poverty-matters/2013/nov/04/open-government-social-justice-david-cameron [Accessed 
+2016-04-18].
+Gray,  J.  (2015).  Five  ways  open  data  can  boost  democracy  around  the  world.  [Blog]  Global  
+public  leaders.  Available  at: http://www.theguardian.com/public-leaders-network/2015/
+feb/20/open-data-day-fairer-taxes [Accessed 2016-04-18].
+
+28 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+Gurstein, M. (2011). Open data: empowering the empowered or effective data use for everyone? 
+First   monday,  Volume  6(2).  Available  at: http://firstmonday.org/article/view/3316/2764 
+[Accessed 2016-04-18].
+Halloran, B. and Flores, W. (2015). Mobilizing Accountability: Citizens, Movements and the State. 
+Transparency  and  Accountability  Initiative.  [Online]  Available  at: http://www.transparency-
+initiative.org/news/mobilizing-accountability-citizens-movements-and-the-state     [Accessed     
+2016-04-18].
+Hjalmarsson, A. Johansson, N. and Rudmark, D. (2015). Mind the Gap: Exploring Stakeholders’ 
+Value  with  Open  Data  Assessment.  In: 48th  Hawaii  International  Conference  on  Systems  
+Sciences. Kauai: IEEE.
+James,  M.  et  al.  (2013).  Open  data:  unlocking  innovation  and  performance  with  liquid  
+information. McKinsey  Global  Institute.  [Online]  Available  at: http://www.mckinsey.com/
+business-functions/business-technology/our-insights/open-data-unlocking-innovation-and-
+performance-with-liquid-information [Accessed 2016-04-18].
+Jeztek, T., Avital, M. and Bjørn-Andersen, N. (2013). Generating value from open government 
+data. In: Proceedings  of  the  34th  International  Conference  on  Information  Systems.  Atlanta,  
+GA: Association for Information Systems.
+Johnson,  J.  A.  (2014).  From  open  data  to  information  justice  (October  1,  2014).  Ethics 
+and   Information   Technology.  [Online]  Available  at: http://papers.ssrn.com/sol3/papers.
+cfm?abstract_id=2241092 [Accessed 2016-04-18].
+Keserű, J. and Chan, J. (2015). The social impact of open data. Sunlight Foundation. Available 
+at: http://www.opendataresearch.org/dl/symposium2015/odrs2015-paper20.pdf  [Accessed  
+2016-04-18].
+Kitchin,  R.  (2013). Four  critiques  of  open  data  initiatives.  [Blog]  The  Programmable  City.  
+Available at: http://www.maynoothuniversity.ie/progcity/2013/11/four-critiques-of-open-data-
+initiatives  [Accessed 2016-04-18].
+Kulk, S. and Loenen, B. (2012). Brave new open data world? International Journal of Spatial 
+Data  Infrastructures  Research,  [online]  Volume  7,  pp.196–206.  Available  at: http://ijsdir.jrc.
+ec.europa.eu/index.php/ijsdir/article/view/285/327 [Accessed 2016-04-18].
+
+29 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016
+McClean, T. (2011). Not with a bang but a whimper: the politics of accountability and open 
+data in the UK. In: APSA 2011 Annual Meeting Paper. [Online] Available at: http://ssrn.com/
+abstract=1899790 [Accessed 2016-04-18].
+Atz, U., Heath, T. and Fawcett, J. (2015). Benchmarking  open  data  automatically. London: 
+Open Data Institute.
+OECD  (2012).  Supporting  partners  to  develop  their  capacity:  12  lessons  from  DAC  peer  
+reviews. [Online] Available at: http://www.oecd.org/fr/cad/examens-pairs/Capacity12lessons.
+pdf [Accessed 2016-04-18].
+Roberts,  A.  (2014). Beware   attack   on   openness.   [Online]  Available  at: http://www.
+winnipegfreepress.com/opinion/analysis/beware-attack-on-openness-279243322.html 
+[Accessed 2016-04-18].
+Roberts,  A.,  (2014). Making  transparency  policies  work.  [Online]  Available  at: http://www.
+freedominfo.org/2014/10/making-transparency-policies-work [Accessed 2016-04-18].
+Rolberg,  R.  (2015). Measuring  ‘governance’  to  improve  lives.  [Online]  Available  at: https://
+theconversation.com/measuring-governance-to-improve-lives-42100  [Accessed  2016-04-
+18].
+Sandoval-Almazan, R. (2011). The two door perspective: an assessment framework of open 
+government. Journal  of  Democracy  (JEDEM), [online] Volume 3(2) pp.166–181. Available at: 
+file:///Users/annascott/Downloads/67-412-1-PB.pdf [Accessed 2016-04-18].
+Yu, H. and Robinson, D. G. (2012). The new ambiguity of ‘open government’. [Online] Available 
+at: http://ssrn.com/abstract=2012489 [Accessed 2016-04-18].
+
+30 How to support the capacity of open data initiatives with assessment tools | Open Data Institute 2016

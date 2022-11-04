@@ -1,0 +1,1883 @@
+
+
+ 
+
+ 
+ 
+Contents 
+ 
+About3 
+Executive summary4 
+Background: school closures during emergency lockdowns5 
+Project design7 
+Research questions7 
+Methods and methodology8 
+Quantitative survey8 
+Qualitative interviews8 
+Online forums: data from Mumsnet9 
+Data from Barnardo’s9 
+Children and young people9 
+Limitations of the data10 
+Sharing our research data11 
+Impact of lockdown on educational attainment13 
+Previous research13 
+Teachers’ perspectives on children’s academic performance15 
+Differences by pupil characteristics16 
+Learning experiences during lockdown: views from children, 
+parents/carers and teachers18 
+Parents’ discussions during lockdown: insights from Mumsnet data20 
+Parents’ perspectives from interviews22 
+Teachers’ perspectives on children’s learning23 
+Impact of lockdown on socioeconomic circumstances and emotional 
+wellbeing25 
+Impact on children’s socioeconomic provision/circumstances25 
+Teachers’ support for children during lockdown26 
+Impact of lockdown on children’s mental health and wellbeing27 
+Data from the Barnardo’s See, Hear, Respond Partnership28 
+Increasing demand for support28 
+The role of schools in referrals30 
+Mental health, isolation and loneliness31 
+Priority groups32 
+Data on parents/carers’ mental health: indications from Mumsnet forums
+34 
+Teachers’ mental health and wellbeing35 
+Conclusions and recommendations38 
+Conclusion38 
+Recommendations38 
+Bibliography40 
+ 
+ 
+ 
+ 
+ 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   2 
+
+ 
+ 
+About 
+This report has been researched and produced by the Open Data Institute (ODI), 
+and published in November 2020.  
+ 
+The report’s lead author is Christine Singer, with guidance from Professor Jeanette 
+Steemers, King's College University and Professor Cynthia Carter, Cardiff 
+University. The research for this project was carried out by the ODI, in collaboration 
+with three partners: ​ODI Leeds​, a node of the ODI, responsible for the data 
+sourcing, analysis and the open data publication; ​Allegory​, a strategic 
+communication agency that has worked with the ODI for eight years and is 
+responsible for the research project management and communications; ​and ​MyEd 
+Limited​, a startup that delivered the research qualitative interviews. 
+ 
+We would like to thank the ODI’s Louise Burke, Mahlet (Milly) Zimeta, Jeni Tennison 
+and Roger Hampson for their guidance and support, and Ellen Goodman for 
+project management. We would also like to thank Emma Thwaites, Charlotte 
+McLeod (Project Lead), Alex Vryzakis, Kristin Hadland and Emma Foster from 
+Allegory; Giles Dring and Patrick Lake from ODI Leeds; Harmil Pardesi, Professor 
+Upkar Pardesi and Joy Krishnamoorthy from MyEd; and Christian Howes for 
+assisting with data visualisation. 
+ 
+November 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   3 
+
+ 
+ 
+Executive summary 
+ 
+The coronavirus (Covid-19) pandemic has created new and sudden challenges for 
+the education sector. Extended school closures during lockdown and beyond 
+have put increasing pressure on teachers, parents/carers and pupils. Yet little data 
+exists on the educational and psychological impacts of periods of enforced 
+homeschooling.  
+ 
+Between September and October 2020, the ODI carried out a rapid-response pilot 
+study that investigated what current data could tell us about education during the 
+coronavirus pandemic. It combined analyses of shared and open data with 
+targeted quantitative surveys and qualitative interviews, and looked at what these 
+could tell us about the challenges faced by children, teachers and families. It 
+collected and analysed data from a variety of sources, including the government, 
+academia and the third sector. These data sources were combined with analyses 
+of data shared with us from Barnardo’s, Mumsnet and Teacher Tapp to support 
+the research findings. The data analysis and visualisations produced as part of 
+this project are publicly accessible via an ​interactive web page​. 
+ 
+The ODI project team helped Barnardo’s to curate data they hold into something 
+that could be safely published as open data. We also worked with Mumsnet to 
+understand – at an aggregate level – discussions taking place on its forums. As 
+our analyses of Barnardo’s and Mumsnet datasets show, third-sector 
+organisations and social-media platforms that aggregate data they hold – and 
+make it public in a safe and ethical way – can assist other organisations with 
+public-interest research, such as identifying how vulnerable children can be 
+monitored and supported.  
+ 
+All the data sources we looked at agree that emergency school closures due to 
+coronavirus have led to differences in educational progress and learning between 
+pupils from different backgrounds. Teachers, in turn, have been tasked with 
+identifying and supporting pupils who have fallen behind with their learning and 
+re-teaching knowledge from before lockdown. Furthermore, emergency school 
+closures have had adverse impacts on the social, economic and emotional 
+wellbeing of some children and families, and teachers are grappling with 
+increased work-related anxiety.  
+ 
+As a rapid-response pilot project, this research has limitations, including biases in 
+the users of digital platforms and a small data sample of 29 interviews, carried out 
+in the West Midlands area. This research is not comprehensive and not 
+representative of the UK as a whole, and, like all evidence, should be interpreted 
+carefully. Addressing these data gaps, which in turn can reinforce existing social 
+inequalities, is both urgent and necessary in future research. 
+ 
+This project seeks to inspire further research on the impact of coronavirus using 
+new data sources for rapid analysis, and to provide incentives for better 
+investment in our data infrastructure to support emergency responses in the 
+education sector and beyond. 
+ 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   4 
+
+ 
+ 
+Background: school 
+closures during 
+emergency lockdowns 
+When the coronavirus pandemic broke out in the UK, the daily lives of teachers, 
+parents and pupils abruptly changed. Schools closed to the majority of pupils at 
+the end of March 2020. The exceptions were children of key workers and children 
+assessed as vulnerable – this includes looked-after children, children who have an 
+education, health and care plan whose needs can be as safely or more safely met 
+in the educational environment, and those who have been assessed as ‘otherwise 
+vulnerable’.  Teachers and school leaders had to rapidly find new ways to deliver 
+1
+learning and pastoral care (​the provision schools make to ensure the physical and 
+emotional welfare of pupils​) while children and families grappled with finding ways 
+to study from home. 
+ 
+Schools reopened to all children in the UK in September 2020, but much about 
+the upcoming school year remains uncertain, including assessments, social 
+distancing measures, self-isolation requirements and the unknown long-term 
+effects of lockdown on the mental health of pupils, families and teachers. Recent 
+spikes in coronavirus infection rates have already led to a pattern of varied, 
+short-notice emergency lockdowns at local, regional and national levels, and a 
+new nationwide lockdown in England was introduced just days before the 
+publication of this report. Wales had already gone into a two-week firebreak 
+lockdown, and Scotland had separately introduced further restrictions on 2 
+November 2020. 
+ 
+Existing research has provided valuable insights into the impact of school closures 
+during the first nationwide lockdown on parents/carers, pupils and teachers. 
+Studies have identified a range of challenges: a gap in learning and educational 
+progress between economically advantaged and disadvantaged children; 
+2
+teachers struggling with work-related anxiety and mental health; teaching and 
+3
+technical issues with online learning; and growing evidence of the detrimental 
+4
+impact of school closures on children’s emotional wellbeing. 
+5
+ 
+However,​ ​existing research is – with some exceptions – on average published 
+6
+two-to-three months after data collection has been carried out, leading to a lack of 
+timely data during this constantly evolving situation. There are also gaps in the 
+data on how the impact on education has changed at different points since the 
+coronavirus outbreak in March. Moreover, the source data – data that has not 
+1
+ ​UK government (2020), ​Coronavirus (COVID-19): safeguarding in schools, colleges and other 
+providers 
+2
+ Child Poverty Action Group (2020), ‘​The Cost of Learning in Lockdown: family experiences of school 
+closures​’  
+3
+ Teacher Tapp, UCL Social Research Institute, UCL CEPEO (2020), ‘​How did the early stages of the 
+COVID-19 pandemic affect teacher wellbeing?’  
+4
+ Beng, H. S. and Wardle, L. (2020), ‘​Teachers’ wellbeing and workload during Covid-19 lockdown​’. 
+Durham University and School Zone 
+5
+ Barnardo's (2020) ‘​Time for a Clean Slate: Children’s Mental Health at the Heart of Education​’. 
+Barnardo's 
+6
+ Office for National Statistics (2020). ​Coronavirus and the social impacts on Great Britain: 16 October 
+2020 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   5 
+
+ 
+ 
+been processed for use and upon which research is based – is often not 
+published and is therefore not accessible to other researchers. 
+ 
+During an unpredictable crisis like this, access to up-to-the-minute data is more 
+important than ever. Government, teachers, headteachers and policymakers 
+urgently need access to accurate, current data to understand how periods away 
+from school have affected, and are affecting, pupils’ learning and emotional 
+wellbeing. Having access to reliably updated data available would help with the 
+development of strategies to assist those children who are hit hardest by 
+emergency school closures due to coronavirus.  
+ 
+Based on a small research sample, this pilot study sought to investigate the data 
+that exists on the impact of the lockdown on education; what we could tell from 
+this data; whether this data is both current and publicly available; and where more 
+data is urgently needed.  
+ 
+This report highlights the need for further research and investment in data 
+infrastructure in the education sector, to provide information and inform decision 
+making in a rapidly evolving situation. 
+ 
+ 
+ 
+  
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   6 
+
+ 
+ 
+Project design  
+Research questions 
+ 
+The ODI started this pilot project with desk research in the following areas: 
+●Existing published research on the key challenges faced by 
+parents/carers, children and teachers during periods of enforced 
+homeschooling and ‘blended learning’ – a combination of online and 
+offline teaching methods (March–November 2020) 
+●Identifying gaps in data within this existing research 
+●Education and mental-health data landscape 
+●Data needs and challenges to support organisations working with schools, 
+teachers, parents/carers and children 
+ 
+We then established the following research questions: 
+ 
+ 
+ 
+ 
+To explore these questions, our research aimed to: 
+ 
+●collect and analyse timely data from different sectors (government, 
+private, third and academic) that demonstrates the key challenges of 
+emergency school closures experienced by parents/carers, pupils and 
+teachers during the coronavirus pandemic 
+●collect data that shows how emergency school closures had different 
+impacts on different groups of children and families 
+●highlight relevant data that is currently available for analysis; identify gaps 
+in the data; and encourage/facilitate the wider sharing of the data from 
+this research to make further analyses possible. 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   7 
+What are the main challenges experienced by parents/carers, teachers and 
+children during periods of enforced homeschooling and blended learning 
+(March–November 2020), and how can good data infrastructure help 
+schools and other organisations in monitoring, understanding and 
+addressing these challenges, and in providing direct, real-time support to 
+parents/carers, teachers and children? 
+  
+Sub-questions: 
+1.What do teachers, parents/carers and pupils at primary and 
+secondary schools identify as the main challenges of enforced 
+homeschooling during the coronavirus pandemic, specifically in 
+relation to: 
+a.Homeschooling, including online and blended learning?  
+b.Coping emotionally with the disruption to education? 
+2.How do these challenges differ by socio-economic backgrounds of 
+parents/carers and pupils? 
+3.What, if any, data already exists in the UK that enables us to 
+answer these questions?  
+a.How can this data be made widely accessible?  
+b.What data is missing? 
+
+ 
+ 
+ 
+Methods and methodology  
+Research findings should be given weight proportionate to the representativeness 
+and robustness of the data they are based on. In this section, we describe some 
+of the features of the data we have used in this research that influence how it 
+should be interpreted. Further details can be found in the ODI Data Ethics Canvas 
+which accompanies this report. The Data Ethics Canvas was completed to help 
+7
+explore the implications of the use of data in this research. 
+ 
+Quantitative survey  
+The ODI collaborated with Teacher Tapp (an app that asks teachers daily 
+8
+questions to get their opinions on aspects of school life and education) to carry 
+out a quantitative survey. Teacher Tapp asked teachers across England three 
+survey questions, two on 20 October 2020 and one on 27 October 2020, to further 
+test the findings from the open and shared datasets. The Teacher Tapp survey 
+panel comprises 9,000 teachers across the state and private sectors in England. 
+Via an app, and after providing valid credentials, teachers sign up to receive three 
+multiple-choice questions each day at 3:30pm. Teachers are recruited to the panel 
+via social and traditional media, promotion at professional development events, 
+and word of mouth in schools. 
+ 
+The ODI received an aggregated version of this data from Teacher Tapp, including 
+some statistical characterisation of the teachers who responded. This data is 
+aggregated and anonymised, as outlined in the ODI Data Ethics Canvas that 
+accompanies this report. 
+9
+  
+Qualitative interviews 
+The ODI’s research partner, MyEd, carried out 29 interviews. These were with 
+teachers (10 interviews), parents/carers (10 interviews) and pupils (aged 13–18 
+years; nine interviews) located mainly in the West Midlands area. MyEd runs an 
+open data platform that helps parents and students search for nurseries, schools, 
+colleges, universities and courses.  
+ 
+The research MyEd carried out for this project is also contributing to an Innovate 
+UK-funded project for the development of MyEd Open School, aimed at 
+connecting teachers with their pupils to enable the continuity of formal structured 
+education.  
+10
+ 
+Interviewees were recruited through MyEd’s networks and contacts with schools. 
+MyEd carried out the interviews remotely, by phone or video call. Interview 
+participants were told the purpose of the research and their right to withdraw from 
+it at any point. Participation was entirely voluntary.  
+ 
+MyEd sought written informed consent from parents/carers of young people under 
+18 years to carry out the interviews and publish them in this report.  
+ 
+Online forums: data from Mumsnet 
+During this project, we collaborated with Mumsnet, the largest parenting website 
+in the UK. Its discussion boards, Mumsnet Talk, receive over seven million unique 
+visitors per month. Mumsnet granted the research team access to anonymised 
+11
+7
+ ODI (2020), ​Data on children in lockdown - Data Ethics Canvas 
+8
+  Education Intelligence Ltd (2020), ​TeacherTapp 
+9
+ ​ODI (2020), ​Data on children in lockdown - Data Ethics Canvas 
+10
+ UK government (2020), ​Innovate UK - GOV.UK  
+11
+ Mumsnet (2020), ‘​About us​’ 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   8 
+
+ 
+ 
+data and forum search tools for one week (19–23 October 2020). This was the first 
+time Mumsnet had shared their data for analysis purposes with another 
+organisation. 
+ 
+The dataset was analysed via both an inductive and a deductive approach. We 
+identified the 10 most frequent terms used by Mumsnet users at different points in 
+time – before and during lockdown, and when schools reopened to all pupils 
+(January, April and September 2020, respectively). We also searched for key 
+terms used by people posting on Mumsnet relating to the research questions (eg 
+‘learning’, ‘safe’, ‘mental health’), across the forums, and how frequently they were 
+used during January, April and September. This analysis aimed to obtain a sense 
+of how parents/carers’ discussions and concerns changed over time, and how 
+these concerns related to the findings from our interviews and surveys.  
+ 
+Data from Barnardo’s 
+We sourced data in collaboration with the Barnardo’s See, Hear, Respond 
+Partnership. Barnardo’s shared aggregated data on its weekly referrals to the 
+12
+See, Hear, Respond service. By late October, the See, Hear, Respond Partnership 
+was delivering support to more than 20,000 children and young people. 
+Barnardo’s shared almost 7,000 records from this dataset with the ODI, which 
+covered the period from 17 June 2020 (when the programme was launched) to 12 
+October 2020.  
+ 
+Information in each record includes location (at local authority level), week of 
+referral, reason(s) for referral (one or more, as assessed by worker triage), priority 
+group(s) (as assessed by worker triage) and referral channel. In addition, a series 
+of operational details were provided, which we have not analysed due to the time 
+limitations of this project (status, outcome).  
+ 
+Referrals were assigned a random ID in the shared data, which means it is not 
+possible to identify a child who is referred to the service multiple times. The ID is 
+not used in the aggregations. The only conceivable risk to identifying a child would 
+be someone in a region with an unusual combination of needs. To mitigate this 
+risk, we did not aggregate by need or priority group, which could be tied back to a 
+record. Each group and reason for intervention was counted independently. 
+ 
+Children and young people 
+Children and young people need particular protection when organisations and 
+researchers are collecting and processing personal data about them, because 
+they may be less aware of the risks involved. As outlined in the ODI Data Ethics 
+13
+Canvas that accompanies this report, we considered the need to protect data 
+about children and young people from the outset of the research, and designed 
+our project with this in mind, for example, by deciding not to publicly share any 
+interviews that were carried out with young people (aged 13–18 years) and by 
+sourcing only aggregated, anonymised data on children from other organisations.  
+Confidentiality, and compliance with the data protection principles, has to be 
+central to all processing of children’s personal data. 
+14
+Limitations of the data 
+This pilot research was carried out over a short time period (five weeks), which 
+allowed for sourcing, analysing and publishing timely data that was collected within 
+one month prior to the publication of this report.  
+12
+ Barnardo’s (2020), ​See, Hear, Respond Partnership 
+13
+ Information Commissioner’s Office (2020), ​Children: data protection 
+14
+ ​ibid. 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   9 
+
+ 
+ 
+ 
+Given the limited time and resources available for this project, the findings are 
+based on a small sample of research participants who took part in the Teacher 
+Tapp survey questions and qualitative interviews. MyEd’s interviews were carried 
+out mainly in the West Midlands region. Moreover, the Teacher Tapp survey panel 
+constitutes teachers from England only. The data collected through interviews and 
+the survey may, therefore, not be representative of other regions of the UK. 
+ 
+Furthermore, the results of the Teacher Tapp survey represent teachers’ current 
+judgements of their pupils’ performance rather than standardised assessment 
+results. While teachers typically have a good understanding of their pupils’ 
+progress, teachers’ assessments could, in some circumstances, be subject to bias 
+related to pupils’ gender, ethnicity, socio-economic status and special needs. The 
+findings of the survey should, therefore, be interpreted as subjective teacher 
+estimates about pupils’ current academic progress, rather than an exact picture of 
+their skills and knowledge.  
+15
+ 
+With the limited time available, it was also challenging for the interviewers to recruit 
+interviewees from families with low socioeconomic status, which means that the 
+perspectives of these families are, for the most part, absent from the current 
+research sample. This gap in our data highlights the need to collect more data on 
+different socio-economic groups, as a lack of information on the perspectives of 
+families from low socio-economic status could potentially reinforce marginalisation.  
+ 
+Our research was conducted via digital media platforms, including online surveys, 
+online forum research and video calls. Therefore, digital exclusion – when people 
+are unable to, or choose not to, engage with digital platforms – presents a 
+significant risk of inequality and bias in the data we collected. To an extent, digital 
+16
+exclusion is linked to socioeconomic status, as the ability to access and engage 
+with digital platforms, and the skills required to use digital tools fully, increases with 
+income. In 2019, 51% of households earning between £6,000 and £10,000 had 
+access to the internet at home, compared with 99% of households with an income 
+of £40,000 or above. Families with low socioeconomic status are, therefore, likely 
+17
+to be excluded from research that is carried out via digital media platforms. This 
+data gap ought to be emphasised, since – as noted above – it potentially reinforces 
+existing social inequalities.  
+ 
+Analysing data from Mumsnet forums is valuable in ascertaining what the 
+contributors to the forums are discussing. However, since Mumsnet is an open 
+platform and it is not possible to break down the profiles of people who post on 
+education-related posts, we were unable to effectively eliminate bias in the voices 
+we picked up. One clear limitation is the Mumsnet readership which is 85% 
+18
+female. Mumsnet forum posts are, therefore, likely to represent female 
+19
+perspectives in particular.  Furthermore, the research team analysed those posts 
+that were identified by Mumsnet as education-related (tagged with ‘e-learning’), 
+which means that it is possible we missed potential targets. In a longer project, we 
+might have been able to refine the set of hits and carry out clustering analyses, 
+which in turn would have enabled better extraction of topics. 
+15
+ Teaching and Teacher Education  (2017), ‘​Subjectivity of Teacher Judgments: Exploring Student 
+Characteristics That Influence Teacher Judgments of Student Ability​’ 
+16
+ ODI (2020), ​Monitoring Digital Inequality 
+17
+ University of Cambridge (2020), ​Opinion: Coronavirus has intensified the UK's digital divide 
+18
+ A voluntary annual census conducted by Mumsnet suggests a core demographic across the 
+platform of 18-45 year-olds of which 88% are parents/carers. 85% are in social grade ABC1 (upper, 
+middle and lower middle class), with 77% being homeowners. 79% of Mumsnet users are in paid work 
+(Source: Mumsnet 2020). 
+19
+ ​Mediatel (2017), ​Mumsnet founder on anonymity, authenticity and influence  
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   10 
+
+ 
+ 
+ 
+Mumsnet’s privacy policy informs users that it is a public rather than private 
+20
+space, and that Mumsnet occasionally shares anonymised data for analysis 
+purposes. The ethics arising from sourcing and analysing data from online forums 
+for research purposes are, however, a subject of debate. There is currently no 
+21
+consensus on whether the informed consent of users who post on online forums 
+should be sought if their contributions are to be used in research as long as they 
+are anonymous.  
+ 
+As discussed in the ODI Data Ethics Canvas that accompanies this report, we 
+22
+decided not to seek separate consent of Mumsnet users to use their content in 
+our research, since we were not analysing individual contributions by forum users, 
+but analysing key terms emerging from forum texts; and since users’ identities, 
+accounts and individual posts were not revealed and therefore their anonymity is 
+assured. However, we will be holding a discussion on Mumsnet with Mumsnet 
+users about the use of their data in this research project, and how they feel about 
+other similar uses. 
+ 
+As outlined in the ODI Data Ethics Canvas that accompanies this report, it was 
+difficult for us to mitigate these potential biases in the data available to us. This 
+research should, therefore, be treated as a pilot project that, we hope, will 
+encourage further research that provides different perspectives and fill the gaps in 
+data outlined in this report. 
+ 
+Sharing our research data 
+The data collected for this project is publicly available via a dedicated, interactive 
+webpage and tool, created by ODI Leeds: ​odi-analyses.odileeds.org​. The site 
+allows anyone to explore the data for free, including results from the surveys, 
+Barnardo’s site, and the analysis of Mumsnet forums.  
+ 
+Barnardo's and the ODI are exploring options for sharing the anonymised data 
+more widely, to support research within a robust ethical framework. In turn, 
+Mumsnet data was accessed under a data-sharing agreement which allowed the 
+ODI to search and analyse terms under the provision that we only retain data for 
+the duration of the project. This means we are unable to publish the raw data we 
+have analysed. All forum posts are publicly available via the Mumsnet website.  
+ 
+As noted earlier, after completing the ODI Data Ethics Canvas, we decided not to 
+release the qualitative interviews carried out by MyEd, as they contain personal 
+and potentially sensitive information that risks identifying the interview 
+participants, which include children and young people. 
+ 
+ 
+  
+20
+ Mumsnet (2020), ​Privacy policy 
+21
+ Emotion, Space and Society (2018) . ‘​What Are You Feeling Right Now?’ Communities of Maternal 
+Feeling on Mumsnet.​’ 
+22
+ODI (2020), ​Data on children in lockdown - Data Ethics Canvas 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   11 
+
+ 
+ 
+Impact of lockdown on 
+educational attainment 
+Previous research  
+Since March 2020, many pupils have experienced disruptions and a reduction in 
+their education, and a marked slowdown in their educational progress. There is 
+very little publicly available data on how pupils’ academic performance has been 
+affected by emergency school closures during coronavirus. With exams cancelled 
+this year, A-level and GCSE results were based on teacher assessments, and the 
+DfE did not publish SATs results for 2020. Except for A-level and GCSE grades, 
+23
+little is known about how the lockdown has affected pupils’ academic progress, 
+and how the current disruptions to education due to the pandemic are affecting 
+children’s learning experiences.  
+ 
+Research by the London School of Economics and Political Science (LSE) 
+provides an indication of how emergency school closures during coronavirus 
+affected academic learning. The study suggested that, on average, just under four 
+in 10 (38%) pupils in the UK experienced full schooling during the first lockdown. 
+24
+Furthermore, a report by the National Foundation for Educational Research (NFER) 
+showed that teachers felt that their pupils were, on average, three months behind 
+in their curriculum learning as a result of the first public lockdown. In a survey of 
+3,000 senior leaders and teachers at more than 2,000 schools in England, nearly 
+all teachers (98%) reported that their pupils are behind where they would normally 
+expect them to be in their curriculum learning at the end of the 2019/20 school 
+year. These results are, however, based on teachers’ judgements of children’s 
+25
+progress and do not give a clear picture of exactly how behind children are with 
+their curriculum learning.  
+ 
+Existing research suggests that lockdown was experienced differently by pupils 
+from different types of schools. For example, private schools were more likely to 
+be able to provide online resources, live classes and one-to-one contact with 
+pupils than state-funded schools. A Teacher Tapp survey commissioned by the 
+26
+Sutton Trust suggested that, at private schools, 51% of primary and 57% of 
+secondary students in England accessed online lessons every day; more than 
+twice as likely as their counterparts in state schools.  
+27
+ 
+Disruptions to education during the first lockdown also disproportionately affected 
+children from disadvantaged economic backgrounds. Many economically 
+disadvantaged children did not have the digital technology they needed to study 
+effectively from home. An estimated 700,000 children in the UK currently do not 
+23
+ UK Government (2016), The DfE usually publishes results of A-Levels, GCSEs and SATs on a yearly 
+basis, including data on pupil demographics. See: ​National curriculum assessments at key stage 2 in 
+England, 2016 (provisional) 
+24
+ LSE (2020), The findings are based on a representative random sample of 10,010 individuals aged 16 
+to 65 who were surveyed between 14 September and 12 October 2020. See: ​Generation COVID: 
+Emerging work and education inequalities  
+25
+ NFER (2020). ​Schools responses to Covid-19: The challenges facing schools and pupils in 
+September 2020​ (Accessed: 9 October 2020) 
+26
+ Sutton Trust, April 2020. ‘​COVID-19 and Social Mobility Impact Brief​’​ ​(Accessed: 5 October 2020) 
+27
+ Sutton Trust (April 2020), ‘​COVID-19 and Social Mobility Impact Brief​’  
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   12 
+
+ 
+ 
+have a desktop, laptop or tablet, and 60,000 children do not have internet 
+connectivity at home. A study by the Child Poverty Action Group (CPAG) 
+28
+indicated that families with low incomes were twice as likely to lack technical 
+equipment to support homeschooling (laptops, computers, tablets) during 
+lockdown as families with high incomes.  
+29
+ 
+A report by the Education Policy Institute suggests that the most disadvantaged 
+children are also the most likely to currently miss the most learning as a result of 
+the disruptions to schools. The analysis suggests that in areas with the highest 
+30
+rates of the virus in the UK, such as north-west England, as many as four in 10 
+secondary pupils were unable to attend school during October​.​ Based on a 
+snapshot survey by the DfE, the report shows that the overall attendance rate for 
+31
+secondary schools in England was 82% for secondary schools and 90% for 
+primary schools. However, in some areas, attendance was less than 70%. In 
+Knowsley, Merseyside – one of the areas worst affected by coronavirus – 61% of 
+secondary pupils and 78% of primary school children attended school on 15 
+October 2020.  
+32
+ 
+It is possible that the ongoing impacts of coronavirus will further increase existing 
+disparities in children’s academic progress. Data from the DfE shows that prior to 
+coronavirus, children from families of low socioeconomic status have worse 
+academic performance than their wealthier peers. In 2019, of pupils who were 
+eligible for free school meals (FSMs) in England, or who were in care or adopted 
+from care, only 25% achieved grades 9–5 in GCSE English and Maths, 
+33
+compared with 50% of all other pupils.  
+34
+ 
+The NFER study, noted earlier, showed that 61% of teachers reported in May 
+2020 that there was a learning gap between socioeconomically disadvantaged 
+pupils and their peers that had widened during lockdown, with the remainder 
+judging that this gap had either remained the same (32%) or had reduced (7%). 
+35
+NFER attributed the reduction in the learning gap reported by a minority of 
+teachers to non-disadvantaged pupils having lost more learning than their 
+disadvantaged peers, rather than disadvantaged pupils having progressed with 
+their learning during lockdown. It has also been suggested that some children, 
+such as those in care, coped well with the disruption of education because they 
+did not have the pressure of going to school during lockdown.  
+36
+ 
+There is, however, a lack of timely data that might confirm whether differences in 
+academic progress between disadvantaged pupils and others have indeed 
+widened as a result of lockdown, and which pupils currently require extra support 
+from teachers. While some research exists in this area, the source data is often 
+not shared with school leaders or made open for other researchers or 
+organisations to analyse.  
+28
+ The Children’s Commissioner for England (2020) ‘​Tackling the disadvantage gap during the Covid-19 
+crisis​’ 
+29
+ CPAG (2020) ‘​The Cost of Learning in Lockdown: family experiences of school closures’.  
+30
+ Education Policy Institute (2020). ‘​School attendance rates across the UK since full reopening’  
+31
+ UK Parliament (2020), ‘​Written questions and answer: Schools: Coronavirus - question for 
+Department for Education​’ 
+32
+  Education Policy Institute (2020), ​School attendance rates across the UK since full reopening’  
+33
+ GCSEs are graded 9 to 1, while A-levels are graded A* to G. Grade 9 is the highest grade, set above 
+the old A*. 
+34
+ See: ​Key stage 4 performance, 2019 (revised)​ and: ​Opinion: Coronavirus has intensified the UK's 
+digital divide 
+35
+ NFER (2020), ​Schools Responses to Covid-19 
+36
+ The Telegraph (2020), ​Children in care are 'thriving' during lockdown because they do not have the 
+pressure of school, children's services boss says  
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   13 
+
+ 
+ 
+ 
+Teachers’ perspectives on children’s academic performance 
+In collaboration with Teacher Tapp, we carried out a quantitative survey on 27 
+October 2020 that asked 6,460 teachers in England what proportion of the pupils 
+they teach are currently behind in their learning. This question aimed to investigate 
+teachers’ assessments on where their students should be in their curriculum 
+learning at that point in time, shortly after schools in England reopened to all 
+students following the lockdown.  
+ 
+The results showed that 69% of teachers who took part in the survey stated that 
+one fifth of their class or more was behind. Five per cent of the teachers said that 
+one pupil in their class (one in 30 pupils) was behind; 44% said that one third of 
+their class or more was behind; 12% said that half of their class was behind; 8% 
+stated that ‘almost all of their pupils were behind; and 10% said they did not know 
+who was behind or could not answer the question.  
+ 
+ 
+➔Teacher Tapp survey | Total respondents: 6,460 | Questions asked on 27 October 2020 
+➔View full-size version 
+ 
+The survey results are teachers’ current judgements of their pupils’ performance, 
+rather than standardised assessment results. As noted earlier, teachers’ 
+assessments can be subject to bias and should, therefore, be interpreted as 
+subjective estimates about pupils’ current academic performance.  
+37
+ 
+Differences by pupil characteristics 
+37
+ Teaching and Teacher Education (2017), ‘​Subjectivity of Teacher Judgments: Exploring Student 
+Characteristics That Influence Teacher Judgments of Student Ability​. 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   14 
+
+ 
+ 
+The survey revealed significant differences between the responses of teachers 
+from state schools and teachers from private schools. Just over one quarter (26%) 
+of teachers from state schools reported that one in five pupils are behind, 
+compared with 16% of teachers from private schools. By comparison, one in 
+three teachers from private schools (29%) stated that only one in 30 students (one 
+in a class) are behind, compared with 2% of teachers from state schools.  
+ 
+The largest difference in responses was between primary private school teachers 
+and primary state school teachers. Of primary school teachers in private schools, 
+more than two thirds (72%) reported that fewer than three pupils in their class are 
+currently behind in their curriculum learning, compared with just 7% of primary 
+school teachers in state schools.  
+ 
+ 
+ 
+➔View full-size version 
+ 
+Teachers in schools with a higher proportion of children eligible for free school 
+meals (FSMs) were more likely to report that their pupils were behind in their 
+38
+curriculum learning. Nearly one in four (24%) teachers in schools with a small 
+proportion of children eligible for FSMs said that three pupils per class were 
+behind, compared with only 7% of teachers in schools with a large proportion of 
+children eligible for FSMs.  
+38
+ Teacher Tapp’s weighting includes free school meals quartile: state schools are split into four 
+groups, separately for primary and secondary. The three cut points for primary are: 5.3, 10.4, 19.2, and 
+the 3 cut points for secondary are: 6.7, 11.4, 18.6. 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   15 
+
+ 
+ 
+ 
+➔View full-size version 
+ 
+ 
+These results indicate that there is a gap in educational progress between pupils 
+from private schools and pupils from state schools, and between schools with a 
+large proportion of pupils eligible for FSMs and with a small proportion of pupils 
+eligible for FSMs.  
+ 
+To investigate these findings further, we asked Teacher Tapp to share the results 
+of one of its earlier surveys on learning during lockdown. On 1 May 2020, Teacher 
+Tapp asked 7,700 teachers across England if they felt their pupils were ‘having a 
+successful learning experience at home’ (that is, learning as much or more than 
+they would if they were at school). There were variations in the answers of 
+teachers from state schools and those from private schools. While 42% of 
+secondary teachers from private schools reported that all or almost all of their 
+students had a very successful learning experience (at the time when the survey 
+was carried out), only 3% of secondary school teachers from state schools said 
+the same. In turn, 28% of primary school teachers from private schools said that 
+all or almost all of their students had a very successful learning experience, 
+compared with 3% of primary school teachers from state schools. There was no 
+significant difference in responses to this question from teachers from different 
+regions or from schools with different proportions of pupils eligible for FSMs. 
+ 
+ 
+ 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   16 
+
+ 
+ 
+ 
+➔View full-size version 
+ 
+ 
+While this data gives an indication of the impact of lockdown on children’s 
+academic progress, it does not show how achievements might have changed at 
+different points during lockdown. Since we do not have a reliable baseline from 
+before the pandemic, the same survey question would need to be asked on a 
+regular basis in order to document teachers’ perspectives on different pupils’ 
+educational achievements over time.  
+ 
+What is more, the survey did not consider other potentially important factors that 
+may predict loss of learning for different pupils, including gender, ethnicity, 
+whether they grew up in an economically disadvantaged family (the bottom 20% 
+of family income distribution), pre-lockdown employment status of their parents, 
+and changes in the labour market status of parents during lockdown. Collecting 
+data that takes into account these variables will be crucial in future research; in 
+identifying other reasons why certain children have different learning experiences 
+during lockdown than others. 
+ 
+Our sample of 29 qualitative interviews with teachers, parents/carers and pupils 
+provided insights into factors that could be explored, although it must be kept in 
+mind that the number of interviews is very small and did not include 
+parents/carers from economically disadvantaged backgrounds.  
+ 
+Learning experiences during lockdown: views from children, 
+parents/carers and teachers 
+In the interviews that were carried out for the project, parents/carers whose 
+children attended a private school reported that the school provided a significant 
+amount of learning resources during lockdown, including a structured timetable, 
+live online classes, online learning materials and one-to-one support from 
+teachers.  
+ 
+Parents/carers of primary school children at state schools had mixed experiences 
+of how their children’s schools provided learning materials and online classes. 
+Some parents/carers said they received a good amount of learning resources and 
+personal support from their child’s school, while others lamented having had 
+insufficient contact with their children’s teachers, receiving insufficient learning 
+materials, and lacking guidance on which online resources to use for 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   17 
+
+ 
+ 
+homeschooling. The latter group said that they would have benefited from more 
+guidance from schools on how to use online resources, how to structure learning 
+for their children at home, and how to teach certain concepts. 
+39
+ 
+Pupils who we interviewed who attended a private school reported having a 
+wealth of learning resources available to them, but some reported feeling stressed 
+and overwhelmed by the large volume of work set for them. One young person 
+reported spending over five hours on online classes every day. We will explore the 
+impact of lockdown on pupils’ emotional wellbeing in the next section. 
+ 
+Teachers explained to us that lack of access to electronic devices was an 
+obstacle to effective homeschooling during the first national lockdown. Five out of 
+the 10 teachers we spoke to talked about their pupils’ lack of access to digital 
+technology and/or good broadband connection as a major obstacle to their ability 
+to deliver remote teaching. Children who had to share electronic devices with 
+parents and/or siblings also had less time to study compared with their peers from 
+families where multiple electronic devices were available. 
+ 
+However, not all pupils with good access to online learning resources and online 
+classes reported being able to study effectively from home during lockdown. 
+Some young people we interviewed said they lacked motivation to study from 
+home during lockdown because they did not enjoy spending long periods of time 
+learning on the screen. One secondary school pupil said:  
+Other pupils said that online learning was difficult due to a lack of immediate, 
+face-to-face communication with their teachers and peers. One pupil noted that 
+they found it difficult to concentrate during online lessons held on platforms such 
+as Zoom, Google Meet and Microsoft Teams, as it was noisy and unsuitable for 
+having class discussions. Teachers, too, reported encountering difficulties when 
+attempting to carry out group discussions during online lessons and when trying 
+to provide one-to-one assistance to pupils online. They also said that it was 
+difficult to monitor pupils’ attendance when they were studying remotely.  
+ 
+There were also pupils, however, who said they enjoyed studying online because 
+it allowed them to study at their own pace, they were able to structure their 
+learning themselves, and they had fewer distractions than at school.  
+ 
+Teachers suggested in the interviews that children who had a positive 
+homeschooling experience during the first nationwide lockdown often had support 
+from their parents/carers available to them. Teachers reported that children who 
+did not have significant gaps in their learning had parents/carers who managed to 
+make learning at home relevant and engaging, as opposed to children whose 
+39
+ This finding confirms the result of a report by the Child Poverty Action Group in which parents 
+reported difficulties in finding appropriate resources to support their children’s learning at home.  
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   18 
+“ 
+Doing online lessons and work at home meant I 
+was completely on the computer all the time; we 
+were expected to sit and watch the screen all day 
+which is not good for our health and gave me 
+headaches​. 
+
+ 
+ 
+parents/carers were not able to support their children’s homeschooling. One 
+primary teacher said: 
+ 
+Parents’ discussions during lockdown: insights from Mumsnet data 
+ 
+At the beginning of the coronavirus pandemic, Mumsnet created a new forum, 
+‘Lockdown learning’, in response to large numbers of users posting to different 
+forums to seek advice about enforced homeschooling during lockdown. This 
+40
+forum is dedicated to discussions about homeschooling during coronavirus. 
+ 
+Parents’ preoccupation with homeschooling is demonstrated by our high-level 
+analysis of education-related terms on Mumsnet forums. The 10 most prevalent 
+bigrams (a pair of consecutive written words) in April are presented in the chart 
+below. This shows the number of occurrences of the word pairing in all the text 
+analysed from the forum data we had access to. 
+ 
+ 
+ 
+➔View full-size version 
+ 
+40
+ Conversation with Mumsnet, 12 October 2020. 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   19 
+“ 
+Those [pupils] whose parents were supportive, 
+who made learning relevant and fun and 
+reinforced it [...] did some fantastic things and 
+came back without major gaps. [...] Those that 
+had virtually nothing in terms of support at home 
+and nothing digitally – we had no idea of whether 
+they’d done it well or were making paper 
+aeroplanes of the work. They had definitely lost 
+some key skills, reading in particular.  
+
+ 
+ 
+The most frequent bigrams during April included: ‘every day’ (34), ‘working home’ 
+(33), ‘home learning’ (31), ‘screen time’ (30), ‘key worker’ (29), ‘home schooling’ 
+(24) and ‘online learning’ (21). These terms align with some of the concerns 
+parents/carers expressed in the research interviews, who said they struggled with 
+juggling homeschooling and working from home. These terms show that, as 
+schools closed abruptly, many parents/carers wanted to discuss their experiences 
+of homeschooling and online learning with other parents/carers. In September, 
+‘sent home’, ‘face mask’, ‘risk assessment’ and ‘go back’ were among the most 
+frequent bigrams, signaling parents’ discussions about their children’s return to 
+school.  
+ 
+The research team selected terms associated with homeschooling (eg ‘learning’, 
+‘progress’, ‘academic’) and searched for these during the months of January, April 
+and September 2020 across all Mumsnet forums, to identify the prevalence of 
+these terms in each month. In the following assessment, it is the relative change 
+between months in frequency of these terms that is significant, not the absolute 
+frequencies. This analysis showed that ‘teach’ and ‘learning’ had a high frequency 
+in April (0.16%, or one in 625, and 0.4%, or one in 250, of all words used in 
+Mumsnet posts tagged ‘e-learning’, respectively) compared with January and 
+September, where these words did not feature among the 10 most frequent terms. 
+The term ‘progress’ had a higher frequency in September (0.06%) compared with 
+April.  
+ 
+These findings could suggest that Mumsnet users discussed their children’s 
+learning from home during early lockdown in April, and that they discussed their 
+children's academic progress as schools reopened in September. 
+ 
+ 
+ 
+➔View full-size version 
+ 
+Mumsnet’s forum data could offer researchers the opportunity to source data on 
+parents’ perspectives on school closures due to coronavirus. However, the limits 
+of our analysis of Mumsnet’s data ought to be acknowledged. During the limited 
+time available for this project, only a high-level analysis of key terms and bigrams 
+was possible. It is not possible to draw too many general conclusions from this 
+dataset given the random nature of threads that users choose to start. There is 
+also no guarantee that a thread, once started, will attract any interaction with other 
+users, further reducing the robustness of conclusions drawn. 
+ 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   20 
+
+ 
+ 
+Furthermore, Mumsnet users are predominantly economically advantaged families 
+and those with good internet connection at home. This means that the 
+perspectives of families from disadvantaged backgrounds are likely to be absent 
+from the discussions. Furthermore, as indicated earlier, 85% of Mumsnet users 
+are female. Mumsnet forum posts are, therefore, likely to represent female rather 
+41
+than male perspectives. 
+ 
+In future research, an in-depth analysis of the meta-narratives emerging from 
+discussions on Mumsnet forums would provide valuable insights for researchers 
+focusing on parents’ concerns and discussions in general, and during crisis 
+situations like coronavirus. 
+ 
+Parents’ perspectives from interviews 
+The interviews carried out by MyEd with parents/carers provide further potential 
+insights into the challenges parents/carers experienced during lockdown. The 
+interviews highlighted a variety of reasons why some parents/carers encountered 
+challenges in supporting their children with homeschooling. First, in the context of 
+an abrupt, largely unprepared shift to home learning, many parents/carers 
+continued to work and had limited time available to support their children with 
+their learning, especially if they looked after multiple children at the same time. 
+These parents reported that juggling work and homeschooling was a major 
+challenge during the first lockdown. 
+ 
+Furthermore, parents/carers’ ability to support their children with studying 
+depended on parents/carers’ own education level. One teacher explained that 
+pupils of parents/carers who lack formal education themselves were less able to 
+teach certain subjects (eg maths) to their children during lockdown. The teacher 
+noted that at their school, many parents were unable to read or write.  
+ 
+Finally, some parents/carers with children with disabilities and/or special 
+educational needs (SEN) who took part in the interviews said they struggled with 
+supporting their children’s learning at home as they did not have the same tailored 
+support and resources available as was normally provided by their child’s school.  
+ 
+These interviews could provide important additions and details to data sourced via 
+Mumsnet forums. However, there are limits to the information our interviews can 
+provide. As noted in the ​Methods and methodology section​, the data collected 
+through the interviews is limited as it is based on a small sample of 29 interviews. 
+What is more, this data is, to an extent, biased, since pupils and parents/carers 
+from economically disadvantaged backgrounds were under-represented. 
+Collecting data on these families’ perspectives through qualitative interviews is 
+both urgent and necessary for explaining which pupils have fallen behind with 
+their learning during lockdowns. 
+ 
+ 
+Teachers’ perspectives on children’s learning 
+The ODI carried out a survey on 20 October in collaboration with Teacher Tapp, 
+which suggests that teachers are finding it challenging to identify gaps in different 
+children’s learning. The survey asked 6,692 teachers in England what they 
+identified as the key challenges of their daily lives as teachers. Participants were 
+able to tick all options that applied to them. The biggest challenges identified by 
+teachers were: implementing hygiene and social distancing regimes (62% on 
+average); identifying gaps in children’s learning and working out how to help those 
+in need of extra support (61%); designing remote learning resources for isolating 
+41
+ Mediatel (2017), ​Mumsnet founder on anonymity, authenticity and influence 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   21 
+
+ 
+ 
+pupils/future lockdown (56%); and having to re-teach knowledge/skills from 
+before lockdown (48%).  
+42
+ 
+Similar challenges were also mentioned by teachers who took part in the 
+interviews for this project. Some teachers reported finding it challenging to identify 
+which pupils currently have gaps in their academic performance and in which 
+subjects, and which ones do not. This is because they did not know which 
+children had continued to study during lockdown and which ones had not. Other 
+teachers said they struggled with helping children who were finding it difficult to 
+concentrate on learning tasks, following long periods away from school earlier in 
+the year.  
+ 
+Furthermore, teachers told us that coronavirus-related hygiene routines, social 
+distancing measures, and keeping class bubbles separate were taking up a 
+significant amount of their teaching time. This suggests that teachers are currently 
+being tasked with keeping schools ‘Covid secure’, and that this is taking up a 
+significant amount of planning, maintenance, time and energy. 
+ 
+This survey provided us with data on teachers’ daily lives and challenges at a 
+single point in time (20 October 2020). It does not, however, map how these 
+concerns change over time. Collecting this data regularly – through quantitative, 
+qualitative, reflexive approaches and insights from teachers/pupils, and 
+parents/carers – and sharing it or making it open to others, could be beneficial for 
+teachers and school leaders. This data could help schools identify and enable the 
+development of strategies that assist school leaders with responding to the 
+challenges posed by the pandemic. 
+ 
+  
+ 
+ 
+ 
+  
+42
+ ODI Leeds (2020), ​Data about children’s lives during the pandemic: interactive visualisations of the 
+survey results  
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   22 
+
+ 
+ 
+Impact of lockdown on 
+socioeconomic 
+circumstances and 
+emotional wellbeing 
+ 
+Impact on children’s socioeconomic 
+provision/circumstances  
+ 
+An emerging body of research suggests that school closures did not only have an 
+impact on academic performance, but also affected the social and economic 
+environment of children and families. Research by the Food Foundation suggests 
+that the first nationwide lockdown had negative impacts on the food security of 
+children from different demographic groups, as many children no longer received 
+free school meals (FSMs). This study was published as part of the joint 
+#EndChildFoodPoverty campaign with Manchester United footballer Marcus 
+Rashford. Based on a survey of 1,000 children, conducted by Childwise in 
+43
+September 2020, the Food Foundation showed that 29% of children aged 8-17 
+44
+were registered for FSMs, and that 42% of these children were newly registered to 
+the scheme. The Food Foundation estimates that an additional 900,000 children 
+have become eligible for FSMs this year.  
+45
+ 
+The survey by the Food Foundation/Childwise also showed that 64% of the 
+children newly claiming FSMs are from households where the main earners were 
+in higher income occupations. Moreover, a report by the Food Foundation 
+published in August showed that 32% of households with children had 
+experienced a drop in income since late March 2020. This suggests that the 
+46
+redundancies, furlough and loss of income during coronavirus are affecting 
+parents/caregivers from a wide variety of different socio-economic backgrounds. 
+ 
+Allen et al. suggest that, during the first nationwide lockdown, teachers carried out 
+a wide variety of pastoral tasks to continue monitoring and supporting pupils from 
+economically disadvantaged backgrounds. According to this study, teachers 
+prioritised responding to the effects of poverty and food insecurity, including 
+running food banks and delivering food parcels to disadvantaged pupils. Some 
+teachers reported that they gave greater priority to these tasks than maintaining 
+academic performance. 
+47
+43
+ Earlier this year, the Food Foundation’s research catalysed a joint campaign with Rashford which 
+resulted in a​ government U-turn​ on the provision of food vouchers during the summer holidays. This 
+campaign reversed initial plans to drop the scheme. 
+44
+ Childwise’s online survey, conducted between 8-10 September, obtained data on 1,064 children 
+aged 7-17 years from different regions of the UK. 
+45
+ ​Food Foundation (2020), ​Demand for free school meals rises sharply as the economic impact of 
+Covid-19 on families bites 
+46
+ ​ibid. 
+47
+ Teacher Tapp, UCL Social Research Institute, UCL CEPEO (2020), ​How did the early stages of the 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   23 
+
+ 
+ 
+ 
+However, there is very little open data on children’s food security, and it is 
+therefore not possible to analyse the raw data from existing studies any further. In 
+addition, statistics on food insecurity do not provide detailed information on how 
+different groups of children and families responded to these challenges during 
+lockdown, and what may have helped them cope with it. 
+ 
+Teachers’ support for children during lockdown 
+The interviews carried out by MyEd as part of this study suggested that teachers 
+played an important role in helping pupils and families cope with some of the 
+socio-economic impacts of school closures. Some teachers we spoke to told us 
+they focused on monitoring children who were socially and economically 
+vulnerable during the first nationwide lockdown, and that the academic 
+performance of these children during this time was not their major concern. One 
+teacher reported that their school made calls to every family to check on the 
+welfare and protection of economically disadvantaged pupils. Another teacher 
+explained that staff at her school participated in running a local food bank every 
+day during lockdown and once a week in the summer holidays. One primary 
+school teacher said: 
+It is useful to contextualise these personal accounts with real-time, open data 
+published by the Department for Work and Pensions (DWP). This data shows that 
+the number of couples with child dependant(s) claiming Universal Credit rose from 
+194,943 in May 2019 to 590,462 in May 2020, and the number of single parents 
+with child dependant(s) nearly doubled from 552,912 in May 2019 to 1,035,165 in 
+May 2020. Furthermore, since March 2020, there has been a surge in 
+48
+applications for Universal Credit in the UK. The number of people on Universal 
+Credit in the UK on 11 July 2019 was 2.3 million. By 10 September 2020, this 
+49
+number had more than doubled to 5.7 million people, with the highest numbers of 
+people claiming Universal Credit located in London and Essex, North and East 
+Midlands, and North East England. This data could suggest that many children 
+50
+and families’ socio-economic status has been negatively affected since the initial 
+lockdown in late March.  
+ 
+Furthermore, the findings from our Teacher Tapp survey on 20 October 2020 
+showed that teachers in England are currently providing additional support to 
+pupils from economically disadvantaged backgrounds and to those who are 
+COVID-19 pandemic affect teacher wellbeing?  
+48
+ Department for Work and Pensions (2020), ‘​Log into Stat-Xplore​’ 
+49
+ Department for Work and Pensions (2019). ‘​Universal Credit Statistics 29 April 2013 to 11 July 2019​’ 
+50
+ Department for Work and Pensions (2020). ‘​Universal Credit: Official Statistics​’  
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   24 
+“ 
+We made calls to every family, not just for 
+accessing but for safeguarding. We needed to 
+know our kids were safe. We have some highly 
+vulnerable kids, so our priority was to check their 
+welfare and protection. [...] We wanted them to 
+know that: “My teacher is still there, and my 
+teacher still cares”. 
+
+ 
+ 
+struggling with their mental health now that schools have reopened. The survey 
+showed that one third (32%) of teachers identified the need to support pupils who 
+are socially and economically disadvantaged as a key challenge. This response 
+was the same across all regions of England.  
+ 
+Detailed quantitative and representative information on how teachers are currently 
+supporting pupils who continue to face economic hardship as a result of 
+coronavirus is, however, not included in the data collected via the Teacher Tapp 
+survey. This gap in data needs to be filled so that schools and policymakers can 
+identify ways to support these children in the event of future disruptions to 
+education. 
+ 
+Impact of lockdown on children’s mental health 
+and wellbeing 
+During lockdown, children living in unsafe or challenging family environments, 
+and/or children exposed to poverty and domestic violence, may have lost a safe 
+space to learn, previously provided by schools – unless officially assessed as 
+‘vulnerable’ and therefore able to continue to attend school. Existing research 
+suggests that the school closures during the coronavirus pandemic have had a 
+variety of adverse impacts on children’s mental health and emotional wellbeing. 
+The children’s charity Barnardo’s carried out a survey in May 2020 with over 100 
+school staff at primary, secondary and special needs schools. Of the participants, 
+88% reported that the coronavirus pandemic was likely to have had an impact on 
+the mental health and wellbeing of their pupils. In the survey, more than one 
+51
+quarter (26%) of teachers reported that they did not have sufficient information on 
+the kind of tools and resources that can help them support children’s mental 
+health and wellbeing, as well as access to social and emotional learning 
+programmes. Young Minds (2020) carried out a survey of over 2,000 young 
+52
+people which showed that 83% of those who had pre-existing mental health 
+needs felt that their mental health issues had worsened during the first lockdown.
+ It also showed that the absence of daily routines provided by the school day, 
+53
+not being able to see friends and teachers at school, and more engagement with 
+social media, exacerbated existing mental health problems.  
+ 
+However, we need more data that provides information on how the effects of 
+lockdown continue to affect the mental health of different groups of children, and 
+what schools, government and third sector organisations can do to support them. 
+Building a better data infrastructure in this area could start with relevant 
+organisations sharing data they hold in a way that protects children’s privacy and, 
+at the same time, is beneficial for other stakeholders. We explored what this might 
+look like with Barnardo’s. 
+ 
+ 
+Data from the Barnardo’s See, Hear, Respond​ ​Partnership 
+The See, Hear, Respond Partnership, led by Barnardo’s and funded by the DfE, 
+54
+is a new service developed to provide a safety net for vulnerable children and 
+young people during lockdown. The partnership involves collaborating with 
+schools and charities to identify those children who are hidden from view; that is, 
+those who are not receiving support from statutory organisations and those who 
+51
+ Barnardo's (2020), ‘​Time for a Clean Slate: Children’s Mental Health at the Heart of Education​’ 
+52
+ Barnardo's (2020), ‘​Time for a Clean Slate: Children’s Mental Health at the Heart of Education​’ 
+53
+ Young Minds (2020) ‘​Coronavirus Report: Impact on Young People with Mental Health Needs​’ 
+54
+ Barnardo’s (2020), ​See, Hear, Respond 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   25 
+
+ 
+ 
+are at risk and/or experiencing adverse impacts to their health and emotional 
+wellbeing. The initiative seeks to connect children and young people, in 
+55
+particular those who are vulnerable and isolated, with services such as online 
+counselling or face-to-face therapy, and to support children with reintegrating at 
+school.  
+ 
+See, Hear, Respond works with more than 80 different voluntary sector 
+organisations, made up of local and national charities, including 30 black, Asian, 
+minority ethnic and refugee (BAMER) specific organisations. All delivery partners 
+record requests for referrals of children via a shared case management system, 
+which was developed specifically for the See, Hear, Respond Partnership. 
+Partners are jointly collating data to create one single dataset that provides 
+anonymous information about children who are being referred onto the 
+programme, the support provided, and outcomes of the referral. This joint 
+approach to data collection recognises the importance of collating and sharing 
+data among organisations supporting young people and children whose mental 
+health and wellbeing is affected by the pandemic.  
+By late October, the See, Hear, Respond Partnership was delivering support to 
+more than 20,000 children and young people. Barnardo’s shared more than 6,000 
+records from this dataset with the ODI, which covered the period 17 June (when 
+the partnership was launched) to 12 October 2020. Information in each record 
+includes location (at local authority level), week of referral, reason(s) for referral 
+(one or more, as assessed by worker triage), priority group(s) (as assessed by 
+worker triage) and referral channel. In addition, a series of operational details are 
+provided, which we have not analysed in the study (status, outcome). As noted 
+earlier, referrals – but not people – are assigned an ID, which means it is not 
+possible to identify a child who is referred to the service multiple times. The ID is 
+not revealed in our analysis. 
+Barnardo’s decided to share this data with the ODI so that it could be analysed for 
+trends and to explore how it could be made open in a way that is beneficial to 
+other organisations working with children, while also protecting children’s 
+personal data. 
+Increasing demand for support 
+From the period 17 June to 12 October 2020, 6,468 referrals of children were 
+recorded on the See, Hear, Respond Partnership secure case management 
+system. These requests were individual referrals (either self-referred, 
+parent-referred or professional-referred). This data does not include children 
+Barnardo’s reached in detached street work, including groups of youth workers in 
+public spaces and places who provide emotional and practical support to 
+children. According to Barnardo’s, the latter group accounted for a further 12,451 
+referrals.  
+The number of referrals to Barnardo’s steadily increased between June and 
+October 2020, reaching 1,000 in the week commencing 12 October 2020. The 
+absence of a plateau in the graph below suggests that there is ongoing demand 
+for the support services for children’s health and wellbeing.  
+ 
+55
+ Barnardo’s (2020) ​New Barnardos service launched -See Hear Respond 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   26 
+
+ 
+ 
+  
+➔View full-size version 
+ 
+As the above graph shows, referrals increased significantly from September 2020 
+onwards. Barnardo’s explained there are several possible explanations for this 
+increase, including ​schools reopening and referring children who needed help and 
+those who were still missing from school; partners being on-boarded and reaching 
+into local communities; and increasing ​public awareness of the See, Hear, 
+Respond Partnership. For example, between mid-July and late August 2020, 
+Barnardo's secured more than 190 pieces of media coverage in professional and 
+public press; they promoted See, Hear, Respond on social media; and information 
+about the partnership was published on GOV.UK coronavirus-related web pages 
+56
+and coronavirus support sites for professional organisations. There were no 
+significant differences in the numbers of referrals received across different regions 
+of the UK. 
+ 
+In general, the number of referrals has increased over time. However, there were 
+two notable drops in referrals from all sources: one drop from 139 referrals per 
+week to 46 referrals per week in mid-July; and one drop from around 300 referrals 
+per week to 200 referrals per week at the end of August. These drops coincide 
+with the beginning and the end of the school holidays.  
+ 
+56
+ UK government (2020), ​What parents and carers need to know about early years providers, schools 
+and colleges in the autumn term 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   27 
+
+ 
+ 
+ 
+➔View full-size version 
+ 
+ 
+ 
+The role of schools in referrals 
+ 
+In the See, Hear, Respond dataset, those who carried out the referrals were 
+grouped into: guardians, professionals, delivery partners and children themselves. 
+As the graph below shows, professionals (eg teachers, healthcare workers, 
+nursery workers and education professionals) were the main source of referrals 
+until early August, after which delivery partners were the major source of referrals. 
+Referrals from children themselves and guardians were low, never exceeding 100 
+per week.  
+ 
+In July, the number of referrals by professionals dropped significantly, from 125 
+referrals during the week commencing 13 July 2020, to 37 referrals during the 
+week commencing 20 July 2020. This period coincided with the start of the 
+summer holidays. The number of referrals rose again to 78 during the following 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   28 
+
+ 
+ 
+week. At the end of August, the number of referrals dropped once again slightly, 
+from 85 referrals recorded during the week commencing 24 August 2020 to 53 
+referrals during the week commencing 31 August 2020. From early September 
+onwards – coinciding with the end of the summer holidays – the number of 
+referrals from professionals steadily increased week-by-week, rising from 53 
+referrals during the week commencing 31 August 2020 to nearly 300 referrals by 
+12 October 2020. 
+ 
+ 
+ 
+➔View full-size version 
+ 
+This pattern of referrals by professionals provides an indication of the important 
+role schools play in referring vulnerable children and young people to support 
+services. When schools reopened in England in early September 2020, the 
+number of vulnerable children and young people referred steadily increased. This 
+suggests that schools play a key role in monitoring the emotional wellbeing of 
+children.  
+ 
+Mental health, isolation and loneliness  
+The five major reasons for the referral of children during June and October 2020 
+were concerns about: a child’s mental health; isolation and loneliness; barriers to 
+reintegration to education; parenting support; and parents’ mental health. The 
+relative proportions of referrals for these reasons remained roughly constant 
+during this period.  
+ 
+ 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   29 
+
+ 
+ 
+ 
+➔*There may be multiple reasons for referral 
+➔View full-size version 
+ 
+Priority groups 
+Data from See, Hear, Respond provides information on the groups of children who 
+were prioritised by the programme, namely: BAMER children who experience 
+barriers to accessing services; children with SEN; children under five years old; 
+children at risk of criminal and sexual exploitation outside of the home; young 
+carers; and other children with emotional wellbeing needs. Referrals can be 
+associated with multiple groups. 
+ 
+Our data analysis showed which groups of children were referred via See, Hear, 
+Respond. From 17 June to 12 October 2020, more than 3,500 of the 6468 
+referrals were related to emotional wellbeing; nearly 2,500 were related to BAMER 
+children; and just over 1,500 referrals were related to children with SEN.  
+ 
+ 
+➔Each child may be in multiple priority groups 
+➔View full-size version 
+ 
+ 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   30 
+
+ 
+ 
+ 
+➔Referrals can be associated with multiple groups 
+➔View full-size version 
+ 
+This data provides valuable information on different groups of children who have 
+been referred to services to support their mental health and wellbeing, and 
+demonstrates the demand for support services like this. Analysis of this data also 
+shows the crucial role of schools in monitoring and supporting children at risk of 
+mental health problems. This data can provide valuable information for other third 
+sector organisations in prioritising their work with vulnerable children.  
+ 
+Certain limits to these findings need to be acknowledged. Since the See, Hear, 
+Respond Partnership only started in June 2020, as an initiative that assists 
+children whose mental health was affected by lockdown, it has not been possible 
+to compare the results on children’s mental health to historical data from 
+Barnardo’s, collected prior to the outbreak of coronavirus. Increases in numbers 
+of referrals and changes in their composition could be artefacts of the growth in 
+awareness and use of the service, rather than indications of underlying need. This 
+data will become more robust over time. 
+ 
+ 
+Data on parents/carers’ mental health: indications from Mumsnet 
+forums 
+The findings of this project suggest that, as a result of coronavirus, some 
+parents/carers are stretched further than ever. Many families have been hit hard 
+financially, and have new homeschooling and caring responsibilities, all of which 
+can put additional strain on parents/carers’ mental health. In our interviews, 
+parents/carers said they felt ‘overwhelmed’ by having to juggle homeschooling, 
+existing work commitments and household chores. 
+ 
+An indication of how parents felt during the lockdown is also provided by our 
+analysis of Mumsnet forum terms. During September 2020, ‘mental health’ was 
+among the 10 most frequent bigrams across all forums, which could be an 
+indication of parents/carers discussing concerns about their own, or their 
+children’s, mental health as a result of the pandemic – but could also simply arise 
+from other issues parents/carers are currently dealing with.  
+ 
+ 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   31 
+
+ 
+ 
+ 
+➔Analysis of Mumsnet forum terms: January, April and September 2020 
+➔View full-size version 
+ 
+Our analysis of terms related to mental health indicates the frequency that 
+Mumsnet users discussed their mental health and wellbeing on the site. During 
+April 2020 – shortly after lockdown was introduced – the term ‘stress’ featured in 
+around five times more frequently (0.05% of words used) in Mumsnet posts 
+compared with January and September 2020 (around 0.01% of words used). The 
+term ‘wellbeing’ featured in 0.02% of words used in Mumsnet posts during April, 
+and this was around the same as in January (0.02%). Furthermore, the frequency 
+of the term ‘mental’ increased​ ​between January and April and between April and 
+September. Once again, this could suggest that parents/carers’ discussions on 
+Mumsnet forums focused on the impacts of lockdown on the mental health and 
+wellbeing of themselves and/or their children.  
+ 
+There appeared to be no occurrences of the term ‘wellbeing’ in September, but it 
+is possible that different spellings (eg ‘well-being’, ‘well being’) or variations 
+thereof were used. This highlights the challenge we encountered in our analysis of 
+this data, as noted earlier. In addition, there is no guarantee that people decide to 
+start a thread in the first place – particularly about sensitive topics, including 
+mental health, given the public nature of the forum. 
+ 
+As noted above, a deeper understanding of how these terms were used by 
+Mumsnet users, and the discussions on mental health that occurred on the site, is 
+needed to enable wider conclusions to be drawn on how forum users’ described 
+the impacts of lockdown on their mental health and wellbeing. The gaps in data 
+could be filled, for example, through interviews and focus groups with Mumsnet 
+users.  
+ 
+ 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   32 
+
+ 
+ 
+ 
+➔Mumsnet frequency of terms related to ‘mental health’ 
+➔View full-size version 
+ 
+This analysis of Mumsnet forums demonstrates the benefits of data collection and 
+sharing during the current crisis. Mumsnet forums can provide timely data on 
+some of the challenges currently experienced by parents/carers, while in-depth, 
+real-time analyses of it could support actors in different sectors involved in 
+providing support for parents/carers during the pandemic.  
+Teachers’ mental health and wellbeing 
+The sudden closure of schools in March 2020 impacted the professional lives of 
+teachers, who had to adapt quickly to unfamiliar working patterns and new 
+routines. This had a significant impact on some teachers’ emotional wellbeing. 
+Previous research carried out by University College London, via Teacher Tapp, 
+found that school closures earlier this year negatively impacted the mental health 
+of teachers. Teacher Tapp surveys indicate that shortly before schools closed to 
+57
+the majority of students in March, teachers’ anxiety levels peaked and they 
+reported high staff absence rates, emergency closures and uncertainty about 
+when school would reopen. During the first nationwide lockdown, work-related 
+58
+anxiety fell slightly for state school teachers, some of whom reported having more 
+energy and time for their own families.  
+59
+ 
+The study also found that work-related anxiety rose specifically for headteachers 
+during lockdown, when they were required to manage a number of challenging 
+administrative tasks. Towards the end of June, one in five headteachers felt that 
+the experience has made it more likely that they will seek to leave the profession.  
+60
+ 
+This project builds on this research by collecting data on teachers’ mental health 
+during the current period of uncertainty. We carried out a survey with 6,599 
+teachers in England via Teacher Tapp on 20 October, in which they were asked 
+how they would describe their current mental health and wellbeing. Teachers’ 
+responses were similar across all sectors and geographic areas. The majority of 
+teachers said they were either ‘mostly happy and confident in respect of my work’ 
+(32%) or ‘slightly anxious and stressed because of my work’ (31%). The exception 
+to this were primary school teachers, of which 44% stated they were ‘mostly 
+happy and confident in respect of my work’.  
+57
+ Teacher Tapp, UCL Social Research Institute, UCL CEPEO (2020), ​‘How Did the Early Stages of the 
+COVID-19 Pandemic Affect Teacher Wellbeing?’  
+58
+ ​Teacher Tapp (2020), ​Lessons you look forward to (and the ones you dread) and an update on 
+wellbeing 
+59
+ Teacher Tapp, UCL Social Research Institute, UCL CEPEO (2020), ​‘How Did the Early Stages of the 
+COVID-19 Pandemic Affect Teacher Wellbeing?’  
+60
+ Allen, Rebecca, John Jerrim, and Sam Sims (2020). “How Did the Early Stages of the COVID-19 
+Pandemic Affect Teacher Wellbeing?”  
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+➔Teachers and headteachers response to question: Which of the following most closely 
+describes your current mental health and wellbeing? 
+➔View full-size version 
+ 
+The survey results indicate that headteachers continue to be affected by 
+work-related anxiety and stress. One in four headteachers (27%) – compared to 
+one in five in June 2020 – reported feeling either ‘completely overwhelmed by my 
+work challenges’ (11%), or feeling ‘very anxious and stressed because of my 
+work’ (16%). This extended period of stress and anxiety may have long-term 
+consequences for the retention of headteachers in the future. Data collection on 
+the unique needs of headteachers and how to support them within the current 
+crisis is both urgent and necessary. 
+ 
+Interviews with teachers by MyEd gave some insights into the various challenges 
+experienced by teachers on a daily basis during and after lockdown. Teachers told 
+us that, when schools closed abruptly in March, guidelines and information from 
+the government was minimal and that staff were worried about their pupils, 
+especially about their mental health and wellbeing. Some teachers also said it was 
+difficult for them to switch from teaching in the classroom to online teaching, as 
+they did not have the digital skills necessary to prepare online classes and/or 
+online learning resources.  
+ 
+Since schools in England reopened to all pupils in September, teachers continue 
+to juggle a variety of complex tasks. Teachers who took part in the MyEd 
+interviews told us that they are finding it difficult to implement time-consuming 
+coronavirus-related hygiene routines and social distancing measures alongside 
+identifying pupils who are behind with their learning, and responding to 
+disruptions to learning incurred by pupils and/or staff who fall ill with coronavirus. 
+Since teachers are having to juggle a variety of different tasks, it is possible that 
+less time for teaching remains, which, in turn, could lead to more gaps in 
+educational attainment and/or more stress for teachers. One primary school 
+teacher summarised these challenges as follows: 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   34 
+
+ 
+ 
+This survey provided data on teachers’ emotional wellbeing during the current 
+situation, building on earlier surveys on teachers’ mental health during lockdown 
+carried out by Teacher Tapp. Collecting more of this data and combining it with 
+qualitative interviews with teachers, and sharing it or making it open to 
+policymakers, could be beneficial in supporting teachers and school leaders with 
+the challenges they are facing during the current crisis. This data infrastructure 
+could assist policymakers with developing coping strategies to support teachers 
+with their work, and could also address the risk of more and more headteachers 
+leaving the profession.  
+ 
+ 
+ 
+  
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   35 
+“ 
+The challenges now, from talking to colleagues, 
+will be the disparities between the children that 
+were supported and carried on learning and those
+that didn’t. And the difficulties in concentration, as 
+you get them back into a learning mindset. And 
+then you’ll have social difficulties in that they can’t 
+mix with children they would have wanted to 
+because of bubbling. A lot of teachers are feeling 
+that the days are very intense. If they’re intense 
+for teachers, imagine how the kids feel. 
+
+ 
+ 
+Conclusions and 
+recommendations  
+Conclusion 
+Periods of emergency school closure and disruption to schooling due to the 
+coronavirus pandemic have different effects on the learning experiences and 
+mental health and wellbeing of different groups of pupils. This pilot project 
+provides a rapid data response to the current crisis. This response was made 
+possible by sourcing timely datasets from a range of sources (government, third 
+sector, private sector and academic sector) and using different approaches 
+(qualitative and quantitative) to support a wide range of actors in different sectors 
+involved in providing support for children, families and teachers. Working closely 
+with Barnardo’s and Mumsnet, this project has surfaced some of the insights that 
+are possible when data from civil society organisations and social media platforms 
+is made available.  
+ 
+Our findings highlight the need to address educational attainment gaps. However, 
+the data we have used and interviews we carried out may itself exclude or fail to 
+highlight the specific challenges faced by children and families from 
+socio-economic disadvantaged backgrounds and other groups (eg young carers 
+and children with SEN). Educational challenges may, therefore, not simply be 
+related to one’s ability to access learning resources and digital technology, but 
+also depend on one’s ability to be represented within research and data 
+collection. 
+ 
+We hope that our research will inspire the collection and safe sharing of more 
+qualitative and quantitative data from a variety of sources, for all regions/nations in 
+the UK, and across variables (age, SEN, gender, ethnicity). This data needs to be 
+collected and shared in real time, so that resources can be mobilised promptly to 
+respond quickly to emerging issues.  
+ 
+These challenges and findings have informed our recommendations outlined 
+below. 
+Recommendations 
+Schools, headteachers, children’s services and policymakers currently face 
+unprecedented challenges. Some of these could be helped to be addressed 
+through better access to data. We urgently need a data infrastructure that is as 
+open as possible, while protecting people’s privacy, to provide the timely 
+information that teachers, headteachers and policymakers need to support 
+different groups of children during the current, constantly evolving, crisis.  
+ 
+The creation of an efficient data infrastructure in this area needs to take into 
+consideration:  
+ 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   36 
+
+ 
+ 
+●There is a need to collect timely data on a repeated and ongoing basis 
+that documents the changing needs of different groups of children, 
+families and teachers within the current period of uncertainty.  
+ 
+●This data needs to include the needs of children and families with 
+disadvantaged socio-economic status, and of those without access, or 
+limited access, to digital technologies. Collecting this data can provide a 
+clearer picture of the needs of the most vulnerable groups in society and 
+may require non-digital approaches.  
+ 
+●Data needs to be shared and opened up in a safe way, to enable a variety 
+of analyses that can inform organisations, policymakers and schools in 
+their work with children, families and teachers. This includes data that is 
+stewarded by civil society organisations and social media platforms, as 
+well as those in the education sector.  
+ 
+This project has highlighted the need to build a better data infrastructure within 
+the education sector, and has demonstrated how real-time, open, shared data can 
+inform the response of schools and other organisations to the various challenges 
+posed by the coronavirus crisis. It demonstrates the benefits of enabling more 
+data to be shared and made open in a safe and ethical way, to ultimately inform 
+decision-making processes that benefit society as a whole. 
+ 
+If you have data that you think could be used to shed light on the impact of 
+coronavirus on education and children’s wellbeing, and need help in making it 
+available for others to understand and reuse, please get in touch with us at 
+info@theodi.org​. 
+ 
+  
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   37 
+
+ 
+ 
+Bibliography 
+ 
+➔Allen, R. et al. (2020) ‘How did the early stages of the COVID-19 pandemic affect 
+teacher wellbeing?’ Teacher Tapp, UCL Social Research Institute, UCL CEPEO, p. 
+15. Available at: 
+https://johnjerrim.files.wordpress.com/2020/09/allen_jerrim_covid_final.pdf​. 
+➔Andrew, A. et al. (2020) ‘Learning during the lockdown: real-time data on 
+children’s experiences during home learning’. Institute for Fiscal Studies. doi: 
+10.1920/BN.IFS.2020.BN0288 
+➔Barnardo's (2020) ‘Time for a Clean Slate: Children’s Mental Health at the Heart of 
+Education’. Barnardo's. Available at: 
+https://www.barnardos.org.uk/time-clean-slate-mental-health-heart-education-rep
+ort​ (Accessed: 21 September 2020) 
+➔Beng, H. S. and Wardle, L. (2020) ‘Teachers’ wellbeing and workload during 
+Covid-19 lockdown’. Durham University and School Zone. Available at: 
+https://www.researchgate.net/publication/342439172_Teachers'_wellbeing_and_
+workload_during_Covid-19_lockdown​ (Accessed: 28 September 2020) 
+➔Child Poverty Action Group (CPAG) (2020) ‘The Cost of Learning in Lockdown: 
+family experiences of school closures’. CPAG. Available at: 
+https://cpag.org.uk/policy-and-campaigns/report/cost-learning-lockdown-family-e
+xperiences-school-closures​ (Accessed: 28 September 2020) 
+➔Children’s Commissioner (2020) ‘Tackling the disadvantage gap during the 
+Covid-19 crisis’. Available at: 
+https://www.childrenscommissioner.gov.uk/report/tackling-the-disadvantage-gap-
+during-the-covid-19-crisis/​ (Accessed: 28 September 2020). 
+➔Faculty of Health, Social Care and Medicine, ‘Children’s Information about 
+coronavirus (COVID-19)’ (2020) Faculty of Health, Social Care and Medicine, 
+Edgehill University. Available at: 
+https://www.edgehill.ac.uk/health/research/children-and-covid19/​ (Accessed: 21 
+September 2020) 
+➔Clayton, C., Clayton, R. and Potter, M. (2020) ‘British Families in Lockdown’. 
+Leeds Trinity University and UKRI England. Available at: 
+https://www.leedstrinity.ac.uk/research/british-families-in-lockdown-study/ 
+(Accessed: 21 September 2020) 
+➔Cullinane, Carl and Montacute, R. (2020) ‘COVID-19 and Social Mobility Impact 
+Brief. Sutton Trust’. Available at: 
+https://www.suttontrust.com/our-research/covid-19-and-social-mobility-impact-br
+ief/​ (Accessed: 23 September 2020) 
+➔Department for Education (2019). ‘Schools, pupils, and their Characteristics’: 
+January 2019. Available at: 
+https://www.gov.uk/government/statistics/schools-pupils-and-their-characteristic
+s-january-2019​ (Accessed 17 October 2020). 
+➔Department for Work and Pensions (2020). ‘Universal Credit: Official Statistics’. 
+Available at: 
+https://dwp-stats.maps.arcgis.com/apps/MapSeries/index.html?appid=f90fb305d
+8da4eb3970812b3199cf489​ (Accessed 18 October 2020).  
+➔Department for Work and Pensions (2019). Universal Credit Statistics 29 April 
+2013 to 11 July 2019. Available at: 
+https://www.gov.uk/government/publications/universal-credit-29-april-2013-to-11
+-july-2019/universal-credit-statistics-29-april-2013-to-11-july-2019  
+➔Eivers, E., Worth, J. and Gosh, A. (2020) ‘Home learning during Covid-19: Findings 
+from the Understanding Society Longitudinal Study’. National Foundation for 
+Educational Research (NFER). Available at: 
+https://www.nfer.ac.uk/home-learning-during-covid-19-findings-from-the-underst
+anding-society-longitudinal-study/​ (Accessed: 28 September 2020). 
+➔Elliot, Lee, Major Andrew Eyles and Stephen Machin (2020). ‘Generation COVID: 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   38 
+
+ 
+ 
+Emerging work and education inequalities’. A CEP Covid Analysis. LSE and UKRI. 
+Paper no. 011. Available at: 
+http://cep.lse.ac.uk/pubs/download/cepcovid-19-011.pdf​ (Accessed 2 November 
+2020)  
+➔Evans, C. et al. (2020) ‘Teaching under Lockdown: the experiences of London 
+English teachers’, Changing English, 27(3), pp. 244–254. doi: 
+10.1080/1358684X.2020.1779030​. 
+➔Food Foundation (2020). ‘New Food Foundation Survey: Five Million People Living 
+in Households with Children have experienced food insecurity since Lockdown 
+started’, May 2020. ​Available at: 
+https://foodfoundation.org.uk/new-food-foundation-survey-five-million-people-livi
+ng-in-households-with-children-have-experienced-food-insecurity-since-lockdow
+n-started​ (Accessed 10 October 2020) 
+➔Girlguiding (2020) ‘Early findings on the impact of Covid-19 on girls and young 
+women’. Available at: 
+https://www.girlguiding.org.uk/globalassets/docs-and-resources/research-and-ca
+mpaigns/girlguiding-covid19-research-briefing.pdf​ (Accessed: 28 September 
+2020) 
+➔Montacute, R. (2020) Social Mobility and COVID-19. Sutton Trust. Available at: 
+https://www.suttontrust.com/our-research/social-mobility-and-covid-19/ 
+(Accessed: 28 September 2020) 
+➔Meissel, Kane, Frauke Meyer, Esther S. Yao, and Christine M. Rubie-Davies. 
+‘Subjectivity of Teacher Judgments: Exploring Student Characteristics That 
+Influence Teacher Judgments of Student Ability.’ Teaching and Teacher Education 
+65 (July 1, 2017): 48–60.​ https://doi.org/10.1016/j.tate.2017.02.021 
+➔Moss, G. et al. (2020) Primary teachers’ experience of the COVID-19 lockdown: 
+‘Eight key messages for policymakers going forward’. Institute of Education, UCL. 
+Available at: 
+https://www.ucl.ac.uk/ioe/departments-and-centres/centres/international-literacy-
+centre/duty-care-and-duty-teach-educational-priorities-response-covid-19-crisis/r
+eports​ (Accessed: 28 September 2020) 
+➔Murray, C. et al. (2020) ‘Reconceptualising relatedness in education in “Distanced” 
+Times’, European Journal of Teacher Education, 0(0), pp. 1–15. doi: 
+10.1080/02619768.2020.1806820 
+➔National Youth Trends (2020) Take the Temperature. Available at: 
+https://www.beatfreeksyouthtrends.com/take-the-temperature​ (Accessed: 28 
+September 2020) 
+➔Office for National Statistics (2020a) ‘Coronavirus and homeschooling in Great 
+Britain: April to June 2020’. Available at: 
+https://www.ons.gov.uk/releases/coronavirusandhomeschoolingingreatbritainaprilt
+ojune2020​ (Accessed: 28 September 2020) 
+➔Office for National Statistics (2020b). ‘Coronavirus and the social impacts on Great 
+Britain: 16 October 2020’. Available at: 
+https://www.ons.gov.uk/releases/coronavirusandthesocialimpactsongreatbritain16
+october2020​ (Accessed 17 October 2020) 
+➔Pedersen, S., and D. Lupton (2018). ‘What Are You Feeling Right Now?’ 
+Communities of Maternal Feeling on Mumsnet.’ Emotion, Space and Society 26, 
+pp. 57–63.​ https://doi.org/10.1016/j.emospa.2016.05.001 
+➔Power, K. (2020) ‘The COVID-19 pandemic has increased the care burden of 
+women and families’, Sustainability: Science, Practice and Policy, 16(1), pp. 
+67–73. doi:​ 10.1080/15487733.2020.1776561 
+➔Sharp, C. et al. (2020) ‘Schools’ responses to Covid-19: The challenges facing 
+schools and pupils in September 2020’. National Foundation for Educational 
+Research (NFER), p. 72. Available at: 
+https://www.nfer.ac.uk/media/4119/schools_responses_to_covid_19_the_challeng
+es_facing_schools_and_pupils_in_september_2020.pdf​ (Accessed: 2 October 
+2020) 
+➔Sibieta, Luke (2020). School attendance rates across the UK since full reopening. 
+Education Policy Institute, October 2020. Available at: 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   39 
+
+ 
+ 
+https://epi.org.uk/publications-and-research/school-attendance-since-full-reopeni
+ng/​ (Accessed 31 October 2020) 
+➔The Trussell Trust. ‘Summary Findings on the Impact of the Covid-19 Crisis on 
+Food Banks,’ June 2020.​ Available at: 
+https://www.trusselltrust.org/wp-content/uploads/sites/2/2020/06/APRIL-Data-bri
+efing_external.pdf​. (Accessed 17 October 2020) 
+➔UNESCO Centre, School of Education, Ulster University (2020) Northern Ireland 
+‘Parent Surveys: Experiences of Supporting Children’s Home Learning During 
+Covid-19’. Available at: 
+https://www.ulster.ac.uk/__data/assets/pdf_file/0009/597969/UU-School-survey-
+Report-web.pdf​ (Accessed: 21 September 2020) 
+➔Walsh, G. et al (2020) ‘Home-schooling in Northern Ireland during the COVID-19 
+crisis: the experiences of parents and carers’. Stranmillis University College. 
+Available at: 
+https://www.stran.ac.uk/research-paper/creu-home-schooling-during-covid/ 
+(Accessed: 21 September 2020) 
+➔Young Minds (2020) ‘Coronavirus Report: Impact on Young People with Mental 
+Health Needs’. Available at: 
+https://youngminds.org.uk/resources/reports/our-impact-reports/​ (Accessed: 28 
+September 2020) 
+➔Youth Sports Trust (2020). ‘Evidence Paper: The Impact of Covid-19 Restrictions 
+on Children and Young People’, Available at: 
+https://www.youthsporttrust.org/system/files/Evidence%20paper%20-%20The%
+20impact%20of%20Covid%20restrictions%20on%20children%20and%20young
+%20people%20-%20external%20report.pdf 
+ 
+ 
+Open Data Institute 2020 | ODI AnalysesData about children’s lives during the pandemic   40 

@@ -1,0 +1,1782 @@
+
+
+
+
+1
+About
+This report was produced as part of the ODI research fellow scheme. Its author is Dr
+Sue Chadwick, a Strategic Planning Advisor at Pinsent Masons LLP, with
+contributions from Jeni Tennison, ODI.
+If you want to share feedback by email or would like to get in touch, contact Sue at
+sue.chadwick@pinsentmasons.com.
+If you would like to learn more about the ODI research fellow scheme, please visit the
+information and application page, or contact us atfellowships@theodi.org.
+1
+Title page quotation is from “In Memory of Sigmund Freud”FromAnother Timeby W. H. Auden,
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 20212
+
+Contents
+Introduction5
+1 Reconceiving land and development.7
+Digital twins8
+Dealing with data: current mechanisms9
+Digital Planning – beyond the rhetoric10
+The need for change – and where to start11
+Section 1 Summary13
+2 Automation of the planning function14
+Planning decisions14
+Automation and planning15
+Administrative process15
+Assessing Environmental Impacts16
+Automation: barriers to adoption17
+Current responses: policy19
+Current responses in law21
+AI governance: next steps...21
+Section 2 summary23
+3 Ethical planning in a digital world25
+Engagement25
+Equalities28
+Human rights30
+Ethics31
+Digital Ethics32
+Section 3 summary33
+Conclusion35
+Section 2 Appendix 1: AI Strategy36
+Section 2 Appendix 2: AI procurement checklist39
+Section 2 Appendix 3: Report on adoption of chatbot41
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 20213
+
+Introduction
+The ‘fourth industrial revolution’, characterised by exponential developments in
+emerging technologies, has been described as a ‘newchapter in human
+development’ by the World Economic Forum. As divisionsbetween the digital and
+physical worlds become increasingly liminal, the built environment has a digital
+existence which precedes, enmeshes with and survives the physical.
+Data is the fuel – and the product – of this revolution. When a new development is
+proposed, data offers powerful new ways of assessing and mitigating its impacts, of
+engaging with the current and future populations affected by it and the opportunity to
+use the development as a source of rich data repositories to facilitate informed and
+intelligent urban management.
+The revolution represents an existential challenge to the way that land is currently
+planned and developments are managed, while data presents a range of new and
+complex risks, especially when it is used as source material for machine learning (ML)
+algorithms. The current legal rules and procedural norms will need to adapt into an
+evolved, agile governance infrastructure.
+This paper explores three areas of established planning law and practice, in each
+case examining how they are disrupted by emerging technology and how regulation
+and procedure should change to adapt. It argues that we should:
+●
+reconceptualise the current definition of land in planning legislation to include its
+digital counterparts and begin to assess digital as well as environmental impacts
+and benefits.
+●
+recognise the potential for Artificial Intelligence (AI) to replace an increasing
+amount of the human function in the decision-making process and build in
+appropriate levels of risk assessment and mitigation.
+●
+expand current ethical norms to include emerging concepts of digital intrusion,
+digital discrimination, algorithmic bias and data ethics.
+In the 1902 bookGarden Cities of Tomorrow, EbeneezerHoward recognised that his
+radical re-visioning of urban development could only be achieved through ‘the hearty
+co-operation of men and of women experienced in very numerous departments of
+human activity’. This paper also calls for everyone involved in the modern planning
+system – local and central government, applicants, agencies, institutions and
+stakeholders – to engage with the required change.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 20214
+
+1 Reconceiving land and
+development.
+At a fundamental level, planning is about land – what is built on it and how it is used.
+Planning law formalises these core concerns through a regulatory system that defines
+both ‘land’ and ‘development’ and requires formal consent for development to
+proceed. The emergence of a digital world challenges these fundamental principles.
+This section begins by exploring current definitions of land and development in the
+planning system and how they should be reconceived to include digital notions of
+both. It then considers practical changes that could be made to existing regulations
+and planning application processes to encompass digital aspects of land and
+development.
+The current definitions of land and development are contained in theTown and
+Country Planning Act 1990. They are fundamental tothe planning system because
+anything that comes within the definition of ‘development’ requires consent; the
+definitions mark the point where what an individual does with land is a matter of
+public interest and state control. Section 55 of that act defines development as ‘the
+carrying out of building, engineering, mining or other operations in, on, over or under
+land, or the making of any material change in the use of any buildings or other land’.
+Section 336 defines land as ‘any corporeal hereditament, including a building’, so
+land as defined by the 1990 Act as an exclusively physical entity.
+Thirty years after this legislation was drafted, and more than 70 years after the
+concepts of land and development were first defined, both land and buildings now
+have a digital identity that precedes, enmeshes with, and survives the physical. Land
+is no longer just a ‘corporeal hereditament’, but also an increasingly dynamic store of
+data sourced and shared in real time.
+As last year’s reviewfrom the Centre for SustainableInfrastructure and Construction
+noted, we are moving from a concept of buildings as ‘static inanimate systems’ to
+combinations of technology and data analytics that will ‘bring the building to life’. A
+recent paperby the Centre for Digital Built Britain(CDBB)proposes that our current
+conceptions of land should expand to include a ‘cyber physical layer’. TheConnected
+Places Catapult advocates the notion of ‘Space as a Service’ (SPaaS)in place of
+traditional concepts of ownership and the UK government is exploringthe potential
+for regulating Mobility as a Service (MaaS)as partof its transport review – these are
+just two examples of a transition from acquisition of an entity or service to more of a
+subscription model where use and experience are integrated and monetised into on
+demand service.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 20215
+
+Buildings are also developing capacity for autonomous adjustment and reporting: the
+Alan Turing Instituteis working on abridgeto explore the potential for ‘infrastructure
+to act as living objects’ and University College London has recently completed the
+Pearl Building, an experimental ‘Person EnvironmentActivity Research Laboratory’
+that can test the impact of environmental change on human experience.
+Data connects land and buildings with each other; with the infrastructure that
+services both; with the pavements, streets and roads that enclose them; with the
+biophysical environment that surround them; and with the humans who inhabit and
+use it all. This digital proliferation challenges the planning profession to consider new
+ways of thinking about both land and development, beginning with an
+acknowledgement of digital twins.
+Digital twins
+A digital twin has beendefinedby theRoyal Instituteof Chartered Surveyors(RICS)
+as ‘A 3D digital model connected in real time to a real physical asset which could be a
+building, group of buildings, a piece of land or an infrastructure system’. As
+recognisedby CDBB, these twins can be static modelsused for longer term strategic
+planning or dynamic models, with live data flows and feedback.
+As soon as any aspect of development has data connected with it, its digital twin is
+conceived. All development proposals are shadowed by their digital equivalents,
+whether this be the outline proposal used for illustrative purposes in a pre-application
+discussion or a BIM level 3 model where data is shared, collected and stored as a
+single open source.
+At the planning stage the twin is embryonic and will include:
+●
+discussions between the applicant and the local authority
+●
+environmental information from initial studies
+●
+legal information on the ownership rights and restrictions relevant to the land,
+and
+●
+social information from initial engagement exercises.
+As the proposals mature through the submission, consultation and decision stages,
+the associated data also matures and proliferates to include construction plans,
+environmental assessments, design papers and consultation responses. Legal
+documentation, from subsequent appeals or court actions, can also be added to the
+store of data. As such, the proposal has an evolved and complex digital identity well
+before anything substantial happens to the land itself.
+Once the concept of land includes its digital twin, then the notion of land as a fixed
+physical entity also evolves into one where the material elements combine with
+related data to provide a digital/real hybrid where land is still the physical site on
+which buildings are constructed but is also part of a complex, interactive supply chain
+of goods and services. The resulting digital environment mirrors the physical forms,
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 20216
+
+with data stored and shared by individuals, authorities, and businesses. This is where
+the digital life of the development becomes useful for strategic planning as it
+generates connective possibilities allowing data to be shared with other digital twins –
+of buildings, infrastructure and spaces.
+Dealing with data: current mechanisms
+As the planning system adjusts to new notions of land, it becomes increasingly clear
+that the current law needs to recognise that land has a digital identity, and to legislate
+for it.
+For most property practitioners, the primary source of regulation is the General Data
+Protection Regulation, (GDPR) transposed into UK law through the Data Protection
+Act 2018. A guideproduced jointly by the Local GovernmentAssociation and the
+Planning Advisory Servicerecognised that planningapplications could include
+personal and special category data, that decision making could involve data
+processing, and recommended putting ‘appropriate measures and procedures in
+place’ for data management in this context. Local authorities must also consider their
+data sharing obligations under the Freedom of Information Act 2000 (FOIA), the
+INSPIRE regulations, and the Re-use of Public Sector Information Regulations 2015.
+There is also information regulation specific to the planning process:
+●
+The 2015Development Management Procedure Orderregulatesa wide range
+of issues relevant to the administration of planning applications and this
+includes requirements relevant to information including consultation
+requirements in Article 3, 4, and 18–21, publicity requirements in Article
+13–16 and the requirement in Article 40 to establish and maintain a public
+register of applications and decisions.
+●
+TheEnvironmental Information Regulations2004 givethe public a general
+right of access to environmental information. Environmental information is
+defined very broadly; according to theInformationCommissioner's Office
+(ICO) the term should be interpreted to include genetically modified
+organisms, drawings, sound recordings and CCTV coverage, and there is
+already onecasewhere a film about the Lea ValleyPark was ruled to be
+environmental information and required to be disclosed.
+●
+TheLocal Government Act 1972regulates local authoritydecision making,
+including planning committees. Section 100A-H regulates access to
+information in the committee process including access to agendas and
+reports, disclosure of background papers and retention of documents for
+inspection. Compliance is essential to the planning process: in a recent case
+the judge ruled that non-disclosure of background materials amounted to
+‘egregious unfairness’and the permission was quashed.
+For now these separate regimes – all dealing with data in one way or another – have
+been reasonably effective in ensuring that information about planning applications
+was publicly available and that decisions were made in a transparent way. However,
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 20217
+
+they all predate the digital revolution and many are based on analogue notions, such
+as paper notices and physical presence at meetings.
+The Covid-19 pandemic exposed the weaknesses of this system. A range of changes
+were introduced including electronic publication of notices, electronic planning
+registers and digital consultation and publicity. However, these changes simply
+retrofitted the existing system to facilitate digital rather than analogue compliance,
+almost all of them were temporary and there is no indication yet that there is or will be
+a digital by default approach in the future.
+Digital Planning – beyond the rhetoric
+The planning system operates in a world where there is an exponential expansion
+both in the amount of data available and the technological capacity and commercial
+incentive to grab, share, manipulate and monetise it. The government is close to
+adopting aNational Data Strategy(NDS), the G7MinisterialDeclarationincluded
+aspirations around an international roadmap for co-operation on data free flow with
+trust, and the National Infrastructure Commission has recentlyreportedon the public
+benefits of data sharing.
+However, the planning system has not even formally recognised the existence of the
+digital twin, and its regulatory foundations are built on a definition of land that
+excludes all but its physical manifestations. As described above, there are several
+existing regulatory requirements relevant to data and information, but they are not
+integrated, and do not anticipate or accommodate a digital world.
+There are calls for change. The Royal Town Planning Institute (RTPI)Digital Planning
+Manifestocalls for a standardised digital processesfor planning applications and last
+year’s ‘Living with beauty’report proposed digitisationof data entry and the
+introduction of digital building passports. The 2020 planning white paper, ‘Planning
+for the future’, encouraged local authorities to usedigital engagement tools, draft
+machine-readable policies, rely on core datasets, automate processes and work with
+specialists on adopting new software. In November 2020, the Scottish government
+published the firstdigital strategy for planning,‘Transforming places together’, with
+missions including an end-to-end digital planning experience.
+There are also some tools emerging that could help to implement changes. The Data
+Standards Authority has published standards and guidanceon how to improve data
+sharing across government, the CDBB has publishedanInformation Management
+Frameworkincluding approved formats for open data;and the emerging NDS
+proposes standard data formats, data sharing and data management based on an
+‘open by default’ principle. TheBuilding Safety Billhas just been introduced to
+parliament (July 2021) and includes a requirement for a digital register – described as
+a golden thread – of information to be established and maintained for all new
+buildings above a certain height, with the planning consent process identified as
+‘Gateway One’ in a digital register of fire safety documentation and compliance
+processes.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 20218
+
+The regulatory landscape for data is also changing. Thegovernment's response to
+the Smart Data Reviewproposes legislation to ‘mandateindustry involvement’ in a
+range of industry sectors;the government’s responseto the consultation on the NDS
+points to a ‘bold new approach’and new data partnerships;and theTaskforce on
+Innovation Growth and Regulatory Reform reportrecommendsreplacing the GDPR
+with a Framework of Citizen Data Rights.
+In the meantime, actual change across the planning sector has been slow to
+negligible. The planning white paper introduced a discourse of digitisation, but the
+government has not engaged with the practical complexities of integrating digitalised
+processes with existing data protection regimes; the complexities and risks of
+automated processes; or even prescribed a data standard. A reportby CDDBfound
+that BIM was not well-understood by local authorities and that the benefits of
+adoption were perceived as not justifying the costs. Another reportby the
+Parliamentary Committee on Housing Communities and Local Governmentstated
+that though the system was seen as 'antiquated’ they recommended continuation of
+paper-based engagement as the online Planning Portal needed updating and there
+were deficits in access to digital skills and infrastructure.
+The need for change – and where to start
+Everyone involved in the modern planning system shares some of the responsibility to
+expand and adapt current processes so they are fit for purpose in a digital future.
+Digital impacts and benefits should be viewed as core planning considerations
+alongside traditional concerns such as design and infrastructure.
+“
+Everyone involved in the modern planning
+system shares some of the responsibility to
+expand and adapt current processes so they
+are fit for purpose in a digital future
+The government must lead the way because it is the only stakeholder with the ability
+to make legislation, adopt guidance and enter into agreements that create instant
+change and apply to everyone. A recent example of effective use of these powers is
+its agreementwith Ordnance Surveyallowing open publicaccess to every Unique
+Property Reference Number (UPRN) and Unique Street Reference Number (USRN) in
+Britain. There are a number of future changes that government could sponsor or
+support that would make a significant difference to the implementation of digital
+planning by the planning profession:
+●
+Primary legislation to amend the current definition of land to include its digital
+equivalents or promote a definition of ‘the digital twin’.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 20219
+
+●
+The Covid-related changes to the Development Management Procedure
+Order should be made permanent, ensuring that a wide range of planning
+processes are ‘digital by default’, including publication of notices, and
+validating e-consultation as the primary method for engagement.
+●
+The government could mandate use of UPRNs when planning applications
+are submitted alongside clarity on data standards, either by introducing and
+mandating its own standard as it has forbrownfielddata, or validating
+existing industry standards such as those promoted byRICS.
+●
+Digital impacts and benefits should be formally recognised as a material
+consideration, at least for major developments. This would require the
+applicant to consider how data is generated from the development, how it is
+used and shared, and what the impacts are both on the new and existing
+community. This would then facilitate relevant conditions and obligations
+requiring digital benefits such as 5G infrastructure, specific levels of
+connectivity and even mandate public data sharing.
+Local authorities could also do more to bring forward digital planning. Last year’s
+planning White Paperdetailed existing deficienciesincluding a legacy of paper
+documents that could not be machine read, a reliance on document management
+and storage rather than process transformation, and a lack of data standards and
+schemas. The UK government has not yet responded to the White Paper consultation
+nor is there any sign that it will follow the Scottish government in issuing
+digital-specific planning guidance for local authorities. In the absence of central
+government direction, there are simple changes that all local authorities could make,
+any one of which which would be relatively easy to implement while making
+significant steps towards digital planning systems:
+●
+Development of digital planning policies at strategic levels.
+●
+Requiring electronic submissions to be submitted in accordance with
+approved data standards. Local authorities are comfortable with a range of
+‘Registered Providers’ when it comes to affordable housing; a similar
+approach could be taken to a range of industry-approved standards including
+the RICS standard mentioned above or the Planning Inspectorate standards
+set out in Appendix One of itsProcedural Guideforplanning appeals.
+●
+Introducing training on digital planning for local authority officers and
+members.
+●
+Collaborating with other local authorities on the creation and maintenance of
+datastores and exploring opportunities for collaborative data sharing.
+Implementing digital planning is best led by the government and requires a significant
+culture change within local authorities but it also depends on involvement from
+everyone involved in the system: planners, lawyers, local authorities, and applicants.
+But change needs to be immediate and incremental and this means that applicants,
+agents and lawyers can play a part in building consideration of digital impacts and
+benefits into every stage of the process.
+As soon as a development is proposed, there should be a review of the digital
+landscape, alongside surveys of the physical topography and investigation of legal
+title. This initial audit would register the identity of the data suppliers, the types of
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202110
+
+data to be disclosed and identify special categories of data, such as that disclosable
+as environmental information or needed as a background paper for any committee
+report. It would also identify areas of potential future risk (such as embedded
+biometric technologies) and ways that the risk could be mitigated with embedded
+safeguards and robust consent processes. The digital benefits of the proposal could
+also be identified, such as the creation of real-time environmental information on air
+quality or transport impacts and the potential for this data to contribute to national or
+local data stores, or the provision of enhanced connectivity for disadvantaged
+populations. The impacts and the benefits would then be available for consideration
+alongside the physical changes, integrating the physical and digital elements of
+development within normal consent processes.
+Section 1 Summary
+When Ebeneezer Howard produced what some still see as an idealvision of the
+garden cityhe referred to the town and country astwo magnets, each with their own
+benefits and the garden city as an ideal combination of both. It is time for the
+planning system to realise that we are again situated between two magnets – the
+digital and the physical – and that planning can benefit from a combination of both.
+Hardwiring digital awareness into every stage of the planning process could lead to
+increased community participation, an enhanced appreciation of development
+benefits and risks and improved connectivity between homes and their wider
+environment.
+In‘GardenCitiesofTo-morrow’Howardreflectedthat‘therehaveinthepastbeen
+inventionsanddiscoveriesonthemakingofwhichsocietyhassuddenlyleaped
+upwardtoanewandhigherplaneofexistence’.AIoffersthesametransformational
+benefitstomodernplanningassteampowerdidforHoward,butisprovingequally
+trickyto‘harnesstothetaskitwasfittedtoaccomplish’.Thenextpartofthispaper
+looksathowthispowerfulandcomplextechnologycouldplayitspartinadigital
+planning system.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202111
+
+2 Automation of the
+planning function
+The year 1947 established the foundations of the modern planning system and also
+witnessed the quiet dawn of a digital age. TheTownand Country Planning Act 1947
+established a legal definition of development and the requirement for all works or
+uses to be subject to a particular decision-making process carried out by a public
+body. As details of that legislation were being finalised, Alan Turing was working on
+another kind of decision-making function: the Automatic Computing Engine. As he
+predicted, the power of those machines and the pervasive nature of the technology
+means that they are beginning to replace the human function in areas. As a recent
+House of Lords reportrecognises, AI has the potentialto ‘lead to more personalised
+services; and provide solutions to some of the most complex and challenging policy
+problems’.
+The UK government’splanning white paperwas the firstformal recognition that AI
+and ML should have a role in the planning system too. AI will not wholly replace the
+human in planning decisions, but it will perform an increasing number of previously
+human functions; this part of the paper considers its scope and limits.
+The white paper summarises the existing law on how planning decisions are made,
+and briefly explains the concepts of AI and ML. It explores the extent to which
+automation could replace the human function in planning processes and the legal and
+ethical implications of this shift. It ends with some concrete proposals on how the
+current procedural context can and should adapt to an increasingly automated future.
+Planning decisions
+The legal test for making planning decisions is a conflation of section 70(2) of the
+Town and Country Planning Act 1990and Section 38(6)of thePlanning and
+Compulsory Purchase Act 2004. Essentially, the decisionmaker is required by law to
+consider the extent to which the development proposal accords with local policies,
+and also its particular merits, and consider both in coming to a balanced decision. In
+some circumstances the decision maker must apply a presumption in favour of
+sustainable development; or specific legal tests when listed buildings and
+conservation areas are involved, and other ‘material considerations’ include
+Environmental Impact (EIA) or Habitats Impact Assessment (HA); and designations
+that apply to land of particular value such as Sites of Special Scientific Interest, Areas
+of Outstanding Natural Beauty and green belt.
+These decisions can be challenged in two ways. If the application is refused, an
+appeal can be made to the Planning Inspectorate who will reconsider the proposal on
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202112
+
+its merits. Where a decision appears to be legally defective, any party with standing
+can apply to the courts. The courts may quash a permission ifpolicy is
+misinterpreted, ifcommittee members are misledora decision ismanifestly
+unreasonableorinconsistent, or ifno reasons havebeen given, but the decision
+maker has wide discretion on the way that policies are applied and the weight that is
+given to planning considerations – in fact, the courts have warned against the
+dangers of ‘excessive legalism’.
+Automation and planning
+‘Artificial intelligence’ is a blanket term for a range of digital technologies that can
+take the place – partially or entirely – of human intelligence. TheUK government
+describes AI as ‘the use of digital technology to create systems capable of
+performing tasks commonly thought to require intelligence’.AI can be used to
+generate predictions, recommendations, or classifications and used in a range of
+processes. Its functions are performed through algorithms – pre-programmed rules
+applied to the data in question. Algorithms can be transparent and explainable, with
+clear rules and consistently repeated functionality, but recently there have been
+significant developments in machine learning, a type of AI, where the machine can
+devise its own rules that achieve the objective more effectively. These processes are
+powerful, complex and opaque and are commonly referred to as non-interpretable or
+‘black box’ AI systems.
+Turing himself acknowledged that some judgments – such as the artistic merits of
+Picasso – should be reserved for human judgment, and that the more important
+question was whether automation could be trained tomimic part of the human
+function. The same question can be addressed to planningdecisions – not whether
+computers can replace humans altogether but to what extent the human function can
+be replaced in making planning decisions.
+Administrative process
+One area where automation can replace the human function is in administrative
+elements of the planning application process, currently regulated by the Development
+Management Procedure Order 2015 (DMPO):
+●
+Articles 6, 7, 8, 11 and 27 set out the documents that must be submitted in an
+application; this could be automated including rejection of non-compliant
+applications.
+●
+Article 9 design and access statements could be converted into standard
+templates pre-populated with some content generated from relevant local and
+national policies.
+●
+Articles 13, 14, 17 and 26 relate to service of notices; where a particular format of
+notice is required this could be linked to a template form and generated
+automatically.
+●
+Articles 15, 16, 18, 19, 20, 21, 22, 23 and 24 specify how applications are to be
+published and who should be consulted; if applications were submitted online
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202113
+
+and the current notices were turned into templates, information such as a
+description of the site and the development could automatically populate the
+required forms or letters.
+Several local authorities are already exploring the potential for administrative
+functions to be automated:
+●
+Redbridge Council is working withAgile Datumto detectcommon mistakes in
+applications and improve validation.
+●
+The London Borough of Lambeth is testing AI in theprocessing of planning
+applications.
+●
+The Ministry of Housing, Communities and Local Government (MHCLG) has
+recently
+announced
+that two new apps will be testedto help with small scale
+planning applications and processes.
+Assessing Environmental Impacts
+Assessment of environmental impacts is an essential element of any decision to
+approve or refuse a planning application. In many cases, aformal assessmentof
+those impacts and their mitigation is required. The process involves submission of a
+daunting amount of largely static information which is then assessed by the local
+authority, involving the use of specialist advisers. Thisprocess has been validly
+criticised for being paper-heavy and impenetrable,with outputs archived rather than
+being made available for re-use and it is overripe for change.
+There is a growing range of real-time sources of environmental information. The
+‘Geo6’ are creating acatalogue of geospatial data,the Geospatial Commission has
+started work on aNational Underground Asset Registerand has published a
+collection of 65 housing, land and planningopen datasets.The National Energy
+Efficiency Data-Framework collects national data about gas and electricity
+consumption data, property attributes and household characteristics, and publishes
+regularstatistical summaries. Meanwhile regionalresources such as theLondon
+Datastoreare also emerging.
+There is a parallel movement towards metrification of environmental impacts and
+benefits. In March 2020 the government presented nature as an asset that could be
+assessed with a range of tools including an assessment template, biodiversity metric
+andnew valuation methods. The environment bill dueto be introduced to parliament
+this year’s session proposes the calculation of biodiversity credits through ametric
+where habitats are used as a proxy for value.
+Finally, there are experimental projects where real time environmental information is
+combined with predictive analytics to model environmental impacts. Current projects
+at the Alan Turing Institute include:
+●
+SPENSER(synthetic population estimation and scenarioprojection) a tool that
+uses dynamic microsimulation to produce a range of population projections in a
+wide range of scenarios.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202114
+
+●
+The development of acausal inference modelto quantify the effect of a planning
+intervention, such as the introduction of public transport, on human behaviour.
+●
+Project Odysseuswhich combines existing datasetsto understand urban activity
+and facilitate targeted interventions to mitigate the impacts of Covid-19.
+As well as automating processes, this is an area where, due to developments in
+sensory technology and predictive analytics, the assessment itself could be
+transformed into a real-time platform of information flows, analytics and predictive
+modelling which can be interrogated by any interested party to predict both the
+impacts of development and the effect of mitigating measures.
+In March 2020, the Institute of Environmental Management and Assessment issued
+anImpact Assessment Primerand theDigital EIA Projectwas launched. It may not be
+long before the established assessment processes are replaced by a continuous
+harvesting of information from large, open, rich datasets accessed in real time and
+used as the basis for accurate predictions of environmental impacts and mitigations
+in a range of scenarios through the life of the project.
+Automation: barriers to adoption
+Automation has the potential to replace the human function in both planning
+processes and assessment of planning impacts, but the transition will generate some
+significant issues.
+First, the planning profession is not equipped with the skills or resources to make the
+most of automated processes. The planning White Paper may have raised the
+importance of a digital planning system but it is only just beginning to be recognised
+as a relevant topic for training for planners and local authority members.
+Next, there are significant ethical issues associated with automation (considered in
+the next section of this paper) including the privacy implications of embedded
+sensory technology in buildings and places, algorithmic bias and the emergence of a
+‘digital divide’. The government has already been criticised for theproposed use of a
+predictive algorithmin the context of assessing housingneed requirements that was
+‘blind to geography’ and concentrated growth in London,the South East and the
+South West.
+There are also legal issues. The current legal framework for planning decisions was
+enacted in 1990 and rests on principles established in 1946 when machine-made
+decisions were hypothetical mathematical propositions. It anticipates decisions being
+made by corporations composed of human individuals. The High Court has recently
+ruledthat an algorithm is not ‘a natural or legalperson’; if a decision is made even in
+partial reliance on an algorithm, it can be challenged on the basis that the decision
+was not actually made by a human at all. When permissions are refused – and
+sometimes when they are approved – planning law requires that reasons should be
+given.The House of Lords has ruledthat: ‘The reasonsfor a decision must be
+intelligible and they must be adequate. They must enable the reader to understand
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202115
+
+why the matter was decided as it was’. Where a process is automated, and a decision
+.has been made in reliance – even partially – on predictions generated by an opaque
+algorithm it is difficult to see how it can also be fully reasoned in a human sense.
+The problem of opaque algorithms is already attracting attention. In June 2018,
+Oswaldwarned that the introduction of algorithmsin the place of humans
+represented a challenge to the rule of law and created a specific risk of ‘genuine
+doubt as to why decisions were made’.Shortly afterwardsCobbe’spaper on the
+judicial review of automated decisions in the public sector proposed that the greatest
+challenge to those decisions was ‘the explainability of machine learning decisions’. In
+October 2019, anopinion on automated decision makingconcluded that the ‘inability
+to peer inside an algorithm, AI or ML process... has real legal implications’. In April
+2020 Webley’s paper ‘Ethics, Technology and Regulation’noted that ‘the
+transparency of algorithms is currently insufficient to allow for many algorithmically
+rendered decisions to be subject to proper challenge’.
+These concerns are not limited to academia. In January 2020, a reviewby the
+Committee on Standards in Public Lifeadvised thatpublic bodies ‘should not
+implement AI without understanding the legal framework’. In June 2020, the Centre
+for Data Ethics and Innovation (CDEI) ‘AI BarometerReport’ identified ‘lack of
+explainability’ as one of the principal risks to the adoption of the technology. In
+December 2020, the House of Lords Liaison Committee recommendednational
+standards for the ethical development and deployment of AIand a recent reportfrom
+the Institute for Governmentnoted that ‘policymakers,in particular, need to be critical
+users of models and algorithmic systems’.
+“
+the technology is pervasive and the concerns
+are universally relevant
+The same issues are emerging in case law too. In February 2020, theHague District
+Court ruled that ‘SyRI’, an AI-based system used to detect fraud, was unlawful
+because it was insufficiently transparent and verifiable. In April 2020,Le Conseil
+Constitutionnel (the French Constitutional Court) dismissed a claim disputing the
+validity of an AI platformused to select studentsand the subjects they should study,
+partly because the system was relatively transparent and not fully automated. In May
+2021 theItalian Supreme Court prohibited the processingof personal databy
+algorithms to create reputational rankings for use by third parties. The court ruled that
+the algorithm was so opaque that it created a situation where a human could not
+validly consent to their data being used.
+Some of these cases relate to algorithms in the private sector, some in the public, but
+the technology is pervasive and the concerns are universally relevant. As planning
+decisions are increasingly informed by automated inputs and predictions, it is likely
+that these kinds of challenges will proliferate in this area too. However, it is
+questionable whether the planning court has either the will or the capacity to
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202116
+
+intervene. In February 2020, Dove J was asked to consider competing claims about
+thevalidity of evidence on air quality. He ruledthat ‘it is not the role of the court to
+embark on its own technical appraisal of the issues’. A similarly ‘hands off’ approach
+was taken by Jay J in relation toexpert evidenceon tunnel structuresin June 2020. In
+both cases the judge did not analyse the evidence; instead, they considered only
+whether it was reasonable for the decision maker to rely on it. It is likely that the same
+approach would be taken to expert evidence on the use of AI.
+Current responses: policy
+There is no shortage of guidance in this area – if anything the crowded landscape
+makes it difficult to decide what the best approach is.
+In 2019, the UK government issued guidance on ‘Understandingartificial intelligence
+ethics and safety’ and a collection of guidance onusing AI in the public sector. The
+Alan Turing Institute issued its own guidance onAIin the public sector. The
+Confederation of British Industry (CBI) also issued guidance onethics in practice
+recommending an embedded approach, updated governance processes, impact
+assessments, and a commitment to engagement and explainability in relation to the
+workforce and the public.
+In May 2020, the ICO issued, in partnership with the Alan Turing Institute,
+comprehensive guidance for organisations onexplainingdecisions made with AI. In
+June 2020, the Office for Artificial Intelligence (OAI), BEIS and the Department for
+Digital, Culture, Media and Sport (DCMS) issued jointGuidelines for AI procurement
+and in July 2020 the ICO issued further guidance onAI and data protection. In
+October 2020, the Ada Lovelace Institute issued its review oftransparency
+mechanismsin the public sector. It identified practicalsteps public sector bodies can
+take including impact assessments, procurement processes, open data standards
+and disclosure protocols. In November 2020, the Local Government Association
+published a practical guide for local authoritiesworking on or considering predictive
+analytics. It includes specific criteria to consider at each stage of the process that
+could be used as the basis for structuring reports on the adoption and use of some AI
+software and processes, and recommends internal consultation with data teams, data
+protection officers, and establishing a board or group of senior managers. TheCDEI
+published its review of bias in algorithmic decision-makingin the same month,
+including guidance for local authorities on decision-making tools.
+In January 2021, the World Economic Forum proposed a10-step approachfor
+developing corporate knowledge about AI fairness and the UK AI Council published
+itsAI Roadmapincluding a recommendation that theUK should encourage public
+scrutiny of automated decision-making. In February 2021, the ICO issued itsdata
+analytics toolkit, integrating existing regulatoryrequirements with issues specific to
+data modelling, including the use of AI. It recommends the use of an impact
+assessment and includes guidance where deficits are identified. In March 2021 Digital
+Scotland published Scotland’s newAI Strategyhighlightingthe importance of trust,
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202117
+
+ethics and inclusivity as being intrinsic to the effective and proper use of AI, and the
+UK government announced its intention to develop anAI strategy– currently the topic
+of a consultationwith the Alan Turing Institute.
+Between 15 and 17 April 2021, CDEI issued three blog posts on AI Assurance. The
+first recognised the need for AI to be used in a consistent and compliant way,
+founded on anassurance approachcomprising governancetools such as audits,
+certification, accreditation, and impact assessment. The second identified a range of
+‘user roles’ in relation to AI and the need for anassurance ecosystem to meet all of
+their needs. The third examined differenttypes ofassuranceand standards. All three
+ended with an open call for stakeholder collaboration on creating an AI assurance
+roadmap. In June 2021 the Business Software Alliance proposed an AIRisk
+Management Frameworkto build trust in AI and AI systemswith proposals including
+a governance framework (policies, personnel) and impact assessments carried out
+through the AI lifecycle.
+In May 2021 the Cabinet Office, the Central Digital and Data Office (CDDO) and the
+Office for AI published the‘Ethics, Transparencyand Accountability Framework for
+Automated Decision-Making’ for use by government departments.It is aimed at
+government departments using either solely automated or automated-assisted
+decision-making and distinguishes between solely automated decision-making and
+automated assisted decision-making. It begins with a general recommendation to
+carry out a risk assessment, use data in accordance with the Data Ethics Framework,
+follow data protection law and engage with third-party experts, and sets out a
+seven-step framework process to follow when using automated decision-making. The
+recommended steps are set out and summarised below:
+●
+Test to avoid any unintended outcomes or consequences.This includes
+recommendations to carry out risk assessments, Data Protection Impact
+Assessments (DPIAs) and an Equality Impact Assessment (EQIA).
+●
+Deliver fair services for all of our users and citizens.This step recommends
+carrying out an EQIA, having a diverse team and assuming that ‘the algorithm or
+system that you are developing is capable of causing harm and injustice’.
+●
+Be clear who is responsible.This includes the recommendationfor ministerial
+ownership of significant decisions.
+●
+Handle data safely and protect citizens’ interests.This reminds operators of
+their responsibility to be compliant with data protection legislation and the Data
+Ethics Framework, a cautious approach to repurposing of datasets and carrying
+out a DPIA when required.
+●
+Help users and citizens understand how it impacts them.This step
+recommends working on a ‘presumption of publication’, plain English
+explanations of automated systems, traceability mechanisms, and the
+appointment of an accountable officer.
+●
+Ensure that you are compliant with the law.This includesearly engagement
+with legal advisors and compliance with data protection law and theEquality Act
+2010
+●
+Build something that is future proof.This recommendscontinuous monitoring,
+formal reviews and end user challenges.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202118
+
+There is no shortage of guidance; at the same time it is difficult to identify what
+Central Government guidance on the use of AI for public sector decisions is.
+Current responses in law
+The only formal regulation of AI in England is the GDPR, transposed into UK law
+through the Data Protection Act 2018. Articles 13–15 create individual rights to
+information about solely automated decision-making when that decision-making has
+legal or similarly significant effects; Article 21 provides a right to object to the
+processing of personal data in some circumstances; Article 22 gives individuals the
+right not to be subject to a solely automated decision producing legal or similarly
+significant effects without appropriate safeguards; and Article 35 requires
+organisations to carry out DPIAs where data processing, including processing using
+new technologies, is likely to result in a high risk to individuals.
+Internationally, the picture is more evolved: Canada has aDirective on Automated
+Decision-Making, New Zealand has anAlgorithm Charter,and the Singapore
+government has adopted anAI Governance Framework.In April 2020, the European
+Commission published adraft AI regulationwith aimsincluding the need to ensure
+legal certainty and enhance governance. It defines ‘artificial intelligence systems’ in
+terms of techniques used and outputs generated and distinguishes between three
+types of AI techniques: machine learning approaches, logic- and knowledge-based
+approaches, and statistical approaches. It has a graded approach to regulation
+depending on whether AI system risks are unacceptable, high risk, limited risk, or
+minimal risk. High-risk systems include the administration of democratic processes
+and proposed obligations include transparent risk assessment and mitigation
+measures including documentation on the system used, human oversight and activity
+logging. Voluntary codes of conduct are proposed for non-high-risk AI, as well
+as regulatory sandboxes to facilitate responsible innovation.
+AI governance: next steps...
+The new ‘Ethics, Transparency and Accountability Frameworkfor Automated
+Decision-Making’ is a welcome development, becauseit is this kind of central
+government guidance that will give local authorities the basis to help them use
+technology effectively and to minimise the risk of challenges to decisions based on
+procedurally unfair decision-making. It is also useful because it includes references to
+case studies, detailed practical guidance, a glossary of terms and a template ‘Ethics
+transparency and accountability’ risk assessment form.
+However, it appears to be aimed only at central government departments, and it is
+not clear whether or not it should be taken as authoritative in other contexts,
+including by local authorities. It is guidance, not law, so it would be difficult for an
+individual or organisation to assert non-compliance as a successful basis for
+challenging a government decision. It refers to the need for legal compliance but the
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202119
+
+only specific legal reference is to Article 22 of the GDPR. There is no reference to the
+particular risks of biometric technologies, which is surprising given that algorithmic
+bias was successfully asserted tochallenge the useof facial recognition technology
+by the South Wales police. Equality Impact Assessments are recommended, but the
+examples given relate toWelsh Government policy onEnglish for Speakers of Other
+Languages (ESOL) Policy for Wales,andgeneral guidancefrom the UKRI; neither of
+which offer any real help in this context.
+In February 2020 theCommittee on Standards in PublicLifepublished a report
+‘Artificial Intelligence and Public Standards’ including15 recommendations. The
+government issued itsresponsein May 2021. That responsemakes few specific
+commitments to taking forward any of the recommended actions and no response at
+all to recommendations 9-15 which were addressed to ‘front-line providers, both
+public and private, of public services’:
+The CDEI has since issued ablogsummarising areporton its work with theCDDO
+andBritainThinkson the potential for a ‘mandatorytransparency obligation on all
+public sector organisations using algorithms when making significant decisions
+affecting individuals’. The proposal is that two tiers of information would be available:
+some provided automatically as a ‘signpost’ that an algorithm was being used, with
+more available on request. The recognition of a need for greater transparency is
+welcome, as well as the proposal but the proposal is based on very limited research
+carried out over four weeks with 36 people. It is intended to inform the development
+of a prototype standard for future testing and there is no indication of whether or
+when it will be formally adopted.
+The breadth of the range of guidance available, without clear government advice on
+which should take priority could discourage local authorities from engaging with the
+issues. In the absence of a coherent national policy position or emerging regulation
+there is an urgent need for practical guidance on how a decision maker can integrate
+the procedural considerations specific to emerging technologies into the mechanisms
+of public sector decision-making on planning applications.
+Regulatory technology is promoted as a way to automate compliance with the law
+but its utility has been questioned in arecent paperarguing that concepts such as
+discrimination require human assessmenton a case-by-casebasis. In any case, the
+planning system already has an established statutory framework for making
+decisions, supported by a wide range of guidance. The most effective way to
+integrate emerging concerns about the new technology into the current system is to
+address those issues in a transparent way at all levels of the planning function.
+●
+Policy:All local authorities have a range of policiesthat support and inform
+their decision-making. In relation to planning decisions, there is likely to be an
+adopted development plan which sets policies on how particular areas are to
+be developed or how particular issues such as highway impacts should be
+addressed. Some local authorities have policies relevant to the use of
+technology such as theLondon Tech CharterandManchester’sDigital
+Strategy. The ideal foundation for the use of automatedtechnologies within
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202120
+
+the planning function is a formally adopted strategic policy document based
+on internal and external consultation. The policy should include, at a
+minimum, an explanation of what AI is, the principal benefits and risks, the
+relevant legal and policy context and where to go for further information. A
+template example of such a policy document is attached asAppendix One.
+●
+Procurement:Most local authorities implement theuse of automated
+technologies through the use of externally procured software, and it is
+recognised that good procurement of AI can support the development of the
+technology and promote sound ethical standards. The UK Government’s OAI
+has producedguidance for AI procurementwhich isclearly written and can
+easily be used as the basis for evolved procurement processes and
+documents in parallel withspecific trainingon procurementprocesses and
+data management. As a minimum, the invitation to tender should include
+questions on data sourcing and training, equalities issues, cyber security,
+liability for defects, and data ownership and sharing, and the decision to
+procure and any contract entered into afterwards should include
+consideration of the same issues. A template example of a procurement
+checklist is attached asAppendix Two, as well asa template for a formal
+decision to adopt a chatbot attached asAppendix Three
+●
+Individual decisions:With a strategic policy andimproved procurement
+practices in place, the risk of challenges to planning decisions based on
+opaque AI systems would already be reduced, but where AI is involved in any
+aspect of a planning decision, it would be good practice to acknowledge and
+address this in the decision. It is accepted practice for planning decisions to
+consider, as a matter of course, whether those decisions have an impact on
+equalities, and to consider the environmental impacts, benefits and
+mitigations, as well as wider legal implications. There is no reason why a
+similar risk-based approach could not be taken in relation to AI.
+Section 2 summary
+AI has developed in ways that perhaps only Turing might have predicted in 1947 and
+there is significant scope to automate the way planning information is accessed and
+assessed. Algorithms are much more efficient than humans in processing large and
+complex datasets; automation can also provide a rich, real-time record of
+environmental impacts and make sophisticated predictions about the impacts of
+development proposals with reduced investment of human time and resources.
+However, the complexity of the legal test regulating the decision-making function in
+planning makes it difficult to automate. The planning process is a locus for conflicting
+views on how land should be used, and an arena where irreconcilable interests
+intersect. Planning policies often have an inherent ambiguity and subjectivity that is
+irreducible to an if-then process. Decisions about land are also about the humans
+who inhabit it; the machines are not yet capable of factoring empathy into their
+decisions or to evaluate aesthetic merits as a human might.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202121
+
+Machine learning has not yet found a way of reconciling the need for landowners and
+developers to derive profit from the development of land, the need for new
+communities to access affordable homes supported by good infrastructure and the
+need for existing communities to preserve the land they inhabit free from radical
+social or aesthetic change. The prospect of entirely machine-made planning
+decisions is both dystopian and unrealistic.
+Many elements of the process are either routine procedures or empirical assessments
+that do not need any human involvement. If algorithms are trained to do this work
+then human resources can be freed up to exercise judgment in those parts of the
+decision-making process where judgment and discretion are required. However,
+machines cannot be held accountable in the same way as humans, and their
+decisions cannot be challenged in the same way as human decisions. Moreover,
+humans are not yet comfortable with machine-made or even machine- assisted
+decisions; a recent reportby the Committee on Standardsin Public Liferecorded that
+69% of those polled said that they would be more comfortable with a public body
+using AI if a human was involved in the final judgement.
+It can be argued that human decision-making is also flawed, and that the human
+brain is the ultimate black box, influenced by unconscious bias, daily experience, or
+even the contents of its host’s last meal. Existing legal and procedural mechanisms –
+such as planning committees – are created to impose coherent regulatory
+frameworks on these human frailties, to make public decision-making more
+transparent and accountable. If the planning system is to make the most of AI while
+still maintaining public trust, existing regulatory frameworks need to readjust and
+expand to accommodate its strengths and weaknesses.
+As well as procedural requirements for the processing of applications and a legal test
+for determining planning applications, planning decision-making is also subject to
+ethical requirements set out in legislation, common law principles, and codes of
+conduct. These also need to expand to adjust to a digital world and the final section
+of this paper looks at what that might mean in practice.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202122
+
+3 Ethical planning in a
+digital world
+Urban planning is, and always has been, about more than land. Thefirst planning
+legislation was introduced to parliament in 1909withthe intention of providing ‘a
+domestic condition for the people in which their physical health, their morals, their
+character, and their whole social condition can be improved’. More than a century
+later, these social concerns remain: one of the aims of theplanning White Paperwas
+the need to achieve a ‘fair balance between consumers, producers and wider
+society’.
+The ethical context of planning decisions is important: not just because human
+decisions need to be made as transparent and accountable as possible, but because
+planning decisions are made in a specific socio-political environment which shifts
+over time and in response to changes in wider society. There is no legal definition of
+ethics nor are they acknowledged as a discrete concept in planning policy, but ethical
+concerns are relevant both to the planning process and its outcomes.
+Ethics are also highly relevant to data: the UK government has established aData
+Ethics Frameworkfor responsible use of data in thepublic sector and Mission 2 of
+the emergingNational Data Strategyrecognises theimportance of maintaining public
+trust.
+The first part of this section examines three specific areas – public engagement,
+equalities, and human rights – where ethical concerns are regulated; in each case
+looking at how existing regulatory norms are disrupted by developments in digital
+technology. The second part of this section reviews the existing landscape of data
+ethics and its relationship with existing ethical norms. It concludes with a brief
+exploration of ways that existing practice and procedure could adapt to embrace
+emerging notions of data ethics, so that digital planning can develop with embedded
+sound ethical principles.
+Engagement
+Engagement is often used as a blanket term referring both to the informal
+engagement processes that happen throughout an application process and the
+formal consultation requirements required by law. The planning system has come a
+long way since the1909act when better homes andenvironments could be endowed
+on the working classes by those who were ‘more fortunately situated’ but many
+would argue that we are barely halfway upSherry Arnstein’sLadderwith true citizen
+control of decisions.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202123
+
+For most planning applications, consultation is highly regulated, primarily through
+detailed requirements in the Town and Country Planning (Development Management
+Procedure) (England) Order2015 (DMPO)where the requirementscan be summarised
+as follows:
+RequirementDetail
+ConsultationArticles 3 and 4 require pre-application consultation when a wind turbine is
+proposed.
+Article 18 is the general requirement for consultation; schedule 4 sets out who is
+to be consulted depending on the size of the proposal and the type of land
+involved.
+Article 19 requires consultation for Crown land applications.
+Article 10 requires consultation on applications to amend existing permissions.
+Articles 22 and 23 contain a duty to respond to consultations and report on them.
+Articles 24, 25 and 26 establish notification requirements specific to district
+councils, parish councils and neighbourhood forums.
+Article 33 imposes a duty on the decision-making authority to take
+representations into account before deciding a planning application.
+Additional consultation requirements are imposed by ‘The Town and Country
+Planning (Consultation) (England) Direction’.
+NotificationArticle 13 requires the owner of land to be notified of an application and Article 14
+requires the application to certify that this has been done.
+There are additional notification requirements forheritage applications.
+PublicationArticles 15 and 16 require the local authority to publicise an application.
+schedules 2 and 3 prescribe the form of the notice.
+Article 40 requires a public register of planning documents and decisions to be
+maintained.
+In addition to these regulations, the ‘Gunning Principles’established in case law
+apply to all consultations:
+1) consultation must take place when the proposal is still at a formative stage 
+2) there should be enough detail to allow for intelligent consideration and response
+3) adequate time must be given for responses
+4) the consultation responses must be conscientiously taken into account
+The principles were established in 1985 but remain highly relevant: in 2019 the
+government was forced to withdraw part of its National Planning Policy Framework
+after a judgmentthat ‘the consultation on the draftrevised framework paragraph
+204(a)was so flawed in its design and processes asto be unlawful’.
+Neither the DMPO nor case law currently acknowledges the digital world. The DMPO
+assumes that notices are posted on land or buildings and published in paper
+newspapers and that consultation is carried out by post. Case law is similarly
+tethered to paper rather than its digital equivalents – and there is a2014 judgment
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202124
+
+where the court ruled that relying solely on electronic consultation was insufficient to
+comply with relevant regulatory requirements.
+The deficiencies of these assumptions were exposed by Covid-19, and regulations
+were made to allow electronic publication of noticesand use of websites and online
+publications in place of paper editions and inspection of documents at physical
+premises. Subsequent guidanceon local planspromotedonline engagement
+methods including ‘virtual exhibitions, digital consultations, video conferencing, social
+media’. Theplanning White Paperencouraged localauthorities to ‘reinvent the
+ambition, depth and breadth with which they engage with communities’. MHCLG has
+introduced anew framework for consultationsand theLocal Digital Declarationand is
+funding severalprojects, including one for digitalplace-based engagement, and a
+community engagement playbook.
+These are positive steps as they could make planning decisions more accessible and
+facilitate responses from a much broader range of the people potentially affected by
+the proposals. However, the transition to digital engagement is not unproblematic.
+There is a risk, explored in greater detail below, that while smart engagement has the
+ability to open up the planning process to new participants, it may exclude others
+unless adequate protections are put in place. The communicative possibilities of
+emerging technologies sit awkwardly with the established regulatory norms, all of
+which are based on analogue engagement methods. For example, the courts have
+recently confirmed that reference in legislation to physical meetings cannotinclude
+virtual meetingsand that reference to public attendancecannot include attendance
+online.
+“
+while smart engagement has the ability to
+open up the planning process to new
+participants, it may exclude others unless
+adequate protections are put in place
+The adoption of platform-based engagement raises its own issues. The House of
+Lords recently issued a reporton Democracy and DigitalTechnologies, ‘Digital
+Technology and the Resurrection of Trust’. This focusedprimarily on social media
+platforms but it also noted the increased use of platforms for democratic engagement
+generally. It expressed concern about the lack of accountability, the potential for
+platforms to be used as a forum for bullying and abuse, and the lack of content
+moderation or regulation. Planning is highly political and developments are often
+divisive; provoking strong emotions and allegations of misconduct. Major
+developments already use social media platforms as a way of engaging with the
+public; many of the concerns raised by the House of Lords are increasingly relevant
+to these engagement methods.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202125
+
+Equalities
+The Public Sector Equality Duty (PSED) is contained insection 149 of the Equality Act
+2010and requires any public authority, when exercisingits functions, to have due
+regard to the need to
+(a) eliminate discrimination, harassment, victimisation and any other conduct that is
+prohibited by or under the Act;
+(b) advance equality of opportunity between persons who share a relevant protected
+characteristic and persons who do not share it; and
+(c) foster good relations between persons who share a relevant characteristic and
+those who do not share it.
+The relevance of these issues to planning decisions was established in 2010 when a
+consent for redevelopment of an indoor market was quashedbecause of a lack of
+regard to the implications of that decision on traders. Its relevance has not declined
+over the years – for example in 2016consent for anoffice block was quashed
+because the planning inspector had insufficient regard to use of the car park and
+access by the disabled; in 2018 apermission to redevelopan estate was quashed
+because of a lack of regard for the implications on the elderly and disabled and last
+year, anapplication by the London Borough of Bromleyfor an injunction preventing
+encampmentswas refused because there had been noassessment or any
+engagement with the traveller community.
+Emerging technologies disrupt equalities considerations in two areas.
+First, there is the issue of digital discrimination during the consultation process. As
+seen above, paper consultation and notification methods are being displaced by their
+digital counterparts and engagement is more likely to be achieved through an online
+platform of resources than face-to-face meetings. Alongside the demonstrable
+benefits of these changes there is a risk of reduced access for members of the
+population with insufficient skills, devices or connectivity. In January 2020 aHouse of
+Lords reportnoted that 19% of individuals lackedbasic digital skills; in June a further
+reportwarned against the adoption of digital engagementas a replacement for other
+methods.The House of Commons Committee on Housing Communities and Local
+Government has reportedon the planning White Paper;noting that 9 million people in
+the UK struggle to use the internet and 11.9 million people lack digital skills. Although
+the emerging environment bill includes the first definition of a ‘digitally excluded
+person’ and there is someplanning guidance on howto reach people without internet
+access, the planning White Paper does not engage withthe concept of digital
+discrimination and digital exclusion.
+The other emerging issue is algorithmic bias. There is already aconcept of bias,
+established in case law: whether a fair-minded andinformed observer with access to
+all the relevant facts concludes that there was a real possibility that the
+decision-maker was biased. The test is based on human assessment of human
+behaviour – in a recent case a judge ruled thatThanetCouncil mishandled a planning
+application,leading to his conclusion that a “fair-mindedobserver would have
+thought there was a real possibility that the decision-maker was biased”.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202126
+
+Algorithmic bias occurs when an algorithm has been trained on inadequate data or
+programmed badly so that outputs can embed and amplify social inequities in a way
+that can neither be seen or understood by the humans they affect. The risks of such
+processes became apparent in summer 2020 whereautomatedexam grading
+resulted in the perception of preferential treatment of students from private over state
+schools. AnAlan Turing Institute reportcommentedthat the algorithm operated in a
+functionally discriminatory way, whilethe ODI criticisedOfqualfor its lack of
+transparency, its unwillingness to acknowledge and address issues early in the
+process, and the inadequate assessment of potential impacts.
+Algorithmic bias is a particular problem for planning where developments are
+approved including sensory technology embedded either in the buildings or the
+spaces around them. TheNeuroscience Playbookpromotesthe use of
+electroencephalograms (EEGs) and eye tracking in public settings to create ‘scientific
+baselines’ for assessing how humans interact with the environment. There is
+emerging work on usinggait analysisto assess intoxicationand onmeasuring
+emotional responsesin a court environment.Moda ispromoting a build-to-rent
+developmentwhere ‘multiple sensors’ measure motionand occupancy, and residents
+connect directly with the building through the relevant app and the Connected Places
+Catapult is promoting 15 projects under the umbrella ofForever Living Homes, most
+of which appear to use sensors or monitoring or both.
+The use of such technology, combined with automated processing, creates a
+surveillant environment recording and processing a range of data about human
+movements and activities. Facial recognition technology (FRT) is an area of particular
+concern. In September 2020 theCourt of Appeal ruledthat use of FRT by the South
+Wales Police was in breachof the public sector equalityduty and that police
+intending to use the technology in the future should ‘satisfy themselves that
+everything reasonable which could be done had been done in order to make sure that
+the software used does not have a racial or gender bias’. In January 2021 the
+Biometrics and Forensics Ethics Group publishedareport on the public-private use
+of live FRTnoting its increased use in shops, shoppingcentres and housing estates.
+A reportby the Ada Lovelace Institutehas calledfor comprehensive legislation for
+biometric technologies, an oversight body and minimum standards for the design and
+deployment of biometric technologies and has just started alegal review on the
+governance of biometric data.
+“
+public spaces and even private homes could
+become places and spaces where inequality is
+embedded, yet unseen
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202127
+
+TheInformation Commissioner has recently published a blog postand anOpinionon
+the use of FRT in public spaces following six investigations of its existing or planned
+use. She reported that ‘controllers often gave insufficient consideration to the
+necessity, proportionality and fairness of the use of Live Facial Recognition (LFR)
+systems and failed to be sufficiently transparent’ and that ‘controllers did not always
+do enough to demonstrate a fair balance between their own purposes and the
+interests, rights and freedoms of the public’.
+None of these concerns look likely to halt the development of sensory technology or
+its potential to infer information about humans. Unless the planning system starts to
+address the full implications of these technologies, public spaces and even private
+homes could become places and spaces where inequality is embedded, yet unseen.
+Human rights
+The European Convention on Human Rights (ECHR) is embedded in UK law through
+the Human Rights Act 1998. A number of rights are relevant to proposals for
+development but the one most commonly asserted is Article 8 that protects the right
+to a private life, including specifically family life, home, and correspondence. The
+relevance of Article 8 to planning decisions has been shown in numerous cases
+involving developments by the traveller community and continues to be relevant; in
+January 2020 aninjunction for a borough-wide prohibitionon travellers in Bromley
+was refusedin partial reliance on Article 8 rights.
+Article 8 is generally asserted in the context of development proposals to challenge
+the use of legal powers to deprive communities from occupying land – such as the
+injunction mentioned above. However, the courts have ruled thatArticle 8 included a
+‘reasonable expectation of privacy’and Article 8was one of the grounds of challenge
+to the use of FRT by the South Wales Police in the Bridgescase, where the Court of
+Appeal ruled that use of AFR technology both engaged and infringed Article 8. The
+intrusive nature of the new technologies, and their capacity to be embedded within
+physical structures, means that their human rights implications are potentially relevant
+to any development consent where these technologies are used.
+In June 2020 the Surveillance Camera Commissioner’s annual report noted that: ‘The
+growing capabilities of overt surveillance technologies...are increasingly ‘a question
+of trust’ for society’ and the draft EU AI regulation recognises the potential for AI to
+impact on a number of fundamental rights including Article 8. It may not be long
+before the ‘reasonable expectation of privacy’ is asserted in challenges to
+developments where buildings themselves perform an ‘overlooking’ function and blur
+the lines between physical and psychological boundaries, making surveillant
+technologies a planning as well as a human rights issue.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202128
+
+Ethics
+Ethics are not defined in the same way as protected characteristics or human rights,
+nor are they regulated in the same way as consultation requirements, but they are
+relevant to the planning system because the decisions about development are
+managed by local authority officers, and taken by local authority members, or
+planning inspectors, or by the Secretary of State within the context of policies
+adopted by the UK government. The conduct of individuals in any of these roles is
+underpinned by the need to observe the Nolan Principles (the Principles) for conduct
+in public life promoted and upheld by the Committee on Standards in Public Life (the
+Committee):
+●
+Selflessness
+●
+Integrity
+●
+Objectivity
+●
+Accountability
+●
+Openness
+●
+Honesty
+●
+Leadership
+In 2019,the committee reviewed the standards as theyapply in local governmentand
+identified four core elements of an ethical cultures:
+●
+A civil and constructive standard of behaviour
+●
+Training that embeds this culture across all parties
+●
+Objective oversight
+●
+Openness to scrutiny and change
+The Principles underpin the codes of conduct adopted by central and local
+government, including those for planning authorities and planning processes, but
+they are based on established conventions rather than legal rules and rely on
+collective and continued observance. In July 2020Transparency International UK
+issued a reportthat identified a decline in transparency,scrutiny and oversight, an
+increase in cronyism and the adoption of local standards rather than the principles. In
+November 2020, the Chair of the Committee gave aspeechthat noted a tendency for
+‘those in public life’ to ignore the Principles. The Committee has since reviewed the
+current standards and published an interimreportnoting that adherence to the
+Principles is being considered in a number of parliamentary and government inquiries
+and recommending immediate reform in four areas of government practice. The Law
+Commission has gone further, recommendingthe creationof two new offences:
+corruption in public office and breach of duty in public office.
+In November 2020, the CDEI published a reviewon biasin algorithmic
+decision-makingand noted a lack of clarity on ‘howlegislation such as the Equality
+Act 2010 and Human Rights Act 1998 should be applied’. A June 2020House of
+Lords report on digital technologynoted not onlythat regulation lags behind
+innovation but that democracy itself could be considered ‘increasingly outmoded and
+irrelevant in a digital era’. The existing ethical norms that frame planning decisions
+seem increasingly unfit for purpose.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202129
+
+Digital Ethics
+There is no formal definition of data or digital ethics, but there is a wide range of
+guidance saturated with principles and recommended actions that encourage ethical
+approaches to data.
+●
+Section 7 of theNDSrecognises government responsibilityto drive ‘safe and
+trusted’ use of data, including provision of ‘a clear and predictable legal
+framework’ and willingness to be ‘transparent and prepared to open itself up
+to scrutiny’.
+●
+The nationalData Ethics Frameworkidentifies threeoverarching principles:
+transparency, accountability and fairness.
+●
+The Open Data Institute defines data ethics as: ‘a branch of ethics that
+evaluates data practices’. ItsData Ethics Canvasidentifies issues relevant to
+digital ethics including the need to take existing legislation and policy into
+account, the importance of keeping personal and sensitive information
+secure; the need for transparency and the availability of appeal mechanisms.
+●
+The CDEI has not identified a core set of ethical principles but its reporton
+trust in public sector use of datastresses the needfor accountability,
+transparency, and control.
+There are also data ethics principles emerging that are specific to property. TheRED
+Foundationhas proposedsix principles to be appliedto all data used in real estate
+transactionsthroughout the supply chain:
+●
+Accountable
+●
+Transparent
+●
+Proportionate
+●
+Confidential and private
+●
+Lawful
+●
+Secure
+AndEthicalGEOhas issued theLocus Charterwith 10principles:
+●
+Realise opportunities
+●
+Understand impacts
+●
+Do no harm
+●
+Protect the vulnerable
+●
+Address bias
+●
+Minimise intrusion
+●
+Minimise data
+●
+Protect privacy
+●
+Prevent identification and
+●
+Provide accountability.
+Although they differ in context, content and purpose, these ethical data standards are
+consistent both with established ethical norms and have many values such as
+transparency and accountability in common. However, they have no legal weight.
+They cannot be asserted in the same way as a human right, they are not protected in
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202130
+
+the same way as equalities characteristics, they have no canon of case law behind
+them to give them force as a precedent for future judgments.
+“
+Local authorities besieged by housing delivery
+requirements and staffed with overstretched
+planning officers are unlikely to invest the
+necessary time and effort to evaluate
+competing principles or to adapt them for use
+in the planning process
+New blogposts, articles, reviews, toolkits, playbooks, reports, and recommendations
+emerge on what seems like a daily basis. The emerging guidance rarely references
+established legal controls on human rights and equalities or established ethical norms
+such as the Principles. Local authorities besieged by housing delivery requirements
+and staffed with overstretched planning officers are unlikely to invest the necessary
+time and effort to evaluate competing principles or to adapt them for use in the
+planning process. It is difficult to see why commercial property entities would invest
+in digital ethics while the policy landscape is so crowded and lacking in central
+direction.
+The government has issued a Data Ethics Framework and consulted on a National
+Data Strategy, but universal regulatory controls look unlikely and it is difficult to
+identify a clear national policy position either. There is an immediate need for an
+evolved approach that accommodates recent developments in technology,
+anticipates future changes and integrates the current approaches with emerging
+guidance from new sources.
+Section 3 summary
+The core challenge is how to embed emerging principles of digital ethics as a
+complementary element in a system of law and policy that has yet to acknowledge
+that land has a digital identity. There is no simple, or single fix, but there are a number
+of changes that, if made, would improve the ethics of digital planning immediately.
+Because of the scope of its powers and its central role in making law and policy the
+government has primary responsibility to demonstrate good ethical practice in action.
+The recent parliamentary report‘Digital Technologyand the Resurrection of Trust’
+recommended the creation of ‘an independent democratic information hub’ providing
+information and creating a way of sharing best practice. The government could also
+centralise its guidance on consultation in the planning process and provide clear
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202131
+
+principles on how to carry out an online consultation together with specific
+recommendations for ensuring that digitally excluded individuals are still kept
+informed.
+Local authorities could also do a great deal to embed digital ethics in the
+consideration of planning applications. The ICO has recently issued an opinionon the
+use of LFR technology in public places; this giveslocal authorities the perfect
+opportunity to ask whether development proposals include embedded sensory
+technology, and to require compliance with the Information Commissioner’s
+recommendations for its use.
+In January 2021, the ICO launched a consultationondata ethics and the GDPR
+recognising that legal compliance could be enhanced with a ‘structured
+consideration’ of ethical implications. The ICO has not yet reported on the outcome,
+but in the meantime there is an opportunity for any organisation with responsibility for
+data to adopt a set of ethical principles that can be applied in both by planning
+practitioners adjusting to a digital world and specialists who want to see digital ethics
+embedded in all decision-making processes.
+In December 2020 the World Economic Forum issued itspaper‘Agile Regulation for
+the Fourth Industrial Revolution’ proposing that the‘regulate and forget’ model could
+be replaced with a cycle of continuous learning that tests regulation in parallel with
+the development of the technology. As the WEF recognises in itspaper on agile
+governance: ‘If government alone can no longer providesufficient governance of
+emerging technologies in the Fourth Industrial Revolution, then new sources of
+authority need to emerge’. Rather than waiting for government regulation or guidance,
+this is the perfect time for a co-operative local authority to establish a regulatory
+sandbox and work with developers and data institutions within this safe space on the
+co-creation of good digital practice that could be tested in other contexts and
+develop into an industry standard.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202132
+
+Conclusion
+Theplanning White Paperpromised changes including‘harnessing the benefits’ of
+digitisation and moving towards a system ‘based on data, not documents’. All
+stakeholders in the planning system acknowledge the need to shift to a digital future,
+and the need to improve the way that data is monitored, shared, processed and
+stored. There is less clarity and agreement on how this is to be achieved.
+●
+There is much talk of digitisation but the system continues to be based on a
+definition of land that excludes its digital counterparts.
+●
+Much of the recent shift to digital was reactive, we have already defaulted to
+‘physical’ planning committees and many other procedural changes will
+revert to their analogue origins at the end of the Covid-19 restrictions.
+●
+An increasing number of local authorities are using AI to replace human
+functions and inform planning decisions but there is no apparent intention to
+acknowledge its role, explain its function or mitigate its risks.
+●
+The planning system is accustomed to taking the potential impacts of
+developments on equalities and human rights into account, but ethical norms
+are shifting and there is no evidence that the system is ready or able to
+adjust.
+There is no single, or simple, solution to these issues but the future offers
+opportunities as well as challenges.
+In the 1902 bookGarden Cities of Tomorrow, EbeneezerHoward recognised that his
+radical re-visioning of urban development could only be achieved through ‘the hearty
+co-operation of men and of women experienced in very numerous departments of
+human activity’. Civil society organisations such as theAda Lovelace Institute, the
+Alan Turing Instituteand theOpen Data Institutehave emerged in parallel with the
+new technologies. These institutions are rich sources of expertise and insight on data
+and technology; developing relationships with them would be one good step towards
+developing awareness of the digital as well as the physical aspects of new
+developments.
+In the 2020report on Global Technology Governancethe World Economic Forum
+argued that governing new technologies ‘will require new principles, rules and
+protocols’. A more agile approach to governance is also promoted in a recentwhite
+paperby the BSI, the CDBB and the Construction InnovationHub. Neither the legal
+nor the planning professions are known for their agility and flexibility but if we really
+want to build an evolved system of regulation and governance, a regulatory sandbox
+is a great place to start.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202133
+
+Section 2 Appendix 1:
+AI Strategy
+| The appendices relate toSection 2: Automationof the planning process|
+Introduction
+Artificial Intelligence (AI) is a powerful tool in delivering modern, agile, and efficient
+public services. It is also a disruptive technology which comes with its own risks, is
+constantly evolving, and is not always well understood. It is important to ensure that
+this Council maximises the current and future opportunities offered by this new
+technology while minimising the risk of harm from unintended consequences.
+The purpose of this Strategy is to provide a brief explanation of what AI is and the
+benefits it offers as well as the major risks. It outlines the existing governance context
+for AI and introduces this Council’s principles for the way we will procure, implement
+and use this new technology.
+What is AI
+‘Artificial Intelligence’ is a blanket term for a range of digital technologies that can
+take the place – partially or entirely – of human intelligence. The UK government
+describesit as ‘the use of digital technology tocreate systems capable of performing
+tasks commonly thought to require intelligence’. AI can be used to generate
+predictions, recommendations, or classifications and used in a range of processes.
+Its functions are performed through algorithms – pre-programmed rules applied to the
+data in question.
+Algorithms can be transparent and explainable, with clear rules and consistently
+repeated functionality, but recently there have been significant developments in
+machine learning (ML), a type of artificial intelligence, where the machine can devise
+its own rules that achieve the objective more effectively. These processes are
+powerful, complex and opaque, and are commonly referred to as non-interpretable or
+‘black box’ AI systems.
+There are three main types of outputs: classifications, predictions and
+recommendations. An algorithm could be trained to recognise different types of trees
+and use this to classify the composition of a forest. An algorithm could be trained to
+understand which trees do well in warmer climates and use this to predict which trees
+would thrive best if temperatures increased. An algorithm could be written to combine
+both of these outputs to produce a good recommendation of what kinds of trees
+should be planted in a particular area.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202134
+
+The benefits of AI
+AI can process large amounts of information very quickly. This offers a range of
+opportunities, for example it can:
+●
+improve the evidence base we use to make policies
+●
+maximise human resources and reduce environmental impacts by replacing
+some administrative functions
+●
+help us make decisions by providing a range of predictions about the
+potential impact of those decisions
+AI: issues and risks
+AI offers specific benefits but also has particular risks, especially when used in a
+public sector context where people often do not have a choice over whether or not to
+use a service.
+●
+AI relies on large quantities of relevant high-quality data, raising questions
+about how this data should be collected, stored and shared, and according to
+what restrictions.
+●
+ML relies on algorithms that create their own ways of achieving outputs, this
+means that they are not transparent and it will be difficult to give reasons for
+decisions made by that algorithm.
+●
+If an algorithm has been trained to operate using poor datasets or based on
+inaccurate assumptions, it may operate in a biased way, and the bias may
+become embedded or amplified over time.
+●
+The combination of sensory technology and powerful algorithms facilitates
+the capture of a wide range of human information including biometric data.
+This raises significant issues in terms of privacy and intrusion.
+Governance context
+The only current law on AI is the General Data Protection Regulation (GDPR)
+transposed into UK law through the Data Protection Act 2018. This protects principles
+of data protection including lawfulness, transparency, minimisation and
+accountability. Article 22 protects the right of the individual not to be subject to a
+decision based solely on automated processing which produces legal effects or
+similarly significantly affects him or her.
+In addition, for public sector decisions the Public Sector Equality Duty (PSED)
+requires local authorities to have due regard to the need to eliminate unlawful
+discrimination, harassment and victimisation; advance equality of opportunity and
+foster good relations between people who share a protected characteristic and those
+who do not. The use of AI raises new issues to be considered, including digital
+discrimination and algorithmic bias.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202135
+
+Finally, Article 8 of the Human Rights Act 1998 protects an individual’s right to
+respect for private and family life, home and correspondence. It is engaged when AI
+is used in partnership with biometric technologies such as Live Facial Recognition
+(LFR) and may need to be considered when, for example, developments are
+proposed that include these technologies.
+There is a large and growing amount of guidance on the ethical use of AI; these are
+some of the most relevant and useful sources:
+●
+The government’sguidanceon use of AI in the publicsector
+●
+The Committee on Standards in Public LifereportonAI and public standards
+●
+The Information Commissioner's Office (ICO) and Alan Turing Institutejoint
+guidanceon explaining decisions made with AI
+●
+The NESTAPrinciplesfor public sector use of algorithmicdecision-making
+●
+The emerging NationalAI Strategy
+Our Principles
+These principles are intended to act as a statement of intent, not the answer to every
+relevant issue, but they form the basis of all of our actions and decisions in relation to
+AI:
+●
+At all times during the consideration or use of AI there will be a transparent
+chain of responsibility for procurement, implementation, or management of
+the technology.
+●
+The public will be informed of any intention to use AI in any process.
+●
+The proposed use or subsequent modification of an AI system will be subject
+to internal and external consultation.
+●
+Procurement of AI software will include considerations specific to its use,
+including whether AI is the best solution to the problem.
+●
+Any decision to use AI will include transparent assessment of risks, benefits
+and mitigations including consideration of cybersecurity, equalities
+implications, employment implications and risk mitigation.
+●
+Any decision to employ automated capture of biometric information will take
+into account legal implications and compliance requirements under GDPR,
+PSED and Article 8.
+●
+There will be robust monitoring of any AI system in use including compliance
+with GDPR and potential discriminatory outputs.
+●
+All adopted AI systems will include human oversight and the ability to
+challenge decisions made using AI.
+●
+There will be training for members and staff on the benefits, risks and
+mitigations specific to AI and on the responsible use of AI.
+●
+These principles will be reviewed regularly and at least once a year.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202136
+
+Section 2 Appendix 2:
+AI procurement checklist
+| The appendices relate toSection 2: Automationof the planning process|
+Prior to procurement
+●
+Identify the problem you are trying to fix, the likely benefits for the local
+authority and the public and why there is a need for external procurement.
+●
+Let relevant members and officers know what you were doing, and consider if
+wider internal/external engagement might be useful – for example contacting
+other local councils to see whether this technology has been used before and
+if so what the issues were.
+●
+Consider widening the scope of the exercise to non-traditional suppliers
+including academic research institutes, SMEs and startups.
+●
+Set up a team that is as diverse as possible in terms of representation and
+skills, and agree who will have access to what data and information.
+Procurement questions
+1.The algorithm:
+1) How was it trained?
+2) Is it interpretable - can we explain it in a way everyone can understand?
+3) Is there proof of concept?
+4) Who owns it?
+5)Who has the authority to change and/or modify thecode?
+2.The data:
+1) Is there any special category data?
+2) Have open standards been used - and are these standards consistent with
+any industry standard?
+3) Who can use this data in the future
+4) Can the data be shared in the wider public context?
+3.Interoperability:
+1) What software has been used?
+2) How easy/difficult is integration with current systems?
+3) Who is liable for errors?
+4.Equalities issues:
+1) How diverse is the data and is it appropriate for the context?
+2) Was tagging outsourced and if so where to?
+3) How diverse is the team who developed this technology?
+5.Other impacts:
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202137
+
+1) Canexisting staff will be trained to run and maintain the system?
+2) Will there betraining for staff and members?
+6.Future:
+1) Potential for improvements to be built into future operations
+2) Who owns future data?
+3) Will there be regular reports on its usefulness?
+The decision to procure
+●
+Decide who makes the decision and check that it is covered by the
+constitution
+●
+Carry out an initial impact assessment including risks, such as impact on
+jobs, and benefits, such as savings of time and costs, and legal issues,
+including equalities, human rights,General Data ProtectionRegulationand
+Environmental Information Regulations
+●
+Address the interpretability of the algorithm and any mitigation measures
+proposed
+●
+Consider requiring specific contract terms covering:
+○
+Responsibility for each element of the model and any output failures
+○
+Data ownership, management and sharing arrangements
+○
+Ownership of algorithm and outputs
+○
+Ethical standards – compliance with recognised principles
+○
+Disaster recovery/business continuity and roll-back provisions
+○
+Process logs andincident management framework
+7.Record the decision in writing with reasons even if the decision is well within
+delegated powers
+Useful Resources:Office for AI’Guidelines for AIprocurement’, World Economic
+Forum ‘AI Procurement in a Box’
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202138
+
+Section 2 Appendix 3:
+Report on adoption of
+chatbot
+| The appendices relate toSection 2: Automationof the planning process|
+TitleAdoption of chatbots for planning queries
+Date
+Name:xxx Council
+Purpose of Report:To consider and approve the useof chatbots in the
+planning service
+1.Executive summary
+a.The planning service proposes to implement the use of chatbots in its
+planning service.
+b.Chatbots are a form of Artificial Intelligence (AI) which is a novel and
+disruptive technology. The public are entitled to expect that decisions
+to use this technology are taken as transparently as possible, as is
+recognised by the Centre for Data Ethics and Innovation.
+c.The purpose of this report is to identify the specific issues relevant to
+the use of this technology so that all implications and benefits are
+clear before it is implemented.
+2.Recommendation
+a.The planning service adopts chatbots to deal with routine queries
+within the development planning service.
+b.The use of this technology is formally reviewed no less than 12
+months from the date of this decision.
+3.The technology
+a.Chatbots are conversational tools based on software designed to
+substitute human verbal interaction with automated processes to aid
+customer service on online platforms. They rely on a number of
+different algorithms:
+i.Robotic Process Automation (RPA): where a robot or bot
+mimics the actions a human takes to complete a specific
+task such as completing a form;
+ii.Natural Language Processing (NLP): a process facilitates
+communication between computers and humans,
+recognising words, their meaning, context and the narrative,
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202139
+
+converting speech into text that generates automatic replies
+to human queries;
+iii.NLP relies on predictive analysis to help to anticipate the
+content of the exchange, sentiment analysis to help decide
+the meaning of a phrase in context and text classifications to
+understand specific phrases and colloquialisms.
+b.Chatbots are already in use at theDriver and VehicleLicensing
+Authority (DVLA)to automate frequent customer enquiriesand by the
+Ministry of Justiceto investigate the usefulnessof different ways of
+presenting information online.
+4.This project
+a.The planning service is keen to maximise officer time by focussing
+human resources on complex work and areas of the service where
+human interaction is most useful.
+b.A significant amount of officer time is currently taken up in answering
+very routine questions. Members of the public are frustrated by lack
+of access to officers who can answer their questions, especially
+outside office hours and at weekends.
+c.A recent review of resources examined records of telephone inquiries,
+emails and commonly raised concerns and reviewed the existing
+analytics for the most searched and visited webpages and combined
+this with feedback from users, advisors and team to identify
+problems that could be solved by the use of this technology.
+d.It was decided to investigate the potential to use a chatbot to provide
+a public service providing automated answers to routine questions
+asked by the public including:
+i.Whether or not a property is listed or subject to other
+significant development constraints on development;
+ii.The development plan policies relevant to a particular site;
+iii.The fees payable for a range of planning applications;
+iv.Whether or not consent is required for a specific list of small
+household developments.
+e.XX was selected as the preferred provider for this project because
+(more detail on selection process). In addition, this programme is
+seen as particularly helpful because it has the capacity to record the
+questions which it cannot answer. This facilitates constant human
+intervention and for new answers to be programmed in, so that the
+system improves continuously as it is used.
+5.Risks, benefits and mitigation
+a.It is also important that all of the potential risks identified with the use
+of this technology in this context are identified and the mitigations
+that have been put in place are clearly explained.
+b.The known risks, together with appropriate mitigating measures, are
+set out in this table.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202140
+
+RiskDetails and mitigation
+Openness: the decision to use AI
+should be an open one
+●
+Internal consultation and engagement was carried out. It
+is also intended to carry out a similar engagement
+exercise within six months of implementation of the
+service.
+●
+There is no current intention to repurpose the software for
+use in other services and the council will consult on such
+proposals before they are adopted or implemented.
+Data compliance and quality: The use
+of AI technology is considered special
+category data by the Information
+Commissioner’s Office (ICO) and has
+particular regulatory requirements.
+●
+A DPIA (Data Privacy Impact Assessment) has been
+undertaken and will be reviewed regularly. It is available
+as a Background Paper to this report.
+●
+We used structured data that was carefully sourced
+tagged and organised in a way that was as relevant to
+planning as possible and we tested response accuracy a
+number of times in the process.
+●
+Records are maintained on the programming of the
+algorithm, and they are stored and available on request
+for testing or inspection.
+●
+We will add and reorganise data as the project develops.
+Bias: AI can lead to biased decisions
+from flaws in the overall design, from
+the use of biased data and by the
+creation of new personal data through
+automated de-anonymising.
+●
+The supplier has shown that the system was trained on
+datasets that were sufficiently broad, covering all relevant
+dimensions of gender, ethnicity and other possible
+grounds of prohibited discrimination.
+●
+We have documented what the model optimises for and
+which weights are designed to certain parameters..
+●
+An EQIA (Equalities Impact Assessment) has been
+undertaken and will be reviewed regularly. It is available
+as a Background Paper to this report.
+Accessibility: The service needs to be
+user-friendly so that it does not exclude
+members of the community who do not
+have digital skills.
+●
+The service is easily identifiable within the council’s
+website.
+●
+It is clear to anyone using the service that they are not
+talking to a real person.
+●
+Users have the option to download and/or have
+transcripts of their exchange emailed to them.
+●
+Where users do not have access to a computer or are
+uncomfortable engaging with a chatbot, they can always
+speak to a member of staff.
+Security: The technology may be
+vulnerable to being hacked. It must also
+integrate fully with the council’s existing
+software.
+●
+The system has been designed to self-report on its
+accuracy during all life cycle phases including all errors or
+inconsistencies.
+●
+Liability for design flaws has been assigned to the
+software developer within the contract for the service.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202141
+
+●
+The software used to build the chatbot is Microsoft
+Azure, a cloud computing service that enables
+applications to be built, tested, used and managed
+through Microsoft data centres. This enables full
+integration with all existing systems and ensures
+resilience to cyber attacks.
+●
+Although the software is externally provided the system
+will be operated by council officers who will be fully
+trained in its use.
+Opacity: The algorithm has the capacity
+to self-learn. As it becomes more
+sophisticated it will become more
+difficult to explain or challenge what it
+does.
+●
+While the algorithm is capable of working autonomously
+its basic function has been defined and constrained by
+human developers.
+●
+Outputs are regularly reviewed and validated by humans.
+●
+There is a retained human function of human intervention
+and/or deactivation, implementable in real time.
+●
+The system is regularly monitored and reported on.
+Human Impact
+●
+The adoption of this technology is not expected to lead
+to any loss of jobs.
+●
+Future impacts of the wider adoption of this technology
+will be mitigated by offering all members of staff access
+to training on use of AI systems and the development of
+digital skills.
+6.Benefits
+a.
+It is expected that this technology could automate up to 60% of
+routine queries, which will improve our responsiveness as a service.
+b.Staff time will be freed up to deal with more complex applications
+where human input is required, which will also benefit the service as
+a whole.
+c.Testing the technology in one service and in a relatively limited
+context will inform wider adoption of this technology in other services
+and help set a sound foundation for the use of more complex and/or
+pervasive technologies in the future.
+7.Options
+a.The council could decide not to adopt the technology or to adopt this
+technology on a strictly temporary basis.
+8.Conclusion
+a.Although there are some novel issues associated with the use of a
+chatbot, in this context the risks have been clearly identified and are
+sufficiently mitigated.
+b.
+This decision is consistent with our strategic policiesthe UK
+government guidance ‘Using chatbots and webchat tools’and the
+report‘Artificial Intelligence and Public Standards’,and is informed by
+‘Chatbots RESET A Framework for Governing ResponsibleUse of
+Conversational AI in Healthcare’ produced by the WorldEconomic
+Forum.
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202142
+
+c.The technology is recommended for adoption, subject to a review of
+its use no later than twelve months from today.
+Background Paper: Data Protection Impact Assessment
+Background Paper: Equalities Impact Assessment
+Open Data InstituteODI Fellow Report: Digital planning and its implications | July 202143
